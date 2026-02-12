@@ -13,7 +13,7 @@
         "better-auth": "^1.4.4",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
-        "next": "^16.1.6",
+        "next": "16.0.10",
         "next-themes": "^0.4.6",
         "tailwind": "^4.0.0",
         "tailwind-merge": "^3.4.0",
@@ -39,7 +39,6 @@
       "name": "@saygo/web",
       "version": "0.1.0",
       "dependencies": {
-        "@base-ui/react": "^1.2.0",
         "@saygo/ui": "*",
         "framer-motion": "^12.34.0",
         "next": "^15.4.2",
