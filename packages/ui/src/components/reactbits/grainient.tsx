@@ -1,11 +1,39 @@
-import { useEffect, useRef } from 'react';
-import { Renderer, Program, Mesh, Triangle } from 'ogl';
-import './Grainient.css';
+"use client";
 
-const hexToRgb = hex => {
+import React, { useEffect, useRef } from 'react';
+import { Renderer, Program, Mesh, Triangle } from 'ogl';
+
+interface GrainientProps {
+  timeSpeed?: number;
+  colorBalance?: number;
+  warpStrength?: number;
+  warpFrequency?: number;
+  warpSpeed?: number;
+  warpAmplitude?: number;
+  blendAngle?: number;
+  blendSoftness?: number;
+  rotationAmount?: number;
+  noiseScale?: number;
+  grainAmount?: number;
+  grainScale?: number;
+  grainAnimated?: boolean;
+  contrast?: number;
+  gamma?: number;
+  saturation?: number;
+  centerX?: number;
+  centerY?: number;
+  zoom?: number;
+  color1?: string;
+  color2?: string;
+  color3?: string;
+  className?: string;
+}
+
+const hexToRgb = (hex: string): [number, number, number] => {
   const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
-  if (!result) return [1, 1, 1];
-  return [parseInt(result[1], 16) / 255, parseInt(result[2], 16) / 255, parseInt(result[3], 16) / 255];
+  const [, r, g, b] = result ?? [];
+  if (!r || !g || !b) return [1, 1, 1];
+  return [parseInt(r, 16) / 255, parseInt(g, 16) / 255, parseInt(b, 16) / 255];
 };
 
 const vertex = `#version 300 es
@@ -99,7 +127,7 @@ void main(){
 }
 `;
 
-const Grainient = ({
+export function Grainient({
   timeSpeed = 0.25,
   colorBalance = 0.0,
   warpStrength = 1.0,
@@ -123,8 +151,8 @@ const Grainient = ({
   color2 = '#5227FF',
   color3 = '#B19EEF',
   className = ''
-}) => {
-  const containerRef = useRef(null);
+}: GrainientProps) {
+  const containerRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -137,7 +165,7 @@ const Grainient = ({
     });
 
     const gl = renderer.gl;
-    const canvas = gl.canvas;
+    const canvas = gl.canvas as HTMLCanvasElement;
     canvas.style.width = '100%';
     canvas.style.height = '100%';
     canvas.style.display = 'block';
@@ -183,7 +211,7 @@ const Grainient = ({
       const width = Math.max(1, Math.floor(rect.width));
       const height = Math.max(1, Math.floor(rect.height));
       renderer.setSize(width, height);
-      const res = program.uniforms.iResolution.value;
+      const res = (program.uniforms.iResolution as { value: Float32Array }).value;
       res[0] = gl.drawingBufferWidth;
       res[1] = gl.drawingBufferHeight;
     };
@@ -194,8 +222,8 @@ const Grainient = ({
 
     let raf = 0;
     const t0 = performance.now();
-    const loop = t => {
-      program.uniforms.iTime.value = (t - t0) * 0.001;
+    const loop = (t: number) => {
+      (program.uniforms.iTime as { value: number }).value = (t - t0) * 0.001;
       renderer.render({ scene: mesh });
       raf = requestAnimationFrame(loop);
     };
@@ -235,7 +263,5 @@ const Grainient = ({
     color3
   ]);
 
-  return <div ref={containerRef} className={`grainient-container ${className}`.trim()} />;
-};
-
-export default Grainient;
+  return <div ref={containerRef} className={`relative h-full w-full overflow-hidden ${className}`.trim()} />;
+}
