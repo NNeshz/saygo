@@ -1,6 +1,6 @@
 "use client";
 
-import { MaxWidth } from "@saygo/web/modules/global/max-widht";
+import { MaxWidth } from "@/modules/global/components/max-widht";
 import {
   GuidedOnboardingCard,
   RealTimeDataCard,

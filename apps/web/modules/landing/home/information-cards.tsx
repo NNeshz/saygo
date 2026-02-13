@@ -32,7 +32,8 @@ export function GuidedOnboardingCard() {
           Todo desde un solo lugar, siempre
         </h3>
         <p className="text-white text-sm">
-          Nuestra plataforma te permite estudiar y avanzar diferentes temas desde un solo lugar
+          Nuestra plataforma te permite estudiar y avanzar diferentes temas
+          desde un solo lugar
         </p>
       </div>
       <div className="flex-1 flex justify-center items-end transition-transform duration-500 ease-out group-hover:scale-[1.02]">
@@ -48,7 +49,7 @@ export function GuidedOnboardingCard() {
             <h4 className="text-3xl font-medium text-foreground leading-none tracking-tight mb-4">
               está listo!
             </h4>
-            <p className="text-sm text-neutral-500 leading-snug mb-8">
+            <p className="text-sm text-muted-foreground leading-snug mb-8">
               Invite your team and start collaborating instantly.
             </p>
             <div className="relative bg-linear-to-br from-citrus-zest via-citrus-zest/80 to-citrus-zest/50 rounded-2xl p-4 h-52 shadow-xl overflow-hidden">
@@ -73,11 +74,11 @@ export function GuidedOnboardingCard() {
               </svg>
               <div className="relative z-10 flex items-start justify-between gap-3 h-full">
                 <div>
-                  <p className="text-base font-semibold text-neutral-900">
-                    Verbos
+<p className="text-base font-semibold text-foreground">
+                  Verbos
                   </p>
-                  <p className="text-base font-semibold text-neutral-900">
-                    Regulares
+                  <p className="text-base font-semibold text-foreground">
+                  Regulares
                   </p>
                 </div>
                 <svg
@@ -90,7 +91,7 @@ export function GuidedOnboardingCard() {
                   strokeWidth="2"
                   strokeLinecap="round"
                   strokeLinejoin="round"
-                  className="opacity-25 text-black"
+                  className="opacity-25 text-foreground"
                   aria-hidden
                 >
                   <circle cx="12" cy="12" r="10" />
@@ -98,7 +99,7 @@ export function GuidedOnboardingCard() {
                 </svg>
               </div>
               <div
-                className="absolute bottom-3 left-5 flex items-center gap-2 text-neutral-700 text-xs tracking-widest"
+                className="absolute bottom-3 left-5 flex items-center gap-2 text-muted-foreground text-xs tracking-widest"
                 aria-hidden
               >
                 <span>SayGo</span>
@@ -131,11 +132,15 @@ export function RealTimeDataCard() {
           Clases personalizadas
         </h3>
         <p className="text-card-foreground-muted text-sm">
-          Aprende a tu ritmo con clases personalizadas y adaptadas a tus necesidades
+          Aprende a tu ritmo con clases personalizadas y adaptadas a tus
+          necesidades
         </p>
       </div>
       <div className="relative md:absolute mt-8 md:mt-0 md:right-12 md:top-1/2 md:-translate-y-1/2 flex items-center justify-center transition-transform duration-500 ease-out group-hover:scale-105 self-center md:self-auto">
-        <div className="absolute inset-0 flex items-center justify-center" aria-hidden>
+        <div
+          className="absolute inset-0 flex items-center justify-center"
+          aria-hidden
+        >
           <div className="absolute size-56 border border-citrus-zest/80 rounded-full" />
           <div className="absolute size-72 border border-citrus-zest/60 rounded-full" />
           <div className="absolute size-88 border border-citrus-zest/40 rounded-full" />
@@ -146,27 +151,31 @@ export function RealTimeDataCard() {
             aria-hidden
           />
           <div className="absolute inset-0 bg-background pt-9 px-3">
-            <div className="bg-white rounded-full px-2 py-1.5 mb-3 flex items-center gap-1.5 border border-neutral-200">
-              <span className="text-neutral-400 text-xs">Search class...</span>
+            <div className="bg-background rounded-full px-2 py-1.5 mb-3 flex items-center gap-1.5 border border-border">
+              <span className="text-muted-foreground text-xs">Search class...</span>
             </div>
-            <p className="text-xs text-neutral-500 mb-0.5">Current class</p>
+            <p className="text-xs text-muted-foreground mb-0.5">Current class</p>
             <p className="text-xl font-medium text-white mb-3">Class 1</p>
             <div className="flex gap-1.5 mb-4">
               <span className="bg-citrus-zest text-black text-xs px-2.5 py-1 rounded-full">
                 Verbos
               </span>
-              <span className="text-neutral-400 text-xs px-2 py-1">Regulares</span>
-              <span className="text-neutral-400 text-xs px-2 py-1">Irregulares</span>
+              <span className="text-muted-foreground text-xs px-2 py-1">
+                Regulares
+              </span>
+              <span className="text-muted-foreground text-xs px-2 py-1">
+                Irregulares
+              </span>
             </div>
           </div>
         </div>
-        <div className="absolute bottom-0 left-1/2 -translate-x-1/2 bg-neutral-900 rounded-2xl px-5 py-3 shadow-xl z-20 whitespace-nowrap">
+        <div className="absolute bottom-0 left-1/2 -translate-x-1/2 bg-foreground rounded-2xl px-5 py-3 shadow-xl z-20 whitespace-nowrap">
           <div className="flex items-center gap-2 mb-0.5">
-            <span className="text-neutral-400 text-xs">Class status</span>
-            <span className="text-neutral-500 text-xs">ⓘ</span>
+            <span className="text-primary-foreground/80 text-xs">Class status</span>
+            <span className="text-primary-foreground/80 text-xs">ⓘ</span>
           </div>
           <div className="flex items-center gap-3">
-            <span className="text-lg font-medium text-white">All topics</span>
+            <span className="text-lg font-medium text-primary-foreground">All topics</span>
             <span className="text-xs font-medium text-citrus-zest bg-citrus-zest/20 px-2 py-0.5 rounded">
               ✓ 100%
             </span>
@@ -197,7 +206,7 @@ export function TrustedByCard() {
     >
       <div className="transition-transform duration-500 ease-out group-hover:scale-110">
         <h3 className="text-2xl md:text-3xl font-medium text-card-foreground leading-tight mb-1">
-          Confianza de 
+          Confianza de
         </h3>
         <h3 className="text-2xl md:text-3xl font-medium text-card-foreground leading-tight mb-5">
           nuestros estudiantes
@@ -253,14 +262,14 @@ export function BuiltToScaleCard() {
             <span className="text-lg">🚀</span>
             <span className="text-foreground font-medium">+16 temas</span>
           </div>
-          <span className="text-black text-sm font-medium">+24%</span>
         </div>
         <div className="flex items-center justify-between bg-background rounded-xl p-3">
           <div className="flex items-center gap-2">
             <span className="text-lg">⚡</span>
-            <span className="text-foreground font-medium">%80 avance semanal</span>
+            <span className="text-foreground font-medium">
+              80% avance semanal
+            </span>
           </div>
-          <span className="text-black text-sm font-medium">+0.2%</span>
         </div>
       </div>
     </motion.article>

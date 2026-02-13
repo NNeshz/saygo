@@ -1,9 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Grainient } from "@saygo/ui/src/components/reactbits/grainient";
-import { MaxWidth } from "@saygo/web/modules/global/max-widht";
-import { RevealParagraph } from "@saygo/web/modules/landing/home/reveal-paragraph";
+import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
 
 const lineVariants = {
   hidden: {
@@ -45,7 +43,7 @@ function HeroHeading() {
   ];
 
   return (
-    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[1.05] tracking-tighter text-amalfi-tile">
+    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[0.90] tracking-tighter font-bold text-amalfi-tile">
       {lines.map((line, i) => (
         <span key={i} className="block overflow-hidden pb-[0.1em]">
           <motion.span
@@ -62,7 +60,7 @@ function HeroHeading() {
             {typeof line === "string" ? (
               line
             ) : (
-              <em className="font-serif">{line.text}</em>
+              <em className="font-serif font-normal">{line.text}</em>
             )}
           </motion.span>
         </span>
@@ -74,27 +72,34 @@ function HeroHeading() {
 function HeroDescription() {
   return (
     <motion.p
-      className="mt-8 text-xl md:text-2xl max-w-2xl text-white"
+      className="mt-8 text-xl md:text-2xl max-w-2xl text-foreground"
       variants={paragraphVariants}
       initial="hidden"
       animate="visible"
     >
-      Una escuela de inglés especializada en formar hablantes seguros y competentes — 
-      construyendo verdaderas conexiones que transforman vidas y abren oportunidades profesionales.
+      Una escuela de inglés especializada en formar hablantes seguros y
+      competentes — construyendo verdaderas conexiones que transforman vidas y
+      abren oportunidades profesionales.
     </motion.p>
   );
 }
 
 export function Header() {
   return (
-    <div className="w-full h-dvh relative bg-citrus-zest">
-      <MaxWidth className="absolute inset-0 flex flex-col">
-        <div className="flex-1 flex items-center justify-start px-6">
-          <div>
-            <HeroHeading />
-            <HeroDescription />
-          </div>
-        </div>
+    <div className="w-full relative min-h-dvh flex flex-col items-center justify-center overflow-hidden">
+      {/* Background Image */}
+      <div className="absolute inset-0 z-0">
+        <img
+          src="/bg/BG.jpg"
+          alt="Background"
+          className="w-full h-full object-cover"
+        />
+        <div className="absolute inset-0 bg-background/30 backdrop-blur-[2px]" />
+      </div>
+
+      <MaxWidth className="relative z-10 w-full flex flex-col items-center justify-center text-center pt-24 pb-12">
+        <HeroHeading />
+        <HeroDescription />
       </MaxWidth>
     </div>
   );
