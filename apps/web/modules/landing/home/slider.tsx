@@ -22,16 +22,15 @@ const words = [
 
 export function Slider() {
   return (
-    <div className="relative w-full overflow-hidden py-6 select-none">
-      <div
-        className="absolute inset-0 pointer-events-none z-10"
-        style={{
-          background:
-            "linear-gradient(to right, var(--background) 0%, transparent 15%, transparent 85%, var(--background) 100%)",
-        }}
-      />
+    <div className="relative w-full overflow-hidden py-8 select-none">
       <motion.div
         className="flex gap-6 md:gap-40 shrink-0 w-max"
+        style={{
+          maskImage:
+            "linear-gradient(to right, transparent 0%, black 15%, black 85%, transparent 100%)",
+          WebkitMaskImage:
+            "linear-gradient(to right, transparent 0%, black 15%, black 85%, transparent 100%)",
+        }}
         animate={{ x: ["0%", "-50%"] }}
         transition={{
           x: {
@@ -45,7 +44,7 @@ export function Slider() {
         {[...words, ...words].map((word, i) => (
           <motion.span
             key={`${word}-${i}`}
-            className="text-2xl md:text-7xl text-foreground italic font-serif whitespace-nowrap"
+            className="text-2xl md:text-7xl text-foreground py-4 italic font-serif whitespace-nowrap"
           >
             {word}
           </motion.span>

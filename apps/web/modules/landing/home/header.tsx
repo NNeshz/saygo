@@ -2,6 +2,10 @@
 
 import { motion, useMotionValue, useTransform } from "framer-motion";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
+import { Badge } from "@saygo/ui/src/components/badge";
+import { Slider } from "./slider";
+import { Button } from "@saygo/ui/src/components/button";
+import { IconArrowDownRight } from "@tabler/icons-react";
 
 const lineVariants = {
   hidden: {
@@ -35,15 +39,34 @@ const paragraphVariants = {
   },
 };
 
+const badgeMotionVariants = {
+  initial: {
+    opacity: 0,
+    y: -8,
+    scale: 0.95,
+  },
+  animate: {
+    opacity: 1,
+    y: 0,
+    scale: 1,
+    transition: {
+      type: "spring" as const,
+      stiffness: 260,
+      damping: 18,
+      delay: 0.2,
+    },
+  },
+  hover: {
+    scale: 1.05,
+    y: -2,
+  },
+};
+
 function HeroHeading() {
-  const lines = [
-    "Building confident",
-    "English speakers who",
-    { text: "connect & succeed.", italic: true },
-  ];
+  const lines = ["Confident English", { text: "for real life.", italic: true }];
 
   return (
-    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[0.90] tracking-tighter font-bold text-white">
+    <h1 className="text-[clamp(2.75rem,6vw,4.5rem)] leading-[0.95] tracking-tighter font-bold text-white">
       {lines.map((line, i) => (
         <span key={i} className="block overflow-hidden pb-[0.1em]">
           <motion.span
@@ -72,14 +95,13 @@ function HeroHeading() {
 function HeroDescription() {
   return (
     <motion.p
-      className="mt-8 text-xl md:text-2xl max-w-2xl text-white"
+      className="text-base md:text-lg max-w-xl text-white/90"
       variants={paragraphVariants}
       initial="hidden"
       animate="visible"
     >
-      Una escuela de inglés especializada en formar hablantes seguros y
-      competentes — construyendo verdaderas conexiones que transforman vidas y
-      abren oportunidades profesionales.
+      Escuela de inglés enfocada en que hables con seguridad, naturalidad y
+      propósito. Con clases personales, grupales y online.
     </motion.p>
   );
 }
@@ -88,8 +110,8 @@ export function Header() {
   const x = useMotionValue(0);
   const y = useMotionValue(0);
 
-  const mouseX = useTransform(x, [0, 1], [-15, 15]);
-  const mouseY = useTransform(y, [0, 1], [-15, 15]);
+  const mouseX = useTransform(x, [0, 1], [-10, 10]);
+  const mouseY = useTransform(y, [0, 1], [-10, 10]);
 
   function handleMouseMove(event: React.MouseEvent<HTMLDivElement>) {
     const { clientX, clientY, currentTarget } = event;
@@ -103,7 +125,7 @@ export function Header() {
   return (
     <div
       onMouseMove={handleMouseMove}
-      className="w-full relative min-h-dvh flex flex-col items-center justify-center overflow-hidden"
+      className="w-full relative overflow-hidden"
     >
       {/* Background Image */}
       <motion.div
@@ -117,10 +139,44 @@ export function Header() {
         />
       </motion.div>
 
-      <MaxWidth className="relative z-10 w-full flex flex-col items-center justify-center text-center pt-24 pb-12">
-        <HeroHeading />
-        <HeroDescription />
-      </MaxWidth>
+      <div className="relative z-10 w-full">
+        <section className="min-h-dvh flex items-center justify-center">
+          <MaxWidth className="w-full flex flex-col items-center justify-center text-center pt-24 pb-12 space-y-4">
+            <motion.div
+              variants={badgeMotionVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <Badge
+                variant={"outline"}
+                className="rounded-lg border-foreground/50 py-3"
+              >
+                English School
+                <span className="text-citrus-zest">✦</span>
+              </Badge>
+            </motion.div>
+            <HeroHeading />
+            <HeroDescription />
+            <button
+              type="button"
+              className="group relative inline-flex cursor-pointer items-center max-[850px]:w-full"
+            >
+              <span className="bg-amalfi-tile absolute inset-y-0 right-0 w-[calc(100%-2rem)] rounded-xl max-[850px]:w-full" />
+              <span className="relative z-10 flex-1 rounded-xl bg-black px-6 py-3 font-medium text-white max-[850px]:flex-1">
+                Conocer más
+              </span>
+              <span className="relative -left-px z-10 flex h-11 w-11 items-center justify-center rounded-xl text-white">
+                <IconArrowDownRight className="h-5 w-5 transition-transform duration-300 group-hover:-rotate-45" />
+              </span>
+            </button>
+          </MaxWidth>
+        </section>
+
+        <section className="w-full">
+          <Slider />
+        </section>
+      </div>
     </div>
   );
 }
