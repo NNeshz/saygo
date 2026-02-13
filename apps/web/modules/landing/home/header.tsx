@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { Grainient } from "@saygo/ui/src/components/reactbits/grainient";
 import { MaxWidth } from "@saygo/web/modules/global/max-widht";
+import { RevealParagraph } from "@saygo/web/modules/landing/home/reveal-paragraph";
 
 const lineVariants = {
   hidden: {
@@ -44,7 +45,7 @@ function HeroHeading() {
   ];
 
   return (
-    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[1.05] tracking-tighter text-foreground">
+    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[1.05] tracking-tighter text-amalfi-tile">
       {lines.map((line, i) => (
         <span key={i} className="block overflow-hidden pb-[0.1em]">
           <motion.span
@@ -73,7 +74,7 @@ function HeroHeading() {
 function HeroDescription() {
   return (
     <motion.p
-      className="mt-8 text-lg md:text-xl text-foreground/80 max-w-2xl"
+      className="mt-8 text-xl md:text-2xl max-w-2xl text-white"
       variants={paragraphVariants}
       initial="hidden"
       animate="visible"
@@ -86,35 +87,13 @@ function HeroDescription() {
 
 export function Header() {
   return (
-    <div className="w-full h-dvh relative">
-      <Grainient
-        color1="#E8A84D" // cream-gelato
-        color2="#4A5FA8" // amalfi-tile
-        color3="#E8A84D" // citrus-zest
-        timeSpeed={0.25}
-        colorBalance={0}
-        warpStrength={1}
-        warpFrequency={5}
-        warpSpeed={2}
-        warpAmplitude={50}
-        blendAngle={0}
-        blendSoftness={0.05}
-        rotationAmount={500}
-        noiseScale={2}
-        grainAmount={0.1}
-        grainScale={2}
-        grainAnimated={false}
-        contrast={1.5}
-        gamma={1}
-        saturation={1}
-        centerX={0}
-        centerY={0}
-        zoom={0.9}
-      />
-      <MaxWidth className="absolute inset-0 flex items-center justify-start px-6">
-        <div>
-          <HeroHeading />
-          <HeroDescription />
+    <div className="w-full h-dvh relative bg-citrus-zest">
+      <MaxWidth className="absolute inset-0 flex flex-col">
+        <div className="flex-1 flex items-center justify-start px-6">
+          <div>
+            <HeroHeading />
+            <HeroDescription />
+          </div>
         </div>
       </MaxWidth>
     </div>

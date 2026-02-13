@@ -8,6 +8,6 @@ export function MaxWidth({
   className?: string;
 }) {
   return (
-    <div className={cn("max-w-8xl mx-auto px-4", className)}>{children}</div>
+    <div className={cn("mx-auto w-full max-w-[90rem] px-4 sm:px-6 lg:px-8", className)}>{children}</div>
   );
 }
