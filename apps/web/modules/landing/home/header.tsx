@@ -150,7 +150,7 @@ export function Header() {
             >
               <Badge
                 variant={"outline"}
-                className="rounded-lg border-foreground/50 py-3"
+                className="rounded-lg border-white text-white py-3"
               >
                 English School
                 <span className="text-citrus-zest">✦</span>

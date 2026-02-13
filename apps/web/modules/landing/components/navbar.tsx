@@ -53,13 +53,13 @@ const components: { title: string; href: string; description: string }[] = [
 export function Navbar() {
   return (
     <div className="sticky top-0 left-0 right-0 z-50 flex justify-center pointer-events-none -mb-14">
-      <nav className="h-14 bg-black text-white rounded-b-3xl px-6 flex items-center justify-between w-full max-w-3xl pointer-events-auto relative">
+      <nav className="h-14 bg-background rounded-b-3xl px-6 flex items-center justify-between w-full max-w-3xl pointer-events-auto relative">
         {/* Notch specific styling */}
         <div className="absolute -left-4 top-0 w-4 h-4 overflow-hidden">
-          <div className="absolute top-0 -left-4 w-8 h-8 rounded-full bg-transparent shadow-[0_0_0_20px_black]" />
+          <div className="absolute top-0 -left-4 w-8 h-8 rounded-full bg-transparent shadow-[0_0_0_20px_var(--background)]" />
         </div>
         <div className="absolute -right-4 top-0 w-4 h-4 overflow-hidden">
-          <div className="absolute top-0 -right-4 w-8 h-8 rounded-full bg-transparent shadow-[0_0_0_20px_black]" />
+          <div className="absolute top-0 -right-4 w-8 h-8 rounded-full bg-transparent shadow-[0_0_0_20px_var(--background)]" />
         </div>
 
         <Link href="/" className="mr-2">
@@ -70,31 +70,26 @@ export function Navbar() {
           <NavigationMenuList className="flex items-center gap-2">
             <NavigationMenuItem>
               <NavigationMenuLink
-                className="text-sm font-medium text-white/90 hover:text-white px-3 py-2 transition-colors"
+                className="text-sm font-medium text-muted-foreground hover:text-foreground px-3 py-2 transition-colors"
                 render={<Link href="/#features">Features</Link>}
               />
             </NavigationMenuItem>
             <NavigationMenuItem>
               <NavigationMenuLink
-                className="text-sm font-medium text-white/90 hover:text-white px-3 py-2 transition-colors"
+                className="text-sm font-medium text-muted-foreground hover:text-foreground px-3 py-2 transition-colors"
                 render={<Link href="/#pricing">Pricing</Link>}
               />
             </NavigationMenuItem>
             <NavigationMenuItem>
               <NavigationMenuLink
-                className="text-sm font-medium text-white/90 hover:text-white px-3 py-2 transition-colors"
+                className="text-sm font-medium text-muted-foreground hover:text-foreground px-3 py-2 transition-colors"
                 render={<Link href="/login">Sign in</Link>}
               />
             </NavigationMenuItem>
           </NavigationMenuList>
         </NavigationMenu>
 
-        <Button
-          size="sm"
-          className="h-8 rounded-full bg-white text-black hover:bg-white/90 font-medium px-4 ml-2"
-        >
-          Get Started
-        </Button>
+        <Button size="sm">Get Started</Button>
       </nav>
     </div>
   );

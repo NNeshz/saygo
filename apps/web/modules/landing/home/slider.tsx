@@ -44,7 +44,7 @@ export function Slider() {
         {[...words, ...words].map((word, i) => (
           <motion.span
             key={`${word}-${i}`}
-            className="text-2xl md:text-7xl text-foreground py-4 italic font-serif whitespace-nowrap"
+            className="text-2xl md:text-7xl text-white py-4 italic font-serif whitespace-nowrap"
           >
             {word}
           </motion.span>

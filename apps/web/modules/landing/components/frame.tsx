@@ -16,13 +16,12 @@ export function Frame({ children }: { children: ReactNode }) {
   );
 
   return (
-    <div className="h-dvh w-screen bg-black p-2 flex flex-col overflow-hidden">
+    <div className="h-dvh w-screen bg-background p-0 md:p-2 flex flex-col overflow-hidden">
       <div
         className={cn(
           "flex-1 relative w-full overflow-hidden",
           "bg-background rounded-4xl",
-          "border-4 border-black", // Double border effect for bezel? No, simple border.
-          "shadow-2xl ring-1 ring-white/10", // Subtle ring for depth
+          "border-0 md:border-4 border-background", // Double border effect for bezel? No, simple border.
         )}
       >
         <ScrollProvider value={{ scrollRef }}>
