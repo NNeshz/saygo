@@ -3,6 +3,7 @@
 import { useRef } from "react";
 import type { MotionValue } from "framer-motion";
 import { motion, useScroll, useTransform } from "framer-motion";
+import { useScrollContext } from "@/modules/landing/context/scroll-context";
 
 const PARAGRAPH =
   "Aprende inglés a tu manera. Flexibilidad, tecnología y expertos para lograr confianza y fluidez real.";
@@ -47,10 +48,13 @@ function RevealWord({
 
 export function RevealParagraph() {
   const paragraphRef = useRef<HTMLDivElement>(null);
+  const context = useScrollContext();
+  const scrollRef = context?.scrollRef;
 
   const { scrollYProgress } = useScroll({
     target: paragraphRef,
-    offset: ["end end", "center center"],
+    container: scrollRef || undefined,
+    offset: ["start 0.9", "center 0.5"], // Adjusted offset for better trigger timing
   });
 
   return (

@@ -52,7 +52,7 @@ const components: { title: string; href: string; description: string }[] = [
 
 export function Navbar() {
   return (
-    <div className="absolute top-0 left-0 right-0 z-50 flex justify-center pointer-events-none">
+    <div className="sticky top-0 left-0 right-0 z-50 flex justify-center pointer-events-none mb-[-3.5rem]">
       <nav className="h-14 bg-black text-white rounded-b-[1.5rem] px-6 flex items-center gap-6 pointer-events-auto relative">
         {/* Notch specific styling */}
         <div className="absolute -left-4 top-0 w-4 h-4 overflow-hidden">
@@ -65,7 +65,7 @@ export function Navbar() {
         <Link href="/" className="mr-2">
           <h1 className="text-xl font-bold tracking-tight">SayGo</h1>
         </Link>
-
+        {/* Navigation Menu code... assuming it's correct from context, but I will replace the wrapper block to be safe or just the start/end */}
         <NavigationMenu>
           <NavigationMenuList className="flex items-center gap-2">
             <NavigationMenuItem>

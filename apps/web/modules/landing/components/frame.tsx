@@ -1,21 +1,30 @@
 "use client";
 
-import { ReactNode } from "react";
+import { ReactNode, useRef } from "react";
 import { cn } from "@saygo/ui/src/lib/utils";
+import { ScrollProvider } from "../context/scroll-context";
 
 export function Frame({ children }: { children: ReactNode }) {
+  const scrollRef = useRef<HTMLDivElement>(null);
+
   return (
-    <div className="min-h-screen bg-black p-2 transition-all duration-300">
+    <div className="h-dvh w-screen bg-black p-2 flex flex-col overflow-hidden">
       <div
         className={cn(
-          "relative w-full h-full min-h-[calc(100vh-1rem)] sm:min-h-[calc(100vh-2rem)]",
-          "bg-background rounded-3xl overflow-hidden shadow-2xl",
-          "border border-border/50",
+          "flex-1 relative w-full overflow-hidden",
+          "bg-background rounded-[2rem]",
+          "border-[4px] border-black", // Double border effect for bezel? No, simple border.
+          "shadow-2xl ring-1 ring-white/10", // Subtle ring for depth
         )}
       >
-        <div className="absolute top-0 left-0 right-0 h-full overflow-y-auto scrollbar-hide">
-          {children}
-        </div>
+        <ScrollProvider value={{ scrollRef }}>
+          <div
+            ref={scrollRef}
+            className="absolute inset-0 w-full h-full overflow-y-auto overflow-x-hidden scrollbar-hide"
+          >
+            {children}
+          </div>
+        </ScrollProvider>
       </div>
     </div>
   );

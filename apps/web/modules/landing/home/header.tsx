@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, useMotionValue, useTransform } from "framer-motion";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
 
 const lineVariants = {
@@ -43,7 +43,7 @@ function HeroHeading() {
   ];
 
   return (
-    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[0.90] tracking-tighter font-bold text-amalfi-tile">
+    <h1 className="text-[clamp(3rem,8vw,12rem)] leading-[0.90] tracking-tighter font-bold text-white">
       {lines.map((line, i) => (
         <span key={i} className="block overflow-hidden pb-[0.1em]">
           <motion.span
@@ -72,7 +72,7 @@ function HeroHeading() {
 function HeroDescription() {
   return (
     <motion.p
-      className="mt-8 text-xl md:text-2xl max-w-2xl text-foreground"
+      className="mt-8 text-xl md:text-2xl max-w-2xl text-white"
       variants={paragraphVariants}
       initial="hidden"
       animate="visible"
@@ -85,17 +85,37 @@ function HeroDescription() {
 }
 
 export function Header() {
+  const x = useMotionValue(0);
+  const y = useMotionValue(0);
+
+  const mouseX = useTransform(x, [0, 1], [-15, 15]);
+  const mouseY = useTransform(y, [0, 1], [-15, 15]);
+
+  function handleMouseMove(event: React.MouseEvent<HTMLDivElement>) {
+    const { clientX, clientY, currentTarget } = event;
+    const { width, height } = currentTarget.getBoundingClientRect();
+    const xPct = clientX / width;
+    const yPct = clientY / height;
+    x.set(xPct);
+    y.set(yPct);
+  }
+
   return (
-    <div className="w-full relative min-h-dvh flex flex-col items-center justify-center overflow-hidden">
+    <div
+      onMouseMove={handleMouseMove}
+      className="w-full relative min-h-dvh flex flex-col items-center justify-center overflow-hidden"
+    >
       {/* Background Image */}
-      <div className="absolute inset-0 z-0">
+      <motion.div
+        className="absolute inset-0 z-0"
+        style={{ x: mouseX, y: mouseY }}
+      >
         <img
           src="/bg/BG.jpg"
           alt="Background"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover scale-120" // scale up slightly to avoid edges
         />
-        <div className="absolute inset-0 bg-background/30 backdrop-blur-[2px]" />
-      </div>
+      </motion.div>
 
       <MaxWidth className="relative z-10 w-full flex flex-col items-center justify-center text-center pt-24 pb-12">
         <HeroHeading />
