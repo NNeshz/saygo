@@ -1,72 +1,38 @@
 "use client";
 
+import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import type { MotionValue } from "framer-motion";
-import { motion, useScroll, useTransform } from "framer-motion";
-import { useScrollContext } from "@/modules/landing/context/scroll-context";
 
 const PARAGRAPH =
   "Aprende inglés a tu manera. Flexibilidad, tecnología y expertos para lograr confianza y fluidez real.";
 
 const words = PARAGRAPH.split(" ");
 
-function RevealWord({
-  word,
-  index,
-  scrollYProgress,
-}: {
-  word: string;
-  index: number;
-  scrollYProgress: MotionValue<number>;
-}) {
-  const thresholdStart = (index / words.length) * 0.8;
-  const thresholdEnd = thresholdStart + 0.04;
-  const opacity = useTransform(
-    scrollYProgress,
-    [0, thresholdStart, thresholdEnd, 1],
-    [0.15, 0.15, 1, 1],
-  );
-  const filter = useTransform(
-    scrollYProgress,
-    [0, thresholdStart, thresholdEnd, 1],
-    ["blur(8px)", "blur(8px)", "blur(0px)", "blur(0px)"],
-  );
-
-  return (
-    <motion.span
-      className="mr-2 inline-block lg:mr-3"
-      style={{
-        opacity,
-        filter,
-        transition: "opacity 75ms, filter 75ms",
-      }}
-    >
-      {word}
-    </motion.span>
-  );
-}
-
 export function RevealParagraph() {
-  const paragraphRef = useRef<HTMLDivElement>(null);
-  const context = useScrollContext();
-  const scrollRef = context?.scrollRef;
-
-  const { scrollYProgress } = useScroll({
-    target: paragraphRef,
-    container: scrollRef || undefined,
-    offset: ["start 0.9", "center 0.5"], // Adjusted offset for better trigger timing
-  });
+  const ref = useRef(null);
+  const isInView = useInView(ref, { once: true, margin: "-10% 0px -10% 0px" });
 
   return (
-    <div ref={paragraphRef} className="mx-auto max-w-5xl pb-8">
-      <p className="text-3xl font-medium text-left leading-snug tracking-tight text-foreground sm:text-4xl lg:text-5xl lg:leading-snug">
+    <div ref={ref} className="mx-auto max-w-5xl pb-8">
+      <p className="text-3xl font-medium text-left leading-snug tracking-tight text-foreground sm:text-4xl lg:text-5xl lg:leading-snug flex flex-wrap">
         {words.map((word, i) => (
-          <RevealWord
+          <motion.span
             key={`${word}-${i}`}
-            word={word}
-            index={i}
-            scrollYProgress={scrollYProgress}
-          />
+            className="mr-2 lg:mr-3"
+            initial={{ opacity: 0, filter: "blur(8px)", y: 10 }}
+            animate={
+              isInView
+                ? { opacity: 1, filter: "blur(0px)", y: 0 }
+                : { opacity: 0, filter: "blur(8px)", y: 10 }
+            }
+            transition={{
+              duration: 0.6,
+              delay: i * 0.04, // Stagger effect
+              ease: "easeOut",
+            }}
+          >
+            {word}
+          </motion.span>
         ))}
       </p>
     </div>

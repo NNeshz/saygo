@@ -53,7 +53,7 @@ const components: { title: string; href: string; description: string }[] = [
 export function Navbar() {
   return (
     <div className="sticky top-0 left-0 right-0 z-50 flex justify-center pointer-events-none -mb-14">
-      <nav className="h-14 bg-black text-white rounded-b-3xl px-6 flex items-center gap-12 pointer-events-auto relative">
+      <nav className="h-14 bg-black text-white rounded-b-3xl px-6 flex items-center justify-between w-full max-w-3xl pointer-events-auto relative">
         {/* Notch specific styling */}
         <div className="absolute -left-4 top-0 w-4 h-4 overflow-hidden">
           <div className="absolute top-0 -left-4 w-8 h-8 rounded-full bg-transparent shadow-[0_0_0_20px_black]" />

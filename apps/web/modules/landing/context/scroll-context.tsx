@@ -3,7 +3,7 @@
 import { createContext, useContext, RefObject } from "react";
 
 interface ScrollContextType {
-  scrollRef: RefObject<HTMLDivElement | null>;
+  scrollRef: RefObject<any>;
 }
 
 const ScrollContext = createContext<ScrollContextType | undefined>(undefined);

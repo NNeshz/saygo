@@ -12,9 +12,11 @@ import { RevealParagraph } from "./reveal-paragraph";
 export function Information() {
   return (
     <section className="relative w-full px-6 py-32 bg-background">
-      <MaxWidth className="space-y-16">
-        <RevealParagraph />
-        <div className="max-w-5xl mx-auto">
+      <div className="flex flex-col gap-16">
+        <MaxWidth className="max-w-5xl">
+          <RevealParagraph />
+        </MaxWidth>
+        <MaxWidth className="max-w-5xl">
           <div className="grid grid-cols-1 md:grid-cols-[1fr_1.5fr] gap-4">
             <GuidedOnboardingCard />
             <RealTimeDataCard />
@@ -23,8 +25,8 @@ export function Information() {
               <BuiltToScaleCard />
             </div>
           </div>
-        </div>
-      </MaxWidth>
+        </MaxWidth>
+      </div>
     </section>
   );
 }

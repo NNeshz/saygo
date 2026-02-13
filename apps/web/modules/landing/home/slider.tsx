@@ -27,9 +27,9 @@ export function Slider() {
         className="flex gap-6 md:gap-40 shrink-0 w-max"
         style={{
           maskImage:
-            "linear-gradient(to right, transparent 0%, black 15%, black 85%, transparent 100%)",
+            "linear-gradient(to right, transparent, black 10%, black 90%, transparent)",
           WebkitMaskImage:
-            "linear-gradient(to right, transparent 0%, black 15%, black 85%, transparent 100%)",
+            "linear-gradient(to right, transparent, black 10%, black 90%, transparent)",
         }}
         animate={{ x: ["0%", "-50%"] }}
         transition={{

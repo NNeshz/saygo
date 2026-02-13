@@ -19,7 +19,7 @@ const cardVariants = {
 export function GuidedOnboardingCard() {
   return (
     <motion.article
-      className="group bg-citrus-zest rounded-3xl p-8 pb-0 overflow-hidden min-h-[350px] md:min-h-[560px] md:row-span-2 flex flex-col"
+      className="group bg-citrus-zest rounded-4xl p-8 pb-0 overflow-hidden min-h-[350px] md:min-h-[560px] md:row-span-2 flex flex-col"
       variants={cardVariants}
       initial="hidden"
       whileInView="visible"
@@ -74,11 +74,11 @@ export function GuidedOnboardingCard() {
               </svg>
               <div className="relative z-10 flex items-start justify-between gap-3 h-full">
                 <div>
-<p className="text-base font-semibold text-foreground">
-                  Verbos
+                  <p className="text-base font-semibold text-foreground">
+                    Verbos
                   </p>
                   <p className="text-base font-semibold text-foreground">
-                  Regulares
+                    Regulares
                   </p>
                 </div>
                 <svg
@@ -119,7 +119,7 @@ export function GuidedOnboardingCard() {
 export function RealTimeDataCard() {
   return (
     <motion.article
-      className="group bg-amalfi-tile rounded-3xl p-8 overflow-hidden min-h-80 relative flex flex-col md:block"
+      className="group bg-amalfi-tile rounded-4xl p-8 overflow-hidden min-h-80 relative flex flex-col md:block"
       variants={cardVariants}
       initial="hidden"
       whileInView="visible"
@@ -152,9 +152,13 @@ export function RealTimeDataCard() {
           />
           <div className="absolute inset-0 bg-background pt-9 px-3">
             <div className="bg-background rounded-full px-2 py-1.5 mb-3 flex items-center gap-1.5 border border-border">
-              <span className="text-muted-foreground text-xs">Search class...</span>
+              <span className="text-muted-foreground text-xs">
+                Search class...
+              </span>
             </div>
-            <p className="text-xs text-muted-foreground mb-0.5">Current class</p>
+            <p className="text-xs text-muted-foreground mb-0.5">
+              Current class
+            </p>
             <p className="text-xl font-medium text-white mb-3">Class 1</p>
             <div className="flex gap-1.5 mb-4">
               <span className="bg-citrus-zest text-black text-xs px-2.5 py-1 rounded-full">
@@ -171,11 +175,15 @@ export function RealTimeDataCard() {
         </div>
         <div className="absolute bottom-0 left-1/2 -translate-x-1/2 bg-foreground rounded-2xl px-5 py-3 shadow-xl z-20 whitespace-nowrap">
           <div className="flex items-center gap-2 mb-0.5">
-            <span className="text-primary-foreground/80 text-xs">Class status</span>
+            <span className="text-primary-foreground/80 text-xs">
+              Class status
+            </span>
             <span className="text-primary-foreground/80 text-xs">ⓘ</span>
           </div>
           <div className="flex items-center gap-3">
-            <span className="text-lg font-medium text-primary-foreground">All topics</span>
+            <span className="text-lg font-medium text-primary-foreground">
+              All topics
+            </span>
             <span className="text-xs font-medium text-citrus-zest bg-citrus-zest/20 px-2 py-0.5 rounded">
               ✓ 100%
             </span>
@@ -196,7 +204,7 @@ const AVATAR_IMAGES = [
 export function TrustedByCard() {
   return (
     <motion.article
-      className="group bg-amalfi-tile rounded-3xl p-6 md:p-8 flex flex-col items-center justify-center text-center min-h-64"
+      className="group bg-amalfi-tile rounded-4xl p-6 md:p-8 flex flex-col items-center justify-center text-center min-h-64"
       variants={cardVariants}
       initial="hidden"
       whileInView="visible"
@@ -240,7 +248,7 @@ export function TrustedByCard() {
 export function BuiltToScaleCard() {
   return (
     <motion.article
-      className="group bg-citrus-zest rounded-3xl p-6 md:p-8 flex flex-col min-h-64"
+      className="group bg-citrus-zest rounded-4xl p-6 md:p-8 flex flex-col min-h-64"
       variants={cardVariants}
       initial="hidden"
       whileInView="visible"
