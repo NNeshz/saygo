@@ -1,36 +1,41 @@
 "use client";
 
 import type { ExerciseBlock } from "../content-types";
-import { cn } from "@saygo/ui/src/lib/utils";
 
 export function StaticExercise({ title, items }: ExerciseBlock) {
   return (
-    <div className="my-6 rounded-xl border border-border bg-muted/20 p-5">
-      {title && (
-        <h4 className="mb-4 text-sm font-semibold uppercase tracking-wider text-foreground">
-          {title}
-        </h4>
-      )}
-      <ol className="space-y-4 list-decimal list-inside">
-        {items.map((item, i) => (
-          <li key={i} className="space-y-1">
-            {item.instruction && (
-              <p className="text-sm text-muted-foreground">{item.instruction}</p>
-            )}
-            <p className="text-foreground">{item.question}</p>
-            {item.answer != null && (
-              <details className="group mt-1">
-                <summary className="cursor-pointer text-sm font-medium text-citrus-zest hover:underline">
-                  Ver respuesta
-                </summary>
-                <p className="mt-2 rounded-md bg-muted/50 px-3 py-2 text-sm text-foreground/90">
-                  {item.answer}
+    <div className="my-8 rounded-2xl border border-border bg-card shadow-sm overflow-hidden">
+      <div className="px-6 py-5 sm:px-8 sm:py-6">
+        {title && (
+          <h4 className="mb-5 text-xs font-bold uppercase tracking-widest text-foreground border-b border-border pb-2">
+            {title}
+          </h4>
+        )}
+        <ol className="space-y-5 list-decimal list-outside pl-6 marker:font-medium marker:text-foreground/70">
+          {items.map((item, i) => (
+            <li key={i} className="pl-2 space-y-1.5">
+              {item.instruction && (
+                <p className="text-sm text-muted-foreground -mt-0.5">
+                  {item.instruction}
                 </p>
-              </details>
-            )}
-          </li>
-        ))}
-      </ol>
+              )}
+              <p className="text-foreground leading-relaxed">
+                {item.question}
+              </p>
+              {item.answer != null && (
+                <details className="mt-2">
+                  <summary className="cursor-pointer text-sm font-medium text-citrus-zest hover:underline inline-block">
+                    Ver respuesta
+                  </summary>
+                  <p className="mt-2 rounded-lg bg-muted/60 px-3 py-2.5 text-sm text-foreground/90 border border-border/50">
+                    {item.answer}
+                  </p>
+                </details>
+              )}
+            </li>
+          ))}
+        </ol>
+      </div>
     </div>
   );
 }
