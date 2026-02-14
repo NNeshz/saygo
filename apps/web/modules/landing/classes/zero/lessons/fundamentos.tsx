@@ -51,10 +51,9 @@ export const fundamentos: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Practica",
+      title: "Practica (Indica si el sonido es corto o largo)",
       items: [
         {
-          instruction: "Indica si el sonido es corto o largo:",
           question: "beat — ¿/ɪ/ o /iː/?",
           answer: "Largo: /iː/ (beat). Corto sería bit con /ɪ/.",
         },

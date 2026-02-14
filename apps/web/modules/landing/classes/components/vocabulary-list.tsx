@@ -2,10 +2,10 @@ import type { VocabularyBlock } from "../content-types";
 
 export function VocabularyList({ title, items }: VocabularyBlock) {
   return (
-    <div className="my-6 rounded-2xl border border-border bg-card shadow-sm overflow-hidden">
+    <div className="my-6 rounded border border-border bg-card shadow-sm overflow-hidden">
       <div className="px-6 py-5 sm:px-8 sm:py-6">
         {title && (
-          <h4 className="mb-4 text-xs font-bold uppercase tracking-widest text-foreground border-b border-border pb-2">
+          <h4 className="mb-4 text-xs font-bold uppercase tracking-tight text-foreground border-b border-border pb-2">
             {title}
           </h4>
         )}

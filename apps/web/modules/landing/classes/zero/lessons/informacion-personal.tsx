@@ -10,10 +10,32 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">To Be afirmativo</h2>
-          <p className="mb-3 text-foreground/90">
-            Usos principales: <strong>identidad</strong> (I'm Ana), <strong>edad</strong> (She's 25 years old), <strong>profesión</strong> (He's a teacher), <strong>nacionalidad</strong> (We're Mexican), <strong>estado civil</strong> (They're married), <strong>relación familiar</strong> (She's my sister).
-          </p>
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+            To Be afirmativo
+          </h2>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Usos principales
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>Identidad</strong> (I'm Ana)
+            </li>
+            <li>
+              <strong>Edad</strong> (She's 25 years old)
+            </li>
+            <li>
+              <strong>Profesión</strong> (He's a teacher)
+            </li>
+            <li>
+              <strong>Nacionalidad</strong> (We're Mexican)
+            </li>
+            <li>
+              <strong>Estado civil</strong> (They're married)
+            </li>
+            <li>
+              <strong>Relación familiar</strong> (She's my sister)
+            </li>
+          </ul>
         </>
       ),
     },
@@ -47,10 +69,26 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">To Be negativo</h2>
-          <p className="mb-2 text-foreground/90">
-            Estructura: <strong>Sujeto + to be + NOT</strong>. "I am not" solo tiene una contracción: <strong>I'm not</strong> (no existe "I amn't"). Para el resto hay dos opciones: She's not = She isn't; They're not = They aren't.
-          </p>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            To Be negativo
+          </h2>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Usos principales
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>No soy</strong> (I'm not a teacher)
+            </li>
+            <li>
+              <strong>No es</strong> (He's not a teacher)
+            </li>
+            <li>
+              <strong>No estamos</strong> (We're not from Spain)
+            </li>
+            <li>
+              <strong>No son</strong> (They're not engineers)
+            </li>
+          </ul>
         </>
       ),
     },
@@ -73,9 +111,18 @@ export const informacionPersonal: LessonContent = {
       title: "Convierte a negativo (usa contracciones)",
       items: [
         { question: "I am a lawyer → ?", answer: "I'm not a lawyer." },
-        { question: "She is 18 years old → ?", answer: "She isn't 18 years old. / She's not 18 years old." },
-        { question: "We are from Canada → ?", answer: "We aren't from Canada. / We're not from Canada." },
-        { question: "He is single → ?", answer: "He isn't single. / He's not single." },
+        {
+          question: "She is 18 years old → ?",
+          answer: "She isn't 18 years old. / She's not 18 years old.",
+        },
+        {
+          question: "We are from Canada → ?",
+          answer: "We aren't from Canada. / We're not from Canada.",
+        },
+        {
+          question: "He is single → ?",
+          answer: "He isn't single. / He's not single.",
+        },
       ],
     },
     // —— To Be interrogativo ——
@@ -83,19 +130,31 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">To Be interrogativo</h2>
-          <p className="mb-2 text-foreground/90">
-            Se invierte el orden: <strong>To be + Sujeto + complemento?</strong> Afirmativa: You are ready → Pregunta: Are you ready?
-          </p>
-          <p className="text-sm text-muted-foreground">
-            Preguntas Yes/No empiezan con el verbo (Are you a student?). Preguntas WH- empiezan con Who, What, Where, How (What is your name? Where are you from? How old are you?).
-          </p>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            To Be interrogativo
+          </h2>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Usos principales
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>¿Estás listo?</strong> (Are you ready?)
+            </li>
+            <li>
+              <strong>¿Es ella de 30 años?</strong> (Is she 30 years old?)
+            </li>
+            <li>
+              <strong>¿Son de Japón?</strong> (Are they from Japan?)
+            </li>
+            <li>
+              <strong>¿Es él tu padre?</strong> (Is he your father?)
+            </li>
+          </ul>
         </>
       ),
     },
     {
       type: "table",
-      caption: "Afirmativa → Interrogativa",
       headers: ["Afirmativa", "Interrogativa"],
       rows: [
         ["You are Mexican", "Are you Mexican?"],
@@ -119,10 +178,26 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">Respuestas cortas</h2>
-          <p className="mb-2 text-foreground/90">
-            No respondas solo "Yes" o "No". En <strong>afirmativas</strong> no uses contracción: ✓ Yes, I am · ❌ Yes, I'm. En <strong>negativas</strong> sí: ✓ No, I'm not · ✓ No, he isn't.
-          </p>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            Respuestas cortas
+          </h2>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Estructura
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>Yes</strong> (Yes, I am)
+            </li>
+            <li>
+              <strong>No</strong> (No, I'm not)
+            </li>
+            <li>
+              <strong>Yes, I'm</strong> (Yes, I am / No, I'm not)
+            </li>
+            <li>
+              <strong>No, I'm not</strong> (No, I'm not / Yes, I am)
+            </li>
+          </ul>
         </>
       ),
     },
@@ -141,9 +216,18 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Responde con respuesta corta (afirmativa y negativa)",
       items: [
-        { question: "Are you from Mexico? → Afirmativa y negativa.", answer: "Yes, I am. / No, I'm not." },
-        { question: "Is he a doctor? → Afirmativa y negativa.", answer: "Yes, he is. / No, he isn't." },
-        { question: "Are they your parents? → Afirmativa y negativa.", answer: "Yes, they are. / No, they aren't." },
+        {
+          question: "Are you from Mexico? → Afirmativa y negativa.",
+          answer: "Yes, I am. / No, I'm not.",
+        },
+        {
+          question: "Is he a doctor? → Afirmativa y negativa.",
+          answer: "Yes, he is. / No, he isn't.",
+        },
+        {
+          question: "Are they your parents? → Afirmativa y negativa.",
+          answer: "Yes, they are. / No, they aren't.",
+        },
       ],
     },
     // —— Números 0-100 ——
@@ -151,18 +235,126 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">Números 0-100</h2>
-          <p className="mb-2 text-foreground/90">
-            <strong>0-10:</strong> zero, one, two, three, four, five, six, seven, eight, nine, ten.
-            <strong> 11-20:</strong> eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty (excepciones: thirteen, fifteen).
-          </p>
-          <p className="mb-2 text-foreground/90">
-            <strong>Decenas:</strong> twenty, thirty, forty (no "fourty"), fifty, sixty, seventy, eighty, ninety, one hundred.
-            <strong> Compuestos:</strong> decena + guion + unidad: twenty-one, thirty-five, forty-seven.
-          </p>
-          <p className="text-sm text-muted-foreground">
-            Edad: I'm 25 years old / I'm 25. Pregunta: How old are you? How old is your sister?
-          </p>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            Números 0-100
+          </h2>
+          <h3 className="mb-2 text-base font-semibold text-foreground">0-10</h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>0</strong> (zero)
+            </li>
+            <li>
+              <strong>1</strong> (one)
+            </li>
+            <li>
+              <strong>2</strong> (two)
+            </li>
+            <li>
+              <strong>3</strong> (three)
+            </li>
+            <li>
+              <strong>4</strong> (four)
+            </li>
+            <li>
+              <strong>5</strong> (five)
+            </li>
+            <li>
+              <strong>6</strong> (six)
+            </li>
+            <li>
+              <strong>7</strong> (seven)
+            </li>
+            <li>
+              <strong>8</strong> (eight)
+            </li>
+            <li>
+              <strong>9</strong> (nine)
+            </li>
+            <li>
+              <strong>10</strong> (ten)
+            </li>
+          </ul>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            11-20
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>11</strong> (eleven)
+            </li>
+            <li>
+              <strong>12</strong> (twelve)
+            </li>
+            <li>
+              <strong>13</strong> (thirteen)
+            </li>
+            <li>
+              <strong>14</strong> (fourteen)
+            </li>
+            <li>
+              <strong>15</strong> (fifteen)
+            </li>
+            <li>
+              <strong>16</strong> (sixteen)
+            </li>
+            <li>
+              <strong>17</strong> (seventeen)
+            </li>
+            <li>
+              <strong>18</strong> (eighteen)
+            </li>
+            <li>
+              <strong>19</strong> (nineteen)
+            </li>
+            <li>
+              <strong>20</strong> (twenty)
+            </li>
+          </ul>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Decenas
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>20</strong> (twenty)
+            </li>
+            <li>
+              <strong>30</strong> (thirty)
+            </li>
+            <li>
+              <strong>40</strong> (forty)
+            </li>
+            <li>
+              <strong>50</strong> (fifty)
+            </li>
+            <li>
+              <strong>60</strong> (sixty)
+            </li>
+            <li>
+              <strong>70</strong> (seventy)
+            </li>
+            <li>
+              <strong>80</strong> (eighty)
+            </li>
+            <li>
+              <strong>90</strong> (ninety)
+            </li>
+            <li>
+              <strong>100</strong> (one hundred)
+            </li>
+          </ul>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Ejemplos
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>I'm 25 years old</strong> (Tengo 25 años)
+            </li>
+            <li>
+              <strong>She's 30 years old</strong> (Ella tiene 30 años)
+            </li>
+            <li>
+              <strong>How old are you?</strong> (¿Cuántos años tienes?)
+            </li>
+          </ul>
         </>
       ),
     },
@@ -181,9 +373,13 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">Profesiones básicas</h2>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            Profesiones básicas
+          </h2>
           <p className="mb-2 text-foreground/90">
-            Siempre usa <strong>a/an</strong> con profesiones: I'm a teacher ✓ · I'm teacher ✗. An antes de vocal: I'm an engineer, She's an artist. Sin artículo: I'm unemployed, She's retired.
+            Siempre usa <strong>a/an</strong> con profesiones: I'm a teacher ✓ ·
+            I'm teacher ✗. An antes de vocal: I'm an engineer, She's an artist.
+            Sin artículo: I'm unemployed, She's retired.
           </p>
         </>
       ),
@@ -218,7 +414,10 @@ export const informacionPersonal: LessonContent = {
         { question: "I'm ___ doctor.", answer: "a" },
         { question: "She's ___ engineer.", answer: "an" },
         { question: "He's ___ unemployed.", answer: "(sin artículo)" },
-        { question: "They're ___ artists.", answer: "(plural: They're artists)" },
+        {
+          question: "They're ___ artists.",
+          answer: "(plural: They're artists)",
+        },
       ],
     },
     // —— Familia ——
@@ -226,10 +425,30 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">Familia cercana</h2>
-          <p className="mb-2 text-foreground/90">
-            Usa los posesivos (my, your, his, her, our, their) con los miembros de familia: My mother is a nurse. His sister is 25. Is she your sister?
-          </p>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            Familia cercana
+          </h2>
+          <p>Estos son los posesivos, que se refieren a la persona o cosa que tiene o pertenece a alguien.</p>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
+            <li>
+              <strong>my</strong> (mi / mis)
+            </li>
+            <li>
+              <strong>your</strong> (tu / tus)
+            </li>
+            <li>
+              <strong>his</strong> (su / su)
+            </li>
+            <li>
+              <strong>her</strong> (su / su)
+            </li>
+            <li>
+              <strong>our</strong> (nuestro / nuestra)
+            </li>
+            <li>
+              <strong>their</strong> (su / su)
+            </li>
+          </ul>
         </>
       ),
     },
@@ -273,11 +492,23 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Traduce al inglés",
       items: [
-        { question: "Mi madre es profesora.", answer: "My mother is a teacher." },
-        { question: "Su hermana (de él) tiene 30 años.", answer: "His sister is 30 years old." },
-        { question: "Nuestros padres son de México.", answer: "Our parents are from Mexico." },
+        {
+          question: "Mi madre es profesora.",
+          answer: "My mother is a teacher.",
+        },
+        {
+          question: "Su hermana (de él) tiene 30 años.",
+          answer: "His sister is 30 years old.",
+        },
+        {
+          question: "Nuestros padres son de México.",
+          answer: "Our parents are from Mexico.",
+        },
         { question: "¿Es ella tu hermana?", answer: "Is she your sister?" },
-        { question: "Mi padre no es doctor.", answer: "My father isn't a doctor." },
+        {
+          question: "Mi padre no es doctor.",
+          answer: "My father isn't a doctor.",
+        },
       ],
     },
     // —— Errores comunes ——
@@ -285,17 +516,67 @@ export const informacionPersonal: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">Errores comunes a evitar</h2>
-          <ul className="list-disc list-inside space-y-1 text-sm text-foreground/90">
-            <li>I 25 years old → I'm 25 years old (no omitir to be)</li>
-            <li>Yes, I'm → Yes, I am (no contracción en respuestas cortas afirmativas)</li>
-            <li>I'm teacher → I'm a teacher (artículo con profesión)</li>
-            <li>You are ready? → Are you ready? (invertir en preguntas)</li>
-            <li>I have 25 years → I'm 25 years old (no traducir literal)</li>
-            <li>I amn't ready → I'm not ready ("amn't" no existe)</li>
-            <li>He not my brother → He isn't my brother (usar forma negativa correcta)</li>
-            <li>I'm no a student → I'm not a student (no doble negación)</li>
-          </ul>
+          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+            Errores comunes a evitar
+          </h2>
+          <div className="space-y-5 text-sm text-foreground/90">
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I 25 years old</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm 25 years old</code>
+              <br />
+              <span className="text-foreground/70">Nunca omitas el verbo <b>to be</b>.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>Yes, I'm</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>Yes, I am</code>
+              <br />
+              <span className="text-foreground/70">No uses contracción en respuestas breves afirmativas.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I'm teacher</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm a teacher</code>
+              <br />
+              <span className="text-foreground/70">Recuerda poner el artículo <b>a</b> o <b>an</b> antes de profesiones.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>You are ready?</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>Are you ready?</code>
+              <br />
+              <span className="text-foreground/70">En preguntas, invierte el orden: primero el verbo, luego el sujeto.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I have 25 years</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm 25 years old</code>
+              <br />
+              <span className="text-foreground/70">No traduzcas literalmente las edades; usa <b>to be + años old</b>.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I amn't ready</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm not ready</code>
+              <br />
+              <span className="text-foreground/70">"Amn't" no existe en inglés.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>He not my brother</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>He isn't my brother</code>
+              <br />
+              <span className="text-foreground/70">Forma correctamente la negativa con <b>isn't</b> o <b>is not</b>.</span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I'm no a student</code>
+              <br />
+              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm not a student</code>
+              <br />
+              <span className="text-foreground/70">En negativo se usa <b>not</b>, no <b>no</b>, después de <b>to be</b>.</span>
+            </div>
+          </div>
         </>
       ),
     },
@@ -316,7 +597,6 @@ export const informacionPersonal: LessonContent = {
       title: "Práctica integrada",
       items: [
         {
-          instruction: "Traduce al inglés:",
           question: "Mi hermano no es doctor, es enfermero.",
           answer: "My brother isn't a doctor, he's a nurse.",
         },

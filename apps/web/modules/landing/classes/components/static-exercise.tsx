@@ -4,10 +4,10 @@ import type { ExerciseBlock } from "../content-types";
 
 export function StaticExercise({ title, items }: ExerciseBlock) {
   return (
-    <div className="my-8 rounded-2xl border border-border bg-card shadow-sm overflow-hidden">
-      <div className="px-6 py-5 sm:px-8 sm:py-6">
+    <div className="my-8 rounded border border-border bg-card shadow-sm overflow-hidden">
+      <div className="px-4 py-4">
         {title && (
-          <h4 className="mb-5 text-xs font-bold uppercase tracking-widest text-foreground border-b border-border pb-2">
+          <h4 className="mb-5 text-lg font-bold uppercase tracking-tight text-foreground border-b border-border pb-2">
             {title}
           </h4>
         )}
