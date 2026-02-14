@@ -13,17 +13,22 @@ export const fundamentos: LessonContent = {
             En esta clase trabajamos los <strong>sonidos</strong> del inglés, no los nombres de las letras.
             Estos símbolos (/æ/, /ɪ/, etc.) son del Alfabeto Fonético Internacional (IPA) y representan cómo se pronuncia cada sonido.
           </p>
-          <h3 className="mt-6 mb-2 font-semibold text-foreground">Sonidos que veremos</h3>
-          <ul className="list-disc list-inside space-y-1 text-foreground/90">
-            <li>/æ/ como en cat, bat</li>
-            <li>/ɪ/ como en ship, bit</li>
-            <li>/ʌ/ como en cup, love</li>
-            <li>/θ/ y /ð/ como en think, this</li>
-            <li>/ʃ/ y /ʒ/ como en ship, vision</li>
-            <li>/ŋ/ como en sing, ring</li>
-          </ul>
         </>
       ),
+    },
+    {
+      type: "vocabulary",
+      title: "Sonidos IPA (ejemplos)",
+      items: [
+        { en: "/æ/", es: "cat, bat" },
+        { en: "/ɪ/", es: "ship, bit" },
+        { en: "/ʌ/", es: "cup, love" },
+        { en: "/θ/", es: "think" },
+        { en: "/ð/", es: "this" },
+        { en: "/ʃ/", es: "ship" },
+        { en: "/ʒ/", es: "vision" },
+        { en: "/ŋ/", es: "sing, ring" },
+      ],
     },
     {
       type: "table",

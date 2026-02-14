@@ -20,4 +20,5 @@ En el overview de Zero aparecerá automáticamente el enlace "Ver clase" en la s
 
 - **paragraph**: `{ type: "paragraph", content: <p>...</p> }` — texto/JSX libre.
 - **table**: `{ type: "table", caption?: string, headers: string[], rows: string[][] }`.
+- **vocabulary**: `{ type: "vocabulary", title?: string, items: [{ en: string, es: string }] }` — lista inglés / español.
 - **exercise**: `{ type: "exercise", title?: string, items: [{ instruction?, question, answer? }] }` — respuestas en `<details>` "Ver respuesta".

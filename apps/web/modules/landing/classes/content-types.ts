@@ -27,7 +27,19 @@ export type ExerciseBlock = {
   items: ExerciseItem[];
 };
 
-export type LessonBlock = ParagraphBlock | TableBlock | ExerciseBlock;
+/** Bloque de vocabulario: palabra en inglés y traducción */
+export type VocabularyItem = {
+  en: string;
+  es: string;
+};
+
+export type VocabularyBlock = {
+  type: "vocabulary";
+  title?: string;
+  items: VocabularyItem[];
+};
+
+export type LessonBlock = ParagraphBlock | TableBlock | ExerciseBlock | VocabularyBlock;
 
 export type LessonContent = {
   title: string;
@@ -43,4 +55,7 @@ export function isTable(b: LessonBlock): b is TableBlock {
 }
 export function isExercise(b: LessonBlock): b is ExerciseBlock {
   return b.type === "exercise";
+}
+export function isVocabulary(b: LessonBlock): b is VocabularyBlock {
+  return b.type === "vocabulary";
 }

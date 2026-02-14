@@ -1,7 +1,8 @@
 import type { LessonBlock } from "../content-types";
-import { isParagraph, isTable, isExercise } from "../content-types";
+import { isParagraph, isTable, isExercise, isVocabulary } from "../content-types";
 import { ContentTable } from "./content-table";
 import { StaticExercise } from "./static-exercise";
+import { VocabularyList } from "./vocabulary-list";
 
 export function LessonContent({ blocks }: { blocks: LessonBlock[] }) {
   return (
@@ -19,6 +20,9 @@ export function LessonContent({ blocks }: { blocks: LessonBlock[] }) {
         }
         if (isExercise(block)) {
           return <StaticExercise key={i} {...block} />;
+        }
+        if (isVocabulary(block)) {
+          return <VocabularyList key={i} {...block} />;
         }
         return null;
       })}

@@ -185,11 +185,31 @@ export const informacionPersonal: LessonContent = {
           <p className="mb-2 text-foreground/90">
             Siempre usa <strong>a/an</strong> con profesiones: I'm a teacher ✓ · I'm teacher ✗. An antes de vocal: I'm an engineer, She's an artist. Sin artículo: I'm unemployed, She's retired.
           </p>
-          <p className="text-sm text-muted-foreground">
-            Vocabulario: doctor, nurse, teacher, student, lawyer, engineer, accountant, manager, waiter, chef, artist, designer, photographer, writer, retired, unemployed.
-          </p>
         </>
       ),
+    },
+    {
+      type: "vocabulary",
+      title: "Vocabulario: profesiones",
+      items: [
+        { en: "doctor", es: "médico/a" },
+        { en: "nurse", es: "enfermero/a" },
+        { en: "teacher", es: "maestro/a" },
+        { en: "professor", es: "profesor/a universitario" },
+        { en: "student", es: "estudiante" },
+        { en: "lawyer", es: "abogado/a" },
+        { en: "engineer", es: "ingeniero/a" },
+        { en: "accountant", es: "contador/a" },
+        { en: "manager", es: "gerente" },
+        { en: "waiter / waitress", es: "mesero/a" },
+        { en: "chef / cook", es: "chef / cocinero/a" },
+        { en: "artist", es: "artista" },
+        { en: "designer", es: "diseñador/a" },
+        { en: "photographer", es: "fotógrafo/a" },
+        { en: "writer", es: "escritor/a" },
+        { en: "retired", es: "jubilado/a" },
+        { en: "unemployed", es: "desempleado/a" },
+      ],
     },
     {
       type: "exercise",
@@ -208,13 +228,46 @@ export const informacionPersonal: LessonContent = {
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">Familia cercana</h2>
           <p className="mb-2 text-foreground/90">
-            <strong>Nuclear:</strong> mother, father, parents, sister, brother, daughter, son, children. <strong>Extendida:</strong> grandmother, grandfather, grandparents, aunt, uncle, cousin. <strong>Pareja:</strong> husband, wife, boyfriend, girlfriend.
-          </p>
-          <p className="mb-2 text-foreground/90">
-            <strong>Posesivos:</strong> my, your, his, her, our, their. Ejemplos: My mother is a nurse. His sister is 25. Is she your sister?
+            Usa los posesivos (my, your, his, her, our, their) con los miembros de familia: My mother is a nurse. His sister is 25. Is she your sister?
           </p>
         </>
       ),
+    },
+    {
+      type: "vocabulary",
+      title: "Vocabulario: familia nuclear y extendida",
+      items: [
+        { en: "mother / mom", es: "madre / mamá" },
+        { en: "father / dad", es: "padre / papá" },
+        { en: "parents", es: "padres" },
+        { en: "sister", es: "hermana" },
+        { en: "brother", es: "hermano" },
+        { en: "daughter", es: "hija" },
+        { en: "son", es: "hijo" },
+        { en: "children", es: "hijos / niños" },
+        { en: "grandmother / grandma", es: "abuela" },
+        { en: "grandfather / grandpa", es: "abuelo" },
+        { en: "grandparents", es: "abuelos" },
+        { en: "aunt", es: "tía" },
+        { en: "uncle", es: "tío" },
+        { en: "cousin", es: "primo/a" },
+        { en: "husband", es: "esposo" },
+        { en: "wife", es: "esposa" },
+        { en: "boyfriend", es: "novio" },
+        { en: "girlfriend", es: "novia" },
+      ],
+    },
+    {
+      type: "vocabulary",
+      title: "Posesivos",
+      items: [
+        { en: "my", es: "mi / mis" },
+        { en: "your", es: "tu / tus" },
+        { en: "his", es: "su (de él)" },
+        { en: "her", es: "su (de ella)" },
+        { en: "our", es: "nuestro/a/os/as" },
+        { en: "their", es: "su (de ellos)" },
+      ],
     },
     {
       type: "exercise",

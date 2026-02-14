@@ -232,23 +232,54 @@ export const mundoAlrededor: LessonContent = {
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
             Objetos del aula y colores
           </h2>
-          <p className="mb-2">
-            <strong>Mobiliario y objetos:</strong> desk, chair, table, board,
-            door, window, shelf, book, notebook, pen, pencil, eraser, ruler,
-            computer, phone, backpack, clock.
-          </p>
-          <p className="mb-2">
-            <strong>Colores básicos:</strong> red, blue, yellow, green, orange,
-            purple, pink, brown, black, white, gray. Variaciones: light blue,
-            dark blue.
-          </p>
-          <p className="text-sm text-foreground/90">
-            Regla: el color va <strong>antes</strong> del sustantivo: a red pen
-            ✓ · a pen red ✗. The pen is red. What color is your notebook? → It's
-            blue.
+          <p className="mb-2 text-foreground/90">
+            Regla: el color va <strong>antes</strong> del sustantivo: a red pen ✓ · a pen red ✗. The pen is red. What color is your notebook? → It's blue.
           </p>
         </>
       ),
+    },
+    {
+      type: "vocabulary",
+      title: "Objetos del aula",
+      items: [
+        { en: "desk", es: "escritorio" },
+        { en: "chair", es: "silla" },
+        { en: "table", es: "mesa" },
+        { en: "board / whiteboard", es: "pizarrón" },
+        { en: "door", es: "puerta" },
+        { en: "window", es: "ventana" },
+        { en: "shelf / shelves", es: "estante / estantes" },
+        { en: "book", es: "libro" },
+        { en: "notebook", es: "cuaderno" },
+        { en: "pen", es: "bolígrafo" },
+        { en: "pencil", es: "lápiz" },
+        { en: "eraser", es: "goma / borrador" },
+        { en: "ruler", es: "regla" },
+        { en: "computer", es: "computadora" },
+        { en: "phone", es: "teléfono" },
+        { en: "backpack", es: "mochila" },
+        { en: "clock", es: "reloj (de pared)" },
+        { en: "paper", es: "papel (incontable)" },
+      ],
+    },
+    {
+      type: "vocabulary",
+      title: "Colores",
+      items: [
+        { en: "red", es: "rojo" },
+        { en: "blue", es: "azul" },
+        { en: "yellow", es: "amarillo" },
+        { en: "green", es: "verde" },
+        { en: "orange", es: "naranja" },
+        { en: "purple", es: "morado" },
+        { en: "pink", es: "rosa" },
+        { en: "brown", es: "café / marrón" },
+        { en: "black", es: "negro" },
+        { en: "white", es: "blanco" },
+        { en: "gray", es: "gris" },
+        { en: "light blue", es: "azul claro" },
+        { en: "dark blue", es: "azul oscuro" },
+      ],
     },
     // —— PARTE 7: Preposiciones de lugar ——
     {
@@ -284,11 +315,25 @@ export const mundoAlrededor: LessonContent = {
             </li>
           </ul>
           <p className="mt-2 text-sm text-muted-foreground">
-            IN = espacio (in the box). ON = superficie (on the table). Between =
-            entre dos. Above / below = arriba / abajo sin tocar.
+            IN = espacio (in the box). ON = superficie (on the table). Between = entre dos. Above / below = arriba / abajo sin tocar.
           </p>
         </>
       ),
+    },
+    {
+      type: "vocabulary",
+      title: "Preposiciones de lugar",
+      items: [
+        { en: "in", es: "dentro de / en" },
+        { en: "on", es: "sobre / encima de" },
+        { en: "under", es: "debajo de" },
+        { en: "next to", es: "al lado de" },
+        { en: "behind", es: "detrás de" },
+        { en: "in front of", es: "delante de / enfrente de" },
+        { en: "between", es: "entre (dos)" },
+        { en: "above", es: "arriba de (sin tocar)" },
+        { en: "below", es: "abajo de (sin tocar)" },
+      ],
     },
     {
       type: "exercise",
