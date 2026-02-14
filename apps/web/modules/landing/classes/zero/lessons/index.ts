@@ -1,9 +1,11 @@
 import type { LessonContent } from "../../content-types";
 import { fundamentos } from "./fundamentos";
+import { informacionPersonal } from "./informacion-personal";
 import { mundoAlrededor } from "./mundo-alrededor";
 
 const lessons: Record<string, LessonContent> = {
   fundamentos,
+  "informacion-personal": informacionPersonal,
   "mundo-alrededor": mundoAlrededor,
 };
 
