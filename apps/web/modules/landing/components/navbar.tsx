@@ -26,25 +26,25 @@ import { cn } from "@saygo/ui/src/lib/utils";
 const components: { title: string; href: string; description: string }[] = [
   {
     title: "Zero to A1",
-    href: "/temarios/zero-to-a1",
+    href: "/classes#zero-to-a1",
     description:
       "Introductory English course for complete beginners. Covers alphabet and pronunciation, basic vocabulary, personal information, numbers, days and months, verb 'to be', simple present, and basic conversation skills.",
   },
   {
     title: "A1 to A2",
-    href: "/temarios/a1-to-a2",
+    href: "/classes#a1-to-a2",
     description:
       "Elementary level focused on building everyday communication. Includes past simple, frequency adverbs, countable and uncountable nouns, comparatives and superlatives, common phrasal verbs, and practical speaking activities.",
   },
   {
     title: "A2 to B1",
-    href: "/temarios/a2-to-b1",
+    href: "/classes#a2-to-b1",
     description:
       "Pre-intermediate course to improve fluency and confidence. Covers present perfect, future forms, first and second conditionals, modal verbs, storytelling in past tenses, and structured conversation practice.",
   },
   {
     title: "B1 to B2",
-    href: "/temarios/b1-to-b2",
+    href: "/classes#b1-to-b2",
     description:
       "Upper-intermediate level designed to refine grammar and expand vocabulary. Includes advanced conditionals, passive voice, reported speech, complex sentence structures, debate practice, presentations, and real-world communication skills.",
   },
