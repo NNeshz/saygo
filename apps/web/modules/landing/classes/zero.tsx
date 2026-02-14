@@ -1,10 +1,12 @@
 "use client";
 
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
 import {
   IconExternalLink,
   IconBook2,
+  IconBook,
   IconSpeakerphone,
   IconUsers,
   IconWorld,
@@ -25,6 +27,7 @@ import {
   AccordionContent,
 } from "@saygo/ui/src/components/accordion";
 import { Badge } from "@saygo/ui/src/components/badge";
+import { getZeroLessonSlugs } from "@saygo/web/modules/landing/classes/zero/lessons";
 
 const fadeIn = {
   hidden: { opacity: 0, y: 16 },
@@ -322,6 +325,16 @@ export function Zero() {
                   </AccordionTrigger>
                   <AccordionContent className="text-foreground/90">
                     <div className="space-y-4 pb-1">
+                      {getZeroLessonSlugs().includes(section.id) && (
+                        <Link
+                          href={`/classes/zero/${section.id}`}
+                          className="inline-flex items-center gap-1.5 text-sm font-medium text-citrus-zest hover:underline"
+                          onClick={(e) => e.stopPropagation()}
+                        >
+                          <IconBook className="size-4" />
+                          Ver clase
+                        </Link>
+                      )}
                       <div className="text-sm sm:text-base leading-relaxed">
                         {section.content}
                       </div>
