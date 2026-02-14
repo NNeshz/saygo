@@ -378,10 +378,9 @@ export const mundoAlrededor: LessonContent = {
     // —— Práctica integrada ——
     {
       type: "exercise",
-      title: "Práctica integrada",
+      title: "Práctica integrada (Traduce a inglés)",
       items: [
         {
-          instruction: "Traduce al inglés:",
           question: "Este es mi cuaderno azul.",
         },
         {
