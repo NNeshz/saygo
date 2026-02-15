@@ -6,6 +6,7 @@ import { primerContacto } from "./primer-contacto";
 import { rutinaDiaria } from "./rutina-diaria";
 import { habilidadesGustos } from "./habilidades-gustos";
 import { descripcionFisica } from "./descripcion-fisica";
+import { elEntornoInmediato } from "./el-entorno-inmediato";
 
 const lessons: Record<string, LessonContent> = {
   fundamentos,
@@ -15,6 +16,7 @@ const lessons: Record<string, LessonContent> = {
   "rutina-diaria": rutinaDiaria,
   "habilidades-gustos": habilidadesGustos,
   "descripcion-fisica": descripcionFisica,
+  "el-entorno-inmediato": elEntornoInmediato,
 };
 
 export const zeroLessonSlugs = Object.keys(lessons) as string[];

@@ -292,7 +292,7 @@ const sections = [
     ),
   },
   {
-    id: "entorno-inmediato",
+    id: "el-entorno-inmediato",
     title: "El Entorno Inmediato (Hay/Tener)",
     notionUrl: null,
     content: (
