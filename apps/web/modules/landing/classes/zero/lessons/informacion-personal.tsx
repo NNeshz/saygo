@@ -57,11 +57,11 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Completa con la forma correcta (contracción)",
       items: [
-        { question: "I ___ 30 years old.", answer: "I'm" },
-        { question: "She ___ my mother.", answer: "She's" },
-        { question: "We ___ from Spain.", answer: "We're" },
-        { question: "They ___ engineers.", answer: "They're" },
-        { question: "He ___ single.", answer: "He's" },
+        { question: "I ___ 30 years old." },
+        { question: "She ___ my mother." },
+        { question: "We ___ from Spain." },
+        { question: "They ___ engineers." },
+        { question: "He ___ single." },
       ],
     },
     // —— To Be negativo ——
@@ -110,18 +110,18 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Convierte a negativo (usa contracciones)",
       items: [
-        { question: "I am a lawyer → ?", answer: "I'm not a lawyer." },
+        { question: "I am a lawyer → ?" },
         {
           question: "She is 18 years old → ?",
-          answer: "She isn't 18 years old. / She's not 18 years old.",
+          answer: "",
         },
         {
           question: "We are from Canada → ?",
-          answer: "We aren't from Canada. / We're not from Canada.",
+          answer: "",
         },
         {
           question: "He is single → ?",
-          answer: "He isn't single. / He's not single.",
+          answer: "",
         },
       ],
     },
@@ -167,10 +167,10 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Convierte a interrogativo",
       items: [
-        { question: "You are ready → ?", answer: "Are you ready?" },
-        { question: "She is 30 years old → ?", answer: "Is she 30 years old?" },
-        { question: "They are from Japan → ?", answer: "Are they from Japan?" },
-        { question: "He is your father → ?", answer: "Is he your father?" },
+        { question: "You are ready → ?" },
+        { question: "She is 30 years old → ?" },
+        { question: "They are from Japan → ?" },
+        { question: "He is your father → ?" },
       ],
     },
     // —— Respuestas cortas ——
@@ -218,15 +218,15 @@ export const informacionPersonal: LessonContent = {
       items: [
         {
           question: "Are you from Mexico? → Afirmativa y negativa.",
-          answer: "Yes, I am. / No, I'm not.",
+          answer: "",
         },
         {
           question: "Is he a doctor? → Afirmativa y negativa.",
-          answer: "Yes, he is. / No, he isn't.",
+          answer: "",
         },
         {
           question: "Are they your parents? → Afirmativa y negativa.",
-          answer: "Yes, they are. / No, they aren't.",
+          answer: "",
         },
       ],
     },
@@ -362,10 +362,10 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Escribe en palabras",
       items: [
-        { question: "13 → ?", answer: "thirteen" },
-        { question: "28 → ?", answer: "twenty-eight" },
-        { question: "45 → ?", answer: "forty-five" },
-        { question: "67 → ?", answer: "sixty-seven" },
+        { question: "13 → ?" },
+        { question: "28 → ?" },
+        { question: "45 → ?" },
+        { question: "67 → ?" },
       ],
     },
     // —— Profesiones ——
@@ -411,12 +411,12 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Completa con a/an o sin artículo",
       items: [
-        { question: "I'm ___ doctor.", answer: "a" },
-        { question: "She's ___ engineer.", answer: "an" },
-        { question: "He's ___ unemployed.", answer: "(sin artículo)" },
+        { question: "I'm ___ doctor." },
+        { question: "She's ___ engineer." },
+        { question: "He's ___ unemployed." },
         {
           question: "They're ___ artists.",
-          answer: "(plural: They're artists)",
+          answer: "",
         },
       ],
     },
@@ -428,7 +428,10 @@ export const informacionPersonal: LessonContent = {
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
             Familia cercana
           </h2>
-          <p>Estos son los posesivos, que se refieren a la persona o cosa que tiene o pertenece a alguien.</p>
+          <p>
+            Estos son los posesivos, que se refieren a la persona o cosa que
+            tiene o pertenece a alguien.
+          </p>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
               <strong>my</strong> (mi / mis)
@@ -494,20 +497,20 @@ export const informacionPersonal: LessonContent = {
       items: [
         {
           question: "Mi madre es profesora.",
-          answer: "My mother is a teacher.",
+          answer: "",
         },
         {
           question: "Su hermana (de él) tiene 30 años.",
-          answer: "His sister is 30 years old.",
+          answer: "",
         },
         {
           question: "Nuestros padres son de México.",
-          answer: "Our parents are from Mexico.",
+          answer: "",
         },
-        { question: "¿Es ella tu hermana?", answer: "Is she your sister?" },
+        { question: "¿Es ella tu hermana?" },
         {
           question: "Mi padre no es doctor.",
-          answer: "My father isn't a doctor.",
+          answer: "",
         },
       ],
     },
@@ -521,60 +524,113 @@ export const informacionPersonal: LessonContent = {
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I 25 years old</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>I 25 years old</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm 25 years old</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>I'm 25 years old</code>
               <br />
-              <span className="text-foreground/70">Nunca omitas el verbo <b>to be</b>.</span>
+              <span className="text-foreground/70">
+                Nunca omitas el verbo <b>to be</b>.
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>Yes, I'm</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>Yes, I'm</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>Yes, I am</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>Yes, I am</code>
               <br />
-              <span className="text-foreground/70">No uses contracción en respuestas breves afirmativas.</span>
+              <span className="text-foreground/70">
+                No uses contracción en respuestas breves afirmativas.
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I'm teacher</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>I'm teacher</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm a teacher</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>I'm a teacher</code>
               <br />
-              <span className="text-foreground/70">Recuerda poner el artículo <b>a</b> o <b>an</b> antes de profesiones.</span>
+              <span className="text-foreground/70">
+                Recuerda poner el artículo <b>a</b> o <b>an</b> antes de
+                profesiones.
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>You are ready?</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>You are ready?</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>Are you ready?</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>Are you ready?</code>
               <br />
-              <span className="text-foreground/70">En preguntas, invierte el orden: primero el verbo, luego el sujeto.</span>
+              <span className="text-foreground/70">
+                En preguntas, invierte el orden: primero el verbo, luego el
+                sujeto.
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I have 25 years</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>I have 25 years</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm 25 years old</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>I'm 25 years old</code>
               <br />
-              <span className="text-foreground/70">No traduzcas literalmente las edades; usa <b>to be + años old</b>.</span>
+              <span className="text-foreground/70">
+                No traduzcas literalmente las edades; usa{" "}
+                <b>to be + años old</b>.
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I amn't ready</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>I amn't ready</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm not ready</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>I'm not ready</code>
               <br />
-              <span className="text-foreground/70">"Amn't" no existe en inglés.</span>
+              <span className="text-foreground/70">
+                "Amn't" no existe en inglés.
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>He not my brother</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>He not my brother</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>He isn't my brother</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>He isn't my brother</code>
               <br />
-              <span className="text-foreground/70">Forma correctamente la negativa con <b>isn't</b> o <b>is not</b>.</span>
+              <span className="text-foreground/70">
+                Forma correctamente la negativa con <b>isn't</b> o <b>is not</b>
+                .
+              </span>
             </div>
             <div>
-              <span className="font-semibold text-red-700">Incorrecto:</span> <code>I'm no a student</code>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>I'm no a student</code>
               <br />
-              <span className="font-semibold text-green-700">Correcto:</span> <code>I'm not a student</code>
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>I'm not a student</code>
               <br />
-              <span className="text-foreground/70">En negativo se usa <b>not</b>, no <b>no</b>, después de <b>to be</b>.</span>
+              <span className="text-foreground/70">
+                En negativo se usa <b>not</b>, no <b>no</b>, después de{" "}
+                <b>to be</b>.
+              </span>
             </div>
           </div>
         </>
@@ -584,11 +640,11 @@ export const informacionPersonal: LessonContent = {
       type: "exercise",
       title: "Corrige el error",
       items: [
-        { question: "I have 30 years.", answer: "I'm 30 years old." },
-        { question: "She is teacher.", answer: "She's a teacher." },
-        { question: "You are from Spain?", answer: "Are you from Spain?" },
-        { question: "I amn't ready.", answer: "I'm not ready." },
-        { question: "Yes, I'm.", answer: "Yes, I am." },
+        { question: "I have 30 years." },
+        { question: "She is teacher." },
+        { question: "You are from Spain?" },
+        { question: "I amn't ready." },
+        { question: "Yes, I'm." },
       ],
     },
     // —— Práctica integrada ——
@@ -598,19 +654,19 @@ export const informacionPersonal: LessonContent = {
       items: [
         {
           question: "Mi hermano no es doctor, es enfermero.",
-          answer: "My brother isn't a doctor, he's a nurse.",
+          answer: "",
         },
         {
           question: "Ellos son mis padres. Tienen 55 y 53 años.",
-          answer: "They're my parents. They're 55 and 53 years old.",
+          answer: "",
         },
         {
           question: "No soy de Argentina, soy de Chile.",
-          answer: "I'm not from Argentina, I'm from Chile.",
+          answer: "",
         },
         {
           question: "¿Está casada tu hermana?",
-          answer: "Is your sister married?",
+          answer: "",
         },
       ],
     },

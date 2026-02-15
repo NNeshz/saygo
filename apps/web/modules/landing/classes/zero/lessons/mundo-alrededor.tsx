@@ -10,14 +10,17 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Artículos indefinidos: A y AN
           </h2>
-          <p className="mb-2">
+          <p className="mb-2 text-foreground/90">
             <strong>A</strong> y <strong>AN</strong> = un/una. Lo importante es
             el <strong>sonido</strong>, no la letra.
           </p>
-          <ul className="list-disc list-inside space-y-1 text-foreground/90">
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Regla de uso
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
               <strong>A</strong> antes de sonido consonante: a book, a pen, a
               table, a university (suena “yu”)
@@ -27,21 +30,35 @@ export const mundoAlrededor: LessonContent = {
               umbrella, an hour (la h es muda)
             </li>
           </ul>
-          <p className="mt-3 text-sm text-muted-foreground">
-            Casos especiales: an honest person · a European country · a one-way
-            street
-          </p>
+          <h3 className="mb-1 mt-3 text-base font-semibold text-foreground">
+            Casos especiales
+          </h3>
+          <ul className="list-disc list-inside space-y-0.5 text-sm text-muted-foreground">
+            <li>an honest person (h muda)</li>
+            <li>a European country (suena "yu")</li>
+            <li>a one-way street (one suena "wu")</li>
+          </ul>
         </>
       ),
     },
     {
       type: "paragraph",
       content: (
-        <p className="text-foreground/90">
-          Usamos A/AN en primera mención, profesiones (I'm a teacher) y para
-          decir “uno” (I need a pen). No usamos A/AN con plurales (books),
-          incontables (water) ni nombres propios (Maria).
-        </p>
+        <>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Usos de A/AN
+          </h3>
+          <ul className="list-disc list-inside space-y-1 text-foreground/90 mb-2">
+            <li>
+              <strong>Usamos:</strong> primera mención (I have a dog),
+              profesiones (I'm a teacher), para decir “uno” (I need a pen)
+            </li>
+            <li>
+              <strong>No usamos con:</strong> plurales (books), incontables
+              (water), nombres propios (Maria)
+            </li>
+          </ul>
+        </>
       ),
     },
     {
@@ -61,11 +78,14 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Artículo definido: THE
           </h2>
-          <p className="mb-2">THE = el / la / los / las. Se usa cuando:</p>
-          <ul className="list-disc list-inside space-y-1 text-foreground/90">
+          <p className="mb-2 text-foreground/90">THE = el / la / los / las.</p>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Se usa cuando
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
               Ya lo mencionamos: I have a dog. <strong>The</strong> dog is
               brown.
@@ -75,11 +95,18 @@ export const mundoAlrededor: LessonContent = {
             <li>Instrumentos musicales: I play the guitar.</li>
             <li>Superlativos: the best student, the biggest house.</li>
           </ul>
-          <p className="mt-3 text-sm text-muted-foreground">
-            No usamos THE con nombres de personas (Maria), la mayoría de países
-            (Mexico, Spain), conceptos generales (I love music), comidas en
-            general (Breakfast is important) ni deportes (I play soccer).
-            Excepciones: The United States, The Netherlands.
+          <h3 className="mb-2 mt-3 text-base font-semibold text-foreground">
+            No usamos THE con
+          </h3>
+          <ul className="list-disc list-inside space-y-1 text-sm text-foreground/90">
+            <li>Nombres de personas (Maria)</li>
+            <li>Mayoría de países (Mexico, Spain)</li>
+            <li>Conceptos generales (I love music)</li>
+            <li>Comidas en general (Breakfast is important)</li>
+            <li>Deportes (I play soccer)</li>
+          </ul>
+          <p className="mt-2 text-sm text-muted-foreground">
+            <strong>Excepciones:</strong> The United States, The Netherlands.
           </p>
         </>
       ),
@@ -113,22 +140,33 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Sustantivos contables e incontables
           </h2>
-          <p className="mb-2">
-            <strong>Contables:</strong> se cuentan (1, 2, 3…), tienen singular y
-            plural: book/books, pen/pens.
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Contables
+          </h3>
+          <p className="mb-3 text-foreground/90">
+            Se cuentan (1, 2, 3…), tienen singular y plural: book/books,
+            pen/pens.
           </p>
-          <p className="mb-2">
-            <strong>Incontables:</strong> no se cuentan así, una sola forma:
-            water, rice, milk, music, information, advice, furniture.
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Incontables
+          </h3>
+          <p className="mb-2 text-foreground/90">
+            No se cuentan así, una sola forma: water, rice, milk, music,
+            information, advice, furniture.
           </p>
-          <p className="text-sm text-foreground/90">
-            Para “medir” incontables: a glass of water, a cup of coffee, a piece
-            of paper, a bottle of milk. Con cantidad: some water, much water, a
-            little water.
-          </p>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Cómo medir incontables
+          </h3>
+          <ul className="list-disc list-inside space-y-1 text-foreground/90">
+            <li>
+              Con unidad: a glass of water, a cup of coffee, a piece of paper, a
+              bottle of milk
+            </li>
+            <li>Con cantidad: some water, much water, a little water</li>
+          </ul>
         </>
       ),
     },
@@ -148,10 +186,10 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Formación de plurales
           </h2>
-          <ul className="list-disc list-inside space-y-1 text-foreground/90">
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
               <strong>+ S</strong> (mayoría): book → books, car → cars
             </li>
@@ -229,12 +267,19 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Objetos del aula y colores
           </h2>
-          <p className="mb-2 text-foreground/90">
-            Regla: el color va <strong>antes</strong> del sustantivo: a red pen ✓ · a pen red ✗. The pen is red. What color is your notebook? → It's blue.
-          </p>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Regla del color
+          </h3>
+          <ul className="list-disc list-inside space-y-1 text-foreground/90 mb-2">
+            <li>
+              El color va <strong>antes</strong> del sustantivo: a red pen ✓ · a
+              pen red ✗
+            </li>
+            <li>The pen is red. What color is your notebook? → It's blue.</li>
+          </ul>
         </>
       ),
     },
@@ -286,10 +331,10 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Preposiciones de lugar
           </h2>
-          <ul className="list-disc list-inside space-y-1 text-foreground/90">
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
               <strong>IN</strong> = dentro de: The book is in the bag. I'm in
               the classroom.
@@ -314,9 +359,23 @@ export const mundoAlrededor: LessonContent = {
               of the class.
             </li>
           </ul>
-          <p className="mt-2 text-sm text-muted-foreground">
-            IN = espacio (in the box). ON = superficie (on the table). Between = entre dos. Above / below = arriba / abajo sin tocar.
-          </p>
+          <h3 className="mb-2 mt-3 text-base font-semibold text-foreground">
+            Notas adicionales
+          </h3>
+          <ul className="list-disc list-inside space-y-0.5 text-sm text-muted-foreground">
+            <li>
+              <strong>IN</strong> = espacio (in the box)
+            </li>
+            <li>
+              <strong>ON</strong> = superficie (on the table)
+            </li>
+            <li>
+              <strong>Between</strong> = entre dos
+            </li>
+            <li>
+              <strong>Above / below</strong> = arriba / abajo sin tocar
+            </li>
+          </ul>
         </>
       ),
     },
@@ -339,7 +398,7 @@ export const mundoAlrededor: LessonContent = {
       type: "exercise",
       title: "Completa con la preposición correcta",
       items: [
-        { question: "The book is ___ the table (sobre)."},
+        { question: "The book is ___ the table (sobre)." },
         { question: "The cat is ___ the chair (debajo)." },
         { question: "I'm sitting ___ Maria (al lado)." },
         { question: "The poster is ___ the wall." },
@@ -351,11 +410,13 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Construcción de oraciones simples
           </h2>
-          <p className="mb-2">Patrones útiles:</p>
-          <ul className="list-disc list-inside space-y-1 text-foreground/90">
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Patrones útiles
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
               This/That + is + a/an + sustantivo: This is a book. That is an
               apple.
@@ -365,14 +426,7 @@ export const mundoAlrededor: LessonContent = {
             </li>
             <li>
               The + sustantivo + is + preposición + lugar: The book is on the
-              table. The pen is in the bag.
-            </li>
-            <li>
-              Con color: This is a blue pen. These red books are on the shelf.
-            </li>
-            <li>
-              There is / There are: There is a book on the table. There are
-              three chairs.
+              table.
             </li>
           </ul>
         </>
@@ -383,24 +437,89 @@ export const mundoAlrededor: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
             Errores comunes a evitar
           </h2>
-          <ul className="list-disc list-inside space-y-1 text-sm text-foreground/90">
-            <li>a books → books (no a/an con plural)</li>
-            <li>I'm teacher → I'm a teacher (profesión con a/an)</li>
-            <li>childs, mans, womans → children, men, women</li>
-            <li>a apple, a hour → an apple, an hour (sonido vocal)</li>
-            <li>
-              furnitures, informations → furniture, information (incontables sin
-              -s)
-            </li>
-            <li>a pen blue → a blue pen (color antes del sustantivo)</li>
-            <li>This are my books → These are my books</li>
-            <li>The Maria → Maria (sin the en nombres propios)</li>
-            <li>The book is in the table → on the table (superficie)</li>
-            <li>I love the music → I love music (general)</li>
-          </ul>
+          <div className="space-y-5 text-sm text-foreground/90">
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>a books</code>
+              <br />
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>books</code>
+              <br />
+              <span className="text-foreground/70">
+                No uses <b>a/an</b> con plurales.
+              </span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>I'm teacher</code>
+              <br />
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>I'm a teacher</code>
+              <br />
+              <span className="text-foreground/70">
+                Usa artículo con profesiones.
+              </span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>childs, mans</code>
+              <br />
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>children, men</code>
+              <br />
+              <span className="text-foreground/70">
+                Cuidado con los plurales irregulares.
+              </span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>a apple</code>
+              <br />
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>an apple</code>
+              <br />
+              <span className="text-foreground/70">
+                Usa <b>an</b> antes de sonido vocal.
+              </span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>a pen blue</code>
+              <br />
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>a blue pen</code>
+              <br />
+              <span className="text-foreground/70">
+                El color va antes del sustantivo.
+              </span>
+            </div>
+            <div>
+              <span className="font-semibold text-red-700">Incorrecto:</span>{" "}
+              <code>The Maria</code>
+              <br />
+              <span className="font-semibold text-green-700">
+                Correcto:
+              </span>{" "}
+              <code>Maria</code>
+              <br />
+              <span className="text-foreground/70">
+                No uses <b>the</b> con nombres propios.
+              </span>
+            </div>
+          </div>
         </>
       ),
     },
@@ -409,34 +528,11 @@ export const mundoAlrededor: LessonContent = {
       title: "Corrige el error",
       items: [
         { question: "This is a books." },
-        {
-          question: "The pen blue is on table.",
-        },
+        { question: "The pen blue is on table." },
         { question: "I have three childs." },
         { question: "She's teacher." },
-        {
-          question: "The book is in the wall.",
-        },
+        { question: "The book is in the wall." },
         { question: "A apple is red." },
-      ],
-    },
-    // —— Práctica integrada ——
-    {
-      type: "exercise",
-      title: "Práctica integrada (Traduce a inglés)",
-      items: [
-        {
-          question: "Este es mi cuaderno azul.",
-        },
-        {
-          question: "Esas son mis llaves rojas.",
-        },
-        {
-          question: "El libro está sobre la mesa.",
-        },
-        {
-          question: "Mi bolsa está debajo del escritorio.",
-        },
       ],
     },
   ],

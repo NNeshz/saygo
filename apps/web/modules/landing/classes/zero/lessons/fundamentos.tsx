@@ -9,9 +9,14 @@ export const fundamentos: LessonContent = {
       type: "paragraph",
       content: (
         <>
-          <p className="mb-4">
-            En esta clase trabajamos los <strong>sonidos</strong> del inglés, no los nombres de las letras.
-            Estos símbolos (/æ/, /ɪ/, etc.) son del Alfabeto Fonético Internacional (IPA) y representan cómo se pronuncia cada sonido.
+          <h2 className="mb-3 text-xl font-semibold text-foreground">
+            Sonidos del alfabeto fonético
+          </h2>
+          <p className="mb-4 text-foreground/90">
+            En esta clase trabajamos los <strong>sonidos</strong> del inglés, no
+            los nombres de las letras. Estos símbolos (/æ/, /ɪ/, etc.) son del
+            Alfabeto Fonético Internacional (IPA) y representan cómo se
+            pronuncia cada sonido.
           </p>
         </>
       ),
@@ -44,9 +49,27 @@ export const fundamentos: LessonContent = {
     {
       type: "paragraph",
       content: (
-        <p>
-          La ortografía básica incluye mayúsculas al inicio de oración y nombres propios, minúsculas en el resto, y puntuación: punto, coma, signos de interrogación y exclamación.
-        </p>
+        <>
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+            Ortografía básica
+          </h2>
+          <h3 className="mb-2 text-base font-semibold text-foreground">
+            Reglas principales
+          </h3>
+          <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
+            <li>
+              <strong>Mayúsculas</strong> al inicio de oración y en nombres
+              propios
+            </li>
+            <li>
+              <strong>Minúsculas</strong> en el resto del texto
+            </li>
+            <li>
+              <strong>Puntuación:</strong> punto, coma, signos de interrogación
+              y exclamación
+            </li>
+          </ul>
+        </>
       ),
     },
     {
@@ -55,16 +78,17 @@ export const fundamentos: LessonContent = {
       items: [
         {
           question: "beat — ¿/ɪ/ o /iː/?",
-          answer: "Largo: /iː/ (beat). Corto sería bit con /ɪ/.",
+          answer: "",
         },
         {
           instruction: "Parejas mínimas:",
           question: "¿Cuál es la diferencia entre ship y sheep?",
-          answer: "Ship = /ʃɪp/ (sonido corto /ɪ/). Sheep = /ʃiːp/ (sonido largo /iː/).",
+          answer: "",
         },
         {
-          question: "Escribe en mayúsculas/minúsculas y puntuación: \"hello my name is ana\"",
-          answer: "Hello. My name is Ana.",
+          question:
+            'Escribe en mayúsculas/minúsculas y puntuación: "hello my name is ana"',
+          answer: "",
         },
       ],
     },

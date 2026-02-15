@@ -2,11 +2,19 @@ import type { LessonContent } from "../../content-types";
 import { fundamentos } from "./fundamentos";
 import { informacionPersonal } from "./informacion-personal";
 import { mundoAlrededor } from "./mundo-alrededor";
+import { primerContacto } from "./primer-contacto";
+import { rutinaDiaria } from "./rutina-diaria";
+import { habilidadesGustos } from "./habilidades-gustos";
+import { descripcionFisica } from "./descripcion-fisica";
 
 const lessons: Record<string, LessonContent> = {
   fundamentos,
+  "primer-contacto": primerContacto,
   "informacion-personal": informacionPersonal,
   "mundo-alrededor": mundoAlrededor,
+  "rutina-diaria": rutinaDiaria,
+  "habilidades-gustos": habilidadesGustos,
+  "descripcion-fisica": descripcionFisica,
 };
 
 export const zeroLessonSlugs = Object.keys(lessons) as string[];
