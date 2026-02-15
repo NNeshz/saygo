@@ -8,13 +8,14 @@ export const informacionPersonal: LessonContent = {
     // —— To Be afirmativo ——
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            To Be afirmativo
+            Parte 1. To Be afirmativo
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Usos principales
+            Parte 1.1. Usos principales
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -41,7 +42,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "table",
-      caption: "Formas completas y contracciones",
+      section: { part: 1, subpart: 1 },
+      caption: "Parte 1.2. Formas completas y contracciones",
       headers: ["Pronombre", "Forma completa", "Contracción"],
       rows: [
         ["I", "I am", "I'm"],
@@ -55,7 +57,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con la forma correcta (contracción)",
+      section: { part: 1, subpart: 2 },
+      title: "Parte 1.3. Completa con la forma correcta (contracción)",
       items: [
         { question: "I ___ 30 years old." },
         { question: "She ___ my mother." },
@@ -67,13 +70,14 @@ export const informacionPersonal: LessonContent = {
     // —— To Be negativo ——
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            To Be negativo
+            Parte 2. To Be negativo
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Usos principales
+            Parte 2.1. Usos principales
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -94,7 +98,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "table",
-      caption: "Formas negativas",
+      section: { part: 2, subpart: 1 },
+      caption: "Parte 2.2. Formas negativas",
       headers: ["Forma completa", "Contracción"],
       rows: [
         ["I am not", "I'm not"],
@@ -108,7 +113,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Convierte a negativo (usa contracciones)",
+      section: { part: 2, subpart: 2 },
+      title: "Parte 2.3. Convierte a negativo (usa contracciones)",
       items: [
         { question: "I am a lawyer → ?" },
         {
@@ -128,13 +134,14 @@ export const informacionPersonal: LessonContent = {
     // —— To Be interrogativo ——
     {
       type: "paragraph",
+      section: { part: 3 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            To Be interrogativo
+            Parte 3. To Be interrogativo
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Usos principales
+            Parte 3.1. Usos principales
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -155,6 +162,7 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "table",
+      section: { part: 3, subpart: 1 },
       headers: ["Afirmativa", "Interrogativa"],
       rows: [
         ["You are Mexican", "Are you Mexican?"],
@@ -165,7 +173,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Convierte a interrogativo",
+      section: { part: 3, subpart: 2 },
+      title: "Parte 3.2. Convierte a interrogativo",
       items: [
         { question: "You are ready → ?" },
         { question: "She is 30 years old → ?" },
@@ -176,13 +185,14 @@ export const informacionPersonal: LessonContent = {
     // —— Respuestas cortas ——
     {
       type: "paragraph",
+      section: { part: 4 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            Respuestas cortas
+            Parte 4. Respuestas cortas
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Estructura
+            Parte 4.1. Estructura
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -203,7 +213,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "table",
-      caption: "Respuestas cortas",
+      section: { part: 4, subpart: 1 },
+      caption: "Parte 4.2. Respuestas cortas",
       headers: ["Pregunta", "Afirmativa", "Negativa"],
       rows: [
         ["Are you Mexican?", "Yes, I am", "No, I'm not"],
@@ -214,7 +225,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Responde con respuesta corta (afirmativa y negativa)",
+      section: { part: 4, subpart: 2 },
+      title: "Parte 4.3. Responde con respuesta corta (afirmativa y negativa)",
       items: [
         {
           question: "Are you from Mexico? → Afirmativa y negativa.",
@@ -233,12 +245,13 @@ export const informacionPersonal: LessonContent = {
     // —— Números 0-100 ——
     {
       type: "paragraph",
+      section: { part: 5 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            Números 0-100
+            Parte 5. Números 0-100
           </h2>
-          <h3 className="mb-2 text-base font-semibold text-foreground">0-10</h3>
+          <h3 className="mb-2 text-base font-semibold text-foreground">Parte 5.1. 0-10</h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
               <strong>0</strong> (zero)
@@ -360,7 +373,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Escribe en palabras",
+      section: { part: 5, subpart: 1 },
+      title: "Parte 5.2. Escribe en palabras",
       items: [
         { question: "13 → ?" },
         { question: "28 → ?" },
@@ -371,10 +385,11 @@ export const informacionPersonal: LessonContent = {
     // —— Profesiones ——
     {
       type: "paragraph",
+      section: { part: 6 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            Profesiones básicas
+            Parte 6. Profesiones básicas
           </h2>
           <p className="mb-2 text-foreground/90">
             Siempre usa <strong>a/an</strong> con profesiones: I'm a teacher ✓ ·
@@ -386,7 +401,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Vocabulario: profesiones",
+      section: { part: 6, subpart: 1 },
+      title: "Parte 6.1. Vocabulario: profesiones",
       items: [
         { en: "doctor", es: "médico/a" },
         { en: "nurse", es: "enfermero/a" },
@@ -409,7 +425,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con a/an o sin artículo",
+      section: { part: 6, subpart: 2 },
+      title: "Parte 6.2. Completa con a/an o sin artículo",
       items: [
         { question: "I'm ___ doctor." },
         { question: "She's ___ engineer." },
@@ -423,10 +440,11 @@ export const informacionPersonal: LessonContent = {
     // —— Familia ——
     {
       type: "paragraph",
+      section: { part: 7 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            Familia cercana
+            Parte 7. Familia cercana
           </h2>
           <p>
             Estos son los posesivos, que se refieren a la persona o cosa que
@@ -457,7 +475,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Vocabulario: familia nuclear y extendida",
+      section: { part: 7, subpart: 1 },
+      title: "Parte 7.1. Vocabulario: familia nuclear y extendida",
       items: [
         { en: "mother / mom", es: "madre / mamá" },
         { en: "father / dad", es: "padre / papá" },
@@ -481,7 +500,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Posesivos",
+      section: { part: 7, subpart: 2 },
+      title: "Parte 7.2. Posesivos",
       items: [
         { en: "my", es: "mi / mis" },
         { en: "your", es: "tu / tus" },
@@ -493,7 +513,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Traduce al inglés",
+      section: { part: 7, subpart: 3 },
+      title: "Parte 7.3. Traduce al inglés",
       items: [
         {
           question: "Mi madre es profesora.",
@@ -517,10 +538,11 @@ export const informacionPersonal: LessonContent = {
     // —— Errores comunes ——
     {
       type: "paragraph",
+      section: { part: 8 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-lg font-semibold text-foreground">
-            Errores comunes a evitar
+            Parte 8. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>
@@ -638,7 +660,8 @@ export const informacionPersonal: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Corrige el error",
+      section: { part: 8, subpart: 1 },
+      title: "Parte 8.1. Corrige el error",
       items: [
         { question: "I have 30 years." },
         { question: "She is teacher." },
@@ -650,7 +673,8 @@ export const informacionPersonal: LessonContent = {
     // —— Práctica integrada ——
     {
       type: "exercise",
-      title: "Práctica integrada",
+      section: { part: 9 },
+      title: "Parte 9. Práctica integrada",
       items: [
         {
           question: "Mi hermano no es doctor, es enfermero.",

@@ -2,11 +2,25 @@ import { notFound } from "next/navigation";
 import { LessonLayout } from "@saygo/web/modules/landing/classes/components/lesson-layout";
 import { LessonContent } from "@saygo/web/modules/landing/classes/components/lesson-content";
 import { getZeroLesson, getZeroLessonSlugs } from "@saygo/web/modules/landing/classes/zero/lessons";
+import { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
 
 export async function generateStaticParams() {
   return getZeroLessonSlugs().map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const lesson = getZeroLesson(slug);
+  if (!lesson) return {
+    title: "Saygo - Clases - Zero",
+    description: "Conoce nuestros temarios para cada nivel de inglés",
+  };
+  return {
+    title: `${lesson.title} | Saygo`,
+    description: lesson.description ?? "Conoce nuestros temarios para cada nivel de inglés",
+  };
 }
 
 export default async function ZeroLessonPage({ params }: Props) {

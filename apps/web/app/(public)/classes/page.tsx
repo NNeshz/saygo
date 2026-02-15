@@ -7,8 +7,8 @@ import { ScrollToSection } from "@saygo/web/modules/landing/classes/scroll-to-se
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Saygo - Classes",
-  description: "Classes",
+  title: "Saygo - Clases",
+  description: "Conoce nuestros temarios para cada nivel de inglés",
 };
 
 export default function ClassesPage() {

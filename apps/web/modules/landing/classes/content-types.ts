@@ -1,14 +1,22 @@
 import type { ReactNode } from "react";
 
+/** Identificador de sección para referencias (ej: "solucionen la sección 2.2") */
+export type SectionId = {
+  part: number;
+  subpart?: number;
+};
+
 /** Bloque de texto (párrafo o lista) */
 export type ParagraphBlock = {
   type: "paragraph";
+  section?: SectionId;
   content: ReactNode;
 };
 
 /** Bloque de tabla: cabeceras + filas */
 export type TableBlock = {
   type: "table";
+  section?: SectionId;
   caption?: string;
   headers: string[];
   rows: string[][];
@@ -23,6 +31,7 @@ export type ExerciseItem = {
 
 export type ExerciseBlock = {
   type: "exercise";
+  section?: SectionId;
   title?: string;
   items: ExerciseItem[];
 };
@@ -35,9 +44,24 @@ export type VocabularyItem = {
 
 export type VocabularyBlock = {
   type: "vocabulary";
+  section?: SectionId;
   title?: string;
   items: VocabularyItem[];
 };
+
+/** Genera el id para ancla (ej: "parte-1", "parte-2-1") */
+export function getSectionAnchor(section: SectionId): string {
+  return section.subpart != null
+    ? `parte-${section.part}-${section.subpart}`
+    : `parte-${section.part}`;
+}
+
+/** Formato visible de sección (ej: "Parte 1", "Parte 1.1") */
+export function getSectionLabel(section: SectionId): string {
+  return section.subpart != null
+    ? `Parte ${section.part}.${section.subpart}`
+    : `Parte ${section.part}`;
+}
 
 export type LessonBlock = ParagraphBlock | TableBlock | ExerciseBlock | VocabularyBlock;
 

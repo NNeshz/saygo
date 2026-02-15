@@ -5,16 +5,17 @@ export const descripcionFisica: LessonContent = {
   description:
     "Describir apariencia física y personalidad, partes del cuerpo y ropa. Uso de verbos BE y HAVE para descripciones.",
   blocks: [
-    // —— Adjetivos físicos ——
+    // —— Apariencia Física ——
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Apariencia Física
+            Parte 1. Apariencia Física
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Adjetivos comunes
+            Parte 1.1. Adjetivos comunes
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -40,7 +41,8 @@ export const descripcionFisica: LessonContent = {
     },
     {
       type: "table",
-      caption: "Verbos para describir",
+      section: { part: 1, subpart: 1 },
+      caption: "Parte 1.2. Verbos para describir",
       headers: ["Verbo", "Uso", "Ejemplo"],
       rows: [
         [
@@ -57,7 +59,8 @@ export const descripcionFisica: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con IS o HAS",
+      section: { part: 1, subpart: 2 },
+      title: "Parte 1.3. Completa con IS o HAS",
       items: [
         { question: "She ___ tall." },
         { question: "He ___ brown eyes." },
@@ -68,10 +71,11 @@ export const descripcionFisica: LessonContent = {
     // —— Personalidad ——
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Personalidad y Carácter
+            Parte 2. Personalidad y Carácter
           </h2>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -88,7 +92,8 @@ export const descripcionFisica: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Describe a estas personas",
+      section: { part: 2, subpart: 1 },
+      title: "Parte 2.1. Describe a estas personas",
       items: [
         { question: "My best friend is ___." },
         { question: "My teacher is ___." },
@@ -98,10 +103,11 @@ export const descripcionFisica: LessonContent = {
     // —— Posición del adjetivo ——
     {
       type: "paragraph",
+      section: { part: 3 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Regla de oro: Posición del adjetivo
+            Parte 3. Regla de oro: Posición del adjetivo
           </h2>
           <p className="mb-3 text-foreground/90">
             En inglés, el adjetivo va <strong>ANTES</strong> del sustantivo.
@@ -116,7 +122,7 @@ export const descripcionFisica: LessonContent = {
             </p>
           </div>
           <h3 className="mb-2 mt-4 text-base font-semibold text-foreground">
-            Orden de múltiples adjetivos
+            Parte 3.1. Orden de múltiples adjetivos
           </h3>
           <p className="text-sm text-foreground/90 mb-2">
             Opinión → Tamaño → Edad → Color
@@ -134,7 +140,8 @@ export const descripcionFisica: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Ordena las palabras",
+      section: { part: 3, subpart: 1 },
+      title: "Parte 3.2. Ordena las palabras",
       items: [
         { question: "car / red / a / fast" },
         { question: "eyes / blue / beautiful" },
@@ -144,7 +151,8 @@ export const descripcionFisica: LessonContent = {
     // —— Vocabulario Ropa ——
     {
       type: "vocabulary",
-      title: "Ropa (Clothes)",
+      section: { part: 4 },
+      title: "Parte 4. Ropa (Clothes)",
       items: [
         { en: "shirt", es: "camisa" },
         { en: "t-shirt", es: "camiseta / playera" },
@@ -159,10 +167,11 @@ export const descripcionFisica: LessonContent = {
     },
     {
       type: "paragraph",
+      section: { part: 4, subpart: 1 },
       content: (
         <>
           <h3 className="mb-2 mt-4 text-base font-semibold text-foreground">
-            Verbo WEAR (llevar puesto)
+            Parte 4.1. Verbo WEAR (llevar puesto)
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -178,10 +187,11 @@ export const descripcionFisica: LessonContent = {
     // —— Errores comunes ——
     {
       type: "paragraph",
+      section: { part: 5 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Errores comunes a evitar
+            Parte 5. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>

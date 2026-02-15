@@ -5,13 +5,14 @@ export const elEntornoInmediato: LessonContent = {
   description:
     "Describir lo que existe en un lugar (there is/are) y lo que poseemos (have got), estructuras esenciales para hablar de nuestro entorno.",
   blocks: [
-    // —— PARTE 2: THERE IS / THERE ARE - Concepto básico ——
+    // —— THERE IS / THERE ARE - Concepto básico ——
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            THERE IS / THERE ARE - Concepto básico
+            Parte 1. THERE IS / THERE ARE - Concepto básico
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             ¿Qué significa THERE IS / THERE ARE?
@@ -56,13 +57,14 @@ export const elEntornoInmediato: LessonContent = {
         </>
       ),
     },
-    // —— PARTE 3: THERE IS - Singular (afirmativo) ——
+    // —— THERE IS - Singular ——
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            THERE IS - Singular (afirmativo)
+            Parte 2. THERE IS - Singular (afirmativo)
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             Estructura básica
@@ -98,7 +100,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con THERE IS o THERE'S",
+      section: { part: 2, subpart: 1 },
+      title: "Parte 2.1. Completa con THERE IS o THERE'S",
       items: [
         { question: "___ a book on the table" },
         { question: "___ a car in the garage" },
@@ -106,13 +109,14 @@ export const elEntornoInmediato: LessonContent = {
         { question: "___ milk in the fridge" },
       ],
     },
-    // —— PARTE 4: THERE ARE - Plural (afirmativo) ——
+    // —— THERE ARE - Plural ——
     {
       type: "paragraph",
+      section: { part: 3 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            THERE ARE - Plural (afirmativo)
+            Parte 3. THERE ARE - Plural (afirmativo)
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             Estructura básica
@@ -149,7 +153,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con THERE IS o THERE ARE",
+      section: { part: 3, subpart: 1 },
+      title: "Parte 3.1. Completa con THERE IS o THERE ARE",
       items: [
         { question: "___ two chairs in the room" },
         { question: "___ a table in the kitchen" },
@@ -158,13 +163,14 @@ export const elEntornoInmediato: LessonContent = {
         { question: "___ many students in the class" },
       ],
     },
-    // —— PARTE 5: Negativo ——
+    // —— Negativo ——
     {
       type: "paragraph",
+      section: { part: 4 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Forma Negativa
+            Parte 4. Forma Negativa
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             Estructuras
@@ -203,7 +209,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Convierte a negativo",
+      section: { part: 4, subpart: 1 },
+      title: "Parte 4.1. Convierte a negativo",
       items: [
         { question: "There is a bank near here → ?" },
         { question: "There are three chairs → ?" },
@@ -211,13 +218,14 @@ export const elEntornoInmediato: LessonContent = {
         { question: "There are some books → ?" },
       ],
     },
-    // —— PARTE 6: Interrogativo ——
+    // —— Interrogativo ——
     {
       type: "paragraph",
+      section: { part: 5 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Forma Interrogativa
+            Parte 5. Forma Interrogativa
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             Estructura
@@ -261,7 +269,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Forma la pregunta",
+      section: { part: 5, subpart: 1 },
+      title: "Parte 5.1. Forma la pregunta",
       items: [
         { question: "(un banco - cerca de aquí) → ?" },
         { question: "(alguna tienda - en esta calle) → ?" },
@@ -269,13 +278,14 @@ export const elEntornoInmediato: LessonContent = {
         { question: "(cuántos estudiantes - en la clase) → ?" },
       ],
     },
-    // —— PARTE 7: HAVE GOT - Posesión ——
+    // —— HAVE GOT - Posesión ——
     {
       type: "paragraph",
+      section: { part: 6 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            HAVE GOT - Posesión
+            Parte 6. HAVE GOT - Posesión
           </h2>
           <p className="mb-3 text-foreground/90">
             <strong>HAVE GOT</strong> significa "Tener". Es muy común en inglés
@@ -310,7 +320,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con HAVE GOT / HAS GOT",
+      section: { part: 6, subpart: 1 },
+      title: "Parte 6.1. Completa con HAVE GOT / HAS GOT",
       items: [
         { question: "I ___ a car" },
         { question: "She ___ a bike" },
@@ -319,13 +330,14 @@ export const elEntornoInmediato: LessonContent = {
         { question: "My mother ___ blue eyes" },
       ],
     },
-    // —— PARTE 8 & 9: HAVE GOT - Negativo e Interrogativo ——
+    // —— HAVE GOT - Negativo e Interrogativo ——
     {
       type: "paragraph",
+      section: { part: 7 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            HAVE GOT - Negativo e Interrogativo
+            Parte 7. HAVE GOT - Negativo e Interrogativo
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             Negativo (Haven't got / Hasn't got)
@@ -358,7 +370,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Práctica con HAVE GOT",
+      section: { part: 7, subpart: 1 },
+      title: "Parte 7.1. Práctica con HAVE GOT",
       items: [
         { question: "I have got a car (Negativo) → ?" },
         { question: "She has got a bike (Pregunta) → ?" },
@@ -366,13 +379,14 @@ export const elEntornoInmediato: LessonContent = {
         { question: "They have got a dog (Negativo) → ?" },
       ],
     },
-    // —— PARTE 10: Preposiciones de lugar avanzadas ——
+    // —— Preposiciones de lugar avanzadas ——
     {
       type: "paragraph",
+      section: { part: 8 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Preposiciones de lugar avanzadas
+            Parte 8. Preposiciones de lugar avanzadas
           </h2>
           <p className="mb-3 text-foreground/90">
             Además de <em>in, on, under, next to, behind, in front of</em>:
@@ -408,17 +422,19 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Elige la preposición correcta",
+      section: { part: 8, subpart: 1 },
+      title: "Parte 8.1. Elige la preposición correcta",
       items: [
         { question: "The bank is ___ the pharmacy and the supermarket." },
         { question: "The picture is ___ the sofa (arriba, sin tocar)." },
         { question: "The cinema is ___ the bank (al otro lado de la calle)." },
       ],
     },
-    // —— PARTE 11 & 12: Vocabulario Casa y Ciudad ——
+    // —— Vocabulario Casa y Ciudad ——
     {
       type: "vocabulary",
-      title: "La Casa (The House)",
+      section: { part: 9 },
+      title: "Parte 9. La Casa (The House)",
       items: [
         { en: "living room", es: "sala" },
         { en: "bedroom", es: "recámara / dormitorio" },
@@ -434,7 +450,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "La Ciudad (The City)",
+      section: { part: 9, subpart: 1 },
+      title: "Parte 9.1. La Ciudad (The City)",
       items: [
         { en: "bank", es: "banco" },
         { en: "supermarket", es: "supermercado" },
@@ -447,13 +464,14 @@ export const elEntornoInmediato: LessonContent = {
         { en: "subway station", es: "estación de metro" },
       ],
     },
-    // —— PARTE 13: Transporte ——
+    // —— Transporte ——
     {
       type: "paragraph",
+      section: { part: 10 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Medios de Transporte
+            Parte 10. Medios de Transporte
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
             Cómo nos movemos
@@ -477,7 +495,8 @@ export const elEntornoInmediato: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Traduce",
+      section: { part: 10, subpart: 1 },
+      title: "Parte 10.1. Traduce",
       items: [
         { question: "Voy al trabajo en autobús → ?" },
         { question: "Tengo un carro → ?" },
@@ -487,10 +506,11 @@ export const elEntornoInmediato: LessonContent = {
     // —— Errores comunes ——
     {
       type: "paragraph",
+      section: { part: 11 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Errores comunes a evitar
+            Parte 11. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>

@@ -5,20 +5,21 @@ export const mundoAlrededor: LessonContent = {
   description:
     "Artículos a/an y the, sustantivos contables e incontables, plurales, demostrativos, vocabulario del aula, colores y preposiciones de lugar.",
   blocks: [
-    // —— PARTE 1: A / AN ——
+    // —— A / AN ——
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Artículos indefinidos: A y AN
+            Parte 1. Artículos indefinidos: A y AN
           </h2>
           <p className="mb-2 text-foreground/90">
             <strong>A</strong> y <strong>AN</strong> = un/una. Lo importante es
             el <strong>sonido</strong>, no la letra.
           </p>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Regla de uso
+            Parte 1.1. Regla de uso
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -31,7 +32,7 @@ export const mundoAlrededor: LessonContent = {
             </li>
           </ul>
           <h3 className="mb-1 mt-3 text-base font-semibold text-foreground">
-            Casos especiales
+            Parte 1.2. Casos especiales
           </h3>
           <ul className="list-disc list-inside space-y-0.5 text-sm text-muted-foreground">
             <li>an honest person (h muda)</li>
@@ -43,10 +44,11 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "paragraph",
+      section: { part: 1, subpart: 1 },
       content: (
         <>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Usos de A/AN
+            Parte 1.3. Usos de A/AN
           </h3>
           <ul className="list-disc list-inside space-y-1 text-foreground/90 mb-2">
             <li>
@@ -63,7 +65,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Práctica: A o AN",
+      section: { part: 1, subpart: 2 },
+      title: "Parte 1.4. Práctica: A o AN",
       items: [
         { question: "___ apple" },
         { question: "___ book" },
@@ -73,17 +76,18 @@ export const mundoAlrededor: LessonContent = {
         { question: "___ hour" },
       ],
     },
-    // —— PARTE 2: THE ——
+    // —— THE ——
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Artículo definido: THE
+            Parte 2. Artículo definido: THE
           </h2>
           <p className="mb-2 text-foreground/90">THE = el / la / los / las.</p>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Se usa cuando
+            Parte 2.1. Se usa cuando
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -96,7 +100,7 @@ export const mundoAlrededor: LessonContent = {
             <li>Superlativos: the best student, the biggest house.</li>
           </ul>
           <h3 className="mb-2 mt-3 text-base font-semibold text-foreground">
-            No usamos THE con
+            Parte 2.2. No usamos THE con
           </h3>
           <ul className="list-disc list-inside space-y-1 text-sm text-foreground/90">
             <li>Nombres de personas (Maria)</li>
@@ -113,7 +117,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "table",
-      caption: "Primera mención vs segunda mención",
+      section: { part: 2, subpart: 1 },
+      caption: "Parte 2.3. Primera mención vs segunda mención",
       headers: ["Primera mención", "Segunda mención"],
       rows: [
         ["I see a cat", "The cat is black"],
@@ -123,7 +128,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Práctica: A, AN, THE o nada (Ø)",
+      section: { part: 2, subpart: 2 },
+      title: "Parte 2.4. Práctica: A, AN, THE o nada (Ø)",
       items: [
         { question: "I have ___ dog. ___ dog is big." },
         {
@@ -135,30 +141,31 @@ export const mundoAlrededor: LessonContent = {
         { question: "He plays ___ guitar." },
       ],
     },
-    // —— PARTE 3: Contables e incontables ——
+    // —— Contables e incontables ——
     {
       type: "paragraph",
+      section: { part: 3 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Sustantivos contables e incontables
+            Parte 3. Sustantivos contables e incontables
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Contables
+            Parte 3.1. Contables
           </h3>
           <p className="mb-3 text-foreground/90">
             Se cuentan (1, 2, 3…), tienen singular y plural: book/books,
             pen/pens.
           </p>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Incontables
+            Parte 3.2. Incontables
           </h3>
           <p className="mb-2 text-foreground/90">
             No se cuentan así, una sola forma: water, rice, milk, music,
             information, advice, furniture.
           </p>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Cómo medir incontables
+            Parte 3.3. Cómo medir incontables
           </h3>
           <ul className="list-disc list-inside space-y-1 text-foreground/90">
             <li>
@@ -172,7 +179,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "¿Contable (C) o Incontable (I)?",
+      section: { part: 3, subpart: 1 },
+      title: "Parte 3.4. ¿Contable (C) o Incontable (I)?",
       items: [
         { question: "chair" },
         { question: "water" },
@@ -181,13 +189,14 @@ export const mundoAlrededor: LessonContent = {
         { question: "advice" },
       ],
     },
-    // —— PARTE 4: Plurales ——
+    // —— Plurales ——
     {
       type: "paragraph",
+      section: { part: 4 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Formación de plurales
+            Parte 4. Formación de plurales
           </h2>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -222,7 +231,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Forma el plural",
+      section: { part: 4, subpart: 1 },
+      title: "Parte 4.1. Forma el plural",
       items: [
         { question: "chair → ?" },
         { question: "box → ?" },
@@ -232,10 +242,11 @@ export const mundoAlrededor: LessonContent = {
         { question: "woman → ?" },
       ],
     },
-    // —— PARTE 5: Demostrativos ——
+    // —— Demostrativos ——
     {
       type: "table",
-      caption: "This, That, These, Those",
+      section: { part: 5 },
+      caption: "Parte 5. This, That, These, Those",
       headers: ["", "Singular", "Plural"],
       rows: [
         ["Cerca", "THIS (este/esta)", "THESE (estos/estas)"],
@@ -244,6 +255,7 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "paragraph",
+      section: { part: 5, subpart: 1 },
       content: (
         <p className="text-foreground/90">
           Ejemplos: This is my book. These are my keys. That is my car. Those
@@ -254,7 +266,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con this, that, these, those",
+      section: { part: 5, subpart: 2 },
+      title: "Parte 5.2. Completa con this, that, these, those",
       items: [
         { question: "___ is my pen (cerca, singular)." },
         { question: "___ are my books (cerca, plural)." },
@@ -262,16 +275,17 @@ export const mundoAlrededor: LessonContent = {
         { question: "___ are the students (lejos, plural)." },
       ],
     },
-    // —— PARTE 6: Vocabulario aula y colores ——
+    // —— Vocabulario aula y colores ——
     {
       type: "paragraph",
+      section: { part: 6 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Objetos del aula y colores
+            Parte 6. Objetos del aula y colores
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Regla del color
+            Parte 6.1. Regla del color
           </h3>
           <ul className="list-disc list-inside space-y-1 text-foreground/90 mb-2">
             <li>
@@ -285,7 +299,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Objetos del aula",
+      section: { part: 6, subpart: 1 },
+      title: "Parte 6.2. Objetos del aula",
       items: [
         { en: "desk", es: "escritorio" },
         { en: "chair", es: "silla" },
@@ -309,7 +324,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Colores",
+      section: { part: 6, subpart: 2 },
+      title: "Parte 6.3. Colores",
       items: [
         { en: "red", es: "rojo" },
         { en: "blue", es: "azul" },
@@ -326,13 +342,14 @@ export const mundoAlrededor: LessonContent = {
         { en: "dark blue", es: "azul oscuro" },
       ],
     },
-    // —— PARTE 7: Preposiciones de lugar ——
+    // —— Preposiciones de lugar ——
     {
       type: "paragraph",
+      section: { part: 7 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Preposiciones de lugar
+            Parte 7. Preposiciones de lugar
           </h2>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -360,7 +377,7 @@ export const mundoAlrededor: LessonContent = {
             </li>
           </ul>
           <h3 className="mb-2 mt-3 text-base font-semibold text-foreground">
-            Notas adicionales
+            Parte 7.1. Notas adicionales
           </h3>
           <ul className="list-disc list-inside space-y-0.5 text-sm text-muted-foreground">
             <li>
@@ -381,7 +398,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Preposiciones de lugar",
+      section: { part: 7, subpart: 1 },
+      title: "Parte 7.2. Preposiciones de lugar",
       items: [
         { en: "in", es: "dentro de / en" },
         { en: "on", es: "sobre / encima de" },
@@ -396,7 +414,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con la preposición correcta",
+      section: { part: 7, subpart: 2 },
+      title: "Parte 7.3. Completa con la preposición correcta",
       items: [
         { question: "The book is ___ the table (sobre)." },
         { question: "The cat is ___ the chair (debajo)." },
@@ -405,16 +424,17 @@ export const mundoAlrededor: LessonContent = {
         { question: "My bag is ___ the door (detrás)." },
       ],
     },
-    // —— PARTE 8: Oraciones simples ——
+    // —— Oraciones simples ——
     {
       type: "paragraph",
+      section: { part: 8 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Construcción de oraciones simples
+            Parte 8. Construcción de oraciones simples
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Patrones útiles
+            Parte 8.1. Patrones útiles
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -432,13 +452,14 @@ export const mundoAlrededor: LessonContent = {
         </>
       ),
     },
-    // —— PARTE 9: Errores comunes ——
+    // —— Errores comunes ——
     {
       type: "paragraph",
+      section: { part: 9 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Errores comunes a evitar
+            Parte 9. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>
@@ -525,7 +546,8 @@ export const mundoAlrededor: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Corrige el error",
+      section: { part: 9, subpart: 1 },
+      title: "Parte 9.1. Corrige el error",
       items: [
         { question: "This is a books." },
         { question: "The pen blue is on table." },

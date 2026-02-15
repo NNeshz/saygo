@@ -8,13 +8,14 @@ export const primerContacto: LessonContent = {
     // —— PARTE 1: Saludos formales e informales ——
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Saludos formales e informales
+            Parte 1. Saludos formales e informales
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Contexto y uso apropiado
+            Parte 1.1. Contexto y uso apropiado
           </h3>
           <h4 className="mb-1 text-sm font-semibold text-foreground">
             Formales
@@ -50,7 +51,8 @@ export const primerContacto: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Práctica: ¿Qué saludo usarías?",
+      section: { part: 1, subpart: 1 },
+      title: "Parte 1.2. Práctica: ¿Qué saludo usarías?",
       items: [
         { question: "Entrevista de trabajo (10 AM) → ?" },
         { question: "Encuentro con amigo en la calle → ?" },
@@ -59,16 +61,17 @@ export const primerContacto: LessonContent = {
         { question: "Saludar a un vecino → ?" },
       ],
     },
-    // —— PARTE 2: Presentaciones y verbo To Be ——
+    // —— Presentaciones y verbo To Be ——
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Presentaciones y el verbo &quot;To Be&quot;
+            Parte 2. Presentaciones y el verbo &quot;To Be&quot;
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Estructuras
+            Parte 2.1. Estructuras
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -84,7 +87,7 @@ export const primerContacto: LessonContent = {
             </li>
           </ul>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Uso de &quot;To Be&quot;
+            Parte 2.2. Uso de &quot;To Be&quot;
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -102,7 +105,8 @@ export const primerContacto: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con am, is, are",
+      section: { part: 2, subpart: 1 },
+      title: "Parte 2.3. Completa con am, is, are",
       items: [
         { question: "I ___ from Spain" },
         { question: "She ___ my colleague" },
@@ -111,13 +115,14 @@ export const primerContacto: LessonContent = {
         { question: "We ___ ready" },
       ],
     },
-    // —— PARTE 3: Expresiones de cortesía ——
+    // —— Expresiones de cortesía ——
     {
       type: "paragraph",
+      section: { part: 3 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Expresiones de cortesía
+            Parte 3. Expresiones de cortesía
           </h2>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -141,7 +146,8 @@ export const primerContacto: LessonContent = {
     },
     {
       type: "exercise",
-      title: "¿Qué dices en esta situación?",
+      section: { part: 3, subpart: 1 },
+      title: "Parte 3.1. ¿Qué dices en esta situación?",
       items: [
         { question: "Necesitas pasar en un pasillo estrecho." },
         { question: "Llegaste tarde a una reunión." },
@@ -149,13 +155,14 @@ export const primerContacto: LessonContent = {
         { question: "Te dieron un regalo." },
       ],
     },
-    // —— PARTE 4: Países y nacionalidades ——
+    // —— Países y nacionalidades ——
     {
       type: "paragraph",
+      section: { part: 4 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Países y nacionalidades
+            Parte 4. Países y nacionalidades
           </h2>
           <p className="mb-2 text-foreground/90">
             Regla de oro: Las nacionalidades <strong>siempre</strong> van con
@@ -166,7 +173,8 @@ export const primerContacto: LessonContent = {
     },
     {
       type: "table",
-      caption: "Patrones de nacionalidades",
+      section: { part: 4, subpart: 1 },
+      caption: "Parte 4.1. Patrones de nacionalidades",
       headers: ["Terminación", "Ejemplos"],
       rows: [
         ["-an", "Mexican, American, Brazilian, German"],
@@ -178,7 +186,8 @@ export const primerContacto: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Escribe la nacionalidad",
+      section: { part: 4, subpart: 2 },
+      title: "Parte 4.2. Escribe la nacionalidad",
       items: [
         { question: "France → ?" },
         { question: "Japan → ?" },
@@ -187,13 +196,14 @@ export const primerContacto: LessonContent = {
         { question: "Thailand → ?" },
       ],
     },
-    // —— PARTE 5: Pronombres personales ——
+    // —— Pronombres personales ——
     {
       type: "paragraph",
+      section: { part: 5 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Pronombres personales
+            Parte 5. Pronombres personales
           </h2>
           <p className="mb-2 text-center text-lg font-medium text-foreground">
             I · You · He · She · It · We · They
@@ -216,7 +226,8 @@ export const primerContacto: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Sustitución por pronombre",
+      section: { part: 5, subpart: 1 },
+      title: "Parte 5.1. Sustitución por pronombre",
       items: [
         { question: "Maria and Carlos are late → ___ are late" },
         { question: "The meeting is important → ___ is important" },
@@ -224,13 +235,14 @@ export const primerContacto: LessonContent = {
         { question: "You and I are colleagues → ___ are colleagues" },
       ],
     },
-    // —— PARTE 6: Role-play (Práctica) ——
+    // —— Role-play ——
     {
       type: "paragraph",
+      section: { part: 6 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Role-play (Práctica oral)
+            Parte 6. Role-play (Práctica oral)
           </h2>
           <ul className="list-disc list-inside space-y-2 text-foreground/90">
             <li>
@@ -249,13 +261,14 @@ export const primerContacto: LessonContent = {
         </>
       ),
     },
-    // —— PARTE 7: Errores comunes ——
+    // —— Errores comunes ——
     {
       type: "paragraph",
+      section: { part: 7 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Errores comunes a evitar
+            Parte 7. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>

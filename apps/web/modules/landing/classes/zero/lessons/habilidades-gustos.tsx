@@ -5,13 +5,14 @@ export const habilidadesGustos: LessonContent = {
   description:
     "Expresar habilidades con CAN, gustos con LIKE, jerarquía de preferencias y vocabulario de deportes/hobbies.",
   blocks: [
-    // —— CAN (Habilidad) ——
+    // —— CAN ——
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            El verbo modal CAN (Poder/Saber)
+            Parte 1. El verbo modal CAN (Poder/Saber)
           </h2>
           <p className="mb-3 text-foreground/90">
             Usamos <strong>CAN</strong> para expresar habilidad física o mental.
@@ -27,7 +28,8 @@ export const habilidadesGustos: LessonContent = {
     },
     {
       type: "table",
-      caption: "Estructura de CAN",
+      section: { part: 1, subpart: 1 },
+      caption: "Parte 1.1. Estructura de CAN",
       headers: ["Afirmativo", "Negativo", "Interrogativo"],
       rows: [
         ["I can swim", "I can't swim", "Can I swim?"],
@@ -41,7 +43,7 @@ export const habilidadesGustos: LessonContent = {
       content: (
         <>
           <h3 className="mb-2 mt-4 text-base font-semibold text-foreground">
-            Reglas importantes
+            Parte 1.2. Reglas importantes
           </h3>
           <ol className="list-decimal list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -62,7 +64,8 @@ export const habilidadesGustos: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Completa con CAN o CAN'T",
+      section: { part: 1, subpart: 1 },
+      title: "Parte 1.3. Completa con CAN o CAN'T",
       items: [
         { question: "___ you swim? (¿Sabes nadar?)" },
         { question: "No, I ___ swim." },
@@ -70,13 +73,14 @@ export const habilidadesGustos: LessonContent = {
         { question: "We ___ come to the party. (Negativo)" },
       ],
     },
-    // —— LIKE (Gustos) ——
+    // —— LIKE ——
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Expresar gustos: LIKE
+            Parte 2. Expresar gustos: LIKE
           </h2>
           <p className="mb-3 text-foreground/90">
             En inglés, el sujeto es la persona a quien le gusta algo:{" "}
@@ -86,7 +90,7 @@ export const habilidadesGustos: LessonContent = {
             (A mí me gusta la pizza).
           </p>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Estructuras
+            Parte 2.1. Estructuras
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -108,7 +112,8 @@ export const habilidadesGustos: LessonContent = {
     },
     {
       type: "table",
-      caption: "Escala de preferencias",
+      section: { part: 2, subpart: 1 },
+      caption: "Parte 2.2. Escala de preferencias",
       headers: ["Expresión", "Significado", "Símbolo"],
       rows: [
         ["I love", "Me encanta / Amo", "❤️❤️❤️"],
@@ -119,7 +124,8 @@ export const habilidadesGustos: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Transforma las oraciones",
+      section: { part: 2, subpart: 2 },
+      title: "Parte 2.3. Transforma las oraciones",
       items: [
         { question: "I (love) pizza" },
         { question: "She (hate) spiders" },
@@ -130,13 +136,14 @@ export const habilidadesGustos: LessonContent = {
     // —— Vocabulario ——
     {
       type: "paragraph",
+      section: { part: 3 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Vocabulario: Deportes y Actividades
+            Parte 3. Vocabulario: Deportes y Actividades
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Verbos para deportes: Play, Go, Do
+            Parte 3.1. Verbos para deportes: Play, Go, Do
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
             <li>
@@ -157,7 +164,8 @@ export const habilidadesGustos: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Deportes y Hobbies",
+      section: { part: 3, subpart: 1 },
+      title: "Parte 3.2. Deportes y Hobbies",
       items: [
         { en: "soccer", es: "fútbol" },
         { en: "swimming", es: "natación" },
@@ -171,7 +179,8 @@ export const habilidadesGustos: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Elige el verbo correcto: Play, Go, Do",
+      section: { part: 3, subpart: 2 },
+      title: "Parte 3.3. Elige el verbo correcto: Play, Go, Do",
       items: [
         { question: "I ___ soccer." },
         { question: "She ___ yoga." },
@@ -182,10 +191,11 @@ export const habilidadesGustos: LessonContent = {
     // —— Errores comunes ——
     {
       type: "paragraph",
+      section: { part: 4 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Errores comunes a evitar
+            Parte 4. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
             <div>

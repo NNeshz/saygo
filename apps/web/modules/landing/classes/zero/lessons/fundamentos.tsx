@@ -7,10 +7,11 @@ export const fundamentos: LessonContent = {
   blocks: [
     {
       type: "paragraph",
+      section: { part: 1 },
       content: (
         <>
           <h2 className="mb-3 text-xl font-semibold text-foreground">
-            Sonidos del alfabeto fonético
+            Parte 1. Sonidos del alfabeto fonético
           </h2>
           <p className="mb-4 text-foreground/90">
             En esta clase trabajamos los <strong>sonidos</strong> del inglés, no
@@ -23,7 +24,8 @@ export const fundamentos: LessonContent = {
     },
     {
       type: "vocabulary",
-      title: "Sonidos IPA (ejemplos)",
+      section: { part: 1, subpart: 1 },
+      title: "Parte 1.1. Sonidos IPA (ejemplos)",
       items: [
         { en: "/æ/", es: "cat, bat" },
         { en: "/ɪ/", es: "ship, bit" },
@@ -37,7 +39,8 @@ export const fundamentos: LessonContent = {
     },
     {
       type: "table",
-      caption: "Sonidos cortos vs. largos (ejemplos)",
+      section: { part: 1, subpart: 2 },
+      caption: "Parte 1.2. Sonidos cortos vs. largos (ejemplos)",
       headers: ["Corto", "Palabra", "Largo", "Palabra"],
       rows: [
         ["/ɪ/", "ship", "/iː/", "sheep"],
@@ -48,13 +51,14 @@ export const fundamentos: LessonContent = {
     },
     {
       type: "paragraph",
+      section: { part: 2 },
       content: (
         <>
           <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
-            Ortografía básica
+            Parte 2. Ortografía básica
           </h2>
           <h3 className="mb-2 text-base font-semibold text-foreground">
-            Reglas principales
+            Parte 2.1. Reglas principales
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">
             <li>
@@ -74,7 +78,8 @@ export const fundamentos: LessonContent = {
     },
     {
       type: "exercise",
-      title: "Practica (Indica si el sonido es corto o largo)",
+      section: { part: 2, subpart: 1 },
+      title: "Parte 2.2. Practica (Indica si el sonido es corto o largo)",
       items: [
         {
           question: "beat — ¿/ɪ/ o /iː/?",
