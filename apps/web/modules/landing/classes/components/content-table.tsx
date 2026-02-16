@@ -6,7 +6,7 @@ export function ContentTable({ caption, headers, rows }: TableBlock) {
     <figure className="my-6 overflow-x-auto rounded border border-border bg-muted/20">
       <table className="w-full min-w-[280px] text-sm">
         {caption && (
-          <caption className="px-4 py-2 text-left text-lg font-medium text-foreground border-b border-border tracking-tight">
+          <caption className="px-4 py-2 text-left text-lg font-medium text-citrus-zest border-b border-border tracking-tight">
             {caption}
           </caption>
         )}

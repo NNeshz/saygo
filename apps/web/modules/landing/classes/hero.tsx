@@ -132,7 +132,7 @@ export function Hero() {
         style={{ x: mouseX, y: mouseY }}
       >
         <img
-          src="/bg/BG Green.jpg"
+          src="/bg/BG Blue.jpg"
           alt="Background"
           className="w-full h-full object-cover scale-120" // scale up slightly to avoid edges
         />

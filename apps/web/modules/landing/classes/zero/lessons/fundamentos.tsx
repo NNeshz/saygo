@@ -10,7 +10,7 @@ export const fundamentos: LessonContent = {
       section: { part: 1 },
       content: (
         <>
-          <h2 className="mb-3 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 text-xl font-semibold text-citrus-zest">
             Parte 1. Sonidos del alfabeto fonético
           </h2>
           <p className="mb-4 text-foreground/90">
@@ -54,10 +54,10 @@ export const fundamentos: LessonContent = {
       section: { part: 2 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 2. Ortografía básica
           </h2>
-          <h3 className="mb-2 text-base font-semibold text-foreground">
+          <h3 className="mb-2 text-base font-semibold text-citrus-zest">
             Parte 2.1. Reglas principales
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90">

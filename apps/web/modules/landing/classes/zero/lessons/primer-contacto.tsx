@@ -11,10 +11,10 @@ export const primerContacto: LessonContent = {
       section: { part: 1 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 1. Saludos formales e informales
           </h2>
-          <h3 className="mb-2 text-base font-semibold text-foreground">
+          <h3 className="mb-2 text-base font-semibold text-citrus-zest">
             Parte 1.1. Contexto y uso apropiado
           </h3>
           <h4 className="mb-1 text-sm font-semibold text-foreground">
@@ -67,10 +67,10 @@ export const primerContacto: LessonContent = {
       section: { part: 2 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 2. Presentaciones y el verbo &quot;To Be&quot;
           </h2>
-          <h3 className="mb-2 text-base font-semibold text-foreground">
+          <h3 className="mb-2 text-base font-semibold text-citrus-zest">
             Parte 2.1. Estructuras
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
@@ -86,7 +86,7 @@ export const primerContacto: LessonContent = {
               Carlos from Marketing.
             </li>
           </ul>
-          <h3 className="mb-2 text-base font-semibold text-foreground">
+          <h3 className="mb-2 text-base font-semibold text-citrus-zest">
             Parte 2.2. Uso de &quot;To Be&quot;
           </h3>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
@@ -121,7 +121,7 @@ export const primerContacto: LessonContent = {
       section: { part: 3 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 3. Expresiones de cortesía
           </h2>
           <ul className="list-disc list-inside space-y-1.5 text-foreground/90 mb-3">
@@ -161,7 +161,7 @@ export const primerContacto: LessonContent = {
       section: { part: 4 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 4. Países y nacionalidades
           </h2>
           <p className="mb-2 text-foreground/90">
@@ -202,7 +202,7 @@ export const primerContacto: LessonContent = {
       section: { part: 5 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 5. Pronombres personales
           </h2>
           <p className="mb-2 text-center text-lg font-medium text-foreground">
@@ -241,7 +241,7 @@ export const primerContacto: LessonContent = {
       section: { part: 6 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 6. Role-play (Práctica oral)
           </h2>
           <ul className="list-disc list-inside space-y-2 text-foreground/90">
@@ -267,7 +267,7 @@ export const primerContacto: LessonContent = {
       section: { part: 7 },
       content: (
         <>
-          <h2 className="mb-3 mt-8 text-xl font-semibold text-foreground">
+          <h2 className="mb-3 mt-8 text-xl font-semibold text-citrus-zest">
             Parte 7. Errores comunes a evitar
           </h2>
           <div className="space-y-5 text-sm text-foreground/90">
