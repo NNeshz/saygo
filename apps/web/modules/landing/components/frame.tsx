@@ -1,19 +1,11 @@
 "use client";
 
-import { ReactNode, useState, useMemo } from "react";
+import { ReactNode, useRef } from "react";
 import { cn } from "@saygo/ui/src/lib/utils";
 import { ScrollProvider } from "../context/scroll-context";
 
 export function Frame({ children }: { children: ReactNode }) {
-  const [scrollElement, setScrollElement] = useState<HTMLDivElement | null>(
-    null,
-  );
-  // Create a stable ref object that updates when state changes
-  // We need to cast it to match RefObject interface which usually expects current to be readonly or mutable depending on usage
-  const scrollRef = useMemo(
-    () => ({ current: scrollElement }),
-    [scrollElement],
-  );
+  const scrollRef = useRef<HTMLDivElement>(null);
 
   return (
     <div className="h-dvh w-screen bg-background p-0 md:p-2 flex flex-col overflow-hidden">
@@ -26,7 +18,7 @@ export function Frame({ children }: { children: ReactNode }) {
       >
         <ScrollProvider value={{ scrollRef }}>
           <div
-            ref={setScrollElement}
+            ref={scrollRef}
             className="absolute inset-0 w-full h-full overflow-y-auto overflow-x-hidden scrollbar-hide"
           >
             {children}

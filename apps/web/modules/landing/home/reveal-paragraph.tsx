@@ -10,7 +10,7 @@ const words = PARAGRAPH.split(" ");
 
 export function RevealParagraph() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, margin: "-10% 0px -10% 0px" });
+  const isInView = useInView(ref, { margin: "-10% 0px -10% 0px" });
 
   return (
     <div ref={ref} className="mx-auto max-w-5xl pb-8">
@@ -27,7 +27,7 @@ export function RevealParagraph() {
             }
             transition={{
               duration: 0.6,
-              delay: i * 0.04, // Stagger effect
+              delay: isInView ? i * 0.04 : (words.length - 1 - i) * 0.04,
               ease: "easeOut",
             }}
           >
