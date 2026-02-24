@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
 import { IconArrowLeft } from "@tabler/icons-react";
+import { DownloadPdfButton } from "./download-pdf-button";
 
 type LessonLayoutProps = {
   level: "zero" | "a1" | "a2" | "b1";
@@ -37,13 +38,18 @@ export function LessonLayout({
           Volver a {levelLabel}
         </Link>
 
-        <header className="space-y-2">
-          <h1 className="text-2xl font-bold tracking-tight text-foreground sm:text-3xl">
-            {title}
-          </h1>
-          {description && (
-            <p className="text-muted-foreground">{description}</p>
-          )}
+        <header className="space-y-4">
+          <div className="flex items-start justify-between gap-4">
+            <div className="space-y-2">
+              <h1 className="text-2xl font-bold tracking-tight text-foreground sm:text-3xl">
+                {title}
+              </h1>
+              {description && (
+                <p className="text-muted-foreground">{description}</p>
+              )}
+            </div>
+            <DownloadPdfButton title={title} />
+          </div>
         </header>
 
         <div className="prose prose-neutral dark:prose-invert max-w-none [&_ul]:list-disc [&_ol]:list-decimal">
