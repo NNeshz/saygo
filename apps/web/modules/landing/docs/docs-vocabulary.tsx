@@ -203,7 +203,7 @@ function SearchBar({
 
 export function DocsVocabulary() {
   const [activeCategoryId, setActiveCategoryId] = React.useState(
-    vocabularyCategories[0].id,
+    vocabularyCategories[0]?.id ?? "",
   );
   const [search, setSearch] = React.useState("");
   const activeCategory = vocabularyCategories.find(
