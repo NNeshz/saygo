@@ -3,43 +3,45 @@ import { cn } from "@saygo/ui/src/lib/utils";
 
 export function ContentTable({ caption, headers, rows }: TableBlock) {
   return (
-    <figure className="my-6 overflow-x-auto rounded border border-border bg-muted/20">
-      <table className="w-full min-w-[280px] text-sm">
-        {caption && (
-          <caption className="px-4 py-2 text-left text-lg font-medium text-citrus-zest border-b border-border tracking-tight">
-            {caption}
-          </caption>
-        )}
-        <thead>
-          <tr className="border-b border-border bg-muted/40">
-            {headers.map((h, i) => (
-              <th
-                key={i}
-                className="px-4 py-3 text-left font-semibold text-foreground"
-              >
-                {h}
-              </th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {rows.map((row, i) => (
-            <tr
-              key={i}
-              className={cn(
-                "border-b border-border/70",
-                i % 2 === 0 ? "bg-background" : "bg-muted/10",
-              )}
-            >
-              {row.map((cell, j) => (
-                <td key={j} className="px-4 py-2.5 text-foreground/90">
-                  {cell}
-                </td>
+    <figure className="overflow-hidden rounded-xl border border-border/60 bg-card/50 shadow-sm">
+      <div className="overflow-x-auto">
+        <table className="w-full min-w-[280px] text-sm">
+          {caption && (
+            <caption className="border-b border-border/60 bg-muted/30 px-4 py-3 text-left text-base font-semibold tracking-tight text-citrus-zest">
+              {caption}
+            </caption>
+          )}
+          <thead>
+            <tr className="border-b border-border/60 bg-muted/25">
+              {headers.map((h, i) => (
+                <th
+                  key={i}
+                  className="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wide text-muted-foreground"
+                >
+                  {h}
+                </th>
               ))}
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {rows.map((row, i) => (
+              <tr
+                key={i}
+                className={cn(
+                  "border-b border-border/50 last:border-0",
+                  i % 2 === 0 ? "bg-transparent" : "bg-muted/5",
+                )}
+              >
+                {row.map((cell, j) => (
+                  <td key={j} className="px-4 py-2.5 text-foreground/90">
+                    {cell}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </figure>
   );
 }

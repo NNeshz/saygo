@@ -52,7 +52,7 @@ export function LessonLayout({
           </div>
         </header>
 
-        <div className="prose prose-neutral dark:prose-invert max-w-none [&_ul]:list-disc [&_ol]:list-decimal">
+        <div className="lesson-print-root prose prose-neutral dark:prose-invert max-w-none [&_ul]:list-disc [&_ol]:list-decimal">
           {children}
         </div>
       </MaxWidth>

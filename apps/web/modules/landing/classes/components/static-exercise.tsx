@@ -4,14 +4,14 @@ import type { ExerciseBlock } from "../content-types";
 
 export function StaticExercise({ title, items }: ExerciseBlock) {
   return (
-    <div className="my-6 rounded border border-border bg-card shadow-sm overflow-hidden">
-      <div className="px-4 py-4">
+    <div className="overflow-hidden rounded-xl border border-border/60 bg-card/50 shadow-sm">
+      <div className="px-5 py-5 sm:px-6 sm:py-6">
         {title && (
-          <h4 className="mb-4 text-lg font-bold uppercase tracking-tight text-citrus-zest border-b border-border pb-2">
+          <h4 className="mb-5 border-b border-border/60 pb-3 text-base font-semibold leading-snug text-citrus-zest">
             {title}
           </h4>
         )}
-        <ol className="space-y-4 list-decimal list-outside pl-5 marker:font-medium marker:text-foreground/70">
+        <ol className="list-outside list-decimal space-y-5 pl-5 marker:font-semibold marker:text-muted-foreground">
           {items.map((item, i) => (
             <li key={i} className="pl-2 space-y-1">
               {item.instruction && (
