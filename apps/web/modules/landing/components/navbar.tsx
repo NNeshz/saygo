@@ -11,44 +11,10 @@ import {
   NavigationMenuTrigger,
   navigationMenuTriggerStyle,
 } from "@saygo/ui/src/components/navigation-menu";
-import {
-  IconAlertCircle,
-  IconCircleCheck,
-  IconCircleDashed,
-  IconMenu2,
-  IconX,
-  IconChevronDown,
-} from "@tabler/icons-react";
+import { IconMenu2, IconX, IconChevronDown } from "@tabler/icons-react";
 import { Button } from "@saygo/ui/src/components/button";
 import { AnimatePresence, motion } from "framer-motion";
 import { cn } from "@saygo/ui/src/lib/utils";
-
-const components: { title: string; href: string; description: string }[] = [
-  {
-    title: "Zero to A1",
-    href: "/classes#zero-to-a1",
-    description:
-      "Introductory English course for complete beginners. Covers alphabet and pronunciation, basic vocabulary, personal information, numbers, days and months, verb 'to be', simple present, and basic conversation skills.",
-  },
-  {
-    title: "A1 to A2",
-    href: "/classes#a1-to-a2",
-    description:
-      "Elementary level focused on building everyday communication. Includes past simple, frequency adverbs, countable and uncountable nouns, comparatives and superlatives, common phrasal verbs, and practical speaking activities.",
-  },
-  {
-    title: "A2 to B1",
-    href: "/classes#a2-to-b1",
-    description:
-      "Pre-intermediate course to improve fluency and confidence. Covers present perfect, future forms, first and second conditionals, modal verbs, storytelling in past tenses, and structured conversation practice.",
-  },
-  {
-    title: "B1 to B2",
-    href: "/classes#b1-to-b2",
-    description:
-      "Upper-intermediate level designed to refine grammar and expand vocabulary. Includes advanced conditionals, passive voice, reported speech, complex sentence structures, debate practice, presentations, and real-world communication skills.",
-  },
-];
 
 export function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
@@ -110,21 +76,11 @@ export function Navbar() {
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
-                <NavigationMenuItem className="hidden md:flex">
-                  <NavigationMenuTrigger>Clases</NavigationMenuTrigger>
-                  <NavigationMenuContent>
-                    <ul className="grid w-[400px] gap-2 md:w-[500px] md:grid-cols-2 lg:w-[600px]">
-                      {components.map((component) => (
-                        <ListItem
-                          key={component.title}
-                          title={component.title}
-                          href={component.href}
-                        >
-                          {component.description}
-                        </ListItem>
-                      ))}
-                    </ul>
-                  </NavigationMenuContent>
+                <NavigationMenuItem>
+                  <NavigationMenuLink
+                    className={navigationMenuTriggerStyle()}
+                    render={<Link href="/classes">Clases</Link>}
+                  />
                 </NavigationMenuItem>
                 <NavigationMenuItem>
                   <NavigationMenuLink
@@ -208,25 +164,14 @@ export function Navbar() {
                 </Link>
               </MobileSection>
 
-              <MobileSection title="Clases">
-                {components.map((component) => (
-                  <Link
-                    key={component.title}
-                    href={component.href}
-                    className="block py-2 text-muted-foreground hover:text-white"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    <div className="font-medium text-white">
-                      {component.title}
-                    </div>
-                    <div className="text-sm line-clamp-2">
-                      {component.description}
-                    </div>
-                  </Link>
-                ))}
-              </MobileSection>
-
-              <div className="py-4 border-b border-white/10">
+              <div className="py-4 border-b border-white/10 space-y-4">
+                <Link
+                  href="/classes"
+                  className="text-lg font-medium block"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  Clases
+                </Link>
                 <Link
                   href="/docs"
                   className="text-lg font-medium block"

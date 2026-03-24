@@ -2,9 +2,8 @@
 
 import { motion, useMotionValue, useTransform } from "framer-motion";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
-import { Badge } from "@saygo/ui/src/components/badge";
-import { Button } from "@saygo/ui/src/components/button";
-import { IconArrowDownRight } from "@tabler/icons-react";
+
+const BG_GREEN = "/bg/BG Blue.jpg";
 
 const lineVariants = {
   hidden: {
@@ -38,31 +37,8 @@ const paragraphVariants = {
   },
 };
 
-const badgeMotionVariants = {
-  initial: {
-    opacity: 0,
-    y: -8,
-    scale: 0.95,
-  },
-  animate: {
-    opacity: 1,
-    y: 0,
-    scale: 1,
-    transition: {
-      type: "spring" as const,
-      stiffness: 260,
-      damping: 18,
-      delay: 0.2,
-    },
-  },
-  hover: {
-    scale: 1.05,
-    y: -2,
-  },
-};
-
 function HeroHeading() {
-  const lines = ["Conoce nuestros temarios", { text: "para avanzar tu inglés.", italic: true }];
+  const lines = ["Clases para", { text: "cada nivel.", italic: true }];
 
   return (
     <h1 className="text-[clamp(2.75rem,6vw,4.5rem)] leading-[0.95] tracking-tighter font-bold text-white">
@@ -99,13 +75,12 @@ function HeroDescription() {
       initial="hidden"
       animate="visible"
     >
-      Escuela de inglés enfocada en que hables con seguridad, naturalidad y
-      propósito. Con clases personales, grupales y online.
+      Encuentra el material de clase organizado por niveles, listo para usar o descargar. Elige tu ruta de aprendizaje y accede a recursos en constante actualización.
     </motion.p>
   );
 }
 
-export function Hero() {
+export function ClassesHeader() {
   const x = useMotionValue(0);
   const y = useMotionValue(0);
 
@@ -124,23 +99,23 @@ export function Hero() {
   return (
     <div
       onMouseMove={handleMouseMove}
-      className="w-full relative overflow-hidden"
+      className="relative w-full overflow-hidden"
     >
-      {/* Background Image */}
       <motion.div
         className="absolute inset-0 z-0"
         style={{ x: mouseX, y: mouseY }}
       >
+        {/* eslint-disable-next-line @next/next/no-img-element -- asset estático en /public */}
         <img
-          src="/bg/BG Blue.jpg"
-          alt="Background"
-          className="w-full h-full object-cover scale-120" // scale up slightly to avoid edges
+          src={BG_GREEN}
+          alt=""
+          className="h-full w-full scale-120 object-cover"
         />
       </motion.div>
 
       <div className="relative z-10 w-full">
-        <section className="min-h-dvh flex items-center justify-center">
-          <MaxWidth className="w-full flex flex-col items-center justify-center text-center pt-24 pb-12 space-y-4">
+        <section className="flex min-h-dvh items-center justify-center">
+          <MaxWidth className="flex w-full flex-col items-center justify-center space-y-4 pt-24 pb-12 text-center">
             <HeroHeading />
             <HeroDescription />
           </MaxWidth>

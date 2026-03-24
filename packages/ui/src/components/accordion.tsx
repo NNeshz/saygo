@@ -62,7 +62,10 @@ function AccordionContent({
   return (
     <AccordionPrimitive.Panel
       data-slot="accordion-content"
-      className="data-open:animate-accordion-down data-closed:animate-accordion-up text-sm overflow-hidden [--radix-accordion-content-height:var(--accordion-panel-height)]"
+      className={cn(
+        "data-open:animate-accordion-down data-closed:animate-accordion-up overflow-hidden text-sm",
+        "[animation-duration:420ms] [animation-timing-function:cubic-bezier(0.22,1,0.36,1)]",
+      )}
       {...props}
     >
       <div
