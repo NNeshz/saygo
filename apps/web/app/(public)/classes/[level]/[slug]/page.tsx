@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { IconArrowLeft } from "@tabler/icons-react";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
 import { MarkdownBody } from "@saygo/web/modules/classes/components/markdown-body";
+import { DownloadPdfButton } from "@saygo/web/modules/classes/components/download-pdf-button";
 import {
   getAllClassLessonParams,
   getClassLesson,
@@ -39,20 +40,23 @@ export default async function ClassLessonPage({ params }: Props) {
   return (
     <section className="min-h-dvh bg-background pb-24 pt-20">
       <MaxWidth className="max-w-3xl space-y-10">
-        <div className="space-y-6">
-          <Link
-            href="/classes"
-            className="inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
-          >
-            <IconArrowLeft className="size-4 shrink-0" />
-            Volver a clases
-          </Link>
-          <p className="text-xs font-semibold uppercase tracking-widest text-citrus-zest">
-            {lesson.meta.level}
-          </p>
+        <div className="flex items-start justify-between gap-4">
+          <div className="space-y-6">
+            <Link
+              href="/classes"
+              className="inline-flex items-center gap-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
+            >
+              <IconArrowLeft className="size-4 shrink-0" />
+              Volver a clases
+            </Link>
+            <p className="text-xs font-semibold uppercase tracking-widest text-citrus-zest">
+              {lesson.meta.level}
+            </p>
+          </div>
+          <DownloadPdfButton title={heading} level={lesson.meta.level} />
         </div>
 
-        <MarkdownBody content={lesson.content} />
+        <MarkdownBody content={lesson.content} dataPdfContent />
 
         <footer className="border-t border-border pt-8 text-sm text-muted-foreground">
           <span className="font-medium text-foreground">{heading}</span>

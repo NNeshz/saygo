@@ -127,12 +127,16 @@ function markdownComponents(): Components {
 type MarkdownBodyProps = {
   content: string;
   className?: string;
+  dataPdfContent?: boolean;
 };
 
 /** Renderiza Markdown (GFM: tablas, tachado, listas de tareas, etc.) con tipografía tipo shadcn. */
-export function MarkdownBody({ content, className }: MarkdownBodyProps) {
+export function MarkdownBody({ content, className, dataPdfContent }: MarkdownBodyProps) {
   return (
-    <article className={cn(T.article, "max-w-none", className)}>
+    <article
+      className={cn(T.article, "max-w-none", className)}
+      {...(dataPdfContent ? { "data-pdf-content": "" } : {})}
+    >
       <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents()}>
         {content}
       </ReactMarkdown>
