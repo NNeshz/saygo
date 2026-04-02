@@ -3,7 +3,7 @@
 import { motion, useMotionValue, useTransform } from "framer-motion";
 import { MaxWidth } from "@saygo/web/modules/global/components/max-widht";
 
-const BG_GREEN = "/bg/BG Blue.jpg";
+const BG_GREEN = "/bg/BG.jpg";
 
 const lineVariants = {
   hidden: {
