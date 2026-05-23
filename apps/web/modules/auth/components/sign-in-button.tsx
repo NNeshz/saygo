@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { IconBrandGoogleFilled } from "@tabler/icons-react";
-import { Button } from "@template/ui/components/button";
+import { Button } from "@saygo/ui/components/button";
 import { authService } from "@/modules/auth/service/auth-service";
 
 export function SignInButton() {

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Renames the @template scope across the entire monorepo.
+ * Renames the @saygo scope across the entire monorepo.
  *
  * Usage:
  *   bun run rename miapp
@@ -55,7 +55,7 @@ if (!newScope || !/^[a-z][a-z0-9-]*$/.test(newScope)) {
   process.exit(1);
 }
 
-const FROM = "@template";
+const FROM = "@saygo";
 const TO = `@${newScope}`;
 const ROOT = new URL("..", import.meta.url).pathname;
 

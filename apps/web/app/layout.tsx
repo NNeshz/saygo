@@ -1,6 +1,5 @@
 import { Geist, Host_Grotesk } from "next/font/google";
 import "./globals.css";
-import "@/utils/env"; // validates required env vars at startup — throws if any are missing
 import { AppProviders } from "./app-provider";
 
 const geist = Geist({

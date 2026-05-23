@@ -1,4 +1,4 @@
-import { SidebarInset, SidebarProvider, SidebarTrigger } from "@template/ui/components/sidebar";
+import { SidebarInset, SidebarProvider, SidebarTrigger } from "@saygo/ui/components/sidebar";
 import { AppSidebar } from "@/modules/dashboard";
 import { Metadata } from "next";
 

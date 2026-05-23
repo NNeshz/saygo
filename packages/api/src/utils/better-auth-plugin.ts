@@ -1,6 +1,6 @@
 import { Elysia, status } from "elysia";
-import { auth } from "@template/auth";
-import { can, type AppRole } from "@template/auth";
+import { auth } from "@saygo/auth";
+import { can, type AppRole } from "@saygo/auth";
 import { apiError } from "./api-envelope";
 
 export const betterAuthPlugin = new Elysia({ name: "better-auth-plugin" })

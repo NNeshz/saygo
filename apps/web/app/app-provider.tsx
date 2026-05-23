@@ -2,8 +2,8 @@
 
 import type React from "react";
 import type { ReactNode } from "react";
-import { ThemeProvider } from "@template/ui/providers/theme-provider";
-import { Toaster } from "@template/ui/components/sonner";
+import { ThemeProvider } from "@saygo/ui/providers/theme-provider";
+import { Toaster } from "@saygo/ui/components/sonner";
 import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
 
 const queryClient = new QueryClient({

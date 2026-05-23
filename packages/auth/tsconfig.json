@@ -1,11 +1,11 @@
 {
-  "extends": "@template/typescript-config/node.json",
+  "extends": "@saygo/typescript-config/node.json",
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@template/auth/*": ["./src/*"],
-      "@template/database": ["../database/src/index.ts"],
-      "@template/database/*": ["../database/src/*"]
+      "@saygo/auth/*": ["./src/*"],
+      "@saygo/database": ["../database/src/index.ts"],
+      "@saygo/database/*": ["../database/src/*"]
     }
   },
   "include": ["src"],

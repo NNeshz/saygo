@@ -1,4 +1,4 @@
-import { authClient } from "@template/auth/client";
+import { authClient } from "@saygo/auth/client";
 import { errorMessageFromUnknown } from "@/utils/normalize-error";
 
 function getFrontendBaseUrl(): string {

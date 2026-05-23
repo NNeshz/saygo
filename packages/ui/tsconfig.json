@@ -1,10 +1,10 @@
 {
-  "extends": "@template/typescript-config/react-library.json",
+  "extends": "@saygo/typescript-config/react-library.json",
   "compilerOptions": {
     "baseUrl": ".",
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
     "paths": {
-      "@template/ui/*": ["./src/*"]
+      "@saygo/ui/*": ["./src/*"]
     }
   },
   "include": ["src"]

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { IconArrowLeft } from "@tabler/icons-react";
-import { Button } from "@template/ui/components/button";
+import { Button } from "@saygo/ui/components/button";
 
 export function BackButton() {
   return (

@@ -1,5 +1,5 @@
 {
-  "name": "@template/ui",
+  "name": "@saygo/ui",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -34,7 +34,7 @@
     "react-dom": "^18 || ^19"
   },
   "devDependencies": {
-    "@template/typescript-config": "*",
+    "@saygo/typescript-config": "*",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "tailwindcss": "latest",

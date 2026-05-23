@@ -7,7 +7,7 @@ import {
   Avatar,
   AvatarFallback,
   AvatarImage,
-} from "@template/ui/components/avatar";
+} from "@saygo/ui/components/avatar";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -15,20 +15,20 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@template/ui/components/dropdown-menu";
+} from "@saygo/ui/components/dropdown-menu";
 import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
   useSidebar,
-} from "@template/ui/components/sidebar";
+} from "@saygo/ui/components/sidebar";
 import {
   Tooltip,
   TooltipContent,
   TooltipProvider,
   TooltipTrigger,
-} from "@template/ui/components/tooltip";
-import { authClient } from "@template/auth/client";
+} from "@saygo/ui/components/tooltip";
+import { authClient } from "@saygo/auth/client";
 import { ChangeThemeSelector } from "./change-theme";
 import { NavUserSkeleton } from "./nav-user-skeleton";
 

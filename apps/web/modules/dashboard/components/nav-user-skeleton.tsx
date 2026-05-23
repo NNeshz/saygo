@@ -4,7 +4,7 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-} from "@template/ui/components/sidebar";
+} from "@saygo/ui/components/sidebar";
 
 export function NavUserSkeleton() {
   return (

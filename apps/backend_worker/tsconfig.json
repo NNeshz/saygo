@@ -1,11 +1,11 @@
 {
-  "extends": "@template/typescript-config/node.json",
+  "extends": "@saygo/typescript-config/node.json",
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
       "#/*": ["./src/*"],
-      "@template/api": ["../../packages/api/src/index.ts"],
-      "@template/api/*": ["../../packages/api/src/*"]
+      "@saygo/api": ["../../packages/api/src/index.ts"],
+      "@saygo/api/*": ["../../packages/api/src/*"]
     }
   },
   "include": ["src"]

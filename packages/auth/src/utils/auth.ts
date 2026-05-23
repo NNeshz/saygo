@@ -2,7 +2,7 @@ import { betterAuth } from "better-auth";
 import { drizzleAdapter } from "better-auth/adapters/drizzle";
 import { openAPI, admin } from "better-auth/plugins";
 
-import { db, user, session, account, verification } from "@template/database";
+import { db, user, session, account, verification } from "@saygo/database";
 import { ac, roles } from "./rbac";
 
 const isProduction = process.env.NODE_ENV === "production";

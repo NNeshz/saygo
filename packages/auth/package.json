@@ -1,5 +1,5 @@
 {
-  "name": "@template/auth",
+  "name": "@saygo/auth",
   "version": "0.0.0",
   "private": true,
   "exports": {
@@ -17,12 +17,12 @@
     }
   },
   "dependencies": {
-    "@template/database": "*",
+    "@saygo/database": "*",
     "better-auth": "^1.6.9",
     "next": "^16.2.4"
   },
   "devDependencies": {
-    "@template/typescript-config": "*",
+    "@saygo/typescript-config": "*",
     "@types/bun": "latest"
   }
 }

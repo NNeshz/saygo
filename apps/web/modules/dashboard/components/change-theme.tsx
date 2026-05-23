@@ -4,14 +4,14 @@ import * as React from "react";
 import { IconMoon, IconSun } from "@tabler/icons-react";
 import { useTheme } from "next-themes";
 
-import { Button } from "@template/ui/components/button";
-import { cn } from "@template/ui/lib/utils";
+import { Button } from "@saygo/ui/components/button";
+import { cn } from "@saygo/ui/lib/utils";
 import {
   Tooltip,
   TooltipContent,
   TooltipTrigger,
   TooltipProvider,
-} from "@template/ui/components/tooltip";
+} from "@saygo/ui/components/tooltip";
 
 const THEMES = ["light", "dark"] as const;
 const THEME_ICONS = {

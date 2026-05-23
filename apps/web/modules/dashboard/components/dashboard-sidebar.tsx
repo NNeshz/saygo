@@ -6,7 +6,7 @@ import {
   SidebarContent,
   SidebarFooter,
   SidebarHeader,
-} from "@template/ui/components/sidebar";
+} from "@saygo/ui/components/sidebar";
 import { dashboardNavMain } from "@/modules/dashboard/data/dashboard-sidebar-data";
 import { NavMain } from "./nav-main";
 import { NavUser } from "./nav-user";

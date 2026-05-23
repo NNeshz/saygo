@@ -1,5 +1,5 @@
 {
-  "name": "@template/backend-worker",
+  "name": "@saygo/backend-worker",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -7,10 +7,10 @@
     "build": "bun --env-file=../../.env build src/index.ts --outdir dist --target bun"
   },
   "dependencies": {
-    "@template/api": "*",
+    "@saygo/api": "*",
     "elysia": "^1.4.28"
   },
   "devDependencies": {
-    "@template/typescript-config": "*"
+    "@saygo/typescript-config": "*"
   }
 }

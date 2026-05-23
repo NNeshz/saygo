@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  transpilePackages: ["@template/ui"],
+  transpilePackages: ["@saygo/ui"],
 };
 
 export default nextConfig;

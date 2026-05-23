@@ -1,13 +1,13 @@
 {
-  "extends": "@template/typescript-config/node.json",
+  "extends": "@saygo/typescript-config/node.json",
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@template/api/*": ["./src/*"],
-      "@template/auth": ["../auth/src/index.ts"],
-      "@template/auth/*": ["../auth/src/*"],
-      "@template/database": ["../database/src/index.ts"],
-      "@template/database/*": ["../database/src/*"]
+      "@saygo/api/*": ["./src/*"],
+      "@saygo/auth": ["../auth/src/index.ts"],
+      "@saygo/auth/*": ["../auth/src/*"],
+      "@saygo/database": ["../database/src/index.ts"],
+      "@saygo/database/*": ["../database/src/*"]
     }
   },
   "include": ["src"]

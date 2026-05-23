@@ -1,4 +1,4 @@
-import { api } from "@template/api";
+import { api } from "@saygo/api";
 import { Elysia } from "elysia";
 
 const port = Number(process.env.PORT) || 8080;

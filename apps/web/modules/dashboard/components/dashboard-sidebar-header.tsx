@@ -5,7 +5,7 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-} from "@template/ui/components/sidebar";
+} from "@saygo/ui/components/sidebar";
 import { DASHBOARD_SIDEBAR_BRAND_SUBTITLE } from "@/modules/dashboard/lib/dashboard-display";
 
 export function DashboardSidebarHeader() {

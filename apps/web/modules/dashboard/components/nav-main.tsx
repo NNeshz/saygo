@@ -6,7 +6,7 @@ import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "@template/ui/components/collapsible";
+} from "@saygo/ui/components/collapsible";
 import {
   SidebarGroup,
   SidebarGroupLabel,
@@ -17,7 +17,7 @@ import {
   SidebarMenuSub,
   SidebarMenuSubButton,
   SidebarMenuSubItem,
-} from "@template/ui/components/sidebar";
+} from "@saygo/ui/components/sidebar";
 import type { DashboardNavMainItem } from "@/modules/dashboard/types/dashboard.types";
 
 type Props = {

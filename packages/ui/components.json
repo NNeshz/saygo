@@ -12,7 +12,7 @@
   "iconLibrary": "tabler",
   "aliases": {
     "components": "@/components",
-    "utils": "@template/ui/lib/utils",
+    "utils": "@saygo/ui/lib/utils",
     "hooks": "@/hooks",
     "ui": "@/components",
     "lib": "@/lib"

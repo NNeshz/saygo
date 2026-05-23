@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { headers } from "next/headers";
-import { authClient } from "@template/auth/client/index";
+import { authClient } from "@saygo/auth/client/index";
 
 const PUBLIC_ROUTES = ["/auth"];
 const PRIVATE_ROUTES = ["/dashboard"];
