@@ -7,9 +7,9 @@ export default function DocsLayout({ children }: { children: React.ReactNode }) 
   const tree = getDocTree()
 
   return (
-    <div className="flex w-full">
+    <div className="flex w-full max-w-7xl mx-auto">
       {/* ── Left sidebar (desktop) ────────────────────────────────────────── */}
-      <aside className="hidden lg:block shrink-0 w-56 xl:w-64 border-r">
+      <aside className="hidden lg:block shrink-0 w-56 xl:w-64">
         <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto py-8 px-5">
           <DocsNav sections={tree} />
         </div>
@@ -25,8 +25,8 @@ export default function DocsLayout({ children }: { children: React.ReactNode }) 
           </Link>
         </div>
 
-        {/* Page content — each page renders its own content + optional right TOC */}
-        <div className="px-6 py-8 lg:px-10 xl:px-14">
+        {/* Page content */}
+        <div className="px-6 py-8 lg:px-10">
           {children}
         </div>
       </div>

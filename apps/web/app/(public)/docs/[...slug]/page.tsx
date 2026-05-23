@@ -76,13 +76,11 @@ export default async function DocsSlugPage({ params }: Props) {
           <span className="text-foreground truncate">{doc.frontmatter.title}</span>
         </div>
 
-        <article className="max-w-2xl">
+        <article>
           <Markdown content={doc.content} />
         </article>
 
-        <div className="max-w-2xl">
-          <DocsPrevNext prev={prev} next={next} />
-        </div>
+        <DocsPrevNext prev={prev} next={next} />
       </div>
 
       {/* Right TOC */}
