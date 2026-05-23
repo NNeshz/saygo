@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { IconMoon, IconSun } from "@tabler/icons-react";
-import { useTheme } from "next-themes";
+import { useTheme } from "@saygo/ui/providers/theme-provider";
 
 import { Button } from "@saygo/ui/components/button";
 import { cn } from "@saygo/ui/lib/utils";

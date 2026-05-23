@@ -1,5 +1,6 @@
 import { Geist, Host_Grotesk } from "next/font/google";
 import "./globals.css";
+import { ThemeProvider } from "@saygo/ui/providers/theme-provider";
 import { AppProviders } from "./app-provider";
 
 const geist = Geist({
@@ -22,7 +23,15 @@ export default function RootLayout({
       <body
         className={`${hostGrotesk.variable} ${hostGrotesk.className} ${geist.variable} ${geist.className} antialiased`}
       >
-        <AppProviders>{children}</AppProviders>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="light"
+          themes={["light", "dark", "system"]}
+          enableSystem
+          disableTransitionOnChange
+        >
+          <AppProviders>{children}</AppProviders>
+        </ThemeProvider>
       </body>
     </html>
   );
