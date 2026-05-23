@@ -4,8 +4,8 @@ import { Button } from "@saygo/ui/components/button"
 
 function Navbar() {
   return (
-    <header className="sticky top-0 z-40 flex h-14 items-center border-b bg-background/80 backdrop-blur-sm px-6">
-      <div className="flex w-full max-w-screen-xl mx-auto items-center justify-between">
+    <header className="sticky top-0 z-40 flex h-14 items-center border-b bg-background/80 backdrop-blur-sm">
+      <div className="flex w-full max-w-7xl mx-auto items-center justify-between px-6">
         <Link
           href="/"
           className="flex items-center gap-2 font-semibold hover:opacity-80 transition-opacity"

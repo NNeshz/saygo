@@ -28,7 +28,7 @@ export function DocsMobileNav({ sections }: Props) {
           <span className="sr-only">Abrir menú</span>
         </Button>
       </SheetTrigger>
-      <SheetContent side="left" className="w-72 p-0">
+      <SheetContent side="left" className="w-72 p-0" aria-describedby={undefined}>
         <SheetHeader className="px-5 py-4 border-b">
           <SheetTitle className="text-left text-sm">Clases</SheetTitle>
         </SheetHeader>
