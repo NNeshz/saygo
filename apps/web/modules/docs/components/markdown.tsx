@@ -1,36 +1,62 @@
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 import type { Components } from "react-markdown"
+import type { ReactNode } from "react"
+import { slugifyHeading } from "@/modules/docs/lib/headings"
+
+function getNodeText(node: ReactNode): string {
+  if (typeof node === "string") return node
+  if (typeof node === "number") return String(node)
+  if (Array.isArray(node)) return node.map(getNodeText).join("")
+  if (node && typeof node === "object" && "props" in node) {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return getNodeText((node as any).props?.children)
+  }
+  return ""
+}
 
 const components: Components = {
   h1: ({ children }) => (
-    <h1 className="scroll-mt-20 text-3xl font-bold tracking-tight mb-4 mt-2">
-      {children}
-    </h1>
+    <h1 className="text-3xl font-bold tracking-tight mb-4 mt-2">{children}</h1>
   ),
-  h2: ({ children }) => (
-    <h2 className="scroll-mt-20 text-2xl font-semibold tracking-tight border-b pb-2 mb-4 mt-10">
-      {children}
-    </h2>
-  ),
-  h3: ({ children }) => (
-    <h3 className="scroll-mt-20 text-xl font-semibold mt-8 mb-3">{children}</h3>
-  ),
+  h2: ({ children }) => {
+    const id = slugifyHeading(getNodeText(children))
+    return (
+      <h2
+        id={id}
+        className="scroll-mt-20 text-xl font-semibold border-b pb-2 mb-4 mt-10"
+      >
+        {children}
+      </h2>
+    )
+  },
+  h3: ({ children }) => {
+    const id = slugifyHeading(getNodeText(children))
+    return (
+      <h3 id={id} className="scroll-mt-20 text-base font-semibold mt-7 mb-3">
+        {children}
+      </h3>
+    )
+  },
   h4: ({ children }) => (
-    <h4 className="scroll-mt-20 text-base font-semibold mt-6 mb-2">{children}</h4>
+    <h4 className="text-sm font-semibold mt-5 mb-2">{children}</h4>
   ),
   p: ({ children }) => (
     <p className="leading-7 mb-4 text-foreground/90">{children}</p>
   ),
   ul: ({ children }) => (
-    <ul className="list-disc pl-6 mb-4 space-y-1.5 text-foreground/90">{children}</ul>
+    <ul className="list-disc pl-5 mb-4 space-y-1 text-foreground/90">
+      {children}
+    </ul>
   ),
   ol: ({ children }) => (
-    <ol className="list-decimal pl-6 mb-4 space-y-1.5 text-foreground/90">{children}</ol>
+    <ol className="list-decimal pl-5 mb-4 space-y-1 text-foreground/90">
+      {children}
+    </ol>
   ),
-  li: ({ children }) => <li className="leading-7">{children}</li>,
+  li: ({ children }) => <li className="leading-7 pl-1">{children}</li>,
   blockquote: ({ children }) => (
-    <blockquote className="border-l-4 border-primary pl-4 py-1 my-4 bg-muted/40 rounded-r-md text-muted-foreground italic">
+    <blockquote className="border-l-4 border-primary/60 pl-4 py-0.5 my-4 bg-muted/30 rounded-r-sm text-muted-foreground italic">
       {children}
     </blockquote>
   ),
@@ -44,16 +70,18 @@ const components: Components = {
       )
     }
     return (
-      <code className="bg-muted rounded px-1.5 py-0.5 text-sm font-mono text-foreground">
+      <code className="bg-muted rounded px-1.5 py-0.5 text-[0.8em] font-mono text-foreground">
         {children}
       </code>
     )
   },
   pre: ({ children }) => (
-    <pre className="my-4 overflow-hidden rounded-lg border bg-muted">{children}</pre>
+    <pre className="my-4 overflow-hidden rounded-lg border bg-muted">
+      {children}
+    </pre>
   ),
   table: ({ children }) => (
-    <div className="my-4 w-full overflow-x-auto rounded-lg border">
+    <div className="my-5 w-full overflow-x-auto rounded-lg border">
       <table className="w-full text-sm">{children}</table>
     </div>
   ),
