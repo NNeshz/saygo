@@ -46,10 +46,10 @@ function HeroSection() {
           <span className="text-muted-foreground">no que se memoriza.</span>
         </h1>
         <div className="flex flex-wrap items-center gap-4">
-          <Button size="lg" className="uppercase tracking-widest" asChild>
+          <Button size="lg" className="" asChild>
             <Link href="/docs">Empezar ahora →</Link>
           </Button>
-          <Button variant="ghost" size="lg" className="uppercase tracking-widest" asChild>
+          <Button variant="ghost" size="lg" className="" asChild>
             <Link href="#niveles">Ver niveles</Link>
           </Button>
         </div>
@@ -172,7 +172,7 @@ function StepsSection() {
         ))}
       </div>
       <div className="px-8 lg:px-12 py-10 border-t border-border">
-        <Button variant="outline" size="lg" className="uppercase tracking-widest" asChild>
+        <Button variant="outline" size="lg" className="" asChild>
           <Link href="/docs">Ir al currículo →</Link>
         </Button>
       </div>
@@ -217,7 +217,7 @@ function TestimonialsSection() {
             <Button
               variant="outline"
               size="sm"
-              className="uppercase tracking-widest"
+              className=""
               asChild
             >
               <Link href="/docs">Ver las clases →</Link>
@@ -364,7 +364,7 @@ function CtaSection() {
           </h2>
           <Button
             size="lg"
-            className="w-fit uppercase tracking-widest"
+            className="w-fit "
             asChild
           >
             <Link href="/docs/a0">Ir a A0 →</Link>
@@ -405,7 +405,7 @@ function Footer() {
 
           <div className="flex flex-wrap gap-10">
             <div>
-              <p className="text-xs text-background/40 uppercase tracking-widest mb-4">
+              <p className="text-xs text-background/40  mb-4">
                 SayGo
               </p>
               <ul className="space-y-2.5 text-sm">
@@ -426,7 +426,7 @@ function Footer() {
               </ul>
             </div>
             <div>
-              <p className="text-xs text-background/40 uppercase tracking-widest mb-4">
+              <p className="text-xs text-background/40  mb-4">
                 Niveles
               </p>
               <ul className="space-y-2.5 text-sm">
@@ -443,7 +443,7 @@ function Footer() {
               </ul>
             </div>
             <div>
-              <p className="text-xs text-background/40 uppercase tracking-widest mb-4">
+              <p className="text-xs text-background/40  mb-4">
                 Contacto
               </p>
               <ul className="space-y-2.5 text-sm">
@@ -462,7 +462,7 @@ function Footer() {
           <div className="flex items-start">
             <Button
               variant="outline"
-              className="border-background/25 text-background hover:bg-background/10 uppercase tracking-widest"
+              className="border-background/25 text-background hover:bg-background/10 "
               asChild
             >
               <Link href="/docs">Ver clases →</Link>

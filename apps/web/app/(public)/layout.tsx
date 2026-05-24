@@ -21,7 +21,6 @@ function Navbar() {
             className="flex items-center gap-2.5 font-semibold hover:opacity-80 transition-opacity"
           >
             <div className="flex size-6 items-center justify-center bg-foreground text-background text-xs font-bold">
-              S
             </div>
             <span>SayGo</span>
           </Link>
