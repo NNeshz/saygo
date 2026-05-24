@@ -72,22 +72,6 @@ export function DownloadDropdown({ title, slug }: Props) {
     // Remove UI elements that don't belong in print
     clone.querySelectorAll("[data-pdf-exclude]").forEach(el => el.remove())
 
-    // Remove the horario line: first <p> whose only child is <em>
-    clone.querySelector("p > em:only-child")?.closest("p")?.remove()
-
-    // Remove the scope/summary block: from first <hr> through second <hr>
-    const [firstHr, secondHr] = clone.querySelectorAll("hr")
-    if (firstHr && secondHr) {
-      const toRemove: ChildNode[] = []
-      let node: ChildNode | null = firstHr
-      while (node && node !== secondHr) {
-        toRemove.push(node)
-        node = node.nextSibling
-      }
-      toRemove.push(secondHr)
-      toRemove.forEach(n => n.parentNode?.removeChild(n))
-    }
-
     const safeTitle = title.replace(/</g, "&lt;").replace(/>/g, "&gt;")
     win.document.write(`<!DOCTYPE html>
 <html lang="es">
