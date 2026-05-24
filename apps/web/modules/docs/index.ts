@@ -1,3 +1,4 @@
+export { DownloadDropdown } from "./components/download-buttons"
 export { DocsNav } from "./components/docs-nav"
 export { DocsMobileNav } from "./components/docs-mobile-nav"
 export { Markdown } from "./components/markdown"
