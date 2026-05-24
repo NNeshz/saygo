@@ -8,7 +8,6 @@ order: 5
 
 *El entorno y la existencia · 10 horas*
 
----
 
 **Plurales regulares e irregulares**
 
@@ -37,7 +36,6 @@ order: 5
 
 - poseedor + 's + objeto → my teacher's book / the school's door
 
----
 
 ## 1. ¿Para qué sirve esto?
 
@@ -45,7 +43,6 @@ Cuando describes un lugar — tu salón, tu casa, tu colonia — constantemente 
 
 *There is / There are* te permite señalar lo que existe en un espacio. Los cuantificadores (*a lot of, a few, enough*) añaden precisión a esas afirmaciones. Los artículos (*a, an, the*) te ayudan a distinguir entre algo nuevo y algo ya conocido. Y el genitivo sajón ('s) te da la forma más natural de expresar posesión en inglés. Juntos, estos cuatro puntos te permiten describir cualquier entorno con claridad.
 
----
 
 ## 2. Estructura y reglas
 
@@ -80,7 +77,6 @@ En inglés, casi todos los sustantivos forman el plural añadiendo **-s** o **-e
 
 ⚠️ **Error frecuente:** Escribir *"childrens"* o *"peoples"* — estos plurales ya son irregulares y **no llevan -s adicional**.
 
----
 
 ### 2.2 Artículos a / an / the
 
@@ -112,7 +108,6 @@ La diferencia entre *a* y *an* no depende de la letra — depende del **sonido**
 
 ⚠️ **Error frecuente:** Usar *the* donde en español usarías el artículo definido pero en inglés no se usa — por ejemplo, *"I like the music"* (en general) es incorrecto; lo correcto es *"I like music"*.
 
----
 
 ### 2.3 There is / There are
 
@@ -138,7 +133,6 @@ Esta estructura sirve para indicar que algo existe o está presente en un lugar.
 
 ⚠️ **Error frecuente:** Escribir *"There are a student"* porque hay "estudiantes" en el contexto. Si el sustantivo es singular (*a student*), la forma correcta es ***There is** a student*.
 
----
 
 ### 2.4 Cuantificadores
 
@@ -158,7 +152,6 @@ Los cuantificadores expresan cantidad sin dar un número exacto. La elección de
 
 > **Regla rápida para *some / any*:** Usa *some* en afirmaciones ("hay algo"). Usa *any* en negaciones ("no hay nada") y preguntas ("¿hay algo?"). Excepción: en una oferta o petición cortés, *some* puede aparecer en pregunta — *"Would you like **some** coffee?"*
 
----
 
 ### 2.5 Genitivo sajón ('s)
 
@@ -175,7 +168,6 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 
 ⚠️ **Error frecuente:** Escribir *"the book of my teacher"* en conversación casual — en inglés es mucho más natural **"my teacher's book."**
 
----
 
 ## 3. Vocabulario clave
 
@@ -223,7 +215,6 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 | some | algunos/as | contable e incontable | There are **some** students outside. |
 | any | ningún/algún | contable e incontable | Are there **any** empty seats? |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -257,7 +248,6 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 10. **My mother's** phone is new but **there isn't enough** space for all her photos.
 *(El teléfono de mi mamá es nuevo pero no hay suficiente espacio para todas sus fotos.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -272,7 +262,6 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 | ❌ Is there some milk in the fridge? | ✓ Is there **any** milk in the fridge? | En preguntas de información se usa *any*, no *some* |
 | ❌ A university is an expensive place. → "an university" | ✓ **A** university is an expensive place. | *University* empieza con sonido /juː/ (consonántico), por eso lleva *a*, no *an* |
 
----
 
 ## 6. Comparación o contraste
 
@@ -308,13 +297,11 @@ Ambas expresiones significan una cantidad pequeña pero positiva ("algo de", "al
    / There is **a little** money left in the cafeteria account — enough for a juice.
    *(Hay algunos mercados cerca de la escuela — hay uno en la Calle 5. / Queda un poco de dinero en la cuenta de la cafetería — suficiente para un jugo.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Dos compañeros de preparatoria en el primer día de clases, revisando su nuevo salón.
 
----
 
 **Daniela:** Hey, is this our new classroom?
 **Rodrigo:** I think so — look, there's the teacher's name on the door. It says "Profa. Ramírez."
@@ -329,7 +316,6 @@ Ambas expresiones significan una cantidad pequeña pero positiva ("algo de", "al
 **Daniela:** There's a little in my bottle — here. And look, there are some students coming in now.
 **Rodrigo:** Good. At least the room has a window. It's not too dark.
 
----
 
 **Versión en español:**
 
@@ -346,7 +332,6 @@ Ambas expresiones significan una cantidad pequeña pero positiva ("algo de", "al
 **Daniela:** Hay un poco en mi botella — toma. Y mira, ya vienen algunos estudiantes.
 **Rodrigo:** Bien. Al menos el salón tiene ventana. No está tan oscuro.
 
----
 
 ## 8. Texto modelo
 
@@ -356,17 +341,14 @@ My school is not very big, but it has everything we need. There are twenty class
 
 *(95 palabras)*
 
----
 
 **Traducción al español:**
 
 Mi escuela no es muy grande, pero tiene todo lo que necesitamos. Hay veinte salones, una biblioteca y una cafetería. En mi salón hay treinta estudiantes y muchos escritorios, pero no hay suficientes sillas — algunos estudiantes tienen que quedarse de pie cerca de la puerta. Hay una computadora en el salón, pero no hay conexión a internet. En el escritorio de mi maestra siempre hay algunos libros y algunas plumas. Mi lugar favorito es junto a la ventana — hay un poco de luz solar en la mañana y está muy tranquilo. Creo que nuestra escuela es suficiente para nosotros.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -378,7 +360,6 @@ Escribe la palabra correcta según el contexto: *there is / there are / there is
 4. Are ________ any buses after midnight on this route? *(there / is there)*
 5. The ________ backpack is on the third desk — she left it there. *(teacher / teacher's)*
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -388,7 +369,6 @@ Escribe la palabra correcta según el contexto: *there is / there are / there is
 4. **Are there** any buses after midnight on this route?
 5. The **teacher's** backpack is on the third desk — she left it there.
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -400,7 +380,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ❌ There are too many informations in this book.
 5. ❌ Is there some water in the cooler? I'm really thirsty.
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -410,7 +389,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ✓ There is **a lot of information** in this book. *(*Information* es incontable — no tiene plural ni va con *too many*)*
 5. ✓ Is there **any** water in the cooler? I'm really thirsty. *(pregunta de información → any)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -422,7 +400,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. No hay agua en el refrigerador — solo queda un poco de jugo.
 5. Hay algunas sillas vacías en la última fila — siéntense allá.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -432,7 +409,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. There isn't any water in the fridge — there is only a little juice left.
 5. There are some empty chairs in the back row — sit there.
 
----
 
 ## 10. Resumen visual
 
@@ -449,7 +425,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 | a few / a little | *a few* + contable · *a little* + incontable | **a few** friends / **a little** time |
 | Genitivo sajón | poseedor + 's + objeto | **my teacher's** book |
 
----
 
 ## 11. Checklist del alumno
 

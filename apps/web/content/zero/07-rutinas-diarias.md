@@ -8,7 +8,6 @@ order: 7
 
 *Presente Simple afirmativo · 10–12 horas*
 
----
 
 **Verbos de acción cotidiana**
 
@@ -50,13 +49,11 @@ order: 7
 - FOR + beneficiario: I made this for you / a gift for my mother
 - TO + destinatario: Give it to me / Talk to her / Listen to the teacher
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 Describir lo que haces todos los días —a qué hora te levantas, cuándo desayunas, cómo llegas a la escuela— es una de las conversaciones más comunes en inglés. El Presente Simple te permite hablar de hábitos y rutinas que se repiten, y es la base de casi todo lo que viene después. Con este módulo podrás presentarte de forma completa: no solo tu nombre, sino cómo es tu vida diaria.
 
----
 
 ## 2. Estructura y reglas
 
@@ -79,7 +76,6 @@ El Presente Simple se usa para hablar de **hábitos, rutinas y hechos que siempr
 | We | eat | We **eat** lunch at 2 pm. | Comemos a las 2 pm. |
 | They | read | They **read** in the afternoon. | Ellos leen en la tarde. |
 
----
 
 #### Reglas ortográficas de la tercera persona (he/she/it)
 
@@ -101,7 +97,6 @@ Esta es la parte más importante del módulo: cuando el sujeto es *he*, *she* o 
 
 ⚠️ **Error frecuente:** Olvidar la -s/-es en tercera persona: *"She eat breakfast"* — en tercera persona siempre lleva terminación: **"She eats breakfast."**
 
----
 
 ### 2.2 Adverbios de frecuencia
 
@@ -128,7 +123,6 @@ Los adverbios de frecuencia dicen **qué tan seguido** ocurre algo. Su posición
 
 ⚠️ **Error frecuente:** Poner el adverbio al final: *"I eat always breakfast"* — el adverbio va **antes del verbo principal**: **"I always eat breakfast."** Con *to be* va después: **"I am always hungry."**
 
----
 
 ### 2.3 Preposiciones de tiempo: at / on / in
 
@@ -148,7 +142,6 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 
 ⚠️ **Error frecuente:** Decir *"on the morning"* o *"in Monday"* — las partes del día usan **in** (*in the morning*), y los días usan **on** (*on Monday*).
 
----
 
 ### 2.4 Horas básicas
 
@@ -172,7 +165,6 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 
 ⚠️ **Error frecuente:** Decir *"It's seven and half"* — la forma correcta en inglés es **"It's half past seven"** o **"It's seven thirty."**
 
----
 
 ### 2.5 "To" de dirección y "For" de propósito
 
@@ -200,7 +192,6 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 
 ⚠️ **Error frecuente:** Decir *"I go to home"* — *home* como destino nunca lleva *to*: **"I go home."** También: *"I go to there"* → **"I go there."**
 
----
 
 ## 3. Vocabulario clave
 
@@ -252,7 +243,6 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 | Meses | January, February, March, April, May, June, July, August, September, October, November, December | enero a diciembre |
 | Estaciones | spring, summer, autumn/fall, winter | primavera, verano, otoño, invierno |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -286,7 +276,6 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 10. **In summer**, my family **goes** to Veracruz — we **leave** on a Saturday and **come back** on Sunday.
 *(En verano, mi familia va a Veracruz — salimos el sábado y regresamos el domingo.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -301,7 +290,6 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 | ❌ I wait for the bus at on 7. | ✓ I wait for the bus **at** 7. | Solo se usa una preposición de tiempo; para horas exactas se usa *at* |
 | ❌ She never eats not fast food. | ✓ She **never eats** fast food. | *Never* ya es negativo — no se combina con *not*; la oración queda afirmativa en forma |
 
----
 
 ## 6. Comparación o contraste
 
@@ -338,13 +326,11 @@ En español, casi siempre decimos "a" o "en" para el tiempo: "a las 7", "en la m
    / **On** Fridays, she finishes early and goes to the market.
    *(Ella termina clase a las dos y media y se va a casa. / Los viernes termina temprano y va al mercado.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Dos compañeros de preparatoria en el camión escolar, platicando sobre sus rutinas.
 
----
 
 **Fernanda:** You always look tired on Mondays. What time do you get up?
 **Ricardo:** At five thirty. I live far — I take two buses to get here.
@@ -358,7 +344,6 @@ En español, casi siempre decimos "a" o "en" para el tiempo: "a las 7", "en la m
 **Ricardo:** On school days, yes — at ten o'clock. On Fridays I sometimes stay up until midnight.
 **Fernanda:** Me too! My parents never let me on weekdays, but on weekends it's fine.
 
----
 
 **Versión en español:**
 
@@ -374,7 +359,6 @@ En español, casi siempre decimos "a" o "en" para el tiempo: "a las 7", "en la m
 **Ricardo:** Los días de escuela sí — a las diez. Los viernes a veces me quedo despierto hasta la medianoche.
 **Fernanda:** ¡Yo también! Mis papás nunca me dejan entre semana, pero los fines de semana sí está bien.
 
----
 
 ## 8. Texto modelo
 
@@ -384,17 +368,14 @@ My daily routine starts early. I wake up at six o'clock every morning and get dr
 
 *(112 palabras)*
 
----
 
 **Traducción al español:**
 
 Mi rutina diaria empieza temprano. Me levanto a las seis de la mañana todos los días y me visto rápido. Mi mamá siempre hace el desayuno — generalmente frijoles y huevos — y como a las seis y media. Luego camino a la parada y espero el camión. Llego a la escuela a las siete y cuarto. En la tarde, termino clases a las tres y me voy a casa. Siempre como con mi familia y luego estudio durante una hora. En la tarde-noche, a veces veo la tele o leo. Me acuesto a las diez de lunes a viernes. Los fines de semana duermo hasta las nueve — es la mejor parte de la semana.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -406,7 +387,6 @@ Escribe la forma correcta del verbo, la preposición de tiempo o el adverbio de 
 4. We have PE ________ Tuesdays and Thursdays. *(at / on / in)*
 5. My dad ________ (finish) work at half past five and ________ (go) home on the metro.
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -416,7 +396,6 @@ Escribe la forma correcta del verbo, la preposición de tiempo o el adverbio de 
 4. We have PE **on** Tuesdays and Thursdays. *(días de la semana → on)*
 5. My dad **finishes** work at half past five and **goes** home on the metro. *(-sh → +es / -o → +es)*
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -428,7 +407,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ❌ We have class in Monday and Wednesday.
 5. ❌ He studys a lot, but he never eats not breakfast.
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -438,7 +416,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ✓ We have class **on** Monday and Wednesday. *(días de la semana → *on*, no *in*)*
 5. ✓ He **studies** a lot, but he **never eats** breakfast. *(study → studies; *never* ya es negativo, no se combina con *not*)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -450,7 +427,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. Mi hermano estudia para sus exámenes en la tarde, de las cuatro a las seis.
 5. En invierno, me acuesto más temprano porque amanece tarde.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -460,7 +436,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. My brother studies for his exams in the afternoon, from four to six.
 5. In winter, I go to bed earlier because it gets light later.
 
----
 
 ## 10. Resumen visual
 
@@ -477,7 +452,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 | to + lugar | movimiento / dirección | I go **to** school. |
 | go home / go there | SIN preposición *to* | I go **home** (nunca *go to home*) |
 
----
 
 ## 11. Checklist del alumno
 

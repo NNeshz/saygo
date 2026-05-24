@@ -8,7 +8,6 @@ order: 4
 
 *HOW + adjetivo · demostrativos · have/has · 10 horas*
 
----
 
 **Have / Has (posesión básica)**
 
@@ -46,13 +45,11 @@ order: 4
 - Too (exceso negativo): too expensive (I can't buy it), too hot (uncomfortable)
 - Distinción clave: "very big" (aceptable) vs "too big" (problemático)
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 Describir personas, lugares y objetos es algo que hacemos en cada conversación: decirle a alguien cómo es tu casa, cómo es tu amigo que van a conocer, o dónde dejaste algo. En inglés, saber usar adjetivos, decir dónde están las cosas y preguntar "¿qué tan alto es?" te permite comunicarte en la vida real desde muy temprano. Este módulo te da el vocabulario para hablar del mundo físico que te rodea.
 
----
 
 ## 2. Estructura y reglas
 
@@ -96,7 +93,6 @@ El verbo *have* (tener) cambia a *has* únicamente en la tercera persona singula
 
 ⚠️ **Error frecuente:** Decir *"She doesn't has"* — cuando se usa *doesn't*, el verbo regresa a su forma base: **"She doesn't have"**.
 
----
 
 ### 2.2 Adjetivos de descripción física
 
@@ -145,7 +141,6 @@ En inglés, el adjetivo va **siempre antes del sustantivo**, nunca después.
 
 ⚠️ **Error frecuente:** Decir *"She has a long hair"* — el artículo *a* no se usa con *hair* como sustantivo incontable. Lo correcto: **"She has long hair."**
 
----
 
 ### 2.3 Colores
 
@@ -168,7 +163,6 @@ Los colores en inglés funcionan como adjetivos y van **antes del sustantivo**:
 
 ⚠️ **Error frecuente:** Decir *"eyes blacks"* o *"hair brown"* — los adjetivos en inglés **no tienen plural** y van antes del sustantivo: **"black eyes"**, **"brown hair"**.
 
----
 
 ### 2.4 Comparativos básicos
 
@@ -195,7 +189,6 @@ Para comparar dos personas o cosas se usa el comparativo: **adjetivo + -er + tha
 
 ⚠️ **Error frecuente:** Decir *"more taller"* — nunca se combina *more* con un adjetivo que ya tiene *-er*. Es **"taller"**, no *"more taller"*.
 
----
 
 ### 2.5 Demostrativos: This / That / These / Those
 
@@ -217,7 +210,6 @@ Los demostrativos señalan distancia entre el hablante y el objeto.
 
 ⚠️ **Error frecuente:** Usar *this* con sustantivos plurales: *"This books are mine."* — Con plural se usa **these**: **"These books are mine."**
 
----
 
 ### 2.6 Preposiciones de lugar
 
@@ -238,7 +230,6 @@ Los demostrativos señalan distancia entre el hablante y el objeto.
 
 ⚠️ **Error frecuente:** Usar *in* para superficies: *"The book is in the desk."* — Sobre una superficie es **on**: **"The book is on the desk."** *In* es para el interior de un espacio cerrado.
 
----
 
 ### 2.7 HOW + adjetivo
 
@@ -261,7 +252,6 @@ Los demostrativos señalan distancia entre el hablante y el objeto.
 
 ⚠️ **Error frecuente:** Responder con solo el adjetivo sin contexto: *"How tall is he?" — "Tall."* — La respuesta debe incluir el verbo: **"He is tall"** o **"He's about 1.80 meters."**
 
----
 
 ### 2.8 Very vs Too — adverbios de intensidad
 
@@ -286,7 +276,6 @@ Ambos intensifican adjetivos, pero tienen significados muy distintos.
 
 ⚠️ **Error frecuente:** Usar *too* como sinónimo de *very*: *"She is too beautiful."* — En inglés esto suena a que su belleza es un problema. Para intensificar positivamente, usa **very**: **"She is very beautiful."**
 
----
 
 ## 3. Vocabulario clave
 
@@ -332,7 +321,6 @@ Ambos intensifican adjetivos, pero tienen significados muy distintos.
 | between | entre | /bɪˈtwiːn/ — "bitwíin" | Sit **between** Ana and Luis. |
 | behind | detrás de | /bɪˈhaɪnd/ — "bijáind" | The parking lot is **behind** the building. |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -366,7 +354,6 @@ Ambos intensifican adjetivos, pero tienen significados muy distintos.
 10. The market **is in front of** the church, and the pharmacy **is** right **next to** it.
 *(El mercado está enfrente de la iglesia, y la farmacia está justo junto a ella.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -381,7 +368,6 @@ Ambos intensifican adjetivos, pero tienen significados muy distintos.
 | ❌ He is more taller than me. | ✓ He is **taller** than me. | Nunca se combina *more* con un adjetivo que ya tiene *-er* |
 | ❌ My house is bigger then yours. | ✓ My house is bigger **than** yours. | *Than* es la preposición comparativa; *then* significa "entonces/luego" |
 
----
 
 ## 6. Comparación o contraste
 
@@ -417,13 +403,11 @@ En español, "muy" y "demasiado" son claramente diferentes. En inglés, muchos e
    / He is **too** young to drive — he's only 14.
    *(Ella es muy joven para ser maestra — se conecta con los alumnos. / Él es demasiado joven para manejar — solo tiene 14.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Dos amigos en el mercado de Coyoacán, Ciudad de México. Uno de ellos describe a una persona que el otro busca.
 
----
 
 **Marco:** Hey, do you see my cousin over there? Her name is Renata.  
 **Sofía:** I don't know what she looks like! Describe her.  
@@ -437,7 +421,6 @@ En español, "muy" y "demasiado" son claramente diferentes. En inglés, muchos e
 **Sofía:** Ha! Okay, let's go. Is this the right direction?  
 **Marco:** Yes, it's between the tacos stand and the bookstore. Come on!
 
----
 
 **Versión en español:**
 
@@ -453,7 +436,6 @@ En español, "muy" y "demasiado" son claramente diferentes. En inglés, muchos e
 **Sofía:** ¡Ja! Está bien, vamos. ¿Es por este lado?  
 **Marco:** Sí, está entre el puesto de tacos y la librería. ¡Vente!
 
----
 
 ## 8. Texto modelo
 
@@ -463,17 +445,14 @@ My best friend's name is Andrés and he is from Guadalajara. He is tall — tall
 
 *(98 palabras)*
 
----
 
 **Traducción al español:**
 
 Mi mejor amigo se llama Andrés y es de Guadalajara. Es alto — más alto que la mayoría de nuestros compañeros — y tiene cabello corto y oscuro y ojos café. No tiene carro, pero su familia tiene una casa grande cerca de la Minerva. Su cuarto es pequeño pero muy ordenado: su escritorio está junto a la ventana, y sus libros están en el estante detrás de la puerta. Esos pósters en su pared son todos de equipos de fútbol. No es demasiado serio — es muy chistoso y fácil de tratar. Por eso es mi mejor amigo.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -485,7 +464,6 @@ Escribe la palabra correcta: forma de *have/has*, demostrativo, preposición de 
 4. That jacket is ________ expensive — I only have 200 pesos. *(very / too)*
 5. ________ you ________ a ruler? — No, I ________. *(forma interrogativa y negativa de have)*
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -495,7 +473,6 @@ Escribe la palabra correcta: forma de *have/has*, demostrativo, preposición de 
 4. That jacket is **too** expensive — I only have 200 pesos.
 5. **Do** you **have** a ruler? — No, I **don't**.
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -507,7 +484,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ❌ My house is more bigger than yours.
 5. ❌ The restroom is in the wall, next to the gym.
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -517,7 +493,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ✓ My house is **bigger** than yours. *(no se combina "more" con comparativos en -er)*
 5. ✓ The restroom is **on** the wall / **next to** the gym. *("in the wall" implica dentro del muro; se usa "on" para superficies o la preposición correcta según el contexto)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -529,7 +504,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. Estos son mis libros de inglés — aquellos son de matemáticas.
 5. ¿Qué tan alto es tu hermano? — Es muy alto — más alto que mi papá.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -539,7 +513,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. **These** are my English books — **those** are math books.
 5. **How tall is** your brother? — He's **very** tall — **taller than** my dad.
 
----
 
 ## 10. Resumen visual
 
@@ -556,7 +529,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 | very vs too | very = muy (neutro) · too = demasiado (problema) | **very** spicy (rico) / **too** spicy (no puedo comerlo) |
 | Preposiciones lugar | in (dentro) · on (superficie) · next to · behind · in front of · between | The pen is **on** the desk. |
 
----
 
 ## 11. Checklist del alumno
 

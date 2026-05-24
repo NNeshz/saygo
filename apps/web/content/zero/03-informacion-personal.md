@@ -8,7 +8,6 @@ order: 3
 
 *Información personal y preguntas esenciales · 10–12 horas*
 
----
 
 **TO BE negativo e interrogativo**
 
@@ -30,13 +29,11 @@ order: 3
 - How old are you? / How old is he/she?
 - Which color do you prefer, red or blue?
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 Con este módulo puedes hacer y responder preguntas básicas en inglés: preguntar el nombre de alguien, saber de dónde es, su edad, o si algo es tuyo o de otra persona. Estas herramientas son las que más vas a usar en la vida real — en la escuela, en una tienda, en una entrevista o viajando. Quien sabe preguntar y negar en inglés ya puede tener conversaciones reales desde el primer mes de estudio.
 
----
 
 ## 2. Estructura y reglas
 
@@ -66,7 +63,6 @@ Para hacer negaciones con TO BE, simplemente se agrega **not** después del verb
 
 ⚠️ **Error frecuente:** Escribir *"I amn't"* por analogía con *"aren't"* o *"isn't"*. Esa forma no existe. La única negación de *I am* es **I'm not**.
 
----
 
 ### 2.2 TO BE interrogativo
 
@@ -90,7 +86,6 @@ Para hacer una pregunta con TO BE, el verbo se **invierte con el sujeto** — el
 
 ⚠️ **Error frecuente:** Añadir un auxiliar innecesario: *"Do you are from Jalisco?"* — TO BE ya es su propio auxiliar. La pregunta correcta es simplemente **"Are you from Jalisco?"**
 
----
 
 ### 2.3 Respuestas cortas
 
@@ -115,7 +110,6 @@ En inglés es muy común responder preguntas de sí/no con **respuestas cortas**
 
 ⚠️ **Error frecuente:** Responder *"Yes, she's"* en lugar de *"Yes, she is"*. La contracción en respuestas afirmativas cortas no se usa en inglés estándar.
 
----
 
 ### 2.4 Adjetivos posesivos
 
@@ -150,7 +144,6 @@ Los adjetivos posesivos **siempre van antes de un sustantivo** e indican a quié
 - **It's** cold. = *It is* cold. (Hace frío.)
 - The school lost **its** flag. (La escuela perdió *su* bandera.)
 
----
 
 ### 2.5 Preguntas WH- con TO BE
 
@@ -215,7 +208,6 @@ Las preguntas WH- comienzan con una palabra interrogativa y **no pueden responde
 
 ⚠️ **Error frecuente:** Usar el orden de palabras del español: *"Where you are from?"* en lugar de *"Where **are** you from?"* En inglés interrogativo, el verbo TO BE va **antes** del sujeto.
 
----
 
 ## 3. Vocabulario clave
 
@@ -253,7 +245,6 @@ Las preguntas WH- comienzan con una palabra interrogativa y **no pueden responde
 | Fine, thanks | Bien, gracias | /faɪn θæŋks/ — "fáin thénks" | How are you? — **Fine, thanks.** |
 | Not bad | No mal / Más o menos | /nɒt bæd/ — "nót bæd" | How are you? — **Not bad.** |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -287,7 +278,6 @@ Las preguntas WH- comienzan con una palabra interrogativa y **no pueden responde
 10. **Which** backpack **is** yours — the red one or the blue one? — **The red one is** mine — **its** zipper is broken.
 *(¿Cuál mochila es tuya — la roja o la azul? — La roja es mía — su cierre está roto.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -302,7 +292,6 @@ Las preguntas WH- comienzan con una palabra interrogativa y **no pueden responde
 | ❌ Their mother, she is a nurse. | ✓ **Their** mother **is** a nurse. | No se repite el sujeto con pronombre en inglés |
 | ❌ What is the color of your bag? | ✓ **What color is** your bag? | En inglés se dice "What color is..." directamente, sin "of" |
 
----
 
 ## 6. Comparación o contraste
 
@@ -338,13 +327,11 @@ En español "su" sirve para todos: "su libro" puede ser de él, de ella o de ust
    / **Her** English is excellent — she lived in Canada for two years.
    *(Su inglés (de él) es muy bueno — practica todos los días. / Su inglés (de ella) es excelente — vivió en Canadá dos años.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Un trámite de inscripción en la oficina escolar de una preparatoria en Querétaro. Una administrativa registra a un alumno nuevo.
 
----
 
 **Administrativa:** Good morning! What is your name?  
 **Alumno:** Good morning. My name is Óscar Fuentes.  
@@ -360,7 +347,6 @@ En español "su" sirve para todos: "su libro" puede ser de él, de ella o de ust
 **Alumno:** Yes, it is.  
 **Administrativa:** You're all set. Welcome to the school!
 
----
 
 **Versión en español:**
 
@@ -378,7 +364,6 @@ En español "su" sirve para todos: "su libro" puede ser de él, de ella o de ust
 **Alumno:** Sí, lo es.  
 **Administrativa:** Todo listo. ¡Bienvenido a la escuela!
 
----
 
 ## 8. Texto modelo
 
@@ -388,17 +373,14 @@ My name is Jimena and I'm a student at *Prepa Lázaro Cárdenas* in Morelia. I'm
 
 *(95 palabras)*
 
----
 
 **Traducción al español:**
 
 Me llamo Jimena y soy estudiante en la Prepa Lázaro Cárdenas en Morelia. Tengo 16 años y soy de Michoacán. Mi mejor amiga es Rebeca — su casillero está junto al mío. Nuestro maestro de inglés es el Sr. Solís. No es estricto, pero sus clases son muy interesantes. No estamos en el turno matutino — nuestro horario es por la tarde. ¿Cuál es mi clase favorita? ¡Es inglés, por supuesto! Mis papás no hablan inglés, pero son muy comprensivos. Su meta es la misma que la mía: quiero ser bilingüe antes de terminar la prepa.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -410,7 +392,6 @@ Escribe la forma correcta: forma negativa de TO BE, posesivo o palabra WH- segú
 4. Are they your cousins? — No, ________ ________ — they're my neighbors. *(respuesta corta negativa)*
 5. Carlos and ________ brother are both in the school soccer team. *(posesivo de él)*
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -420,7 +401,6 @@ Escribe la forma correcta: forma negativa de TO BE, posesivo o palabra WH- segú
 4. No, **they aren't** — they're my neighbors.
 5. Carlos and **his** brother are both in the school soccer team.
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -432,7 +412,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ❌ Yes, they're. (como respuesta a: "Are they your classmates?")
 5. ❌ The school lost it's trophy last year.
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -442,7 +421,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ✓ Yes, **they are**. *(las respuestas cortas afirmativas no usan contracción al final)*
 5. ✓ The school lost **its** trophy last year. *("it's" = "it is"; "its" = posesivo)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -454,7 +432,6 @@ Traduce las siguientes oraciones al inglés usando los temas del módulo.
 4. ¿Quién es ella? — Es mi prima — su mamá y mi mamá son hermanas.
 5. ¿Cuántos años tiene él? — No tengo idea — él no es de aquí.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -464,7 +441,6 @@ Traduce las siguientes oraciones al inglés usando los temas del módulo.
 4. **Who is** she? — She's my cousin — **her** mom and my mom are sisters.
 5. **How old is** he? — I have no idea — he **isn't** from here.
 
----
 
 ## 10. Resumen visual
 
@@ -481,7 +457,6 @@ Traduce las siguientes oraciones al inglés usando los temas del módulo.
 | WH- + TO BE | WH- + is/are + sujeto | **Where are** you from? |
 | What vs Which | What = opciones abiertas / Which = opciones limitadas | **What** color? / **Which** one? |
 
----
 
 ## 11. Checklist del alumno
 

@@ -8,7 +8,6 @@ order: 6
 
 *Have/has · have got · vocabulario familiar · 8–10 horas*
 
----
 
 **Vocabulario familiar**
 
@@ -36,13 +35,11 @@ order: 6
 - I have lived here for five years (solo reconocimiento; producción plena en A2)
 - Nota: "for" + período de tiempo; no confundir con "since" + punto de inicio
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 Hablar de la familia es una de las primeras cosas que haces cuando conoces a alguien en inglés. Necesitas decir cuántos hermanos tienes, cómo se llaman tus padres, o cuánto tiempo llevas viviendo en un lugar. Este módulo te da el vocabulario para presentar a tu familia, expresar posesión con *have/has* y *have got*, y decir cuánto tiempo duró algo con *for*. Todo lo que aprendas aquí lo usarás desde la primera conversación.
 
----
 
 ## 2. Estructura y reglas
 
@@ -73,7 +70,6 @@ El verbo *have* (tener) es la forma principal para expresar posesión en inglés
 
 ⚠️ **Error frecuente:** Decir *"She doesn't has a sister"* — con *doesn't*, el verbo regresa a su forma base: **"She doesn't have a sister."**
 
----
 
 ### 2.2 Have Got — variante británica
 
@@ -105,7 +101,6 @@ El verbo *have* (tener) es la forma principal para expresar posesión en inglés
 
 ⚠️ **Error frecuente:** Decir *"I have got a brother"* sin contracción en conversación — en inglés natural siempre se contrae: **"I've got a brother."** La forma larga suena artificial en el habla cotidiana.
 
----
 
 ### 2.3 Much / Many / A lot of
 
@@ -125,7 +120,6 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 
 ⚠️ **Error frecuente:** Decir *"She has much brothers"* — *brothers* es contable, por lo que se usa **many** o **a lot of**: **"She has many brothers"** / **"She has a lot of brothers."**
 
----
 
 ### 2.4 "For" de duración — primer contacto
 
@@ -159,7 +153,6 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 
 ⚠️ **Error frecuente:** Traducir "desde hace" literalmente como *"since two hours"* — *since* se usa con un punto de inicio (*since 2020*, *since Monday*), mientras que *for* se usa con una duración: **"for two hours."**
 
----
 
 ## 3. Vocabulario clave
 
@@ -205,7 +198,6 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 | a lot of | mucho/a(s) | contable e incontable | She has **a lot of** siblings. |
 | for | durante / por | (con períodos) | I studied **for** three hours last night. |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -239,7 +231,6 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 10. **My grandparents have** a small house in Tlaxcala — they have lived there **for** over 30 years.
 *(Mis abuelos tienen una casa pequeña en Tlaxcala — llevan más de 30 años viviendo allá.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -254,7 +245,6 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 | ❌ I have a lot of family in Oaxaca. (queriendo decir "many relatives") | ✓ I have **a lot of relatives** / **many family members** in Oaxaca. | *Family* en inglés es colectivo e incontable en singular; no se pluraliza como en español |
 | ❌ Does she has children? | ✓ **Does she have** children? | Con *does* en interrogativas, el verbo principal es siempre la forma base: *have*, no *has* |
 
----
 
 ## 6. Comparación o contraste
 
@@ -291,13 +281,11 @@ En español, "mucho" funciona para casi todo: muchos primos, mucho tiempo, mucha
    / There isn't **much** space in my uncle's house — it's very small.
    *(No hay muchos asientos en el camión a esta hora. / No hay mucho espacio en la casa de mi tío — es muy pequeña.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Dos compañeros de preparatoria platican sobre sus familias durante el recreo.
 
----
 
 **Itzel:** Hey, you have a big family, right? I see you with a lot of people at pickup time.
 **Emilio:** Ha, yes — I've got four siblings. Three brothers and one sister.
@@ -312,7 +300,6 @@ En español, "mucho" funciona para casi todo: muchos primos, mucho tiempo, mucha
 **Itzel:** Sorry! Do they all go to school here?
 **Emilio:** My youngest brother doesn't — he's a baby. He's only eight months old.
 
----
 
 **Versión en español:**
 
@@ -329,7 +316,6 @@ En español, "mucho" funciona para casi todo: muchos primos, mucho tiempo, mucha
 **Itzel:** ¡Perdón! ¿Todos van a la escuela aquí?
 **Emilio:** Mi hermano menor no — es bebé. Solo tiene ocho meses.
 
----
 
 ## 8. Texto modelo
 
@@ -339,17 +325,14 @@ My family is not very big, but it's very close. My parents have been married for
 
 *(98 palabras)*
 
----
 
 **Traducción al español:**
 
 Mi familia no es muy grande, pero es muy unida. Mis papás llevan 22 años casados y tienen tres hijos — mi hermano mayor Diego, mi hermana menor Camila, y yo. No tengo muchos primos por parte de mi papá, pero por parte de mi mamá tengo muchos — ella tiene muchos hermanos y hermanas. Mis abuelos viven en Querétaro y los visitamos durante una semana cada verano. Mi abuelo tiene una pequeña granja y mi abuela tiene muchas recetas que nos enseña cada vez que vamos. Quiero mucho a mi familia.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -361,7 +344,6 @@ Escribe la forma correcta: *have/has*, *have got*, *many/much/a lot of*, o *for*
 4. My grandparents have lived in Veracruz ________ over 30 years. *(for/since)*
 5. ________ your cousin ________ a car? — No, she uses public transport. *(Does…have / Has…got)*
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -371,7 +353,6 @@ Escribe la forma correcta: *have/has*, *have got*, *many/much/a lot of*, o *for*
 4. My grandparents have lived in Veracruz **for** over 30 years.
 5. **Does** your cousin **have** a car? / **Has** your cousin **got** a car? *(ambas son correctas)*
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -383,7 +364,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ❌ She has worked here since three years.
 5. ❌ Does your grandfather has a smartphone?
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -393,7 +373,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ✓ She has worked here **for** three years. *(*Since* va con punto de inicio; para duración se usa *for*)*
 5. ✓ **Does** your grandfather **have** a smartphone? *(con *does*, el verbo principal es la forma base *have*)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -405,7 +384,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. Mis abuelos llevan cuarenta años viviendo en la misma casa.
 5. ¿Tiene esposo tu tía? — No, no tiene — vive sola con sus hijos.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -415,7 +393,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. My grandparents have lived in the same house for forty years.
 5. Does your aunt have a husband? — No, she doesn't — she lives alone with her children.
 
----
 
 ## 10. Resumen visual
 
@@ -432,7 +409,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 | A lot of | contables e incontables — afirmativas | She has **a lot of** siblings. |
 | For + duración | for + período de tiempo | I studied **for** two hours. |
 
----
 
 ## 11. Checklist del alumno
 

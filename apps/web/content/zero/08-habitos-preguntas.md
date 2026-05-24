@@ -8,7 +8,6 @@ order: 8
 
 *Presente Simple completo · WH- con DO/DOES · 12–14 horas*
 
----
 
 **Presente Simple negativo e interrogativo**
 
@@ -47,13 +46,11 @@ order: 8
 
 - play football, listen to music, play video games, swim, dance, sing
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 Con el Módulo 7 aprendiste a decir qué haces. Ahora vas a poder decir qué **no** haces, **preguntar** sobre los hábitos de otras personas y dar respuestas completas. Esto es lo que realmente necesitas para tener una conversación real en inglés: preguntar dónde trabaja alguien, por qué estudia inglés, con qué frecuencia hace ejercicio, y conectar ideas con palabras como *but*, *because* y *so*. Este módulo completa el Presente Simple y te da las herramientas para conversar, no solo para recitar frases.
 
----
 
 ## 2. Estructura y reglas
 
@@ -78,7 +75,6 @@ Para negar en Presente Simple se necesita el auxiliar **don't** o **doesn't**. E
 
 ⚠️ **Error frecuente:** Decir *"She doesn't likes music"* — con *doesn't*, el verbo es siempre la forma base: **"She doesn't like music."**
 
----
 
 ### 2.2 Presente Simple interrogativo
 
@@ -102,7 +98,6 @@ Para hacer preguntas en Presente Simple se invierte el auxiliar **do/does** al i
 
 ⚠️ **Error frecuente:** Responder *"Yes, I study"* o *"No, she doesn't likes"* — las respuestas cortas usan solo el auxiliar: **"Yes, I do"** / **"No, she doesn't."**
 
----
 
 ### 2.3 WH- con DO/DOES — preguntas de información
 
@@ -131,7 +126,6 @@ Las preguntas WH- con *do/does* piden información específica. La estructura si
 
 ⚠️ **Error frecuente:** Decir *"Where does she works?"* — con *does*, el verbo va en forma base: **"Where does she work?"**
 
----
 
 ### 2.4 Preguntas de sujeto vs. preguntas de objeto
 
@@ -157,7 +151,6 @@ Esta es una de las distinciones más importantes del módulo y la que más confu
 
 ⚠️ **Error frecuente:** Decir *"Who does work here?"* — *who* es el sujeto, por lo tanto no se usa *does*: **"Who works here?"**
 
----
 
 ### 2.5 How often — expresar frecuencia
 
@@ -180,7 +173,6 @@ Esta es una de las distinciones más importantes del módulo y la que más confu
 
 ⚠️ **Error frecuente:** Responder *"How often do you exercise?"* con solo *"sometimes"* — aunque es correcto, es más natural y completo responder con una expresión específica: **"Once or twice a week"** o **"Not very often."**
 
----
 
 ### 2.6 Conectores básicos: and / but / because / so
 
@@ -202,7 +194,6 @@ Los conectores unen ideas y hacen el inglés sonar natural. Sin ellos, las oraci
 
 ⚠️ **Error frecuente:** No confundir *because* (porque — causa) con *so* (así que — resultado). **"I was tired because I worked a lot"** (causa) vs. **"I worked a lot so I was tired"** (resultado).
 
----
 
 ## 3. Vocabulario clave
 
@@ -254,7 +245,6 @@ Los conectores unen ideas y hacen el inglés sonar natural. Sin ellos, las oraci
 | because | porque | causa | I study **because** I want to improve. |
 | so | así que / entonces | resultado | I was late **so** I ran to class. |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -288,7 +278,6 @@ Los conectores unen ideas y hacen el inglés sonar natural. Sin ellos, las oraci
 10. **Who lives** closest to school in your group? — I think Mariana does — **she walks** there in five minutes.
 *(¿Quién vive más cerca de la escuela en tu grupo? — Creo que Mariana — ella camina allá en cinco minutos.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -303,7 +292,6 @@ Los conectores unen ideas y hacen el inglés sonar natural. Sin ellos, las oraci
 | ❌ I don't go never to fast food places. | ✓ I **never go** to fast food places. | *Never* ya es negativo; no se combina con *don't/doesn't*; si usas *never*, la oración es afirmativa en forma |
 | ❌ What do you do? — I do student. | ✓ What do you do? — **I'm a student.** | La respuesta a *"What do you do?"* usa *to be* + artículo + profesión, no *do* |
 
----
 
 ## 6. Comparación o contraste
 
@@ -339,13 +327,11 @@ En español, esta distinción no existe de forma tan marcada: "¿Quién trabaja 
    / **Who do you play** football with? — I play with the kids from my block.
    *(¿Quién juega fútbol en tu calle? — Los niños del bloque 4. / ¿Con quién juegas fútbol tú? — Con los niños de mi bloque.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Dos estudiantes de preparatoria se conocen en la primera semana de clases, en el patio durante el recreo.
 
----
 
 **Camila:** Hey, you're new here, right? What's your name?
 **Sebastián:** Yeah, I'm Sebastián. I transferred from a school in Tlatelolco.
@@ -361,7 +347,6 @@ En español, esta distinción no existe de forma tan marcada: "¿Quién trabaja 
 **Sebastián:** Definitely. How often do you practice?
 **Camila:** Every day — but just at home, alone. I want to practice more with other people.
 
----
 
 **Versión en español:**
 
@@ -379,7 +364,6 @@ En español, esta distinción no existe de forma tan marcada: "¿Quién trabaja 
 **Sebastián:** Claro. ¿Qué tan seguido practicas?
 **Camila:** Todos los días — pero solo en casa, sola. Quiero practicar más con otras personas.
 
----
 
 ## 8. Texto modelo
 
@@ -389,17 +373,14 @@ I don't have many free time activities, but I love the ones I have. I play footb
 
 *(112 palabras)*
 
----
 
 **Traducción al español:**
 
 No tengo muchas actividades de tiempo libre, pero me encantan las que tengo. Juego fútbol dos veces a la semana con amigos de mi colonia — generalmente nos juntamos los martes y jueves después de la escuela. No veo mucha tele porque prefiero escuchar música mientras estudio. Los fines de semana, a veces voy al mercado con mi mamá y la ayudo a cocinar. A mi hermana no le gusta cocinar, así que generalmente lee o baila en su cuarto. No siempre estamos de acuerdo en música — a ella le gusta el pop pero yo prefiero el rock — así que usamos audífonos. Creo que el tiempo libre es importante porque me ayuda a relajarme después de una larga semana escolar.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -411,7 +392,6 @@ Escribe la forma correcta: auxiliar *do/does*, negación *don't/doesn't*, WH- co
 4. I study every day ________ I want to pass my exams. *(but / because / so)*
 5. ________ plays football in your family? — My dad does, every Sunday. *(Who do / Who does / Who)*
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -421,7 +401,6 @@ Escribe la forma correcta: auxiliar *do/does*, negación *don't/doesn't*, WH- co
 4. I study every day **because** I want to pass my exams.
 5. **Who** plays football in your family? — My dad does, every Sunday. *(pregunta de sujeto — sin do/does)*
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -433,7 +412,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ❌ I don't go never to bed after midnight on school days.
 5. ❌ Why does he studies so much? — Because he wants good grades.
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -443,7 +421,6 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 4. ✓ I **never go** to bed after midnight on school days. *(*never* y *don't* no se combinan)*
 5. ✓ Why does he **study** so much? *(con *does*, el verbo principal va en forma base)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -455,7 +432,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. ¿Quién cocina en tu casa? — Mi papá cocina los fines de semana.
 5. No escucho mucha música en inglés, pero quiero practicar más porque me ayuda con el idioma.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -465,7 +441,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 4. Who cooks in your house? — My dad cooks on weekends.
 5. I don't listen to much music in English, but I want to practice more because it helps me with the language.
 
----
 
 ## 10. Resumen visual
 
@@ -482,7 +457,6 @@ Traduce las siguientes oraciones usando los temas del módulo.
 | Respuestas de frecuencia | once/twice + a + período | **Twice a week** / **Once a month** |
 | Conectores | and · but · because · so | I study **because** I want to travel. |
 
----
 
 ## 11. Checklist del alumno
 

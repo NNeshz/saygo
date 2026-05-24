@@ -8,7 +8,6 @@ order: 1
 
 *El alfabeto sonoro · 6–8 horas*
 
----
 
 **Sonidos vocálicos**
 
@@ -35,13 +34,11 @@ order: 1
 - Alfabeto completo A–Z
 - Uso práctico: "How do you spell...?"
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 El inglés tiene sonidos que no existen en español. Si pronuncias mal una palabra, la gente no te entiende, aunque uses las palabras correctas. Aprender los sonidos del inglés desde el principio te ayuda a que te entiendan en una tienda, en un aeropuerto, en una entrevista de trabajo o cuando hablas con alguien en línea. Esta base fonética es como aprender a leer en primaria: sin ella, todo lo demás se tambalea.
 
----
 
 ## 2. Estructura y reglas
 
@@ -65,7 +62,6 @@ En inglés, la duración de una vocal **cambia el significado** de la palabra. N
 
 ⚠️ **Error frecuente:** Los estudiantes mexicanos pronuncian todas las vocales como en español. *Sit* y *seat* suenan igual para muchos principiantes, pero significan cosas distintas: "sentarse" vs "asiento".
 
----
 
 ### 2.2 La schwa /ə/ — el sonido más común del inglés
 
@@ -85,7 +81,6 @@ La schwa es el sonido vocal **más frecuente** en inglés. Es una vocal neutra, 
 
 ⚠️ **Error frecuente:** Pronunciar cada vocal con su sonido "lleno" del español. En inglés, las sílabas sin acento se reducen a /ə/. Si dices "ba-NA-NA" con tres "a" iguales, suenas artificial.
 
----
 
 ### 2.3 Consonantes problemáticas
 
@@ -103,7 +98,6 @@ Estas dos consonantes **no existen en español mexicano**. Ambas se producen pon
 
 ⚠️ **Error frecuente:** Sustituir /θ/ por "t" o "s" (*"tink"* o *"sink"* en lugar de *"think"*) y /ð/ por "d" (*"dis"* en lugar de *"this"*).
 
----
 
 #### /ʃ/, /ʒ/ y /ŋ/
 
@@ -115,7 +109,6 @@ Estas dos consonantes **no existen en español mexicano**. Ambas se producen pon
 
 ⚠️ **Error frecuente con /ŋ/:** Agregar una "g" al final: *"sing-g"* en lugar de *"sing"*. La /ŋ/ es **solo** el sonido nasal, sin oclusiva final.
 
----
 
 #### /w/ vs /v/
 
@@ -130,7 +123,6 @@ Estas dos consonantes **no existen en español mexicano**. Ambas se producen pon
 
 ⚠️ **Error frecuente:** Pronunciar /v/ como /b/ (*"bery"* en lugar de *"very"*) o como /w/ (*"wery"*). El labio inferior debe tocar los dientes superiores.
 
----
 
 ### 2.4 Acentuación en palabras de 2 sílabas
 
@@ -153,7 +145,6 @@ be-**GIN** · re-**PEAT** · for-**GET** · de-**CIDE**
 
 > ⚠️ Hay excepciones. Algunas palabras son idénticas en forma pero cambian de significado y acento según función: **RE**-cord (sustantivo: disco) vs re-**CORD** (verbo: grabar).
 
----
 
 ### 2.5 Pronunciación de la -s final
 
@@ -176,7 +167,6 @@ La terminación **-s** en plurales y verbos no siempre suena igual. Depende del 
 
 ⚠️ **Error frecuente:** Pronunciar siempre la -s como /s/ español. Decir *"dogss"* en lugar de *"dogs /dɒgz/"*.
 
----
 
 ### 2.6 Alfabeto completo A–Z
 
@@ -201,7 +191,6 @@ La terminación **-s** en plurales y verbos no siempre suena igual. Depende del 
 > - "Can you spell that, please?" — *¿Puedes deletrearlo, por favor?*
 > - Respuesta: "It's M-A-R-I-A." — *Es M-A-R-I-A.*
 
----
 
 ## 3. Vocabulario clave
 
@@ -239,7 +228,6 @@ La terminación **-s** en plurales y verbos no siempre suena igual. Depende del 
 | student | estudiante | /ˈstuːdənt/ — "stúu-dənt" | I am a **student**. |
 | another | otro/a | /əˈnʌðər/ — "ə-náder" | Can I have **another** taco? |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -273,7 +261,6 @@ La terminación **-s** en plurales y verbos no siempre suena igual. Depende del 
 10. The **dogs** /dɒgz/ in my neighborhood bark at night.
 *(Los perros de mi colonia ladran en la noche.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -288,7 +275,6 @@ La terminación **-s** en plurales y verbos no siempre suena igual. Depende del 
 | ❌ Pronunciar todas las vocales de "banana" igual | ✓ /bəˈnænə/ — solo la segunda sílaba tiene acento | Las sílabas sin acento se reducen a schwa /ə/ |
 | ❌ Acentuar "begin" en la primera sílaba: "BEgin" | ✓ be-GIN /bɪˈɡɪn/ — acento en 2ª sílaba | Los verbos de 2 sílabas generalmente se acentúan en la segunda |
 
----
 
 ## 6. Comparación o contraste
 
@@ -321,13 +307,11 @@ Dos palabras que solo se diferencian por la longitud de la vocal se llaman **par
 4. Fill the **cup** /kʌp/ with water. — We heard a **bird** /bɜːrd/ singing.
 *(Llena la taza con agua. — Escuchamos un pájaro cantando.)*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Primer día de clases. Dos estudiantes se presentan y practican el deletreo de sus nombres.
 
----
 
 **Ana:** Hi! Are you new here?  
 **Luis:** Yes! I'm Luis. Nice to meet you.  
@@ -341,7 +325,6 @@ Dos palabras que solo se diferencian por la longitud de la vocal se llaman **par
 **Luis:** I agree. See you in class!  
 **Ana:** See you!
 
----
 
 **Versión en español:**
 
@@ -357,7 +340,6 @@ Dos palabras que solo se diferencian por la longitud de la vocal se llaman **par
 **Luis:** Estoy de acuerdo. ¡Nos vemos en clase!  
 **Ana:** ¡Nos vemos!
 
----
 
 ## 8. Texto modelo
 
@@ -367,17 +349,14 @@ My name is Sofía and I am a student at a *preparatoria* in Oaxaca. Every mornin
 
 *(96 palabras)*
 
----
 
 **Traducción al español:**
 
 Me llamo Sofía y soy estudiante en una preparatoria en Oaxaca. Cada mañana pienso en la clase de inglés — quiero hablar muy bien. Mi maestra dice que la pronunciación es muy importante. Practico los sonidos: digo "think", "this", "sheep", "cat". Mi hermana se ríe de mí, pero no me importa. También practico el alfabeto porque mi maestra nos pide que deletreemos nuestros nombres y direcciones. No es fácil, pero canto las letras como si fueran una canción. Poco a poco, entiendo más. Estoy contenta con mi progreso.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -391,7 +370,6 @@ Escribe la palabra del recuadro que corresponda a la transcripción fonética in
 4. Mexican ________ /fuːd/ is popular all over the world.
 5. My English teacher is ________ /ˈvɛri/ patient with us.
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -401,7 +379,6 @@ Escribe la palabra del recuadro que corresponda a la transcripción fonética in
 4. **food**
 5. **very**
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -413,7 +390,6 @@ Cada oración tiene un error de pronunciación escrita o un error de acento. Ide
 4. ❌ I need to re-CORD my homework in my REcord book.
 5. ❌ Can you spell dat word, please? (pronunciación de "that")
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -423,7 +399,6 @@ Cada oración tiene un error de pronunciación escrita o un error de acento. Ide
 4. ✓ **RE**-cord (sustantivo: disco/registro) — el acento va en la primera sílaba
 5. ✓ **that** /ðæt/ — se pronuncia con /ð/: lengua entre dientes, sonoro; no /d/ normal
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -435,7 +410,6 @@ Traduce las siguientes oraciones al inglés. Presta atención a las palabras con
 4. El camión va muy despacio por las mañanas.
 5. Mi maestra de inglés es de la Ciudad de México.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -445,7 +419,6 @@ Traduce las siguientes oraciones al inglés. Presta atención a las palabras con
 4. The bus goes **very** slowly in the mornings.
 5. My English **teacher** is from Mexico City.
 
----
 
 ## 10. Resumen visual
 
@@ -462,7 +435,6 @@ Traduce las siguientes oraciones al inglés. Presta atención a las palabras con
 | -s final: /s/ /z/ /ɪz/ | Depende del sonido anterior a la -s | cats /s/ — dogs /z/ — buses /ɪz/ |
 | Acento en 2 sílabas | Sustantivo: 1ª sílaba / Verbo: 2ª sílaba | **TA**-ble / be-**GIN** |
 
----
 
 ## 11. Checklist del alumno
 

@@ -8,7 +8,6 @@ order: 2
 
 *Primer contacto · 8 horas*
 
----
 
 **Pronombres personales sujeto**
 
@@ -34,13 +33,11 @@ order: 2
 
 - Para edades, cantidades básicas y deletreo numérico
 
----
 
 ## 1. ¿Para qué sirve esto?
 
 Presentarte en inglés es lo primero que necesitas en cualquier situación: conocer a alguien en la escuela, en un trabajo, en un viaje o en internet. El verbo *to be* ("ser/estar") es el verbo más usado del inglés — sin él no puedes decir quién eres, de dónde vienes ni cuántos años tienes. Aprenderlo bien desde el principio te da una base sólida para todo lo que viene después.
 
----
 
 ## 2. Estructura y reglas
 
@@ -62,7 +59,6 @@ En inglés **siempre se necesita un sujeto** explícito antes del verbo. No pued
 
 ⚠️ **Error frecuente:** Olvidar el pronombre *it* para objetos, animales y lugares. En español decimos "Es grande" — en inglés SIEMPRE debes decir "**It** is big."
 
----
 
 ### 2.2 TO BE presente afirmativo — forma completa y contracciones
 
@@ -96,7 +92,6 @@ En inglés **siempre se necesita un sujeto** explícito antes del verbo. No pued
 
 ⚠️ **Error frecuente:** Escribir *"I' m"* con espacio entre el apóstrofo y la m. La contracción es **I'm** — todo junto, sin espacios.
 
----
 
 ### 2.3 Saludos y despedidas
 
@@ -127,7 +122,6 @@ En inglés **siempre se necesita un sujeto** explícito antes del verbo. No pued
 
 ⚠️ **Error frecuente:** Responder a "Nice to meet you" con "Nice to meet you" en lugar de "Nice to meet you **too**". El *too* al final es indispensable para completar el intercambio.
 
----
 
 ### 2.4 Presentaciones básicas
 
@@ -147,7 +141,6 @@ En inglés **siempre se necesita un sujeto** explícito antes del verbo. No pued
 
 ⚠️ **Error frecuente:** Traducir "Tengo X años" literalmente como *"I have 16 years"*. En inglés se usa TO BE: **"I am 16 years old"** o **"I'm 16"**.
 
----
 
 ### 2.5 Números 0–100
 
@@ -202,7 +195,6 @@ Decena + guion + unidad:
 
 ⚠️ **Error frecuente:** Escribir los números compuestos sin guion (*"twenty one"*) o en orden invertido (*"one twenty"*). Siempre: decena primero, guion, unidad.
 
----
 
 ## 3. Vocabulario clave
 
@@ -245,7 +237,6 @@ Decena + guion + unidad:
 | Brazil | Brazilian | /brəˈzɪliən/ — "brasílien" |
 | Colombia | Colombian | /kəˈlʌmbiən/ — "colómbian" |
 
----
 
 ## 4. Ejemplos en contexto
 
@@ -279,7 +270,6 @@ Decena + guion + unidad:
 10. Nice to meet you! **I'm** Carlos — **I'm** a new student here.
 *(¡Mucho gusto! Soy Carlos — soy un alumno nuevo aquí.)*
 
----
 
 ## 5. Tabla de errores comunes
 
@@ -294,7 +284,6 @@ Decena + guion + unidad:
 | ❌ Good night, teacher! (al llegar) | ✓ **Good evening**, teacher! | Good night es despedida; Good evening es saludo nocturno |
 | ❌ Nice to meet you. / Nice to meet you. | ✓ Nice to meet you. / Nice to meet you **too**. | La respuesta necesita "too" para completar el intercambio |
 
----
 
 ## 6. Comparación o contraste
 
@@ -326,13 +315,11 @@ Aunque ambas expresiones sirven para presentarse, tienen matices distintos en el
 4. In the form, it says: **My name is** Ana Torres Vega. / In the chat, she wrote: "**I'm** Ana, haha 😄"
 *(En el formulario dice: Me llamo Ana Torres Vega. / En el chat escribió: "Soy Ana, jaja 😄")*
 
----
 
 ## 7. Diálogo modelo
 
 **Contexto:** Primer día de clases en una preparatoria de Puebla. Dos alumnos se conocen antes de entrar al salón.
 
----
 
 **Rodrigo:** Hi! Are you new here?  
 **Camila:** Yes! Hi. I'm Camila. Nice to meet you.  
@@ -347,7 +334,6 @@ Aunque ambas expresiones sirven para presentarse, tienen matices distintos en el
 **Rodrigo:** Perfect. Good morning, by the way!  
 **Camila:** Good morning! See you inside.
 
----
 
 **Versión en español:**
 
@@ -364,7 +350,6 @@ Aunque ambas expresiones sirven para presentarse, tienen matices distintos en el
 **Rodrigo:** Perfecto. ¡Buenos días, por cierto!  
 **Camila:** ¡Buenos días! Nos vemos adentro.
 
----
 
 ## 8. Texto modelo
 
@@ -374,17 +359,14 @@ Hello! My name is Mariana and I am a student at *Preparatoria Benito Juárez* in
 
 *(90 palabras)*
 
----
 
 **Traducción al español:**
 
 Me llamo Mariana y soy estudiante en la Preparatoria Benito Juárez en Guadalajara. Tengo 15 años y soy mexicana. Mi mejor amiga es Sofía — tiene 16 años y también es de Jalisco. Nuestro maestro de inglés es el Sr. Hernández. Es muy paciente y es un excelente maestro. Estamos en el grupo 2B. Nuestro salón está en el tercer piso — es grande y luminoso. Estoy emocionada con esta clase porque el inglés es muy importante para mi futuro.
 
----
 
 ## 9. Ejercicios de práctica
 
----
 
 ### Ejercicio 1 — Completa la oración
 
@@ -396,7 +378,6 @@ Escribe la forma correcta de TO BE (am / is / are) o la contracción correcta en
 4. Carlos and Luisa ________ my classmates — they ________ from Veracruz.
 5. ________ 16 years old. (usa una contracción con I)
 
----
 
 ### ✅ Respuestas — Ejercicio 1
 
@@ -406,7 +387,6 @@ Escribe la forma correcta de TO BE (am / is / are) o la contracción correcta en
 4. Carlos and Luisa **are** my classmates — they **are** from Veracruz.
 5. **I'm** 16 years old.
 
----
 
 ### Ejercicio 2 — Corrige el error
 
@@ -418,7 +398,6 @@ Cada oración tiene un error. Identifícalo y escríbela correctamente.
 4. ❌ My name is Daniela, I' m from Chihuahua.
 5. ❌ They is new students in our classroom.
 
----
 
 ### ✅ Respuestas — Ejercicio 2
 
@@ -428,7 +407,6 @@ Cada oración tiene un error. Identifícalo y escríbela correctamente.
 4. ✓ My name is Daniela, **I'm** from Chihuahua. *(sin espacio después del apóstrofo)*
 5. ✓ They **are** new students in our classroom. *(They → are, no is)*
 
----
 
 ### Ejercicio 3 — Traduce al inglés
 
@@ -440,7 +418,6 @@ Traduce las siguientes oraciones. Usa contracciones donde sea posible.
 4. Mucho gusto, soy de Tijuana.
 5. Él es mi amigo — tiene 15 años y es de Sinaloa.
 
----
 
 ### ✅ Respuestas — Ejercicio 3
 
@@ -450,7 +427,6 @@ Traduce las siguientes oraciones. Usa contracciones donde sea posible.
 4. Nice to meet you, **I'm** from Tijuana.
 5. **He's** my friend — **he's** 15 years old and **he's** from Sinaloa.
 
----
 
 ## 10. Resumen visual
 
@@ -467,7 +443,6 @@ Traduce las siguientes oraciones. Usa contracciones donde sea posible.
 | Saludo de llegada nocturno | Good evening (no Good night) | **Good evening**, everyone! |
 | Respuesta a "Nice to meet you" | Nice to meet you **too** | — Nice to meet you. — Nice to meet you **too**! |
 
----
 
 ## 11. Checklist del alumno
 
