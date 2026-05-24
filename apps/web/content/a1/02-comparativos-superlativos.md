@@ -358,13 +358,22 @@ Usa las palabras dadas para escribir una oración comparativa o superlativa comp
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo formar comparativos de adjetivos cortos con **-er than** (tall → taller than).
-- [ ] Puedo formar comparativos de adjetivos largos con **more...than** (more expensive than).
-- [ ] Puedo usar **less...than** para comparar con inferioridad.
-- [ ] Puedo usar **as...as** y **not as...as** para expresar igualdad o desigualdad.
-- [ ] Puedo formar superlativos con **the -est** y **the most** correctamente.
-- [ ] Conozco y uso las formas irregulares: **good/better/best**, **bad/worse/worst**, **far/farther/farthest**.
-- [ ] Sé cuándo usar **fewer** (contables) y cuándo usar **less** (incontables).
-- [ ] Puedo expresar opiniones con **I think... is better than...** e **In my opinion...**.
-- [ ] Aplico las reglas ortográficas: doblar consonante en CVC (big→bigger) y cambiar -y→-ier (easy→easier).
-- [ ] Puedo evitar errores comunes como *more taller*, *the most tallest* o *less students*.
+[ ] Puedo formar comparativos de adjetivos cortos con **-er than** (tall → taller than).
+
+[ ] Puedo formar comparativos de adjetivos largos con **more...than** (more expensive than).
+
+[ ] Puedo usar **less...than** para comparar con inferioridad.
+
+[ ] Puedo usar **as...as** y **not as...as** para expresar igualdad o desigualdad.
+
+[ ] Puedo formar superlativos con **the -est** y **the most** correctamente.
+
+[ ] Conozco y uso las formas irregulares: **good/better/best**, **bad/worse/worst**, **far/farther/farthest**.
+
+[ ] Sé cuándo usar **fewer** (contables) y cuándo usar **less** (incontables).
+
+[ ] Puedo expresar opiniones con **I think... is better than...** e **In my opinion...**.
+
+[ ] Aplico las reglas ortográficas: doblar consonante en CVC (big→bigger) y cambiar -y→-ier (easy→easier).
+
+[ ] Puedo evitar errores comunes como *more taller*, *the most tallest* o *less students*.

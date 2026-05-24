@@ -400,13 +400,22 @@ Usa los modales del recuadro para completar el diálogo. Puedes usar cada uno un
 
 ## 11. Checklist del alumno
 
-- [ ] Puedo explicar la diferencia entre **must** y **have to** con un ejemplo propio.
-- [ ] Puedo usar **mustn't** y **don't have to** correctamente y sé que significan cosas distintas.
-- [ ] Puedo dar un consejo usando **should** o **shouldn't** en una situación mexicana real.
-- [ ] Puedo expresar posibilidad con **might** y sé que no lleva -s ni "to".
-- [ ] Puedo usar **could** para hacer una petición educada y para hablar de habilidades pasadas.
-- [ ] Puedo conjugar **be able to** en presente, pasado y futuro sin errores.
-- [ ] Puedo identificar y corregir los 8 errores más comunes de los modales.
-- [ ] Puedo completar un diálogo corto (IMSS, metro, escuela) usando al menos 5 modales distintos.
-- [ ] Puedo escribir un párrafo de 80–100 palabras en primera persona usando modales variados.
-- [ ] Puedo autoevaluar mis textos usando esta checklist antes de entregarlos.
+[ ] Puedo explicar la diferencia entre **must** y **have to** con un ejemplo propio.
+
+[ ] Puedo usar **mustn't** y **don't have to** correctamente y sé que significan cosas distintas.
+
+[ ] Puedo dar un consejo usando **should** o **shouldn't** en una situación mexicana real.
+
+[ ] Puedo expresar posibilidad con **might** y sé que no lleva -s ni "to".
+
+[ ] Puedo usar **could** para hacer una petición educada y para hablar de habilidades pasadas.
+
+[ ] Puedo conjugar **be able to** en presente, pasado y futuro sin errores.
+
+[ ] Puedo identificar y corregir los 8 errores más comunes de los modales.
+
+[ ] Puedo completar un diálogo corto (IMSS, metro, escuela) usando al menos 5 modales distintos.
+
+[ ] Puedo escribir un párrafo de 80–100 palabras en primera persona usando modales variados.
+
+[ ] Puedo autoevaluar mis textos usando esta checklist antes de entregarlos.

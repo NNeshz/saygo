@@ -462,13 +462,22 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo formar oraciones negativas con *don't* y *doesn't* correctamente, sin agregar -s al verbo principal
-- [ ] Puedo hacer preguntas de sí/no con *do* y *does* y responderlas con respuestas cortas (*Yes, I do / No, she doesn't*)
-- [ ] Puedo construir preguntas WH- con *do/does* usando *what*, *where*, *when*, *why*, *how* y *how many*
-- [ ] Puedo distinguir entre preguntas de sujeto (sin *do/does*) y preguntas de objeto (con *do/does*) y formarlas correctamente
-- [ ] Puedo preguntar y responder *How often...?* usando expresiones como *once a week*, *twice a month* y *every day*
-- [ ] Puedo conectar dos ideas con *and*, *but*, *because* y *so* de forma natural en una oración
-- [ ] Puedo describir las actividades de tiempo libre de otras personas usando la tercera persona correctamente
-- [ ] Puedo explicar por qué hago algo usando *because* seguido de una oración completa
-- [ ] Puedo responder *"What do you do?"* con *"I'm a student"* o la profesión correspondiente, sin confundirlo con una acción presente
-- [ ] Puedo escribir un párrafo de 8–10 oraciones sobre mis hábitos usando negaciones, preguntas implícitas, conectores y expresiones de frecuencia
+[ ] Puedo formar oraciones negativas con *don't* y *doesn't* correctamente, sin agregar -s al verbo principal
+
+[ ] Puedo hacer preguntas de sí/no con *do* y *does* y responderlas con respuestas cortas (*Yes, I do / No, she doesn't*)
+
+[ ] Puedo construir preguntas WH- con *do/does* usando *what*, *where*, *when*, *why*, *how* y *how many*
+
+[ ] Puedo distinguir entre preguntas de sujeto (sin *do/does*) y preguntas de objeto (con *do/does*) y formarlas correctamente
+
+[ ] Puedo preguntar y responder *How often...?* usando expresiones como *once a week*, *twice a month* y *every day*
+
+[ ] Puedo conectar dos ideas con *and*, *but*, *because* y *so* de forma natural en una oración
+
+[ ] Puedo describir las actividades de tiempo libre de otras personas usando la tercera persona correctamente
+
+[ ] Puedo explicar por qué hago algo usando *because* seguido de una oración completa
+
+[ ] Puedo responder *"What do you do?"* con *"I'm a student"* o la profesión correspondiente, sin confundirlo con una acción presente
+
+[ ] Puedo escribir un párrafo de 8–10 oraciones sobre mis hábitos usando negaciones, preguntas implícitas, conectores y expresiones de frecuencia

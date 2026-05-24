@@ -358,13 +358,22 @@ Completa con **for**, **since** o **ago**.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo formar frases afirmativas con have/has + participio pasado correctamente.
-- [ ] Puedo identificar y usar los 12 participios irregulares esenciales de esta lección.
-- [ ] Puedo hacer preguntas con Have you ever...? y responderlas con respuestas cortas.
-- [ ] Puedo usar ever, never, already, yet y just en la posición correcta de la frase.
-- [ ] Sé elegir entre for y since según el contexto (duración vs. punto de inicio).
-- [ ] Sé cuándo usar ago y por qué va con Past Simple y no con Present Perfect.
-- [ ] Puedo distinguir cuándo usar Present Perfect y cuándo usar Past Simple.
-- [ ] Puedo escribir un texto corto sobre mis experiencias personales usando este tiempo.
-- [ ] Puedo participar en una conversación básica usando el presente perfecto de forma natural.
-- [ ] Reconozco y corrijo los 10 errores comunes de esta lección al revisar mis textos.
+[ ] Puedo formar frases afirmativas con have/has + participio pasado correctamente.
+
+[ ] Puedo identificar y usar los 12 participios irregulares esenciales de esta lección.
+
+[ ] Puedo hacer preguntas con Have you ever...? y responderlas con respuestas cortas.
+
+[ ] Puedo usar ever, never, already, yet y just en la posición correcta de la frase.
+
+[ ] Sé elegir entre for y since según el contexto (duración vs. punto de inicio).
+
+[ ] Sé cuándo usar ago y por qué va con Past Simple y no con Present Perfect.
+
+[ ] Puedo distinguir cuándo usar Present Perfect y cuándo usar Past Simple.
+
+[ ] Puedo escribir un texto corto sobre mis experiencias personales usando este tiempo.
+
+[ ] Puedo participar en una conversación básica usando el presente perfecto de forma natural.
+
+[ ] Reconozco y corrijo los 10 errores comunes de esta lección al revisar mis textos.

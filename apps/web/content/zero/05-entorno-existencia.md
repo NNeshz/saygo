@@ -430,13 +430,22 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo pluralizar sustantivos regulares e irregulares correctamente (books, boxes, babies, children, people)
-- [ ] Puedo elegir entre *a* y *an* según el sonido inicial de la siguiente palabra, no solo por la letra
-- [ ] Puedo usar *the* correctamente para referirme a algo específico o ya conocido
-- [ ] Puedo construir oraciones afirmativas, negativas e interrogativas con *there is / there are*
-- [ ] Puedo dar respuestas cortas con *Yes, there is / No, there aren't* y sus variantes
-- [ ] Puedo usar *some* en afirmativas y *any* en negativas e interrogativas sin confundirlos
-- [ ] Puedo distinguir entre *a few* (contables) y *a little* (incontables) y usarlos correctamente
-- [ ] Puedo usar *a lot of*, *enough*, *too many* y *too few* con el tipo de sustantivo correcto
-- [ ] Puedo expresar posesión con el genitivo sajón ('s) y sé cuándo preferirlo sobre la estructura "of"
-- [ ] Puedo escribir un párrafo de 5–8 oraciones describiendo un lugar (mi salón, mi casa) usando *there is/are*, cuantificadores y genitivo sajón correctamente
+[ ] Puedo pluralizar sustantivos regulares e irregulares correctamente (books, boxes, babies, children, people)
+
+[ ] Puedo elegir entre *a* y *an* según el sonido inicial de la siguiente palabra, no solo por la letra
+
+[ ] Puedo usar *the* correctamente para referirme a algo específico o ya conocido
+
+[ ] Puedo construir oraciones afirmativas, negativas e interrogativas con *there is / there are*
+
+[ ] Puedo dar respuestas cortas con *Yes, there is / No, there aren't* y sus variantes
+
+[ ] Puedo usar *some* en afirmativas y *any* en negativas e interrogativas sin confundirlos
+
+[ ] Puedo distinguir entre *a few* (contables) y *a little* (incontables) y usarlos correctamente
+
+[ ] Puedo usar *a lot of*, *enough*, *too many* y *too few* con el tipo de sustantivo correcto
+
+[ ] Puedo expresar posesión con el genitivo sajón ('s) y sé cuándo preferirlo sobre la estructura "of"
+
+[ ] Puedo escribir un párrafo de 5–8 oraciones describiendo un lugar (mi salón, mi casa) usando *there is/are*, cuantificadores y genitivo sajón correctamente

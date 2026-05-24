@@ -315,13 +315,22 @@ El sábado pasado, los vecinos de la Colonia Roma decidieron limpiar el parque p
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo identificar y usar los ocho pronombres reflexivos con el sujeto correcto (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves).
-- [ ] Puedo distinguir el uso reflexivo (acción sobre uno mismo) del uso enfático (yo mismo lo hice).
-- [ ] Puedo usar correctamente *by myself / by yourself…* y *on my own / on your own…* para expresar "sin ayuda".
-- [ ] Puedo usar *each other* para hablar de acciones mutuas entre dos personas y *one another* en contextos formales o con más personas.
-- [ ] Puedo usar expresiones fijas como *enjoy yourself*, *help yourself*, *hurt yourself*, *behave yourself* y *introduce yourself* en oraciones propias.
-- [ ] Puedo evitar errores comunes como "hisself", "theirselves" o "by my own".
-- [ ] Puedo formar oraciones positivas, negativas e interrogativas con pronombres reflexivos.
-- [ ] Puedo distinguir entre una oración reflexiva y una recíproca (*She saw herself* vs. *They saw each other*).
-- [ ] Puedo comprender y producir un breve texto o diálogo usando pronombres reflexivos y recíprocos en contextos cotidianos mexicanos.
-- [ ] Puedo completar los ejercicios de esta lección con al menos 80% de aciertos.
+[ ] Puedo identificar y usar los ocho pronombres reflexivos con el sujeto correcto (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves).
+
+[ ] Puedo distinguir el uso reflexivo (acción sobre uno mismo) del uso enfático (yo mismo lo hice).
+
+[ ] Puedo usar correctamente *by myself / by yourself…* y *on my own / on your own…* para expresar "sin ayuda".
+
+[ ] Puedo usar *each other* para hablar de acciones mutuas entre dos personas y *one another* en contextos formales o con más personas.
+
+[ ] Puedo usar expresiones fijas como *enjoy yourself*, *help yourself*, *hurt yourself*, *behave yourself* y *introduce yourself* en oraciones propias.
+
+[ ] Puedo evitar errores comunes como "hisself", "theirselves" o "by my own".
+
+[ ] Puedo formar oraciones positivas, negativas e interrogativas con pronombres reflexivos.
+
+[ ] Puedo distinguir entre una oración reflexiva y una recíproca (*She saw herself* vs. *They saw each other*).
+
+[ ] Puedo comprender y producir un breve texto o diálogo usando pronombres reflexivos y recíprocos en contextos cotidianos mexicanos.
+
+[ ] Puedo completar los ejercicios de esta lección con al menos 80% de aciertos.

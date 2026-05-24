@@ -448,13 +448,22 @@ Traduce las siguientes oraciones. Usa contracciones donde sea posible.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo decir los 7 pronombres personales en inglés (I, you, he, she, it, we, they) sin equivocarme
-- [ ] Puedo conjugar TO BE en todas sus formas afirmativas: am / is / are con el pronombre correcto
-- [ ] Puedo usar las contracciones (I'm, He's, We're, etc.) correctamente en conversación informal
-- [ ] Puedo presentarme en inglés diciendo mi nombre, edad, origen y rol (estudiante, etc.)
-- [ ] Puedo usar los saludos correctos según la hora del día (morning / afternoon / evening)
-- [ ] Puedo distinguir cuándo usar *Good evening* (saludo) y cuándo *Good night* (despedida)
-- [ ] Puedo decir la edad de cualquier persona usando TO BE y no TO HAVE
-- [ ] Puedo contar y escribir en inglés los números del 0 al 100, incluyendo compuestos con guion
-- [ ] Puedo responder a "Nice to meet you" con "Nice to meet you **too**" sin olvidar el *too*
-- [ ] Puedo escribir correctamente las contracciones sin dejar espacio después del apóstrofo (I'm, no I' m)
+[ ] Puedo decir los 7 pronombres personales en inglés (I, you, he, she, it, we, they) sin equivocarme
+
+[ ] Puedo conjugar TO BE en todas sus formas afirmativas: am / is / are con el pronombre correcto
+
+[ ] Puedo usar las contracciones (I'm, He's, We're, etc.) correctamente en conversación informal
+
+[ ] Puedo presentarme en inglés diciendo mi nombre, edad, origen y rol (estudiante, etc.)
+
+[ ] Puedo usar los saludos correctos según la hora del día (morning / afternoon / evening)
+
+[ ] Puedo distinguir cuándo usar *Good evening* (saludo) y cuándo *Good night* (despedida)
+
+[ ] Puedo decir la edad de cualquier persona usando TO BE y no TO HAVE
+
+[ ] Puedo contar y escribir en inglés los números del 0 al 100, incluyendo compuestos con guion
+
+[ ] Puedo responder a "Nice to meet you" con "Nice to meet you **too**" sin olvidar el *too*
+
+[ ] Puedo escribir correctamente las contracciones sin dejar espacio después del apóstrofo (I'm, no I' m)

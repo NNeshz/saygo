@@ -457,13 +457,22 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo conjugar verbos en Presente Simple para todos los pronombres, aplicando correctamente las reglas de -s, -es e -ies en tercera persona
-- [ ] Puedo describir mi rutina diaria completa (mañana, tarde y noche) en al menos 8 oraciones
-- [ ] Puedo usar adverbios de frecuencia (*always, usually, often, sometimes, never*) en la posición correcta de la oración
-- [ ] Puedo elegir entre *at*, *on* e *in* para hablar del tiempo sin confundirlos
-- [ ] Puedo decir la hora en inglés usando *o'clock*, *half past*, *quarter past* y *quarter to*
-- [ ] Puedo nombrar los siete días de la semana y los doce meses del año en inglés
-- [ ] Puedo usar *to* para indicar dirección (*go to school*) y *for* para indicar propósito (*study for the exam*)
-- [ ] Sé que *go home* y *go there* no llevan *to*, y no cometo ese error
-- [ ] Puedo escribir un párrafo de 8–10 oraciones describiendo mi rutina típica de un día escolar
-- [ ] Puedo identificar y corregir errores como *"she eat"*, *"in Monday"* o *"go to home"* de forma inmediata
+[ ] Puedo conjugar verbos en Presente Simple para todos los pronombres, aplicando correctamente las reglas de -s, -es e -ies en tercera persona
+
+[ ] Puedo describir mi rutina diaria completa (mañana, tarde y noche) en al menos 8 oraciones
+
+[ ] Puedo usar adverbios de frecuencia (*always, usually, often, sometimes, never*) en la posición correcta de la oración
+
+[ ] Puedo elegir entre *at*, *on* e *in* para hablar del tiempo sin confundirlos
+
+[ ] Puedo decir la hora en inglés usando *o'clock*, *half past*, *quarter past* y *quarter to*
+
+[ ] Puedo nombrar los siete días de la semana y los doce meses del año en inglés
+
+[ ] Puedo usar *to* para indicar dirección (*go to school*) y *for* para indicar propósito (*study for the exam*)
+
+[ ] Sé que *go home* y *go there* no llevan *to*, y no cometo ese error
+
+[ ] Puedo escribir un párrafo de 8–10 oraciones describiendo mi rutina típica de un día escolar
+
+[ ] Puedo identificar y corregir errores como *"she eat"*, *"in Monday"* o *"go to home"* de forma inmediata

@@ -366,13 +366,22 @@ Translate these sentences using the correct conditional structure.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo formar oraciones Zero Conditional para expresar hechos y leyes universales.
-- [ ] Puedo formar oraciones First Conditional para hablar de situaciones reales o posibles en el futuro.
-- [ ] Nunca uso "will" después de "if", "when" o "as soon as" en oraciones futuras.
-- [ ] Sé usar "unless" como equivalente de "if...not" sin doble negación.
-- [ ] Puedo distinguir entre "if" (evento incierto) y "when" (evento seguro) y uso cada uno correctamente.
-- [ ] Puedo usar variaciones con modales (should, can) e imperativos en el First Conditional.
-- [ ] Sé usar "as soon as" y "in case" en oraciones condicionales.
-- [ ] Puedo corregir los errores más comunes como *If it will rain* o *Unless you don't...*
-- [ ] Puedo hablar de reglas escolares, trámites y el clima usando el condicional.
-- [ ] Puedo escribir un texto corto de 80–100 palabras usando al menos tres estructuras condicionales distintas.
+[ ] Puedo formar oraciones Zero Conditional para expresar hechos y leyes universales.
+
+[ ] Puedo formar oraciones First Conditional para hablar de situaciones reales o posibles en el futuro.
+
+[ ] Nunca uso "will" después de "if", "when" o "as soon as" en oraciones futuras.
+
+[ ] Sé usar "unless" como equivalente de "if...not" sin doble negación.
+
+[ ] Puedo distinguir entre "if" (evento incierto) y "when" (evento seguro) y uso cada uno correctamente.
+
+[ ] Puedo usar variaciones con modales (should, can) e imperativos en el First Conditional.
+
+[ ] Sé usar "as soon as" y "in case" en oraciones condicionales.
+
+[ ] Puedo corregir los errores más comunes como *If it will rain* o *Unless you don't...*
+
+[ ] Puedo hablar de reglas escolares, trámites y el clima usando el condicional.
+
+[ ] Puedo escribir un texto corto de 80–100 palabras usando al menos tres estructuras condicionales distintas.

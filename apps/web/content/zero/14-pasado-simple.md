@@ -441,13 +441,22 @@ Traduce las siguientes oraciones al inglés en pasado simple.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo conjugar TO BE en pasado (was/were) para los 7 pronombres sin equivocarme
-- [ ] Puedo negar e interrogar con TO BE en pasado (wasn't/weren't/Was...?/Were...?) sin usar DID
-- [ ] Puedo usar *There was* (singular) y *There were* (plural) correctamente
-- [ ] Puedo formar el pasado de verbos regulares con -ed, aplicando las reglas ortográficas
-- [ ] Conozco los 16 verbos irregulares esenciales del módulo y sus formas de pasado
-- [ ] Puedo negar en pasado usando *didn't + infinitivo* (no didn't + -ed ni didn't + irregular)
-- [ ] Puedo hacer preguntas en pasado usando *Did + sujeto + infinitivo*
-- [ ] Nunca digo *"Did he went?"* — entiendo que después de DID el verbo va en infinitivo
-- [ ] Puedo hacer preguntas WH- en pasado (Where did you go? / What did she eat?)
-- [ ] Puedo usar los marcadores temporales de pasado (yesterday, last week, ago) con el tiempo correcto
+[ ] Puedo conjugar TO BE en pasado (was/were) para los 7 pronombres sin equivocarme
+
+[ ] Puedo negar e interrogar con TO BE en pasado (wasn't/weren't/Was...?/Were...?) sin usar DID
+
+[ ] Puedo usar *There was* (singular) y *There were* (plural) correctamente
+
+[ ] Puedo formar el pasado de verbos regulares con -ed, aplicando las reglas ortográficas
+
+[ ] Conozco los 16 verbos irregulares esenciales del módulo y sus formas de pasado
+
+[ ] Puedo negar en pasado usando *didn't + infinitivo* (no didn't + -ed ni didn't + irregular)
+
+[ ] Puedo hacer preguntas en pasado usando *Did + sujeto + infinitivo*
+
+[ ] Nunca digo *"Did he went?"* — entiendo que después de DID el verbo va en infinitivo
+
+[ ] Puedo hacer preguntas WH- en pasado (Where did you go? / What did she eat?)
+
+[ ] Puedo usar los marcadores temporales de pasado (yesterday, last week, ago) con el tiempo correcto

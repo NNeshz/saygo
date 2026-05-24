@@ -559,13 +559,22 @@ Selecciona la palabra que completa correctamente cada oración.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo nombrar los niveles educativos en inglés y usar términos como GPA, scholarship e internship.
-- [ ] Puedo identificar y usar el vocabulario de documentos oficiales (birth certificate, voter ID, passport).
-- [ ] Puedo realizar transacciones bancarias básicas en inglés (deposit, withdrawal, transfer, balance).
-- [ ] Puedo describir síntomas de salud comunes (fever, cough, rash, dizziness, nausea) en inglés.
-- [ ] Puedo comunicarme en una farmacia en inglés, usando prescription, over-the-counter y painkiller.
-- [ ] Puedo hablar sobre problemas tecnológicos (crash, update, upload, download) en inglés.
-- [ ] Puedo usar vocabulario de transporte urbano en México en inglés (metro, platform, turnstile, toll booth).
-- [ ] Puedo describir una vivienda y sus condiciones de arrendamiento en inglés (lease, deposit, utilities).
-- [ ] Puedo distinguir entre inglés americano y británico en vocabulario cotidiano (apartment/flat, subway/underground).
-- [ ] Puedo escribir una queja formal breve en inglés adaptada al contexto mexicano.
+[ ] Puedo nombrar los niveles educativos en inglés y usar términos como GPA, scholarship e internship.
+
+[ ] Puedo identificar y usar el vocabulario de documentos oficiales (birth certificate, voter ID, passport).
+
+[ ] Puedo realizar transacciones bancarias básicas en inglés (deposit, withdrawal, transfer, balance).
+
+[ ] Puedo describir síntomas de salud comunes (fever, cough, rash, dizziness, nausea) en inglés.
+
+[ ] Puedo comunicarme en una farmacia en inglés, usando prescription, over-the-counter y painkiller.
+
+[ ] Puedo hablar sobre problemas tecnológicos (crash, update, upload, download) en inglés.
+
+[ ] Puedo usar vocabulario de transporte urbano en México en inglés (metro, platform, turnstile, toll booth).
+
+[ ] Puedo describir una vivienda y sus condiciones de arrendamiento en inglés (lease, deposit, utilities).
+
+[ ] Puedo distinguir entre inglés americano y británico en vocabulario cotidiano (apartment/flat, subway/underground).
+
+[ ] Puedo escribir una queja formal breve en inglés adaptada al contexto mexicano.

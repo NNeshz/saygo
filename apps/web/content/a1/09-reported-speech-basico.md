@@ -378,13 +378,22 @@ Fill in the blank with the correct form of *say*, *tell*, *ask*, *advise*, *warn
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo distinguir cuándo usar *say*, *tell* y *ask* y construir la oración correctamente.
-- [ ] Puedo aplicar el backshift: cambio Present Simple → Past Simple, will → would, can → could.
-- [ ] Puedo cambiar pronombres y expresiones de tiempo/lugar (here→there, today→that day, etc.).
-- [ ] Puedo transformar preguntas de sí/no usando *if* o *whether* sin inversión.
-- [ ] Puedo transformar preguntas WH- sin inversión (where I lived, what time it started).
-- [ ] Puedo reportar órdenes afirmativas y negativas con *tell + to-infinitive / not to-infinitive*.
-- [ ] Puedo usar *advise*, *warn*, *suggest* y *remind* con la estructura correcta.
-- [ ] Puedo identificar y corregir los errores más comunes (she said me, where did I live, suggest to go).
-- [ ] Puedo convertir un diálogo corto completo a reported speech manteniendo todos los cambios.
-- [ ] Puedo escribir un párrafo de 80+ palabras usando al menos 4 verbos de reporte distintos.
+[ ] Puedo distinguir cuándo usar *say*, *tell* y *ask* y construir la oración correctamente.
+
+[ ] Puedo aplicar el backshift: cambio Present Simple → Past Simple, will → would, can → could.
+
+[ ] Puedo cambiar pronombres y expresiones de tiempo/lugar (here→there, today→that day, etc.).
+
+[ ] Puedo transformar preguntas de sí/no usando *if* o *whether* sin inversión.
+
+[ ] Puedo transformar preguntas WH- sin inversión (where I lived, what time it started).
+
+[ ] Puedo reportar órdenes afirmativas y negativas con *tell + to-infinitive / not to-infinitive*.
+
+[ ] Puedo usar *advise*, *warn*, *suggest* y *remind* con la estructura correcta.
+
+[ ] Puedo identificar y corregir los errores más comunes (she said me, where did I live, suggest to go).
+
+[ ] Puedo convertir un diálogo corto completo a reported speech manteniendo todos los cambios.
+
+[ ] Puedo escribir un párrafo de 80+ palabras usando al menos 4 verbos de reporte distintos.

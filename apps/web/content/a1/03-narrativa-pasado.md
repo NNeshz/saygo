@@ -328,13 +328,22 @@ Escribe 5 oraciones sobre lo que estabas haciendo ayer a las 7 de la noche. Usa:
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo usar **was** con I / he / she / it y **were** con you / we / they sin errores.
-- [ ] Puedo formar oraciones afirmativas, negativas y preguntas en Past Continuous.
-- [ ] Puedo aplicar las reglas de ortografía del -ing (CVC, verbos en -e, verbos en -ie).
-- [ ] Puedo describir una acción interrumpida usando **when** + Past Simple.
-- [ ] Puedo describir dos acciones simultáneas usando **while** + Past Continuous.
-- [ ] Puedo usar adverbios narrativos (suddenly, luckily, meanwhile, finally) en una historia.
-- [ ] Puedo distinguir cuándo usar **while** y cuándo usar **when** como conectores.
-- [ ] Puedo escribir un párrafo narrativo en primera persona usando Past Continuous con naturalidad.
-- [ ] Puedo dar respuestas cortas correctas (Yes, she was. / No, they weren't.).
-- [ ] Puedo identificar y corregir los errores más comunes de este tiempo verbal.
+[ ] Puedo usar **was** con I / he / she / it y **were** con you / we / they sin errores.
+
+[ ] Puedo formar oraciones afirmativas, negativas y preguntas en Past Continuous.
+
+[ ] Puedo aplicar las reglas de ortografía del -ing (CVC, verbos en -e, verbos en -ie).
+
+[ ] Puedo describir una acción interrumpida usando **when** + Past Simple.
+
+[ ] Puedo describir dos acciones simultáneas usando **while** + Past Continuous.
+
+[ ] Puedo usar adverbios narrativos (suddenly, luckily, meanwhile, finally) en una historia.
+
+[ ] Puedo distinguir cuándo usar **while** y cuándo usar **when** como conectores.
+
+[ ] Puedo escribir un párrafo narrativo en primera persona usando Past Continuous con naturalidad.
+
+[ ] Puedo dar respuestas cortas correctas (Yes, she was. / No, they weren't.).
+
+[ ] Puedo identificar y corregir los errores más comunes de este tiempo verbal.

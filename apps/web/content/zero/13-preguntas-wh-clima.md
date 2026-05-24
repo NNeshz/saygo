@@ -387,13 +387,22 @@ Traduce las siguientes oraciones.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo usar *How much* correctamente con sustantivos incontables y precios
-- [ ] Puedo usar *How many* correctamente con sustantivos contables
-- [ ] Puedo distinguir cuándo usar *which* (opciones definidas) vs. *what* (pregunta abierta)
-- [ ] Puedo formular preguntas con *who* como sujeto (Who goes?) y como objeto (Who do you see?)
-- [ ] Sé que cuando *who* es sujeto, el verbo va directo sin DO/DOES (Who **goes**, no "Who does go")
-- [ ] Puedo hacer sugerencias con *Let's* + verbo base (Let's go / Let's study)
-- [ ] Puedo negar sugerencias con *Let's not* + verbo base (Let's not be late)
-- [ ] Puedo describir el clima con *It's + adjetivo* (It's sunny, It's cold)
-- [ ] Puedo describir el clima en progreso con *It's + verbo -ing* (It's raining, It's snowing)
-- [ ] Nunca omito el sujeto *it* en las oraciones de clima (siempre: It's raining, no "Is raining")
+[ ] Puedo usar *How much* correctamente con sustantivos incontables y precios
+
+[ ] Puedo usar *How many* correctamente con sustantivos contables
+
+[ ] Puedo distinguir cuándo usar *which* (opciones definidas) vs. *what* (pregunta abierta)
+
+[ ] Puedo formular preguntas con *who* como sujeto (Who goes?) y como objeto (Who do you see?)
+
+[ ] Sé que cuando *who* es sujeto, el verbo va directo sin DO/DOES (Who **goes**, no "Who does go")
+
+[ ] Puedo hacer sugerencias con *Let's* + verbo base (Let's go / Let's study)
+
+[ ] Puedo negar sugerencias con *Let's not* + verbo base (Let's not be late)
+
+[ ] Puedo describir el clima con *It's + adjetivo* (It's sunny, It's cold)
+
+[ ] Puedo describir el clima en progreso con *It's + verbo -ing* (It's raining, It's snowing)
+
+[ ] Nunca omito el sujeto *it* en las oraciones de clima (siempre: It's raining, no "Is raining")

@@ -336,13 +336,22 @@ Traduce las siguientes oraciones usando pronombres objeto.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo recitar los 7 pronombres objeto (me, you, him, her, it, us, them) sin equivocarme
-- [ ] Puedo identificar cuándo usar el pronombre sujeto y cuándo el pronombre objeto en una oración
-- [ ] Puedo sustituir un nombre por el pronombre objeto correcto después de un verbo (I like **him**)
-- [ ] Puedo usar pronombres objeto después de cualquier preposición (with **me**, for **her**, to **them**)
-- [ ] Puedo responder con "Me too" para mostrar acuerdo con una oración afirmativa
-- [ ] Puedo responder con "Me neither" para mostrar acuerdo con una oración negativa
-- [ ] Puedo corregir el error "between you and I" → "between you and **me**"
-- [ ] Puedo reescribir "Me and my friend went" como "**My friend and I** went"
-- [ ] Puedo usar correctamente "him" y "her" sin confundirlos (him = él, her = ella)
-- [ ] Puedo escribir 5 oraciones originales usando pronombres objeto en distintos contextos
+[ ] Puedo recitar los 7 pronombres objeto (me, you, him, her, it, us, them) sin equivocarme
+
+[ ] Puedo identificar cuándo usar el pronombre sujeto y cuándo el pronombre objeto en una oración
+
+[ ] Puedo sustituir un nombre por el pronombre objeto correcto después de un verbo (I like **him**)
+
+[ ] Puedo usar pronombres objeto después de cualquier preposición (with **me**, for **her**, to **them**)
+
+[ ] Puedo responder con "Me too" para mostrar acuerdo con una oración afirmativa
+
+[ ] Puedo responder con "Me neither" para mostrar acuerdo con una oración negativa
+
+[ ] Puedo corregir el error "between you and I" → "between you and **me**"
+
+[ ] Puedo reescribir "Me and my friend went" como "**My friend and I** went"
+
+[ ] Puedo usar correctamente "him" y "her" sin confundirlos (him = él, her = ella)
+
+[ ] Puedo escribir 5 oraciones originales usando pronombres objeto en distintos contextos

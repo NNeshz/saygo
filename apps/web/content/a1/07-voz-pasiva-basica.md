@@ -331,13 +331,22 @@ Find and correct the mistake in each sentence.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo identificar la diferencia entre una oración activa y una pasiva en inglés.
-- [ ] Puedo formar el presente simple pasivo con **is/are + participio pasado**.
-- [ ] Puedo formar el pasado simple pasivo con **was/were + participio pasado**.
-- [ ] Puedo usar las formas negativas **isn't/aren't** y **wasn't/weren't** en oraciones pasivas.
-- [ ] Puedo hacer preguntas en voz pasiva invirtiendo **is/are/was/were** con el sujeto.
-- [ ] Entiendo cuándo usar **by + agent** y cuándo omitirlo.
-- [ ] Conozco y puedo usar los 10 verbos irregulares clave y sus participios (made, built, written, etc.).
-- [ ] Puedo transformar oraciones activas en pasivas y viceversa correctamente.
-- [ ] Reconozco los errores más comunes (participio incorrecto, auxiliar equivocado, "from" en lugar de "by").
-- [ ] Puedo leer y entender avisos, noticias y textos formales que usan la voz pasiva.
+[ ] Puedo identificar la diferencia entre una oración activa y una pasiva en inglés.
+
+[ ] Puedo formar el presente simple pasivo con **is/are + participio pasado**.
+
+[ ] Puedo formar el pasado simple pasivo con **was/were + participio pasado**.
+
+[ ] Puedo usar las formas negativas **isn't/aren't** y **wasn't/weren't** en oraciones pasivas.
+
+[ ] Puedo hacer preguntas en voz pasiva invirtiendo **is/are/was/were** con el sujeto.
+
+[ ] Entiendo cuándo usar **by + agent** y cuándo omitirlo.
+
+[ ] Conozco y puedo usar los 10 verbos irregulares clave y sus participios (made, built, written, etc.).
+
+[ ] Puedo transformar oraciones activas en pasivas y viceversa correctamente.
+
+[ ] Reconozco los errores más comunes (participio incorrecto, auxiliar equivocado, "from" en lugar de "by").
+
+[ ] Puedo leer y entender avisos, noticias y textos formales que usan la voz pasiva.

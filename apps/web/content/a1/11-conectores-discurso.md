@@ -378,13 +378,22 @@ Traduce cada oración usando el conector indicado entre corchetes.
 
 ## 11. Checklist del alumno
 
-- [ ] Puedo identificar la categoría de un conector (adición, contraste, causa, resultado, ejemplo, secuencia, condición, propósito) al leerlo en un texto.
-- [ ] Puedo usar *although* y *however* correctamente y sé que no son intercambiables en la misma posición gramatical.
-- [ ] Puedo elegir entre *to*, *for*, *in order to* y *so that* según la estructura que sigue al conector.
-- [ ] Sé que *although* nunca va acompañado de *but* en la misma oración.
-- [ ] Puedo usar *despite* seguido de gerundio o sustantivo, no de cláusula con sujeto.
-- [ ] Puedo escribir un párrafo corto usando al menos cuatro conectores de categorías distintas.
-- [ ] Sé colocar *however* correctamente después de punto o punto y coma, seguido de coma.
-- [ ] Puedo conectar una secuencia de pasos (trámite, proceso) usando *first*, *then*, *next* y *finally*.
-- [ ] Puedo reconocer y corregir el error *for + infinitivo* sustituyéndolo por *to + infinitivo*.
-- [ ] Puedo escribir una oración condicional usando *unless*, *as long as* o *provided that*.
+[ ] Puedo identificar la categoría de un conector (adición, contraste, causa, resultado, ejemplo, secuencia, condición, propósito) al leerlo en un texto.
+
+[ ] Puedo usar *although* y *however* correctamente y sé que no son intercambiables en la misma posición gramatical.
+
+[ ] Puedo elegir entre *to*, *for*, *in order to* y *so that* según la estructura que sigue al conector.
+
+[ ] Sé que *although* nunca va acompañado de *but* en la misma oración.
+
+[ ] Puedo usar *despite* seguido de gerundio o sustantivo, no de cláusula con sujeto.
+
+[ ] Puedo escribir un párrafo corto usando al menos cuatro conectores de categorías distintas.
+
+[ ] Sé colocar *however* correctamente después de punto o punto y coma, seguido de coma.
+
+[ ] Puedo conectar una secuencia de pasos (trámite, proceso) usando *first*, *then*, *next* y *finally*.
+
+[ ] Puedo reconocer y corregir el error *for + infinitivo* sustituyéndolo por *to + infinitivo*.
+
+[ ] Puedo escribir una oración condicional usando *unless*, *as long as* o *provided that*.

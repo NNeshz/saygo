@@ -358,13 +358,22 @@ Traduce las siguientes oraciones al inglés usando un phrasal verb.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo explicar la diferencia entre un phrasal verb separable e inseparable.
-- [ ] Puedo usar pronombres correctamente con phrasal verbs separables (*Turn it on*, *Call her back*).
-- [ ] Puedo identificar qué partícula corresponde a cada significado (up, out, back, down, away).
-- [ ] Puedo usar al menos 5 phrasal verbs de tecnología en oraciones propias.
-- [ ] Puedo usar phrasal verbs de transporte para describir un viaje en metro o autobús.
-- [ ] Puedo llenar un formulario / dar instrucciones usando *fill out*, *hand in*, y *find out*.
-- [ ] Puedo hablar de relaciones usando *get along with*, *break up with*, y *make up*.
-- [ ] Puedo escribir un texto corto (60+ palabras) usando al menos 5 phrasal verbs distintos.
-- [ ] Puedo usar los sustantivos derivados *a breakup*, *a backup*, y *a dropout* en contexto.
-- [ ] Puedo reconocer y corregir los 8 errores comunes de esta lección.
+[ ] Puedo explicar la diferencia entre un phrasal verb separable e inseparable.
+
+[ ] Puedo usar pronombres correctamente con phrasal verbs separables (*Turn it on*, *Call her back*).
+
+[ ] Puedo identificar qué partícula corresponde a cada significado (up, out, back, down, away).
+
+[ ] Puedo usar al menos 5 phrasal verbs de tecnología en oraciones propias.
+
+[ ] Puedo usar phrasal verbs de transporte para describir un viaje en metro o autobús.
+
+[ ] Puedo llenar un formulario / dar instrucciones usando *fill out*, *hand in*, y *find out*.
+
+[ ] Puedo hablar de relaciones usando *get along with*, *break up with*, y *make up*.
+
+[ ] Puedo escribir un texto corto (60+ palabras) usando al menos 5 phrasal verbs distintos.
+
+[ ] Puedo usar los sustantivos derivados *a breakup*, *a backup*, y *a dropout* en contexto.
+
+[ ] Puedo reconocer y corregir los 8 errores comunes de esta lección.

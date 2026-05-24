@@ -363,13 +363,22 @@ Traduce las siguientes oraciones. Usa contracciones donde sea posible.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo formar el presente continuo afirmativo con am / is / are + verbo en -ing para los 7 pronombres
-- [ ] Puedo aplicar las 4 reglas ortográficas del -ing (general, CVC, -e final, -ie final) sin equivocarme
-- [ ] Puedo negar el presente continuo usando NOT con TO BE (no con don't/doesn't)
-- [ ] Puedo hacer preguntas de sí/no en presente continuo invirtiendo el sujeto y el TO BE
-- [ ] Puedo hacer preguntas con WH- en presente continuo (What are you doing? / Where is she going?)
-- [ ] Puedo distinguir cuándo usar Presente Simple (hábito) y cuándo Presente Continuo (ahora)
-- [ ] Puedo identificar al menos 5 verbos de estado que NO se usan en continuo (know, like, want, need, understand)
-- [ ] Puedo usar el sujeto "it" obligatorio en oraciones de clima (It is raining — nunca "Is raining")
-- [ ] Puedo describir en inglés lo que está haciendo cada persona en una imagen o escena
-- [ ] Puedo escribir un párrafo corto describiendo lo que hacen los miembros de mi familia en este momento
+[ ] Puedo formar el presente continuo afirmativo con am / is / are + verbo en -ing para los 7 pronombres
+
+[ ] Puedo aplicar las 4 reglas ortográficas del -ing (general, CVC, -e final, -ie final) sin equivocarme
+
+[ ] Puedo negar el presente continuo usando NOT con TO BE (no con don't/doesn't)
+
+[ ] Puedo hacer preguntas de sí/no en presente continuo invirtiendo el sujeto y el TO BE
+
+[ ] Puedo hacer preguntas con WH- en presente continuo (What are you doing? / Where is she going?)
+
+[ ] Puedo distinguir cuándo usar Presente Simple (hábito) y cuándo Presente Continuo (ahora)
+
+[ ] Puedo identificar al menos 5 verbos de estado que NO se usan en continuo (know, like, want, need, understand)
+
+[ ] Puedo usar el sujeto "it" obligatorio en oraciones de clima (It is raining — nunca "Is raining")
+
+[ ] Puedo describir en inglés lo que está haciendo cada persona en una imagen o escena
+
+[ ] Puedo escribir un párrafo corto describiendo lo que hacen los miembros de mi familia en este momento

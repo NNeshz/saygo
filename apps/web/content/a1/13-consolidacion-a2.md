@@ -352,13 +352,22 @@ Usa los conectores del recuadro para completar el párrafo. Cada uno se usa una 
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo hablar de experiencias de vida usando Present Perfect de forma natural ("I have never…", "Have you ever…?").
-- [ ] Puedo narrar eventos del pasado combinando Past Simple y Past Continuous en el mismo párrafo.
-- [ ] Puedo escribir oraciones en Passive Voice en al menos tres tiempos verbales diferentes.
-- [ ] Puedo usar correctamente las dos formas del Condicional (First y Second) y explicar la diferencia entre ellas.
-- [ ] Puedo reportar lo que alguien dijo usando Reported Speech con backshift verbal correcto.
-- [ ] Puedo comparar dos opciones usando comparativos y superlativos en una conversación fluida.
-- [ ] Puedo usar al menos 6 modales distintos (can, could, should, must, might, have to) con sus matices correctos.
-- [ ] Puedo escribir un texto de 150 palabras usando conectores (however, therefore, although, furthermore) de forma coherente.
-- [ ] Puedo completar una simulación de trámite (banco, médico, inscripción) usando las 10 frases clave de la situación.
-- [ ] Puedo describir una tradición mexicana en inglés durante 3 minutos usando vocabulario A2 y estructuras combinadas.
+[ ] Puedo hablar de experiencias de vida usando Present Perfect de forma natural ("I have never…", "Have you ever…?").
+
+[ ] Puedo narrar eventos del pasado combinando Past Simple y Past Continuous en el mismo párrafo.
+
+[ ] Puedo escribir oraciones en Passive Voice en al menos tres tiempos verbales diferentes.
+
+[ ] Puedo usar correctamente las dos formas del Condicional (First y Second) y explicar la diferencia entre ellas.
+
+[ ] Puedo reportar lo que alguien dijo usando Reported Speech con backshift verbal correcto.
+
+[ ] Puedo comparar dos opciones usando comparativos y superlativos en una conversación fluida.
+
+[ ] Puedo usar al menos 6 modales distintos (can, could, should, must, might, have to) con sus matices correctos.
+
+[ ] Puedo escribir un texto de 150 palabras usando conectores (however, therefore, although, furthermore) de forma coherente.
+
+[ ] Puedo completar una simulación de trámite (banco, médico, inscripción) usando las 10 frases clave de la situación.
+
+[ ] Puedo describir una tradición mexicana en inglés durante 3 minutos usando vocabulario A2 y estructuras combinadas.

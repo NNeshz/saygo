@@ -325,13 +325,22 @@ Encuentra y corrige el error en cada oración.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo distinguir cuándo usar Present Simple y cuándo usar Present Continuous y elegir el marcador correcto.
-- [ ] Puedo formar oraciones afirmativas, negativas y preguntas en Past Simple con verbos regulares e irregulares.
-- [ ] Puedo usar "going to" para planes decididos de antemano y "will" para decisiones espontáneas o promesas.
-- [ ] Conozco y puedo usar vocabulario sobre nacionalidad, lugares mexicanos, comida y celebraciones en inglés.
-- [ ] Puedo corregir el error "I have X years" y decir "I am X years old".
-- [ ] Puedo corregir "I am agree" y usar "I agree" correctamente.
-- [ ] Puedo usar "people are" (plural) en lugar de "people is".
-- [ ] Puedo distinguir "bored" (sentimiento) de "boring" (causa aburrida).
-- [ ] Puedo escribir un párrafo corto en primera persona usando los tres tiempos verbales del módulo.
-- [ ] Puedo participar en un diálogo breve sobre celebraciones o la vida diaria en México usando inglés natural.
+[ ] Puedo distinguir cuándo usar Present Simple y cuándo usar Present Continuous y elegir el marcador correcto.
+
+[ ] Puedo formar oraciones afirmativas, negativas y preguntas en Past Simple con verbos regulares e irregulares.
+
+[ ] Puedo usar "going to" para planes decididos de antemano y "will" para decisiones espontáneas o promesas.
+
+[ ] Conozco y puedo usar vocabulario sobre nacionalidad, lugares mexicanos, comida y celebraciones en inglés.
+
+[ ] Puedo corregir el error "I have X years" y decir "I am X years old".
+
+[ ] Puedo corregir "I am agree" y usar "I agree" correctamente.
+
+[ ] Puedo usar "people are" (plural) en lugar de "people is".
+
+[ ] Puedo distinguir "bored" (sentimiento) de "boring" (causa aburrida).
+
+[ ] Puedo escribir un párrafo corto en primera persona usando los tres tiempos verbales del módulo.
+
+[ ] Puedo participar en un diálogo breve sobre celebraciones o la vida diaria en México usando inglés natural.

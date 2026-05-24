@@ -446,13 +446,22 @@ Traduce las siguientes oraciones usando el vocabulario y las estructuras de este
 
 Usa esta lista para verificar que dominas el módulo completo. Marca cada punto cuando puedas hacerlo con seguridad.
 
-- [ ] Puedo dar y entender indicaciones básicas usando *go straight on, turn left/right, it's next to/opposite/between*
-- [ ] Puedo preguntar precios y pedir artículos en una tienda (*How much is it? / Can I try it on? / I'd like...*)
-- [ ] Puedo pedir y ordenar en un restaurante (*Can I see the menu? / I'd like... / The bill, please*)
-- [ ] Puedo identificarme correctamente al teléfono (*This is [nombre] speaking*)
-- [ ] Puedo formar imperativos afirmativos y negativos (*Open your book / Don't forget*)
-- [ ] Puedo leer y decir fechas con ordinales (*May 5th, October 12th, January 1st*)
-- [ ] Puedo usar las preposiciones de tiempo correctamente (*at* 6 o'clock, *on* Monday, *in* July)
-- [ ] Puedo distinguir adjetivos posesivos (*my, your, his...*) de pronombres posesivos (*mine, yours, his...*)
-- [ ] Nunca digo *"go to home"* ni *"go to there"* — uso *go home* y *go there* directamente
-- [ ] Puedo reconocer y corregir los 8 errores más comunes de este módulo
+[ ] Puedo dar y entender indicaciones básicas usando *go straight on, turn left/right, it's next to/opposite/between*
+
+[ ] Puedo preguntar precios y pedir artículos en una tienda (*How much is it? / Can I try it on? / I'd like...*)
+
+[ ] Puedo pedir y ordenar en un restaurante (*Can I see the menu? / I'd like... / The bill, please*)
+
+[ ] Puedo identificarme correctamente al teléfono (*This is [nombre] speaking*)
+
+[ ] Puedo formar imperativos afirmativos y negativos (*Open your book / Don't forget*)
+
+[ ] Puedo leer y decir fechas con ordinales (*May 5th, October 12th, January 1st*)
+
+[ ] Puedo usar las preposiciones de tiempo correctamente (*at* 6 o'clock, *on* Monday, *in* July)
+
+[ ] Puedo distinguir adjetivos posesivos (*my, your, his...*) de pronombres posesivos (*mine, yours, his...*)
+
+[ ] Nunca digo *"go to home"* ni *"go to there"* — uso *go home* y *go there* directamente
+
+[ ] Puedo reconocer y corregir los 8 errores más comunes de este módulo

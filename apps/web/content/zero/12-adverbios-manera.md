@@ -351,13 +351,22 @@ Traduce las siguientes oraciones usando adverbios de manera.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo formar adverbios de manera agregando -ly al adjetivo (slow → slowly, loud → loudly)
-- [ ] Puedo aplicar la regla especial para adjetivos en -y (happy → happily, easy → easily)
-- [ ] Conozco los 5 irregulares esenciales: good→well, hard→hard, fast→fast, early→early, late→late
-- [ ] Puedo distinguir cuándo usar el adjetivo (describe sustantivo) y cuándo el adverbio (describe verbo)
-- [ ] Nunca confundo *"She speaks good"* con *"She speaks well"*
-- [ ] Sé que *hardly* significa "casi no" y no es el adverbio de *hard*
-- [ ] Sé que *lately* significa "últimamente" y no es el adverbio de *late*
-- [ ] Puedo colocar el adverbio en la posición correcta de la oración (después del verbo o del objeto)
-- [ ] Puedo describir en inglés cómo hace algo alguien usando al menos 5 adverbios distintos
-- [ ] Puedo corregir oraciones que usan un adjetivo donde debe ir un adverbio y viceversa
+[ ] Puedo formar adverbios de manera agregando -ly al adjetivo (slow → slowly, loud → loudly)
+
+[ ] Puedo aplicar la regla especial para adjetivos en -y (happy → happily, easy → easily)
+
+[ ] Conozco los 5 irregulares esenciales: good→well, hard→hard, fast→fast, early→early, late→late
+
+[ ] Puedo distinguir cuándo usar el adjetivo (describe sustantivo) y cuándo el adverbio (describe verbo)
+
+[ ] Nunca confundo *"She speaks good"* con *"She speaks well"*
+
+[ ] Sé que *hardly* significa "casi no" y no es el adverbio de *hard*
+
+[ ] Sé que *lately* significa "últimamente" y no es el adverbio de *late*
+
+[ ] Puedo colocar el adverbio en la posición correcta de la oración (después del verbo o del objeto)
+
+[ ] Puedo describir en inglés cómo hace algo alguien usando al menos 5 adverbios distintos
+
+[ ] Puedo corregir oraciones que usan un adjetivo donde debe ir un adverbio y viceversa

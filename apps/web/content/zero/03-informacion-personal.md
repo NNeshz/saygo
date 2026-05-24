@@ -462,13 +462,22 @@ Traduce las siguientes oraciones al inglés usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo formar oraciones negativas con TO BE para todos los pronombres, incluyendo *I'm not* correctamente
-- [ ] Puedo hacer preguntas de sí/no con TO BE invirtiendo el verbo y el sujeto sin usar *do*
-- [ ] Puedo dar respuestas cortas afirmativas y negativas correctas (*Yes, she is* / *No, they aren't*)
-- [ ] Puedo usar los siete adjetivos posesivos (my, your, his, her, its, our, their) con el poseedor correcto
-- [ ] Puedo distinguir entre *his* (de él) y *her* (de ella) sin confundirlos con los pronombres sujeto
-- [ ] Puedo distinguir entre *its* (posesivo) e *it's* (contracción de "it is") y usarlos correctamente
-- [ ] Puedo formular preguntas con What, Where, Who, How, How old y Which usando TO BE
-- [ ] Puedo responder preguntas WH- con información específica, no con sí/no
-- [ ] Puedo distinguir cuándo usar *What* (opciones abiertas) y *Which* (opciones limitadas)
-- [ ] Puedo mantener un intercambio básico de presentación e información personal usando todos los temas del módulo
+[ ] Puedo formar oraciones negativas con TO BE para todos los pronombres, incluyendo *I'm not* correctamente
+
+[ ] Puedo hacer preguntas de sí/no con TO BE invirtiendo el verbo y el sujeto sin usar *do*
+
+[ ] Puedo dar respuestas cortas afirmativas y negativas correctas (*Yes, she is* / *No, they aren't*)
+
+[ ] Puedo usar los siete adjetivos posesivos (my, your, his, her, its, our, their) con el poseedor correcto
+
+[ ] Puedo distinguir entre *his* (de él) y *her* (de ella) sin confundirlos con los pronombres sujeto
+
+[ ] Puedo distinguir entre *its* (posesivo) e *it's* (contracción de "it is") y usarlos correctamente
+
+[ ] Puedo formular preguntas con What, Where, Who, How, How old y Which usando TO BE
+
+[ ] Puedo responder preguntas WH- con información específica, no con sí/no
+
+[ ] Puedo distinguir cuándo usar *What* (opciones abiertas) y *Which* (opciones limitadas)
+
+[ ] Puedo mantener un intercambio básico de presentación e información personal usando todos los temas del módulo

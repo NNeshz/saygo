@@ -440,13 +440,22 @@ Traduce las siguientes oraciones al inglés. Presta atención a las palabras con
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo distinguir y pronunciar los sonidos /æ/ y /ʌ/ correctamente en palabras como *cat* y *cup*
-- [ ] Puedo diferenciar vocales cortas y largas: /ɪ/ vs /iː/ y /ʊ/ vs /uː/ sin confundirlas
-- [ ] Puedo producir el sonido schwa /ə/ en palabras como *teacher*, *about* y *banana*
-- [ ] Puedo pronunciar /θ/ y /ð/ poniendo la lengua entre los dientes correctamente
-- [ ] Puedo pronunciar /v/ con los dientes superiores tocando el labio inferior, sin confundirla con /b/
-- [ ] Puedo producir el sonido /ŋ/ al final de palabras como *sing* y *think* sin agregar una /g/ extra
-- [ ] Puedo determinar si la -s final de una palabra se pronuncia /s/, /z/ o /ɪz/
-- [ ] Puedo identificar qué sílaba lleva el acento en palabras de dos sílabas como *table* y *begin*
-- [ ] Puedo recitar el alfabeto completo A–Z con la pronunciación correcta de cada letra
-- [ ] Puedo deletrear mi nombre completo en inglés respondiendo a la pregunta "How do you spell your name?"
+[ ] Puedo distinguir y pronunciar los sonidos /æ/ y /ʌ/ correctamente en palabras como *cat* y *cup*
+
+[ ] Puedo diferenciar vocales cortas y largas: /ɪ/ vs /iː/ y /ʊ/ vs /uː/ sin confundirlas
+
+[ ] Puedo producir el sonido schwa /ə/ en palabras como *teacher*, *about* y *banana*
+
+[ ] Puedo pronunciar /θ/ y /ð/ poniendo la lengua entre los dientes correctamente
+
+[ ] Puedo pronunciar /v/ con los dientes superiores tocando el labio inferior, sin confundirla con /b/
+
+[ ] Puedo producir el sonido /ŋ/ al final de palabras como *sing* y *think* sin agregar una /g/ extra
+
+[ ] Puedo determinar si la -s final de una palabra se pronuncia /s/, /z/ o /ɪz/
+
+[ ] Puedo identificar qué sílaba lleva el acento en palabras de dos sílabas como *table* y *begin*
+
+[ ] Puedo recitar el alfabeto completo A–Z con la pronunciación correcta de cada letra
+
+[ ] Puedo deletrear mi nombre completo en inglés respondiendo a la pregunta "How do you spell your name?"

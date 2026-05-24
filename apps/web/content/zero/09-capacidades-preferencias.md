@@ -433,13 +433,22 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo usar *can* y *can't* correctamente para hablar de habilidades, sin agregar *to* ni -s al verbo que sigue
-- [ ] Puedo hablar sobre mis habilidades en deportes, instrumentos musicales e idiomas, usando el artículo *the* con instrumentos y sin artículo con deportes e idiomas
-- [ ] Puedo expresar gustos usando *like/love/hate + verbo -ing* en afirmativo, negativo e interrogativo
-- [ ] Puedo distinguir entre *like + -ing* (gusto general) y *want + to* (deseo específico) y usarlos correctamente
-- [ ] Puedo usar verbos como *want to*, *need to*, *plan to*, *try to*, *forget to* y *remember to* seguidos siempre de *to + verbo base*
-- [ ] Puedo usar *would like* para pedir algo en el momento o hacer un ofrecimiento cortés
-- [ ] Puedo distinguir entre *I like coffee* (gusto permanente) e *I'd like a coffee* (quiero uno ahora)
-- [ ] Puedo describir mis habilidades y preferencias en un párrafo de 6–8 oraciones de forma natural
-- [ ] Puedo corregir errores como *"can to swim"*, *"want swimming"* o *"play guitar"* (sin *the*) de forma inmediata
-- [ ] Puedo usar la escala completa de gustos (*love / like / don't mind / don't like / hate*) con ejemplos propios
+[ ] Puedo usar *can* y *can't* correctamente para hablar de habilidades, sin agregar *to* ni -s al verbo que sigue
+
+[ ] Puedo hablar sobre mis habilidades en deportes, instrumentos musicales e idiomas, usando el artículo *the* con instrumentos y sin artículo con deportes e idiomas
+
+[ ] Puedo expresar gustos usando *like/love/hate + verbo -ing* en afirmativo, negativo e interrogativo
+
+[ ] Puedo distinguir entre *like + -ing* (gusto general) y *want + to* (deseo específico) y usarlos correctamente
+
+[ ] Puedo usar verbos como *want to*, *need to*, *plan to*, *try to*, *forget to* y *remember to* seguidos siempre de *to + verbo base*
+
+[ ] Puedo usar *would like* para pedir algo en el momento o hacer un ofrecimiento cortés
+
+[ ] Puedo distinguir entre *I like coffee* (gusto permanente) e *I'd like a coffee* (quiero uno ahora)
+
+[ ] Puedo describir mis habilidades y preferencias en un párrafo de 6–8 oraciones de forma natural
+
+[ ] Puedo corregir errores como *"can to swim"*, *"want swimming"* o *"play guitar"* (sin *the*) de forma inmediata
+
+[ ] Puedo usar la escala completa de gustos (*love / like / don't mind / don't like / hate*) con ejemplos propios

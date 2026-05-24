@@ -534,13 +534,22 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo conjugar *have* y *has* correctamente según el sujeto, incluyendo formas negativas e interrogativas
-- [ ] Puedo describir el físico de una persona usando adjetivos de altura, complexión, edad y color de cabello y ojos
-- [ ] Puedo colocar los adjetivos antes del sustantivo sin agregarles plural ni artículo incorrecto
-- [ ] Puedo usar *hair* correctamente como sustantivo incontable (sin "a", sin "s")
-- [ ] Puedo formar comparativos básicos con -er + than, aplicando las reglas ortográficas (CVC, terminación en -y, etc.)
-- [ ] Puedo usar *this / that / these / those* correctamente según cercanía y número
-- [ ] Puedo describir la ubicación de personas y objetos usando las siete preposiciones de lugar del módulo
-- [ ] Puedo formular y responder preguntas con *How + adjetivo* (How tall, How big, How old)
-- [ ] Puedo distinguir entre *very* (intensidad neutra) y *too* (exceso problemático) y usarlos sin confundirlos
-- [ ] Puedo describir a una persona o lugar en 4–5 oraciones usando vocabulario y estructuras de este módulo
+[ ] Puedo conjugar *have* y *has* correctamente según el sujeto, incluyendo formas negativas e interrogativas
+
+[ ] Puedo describir el físico de una persona usando adjetivos de altura, complexión, edad y color de cabello y ojos
+
+[ ] Puedo colocar los adjetivos antes del sustantivo sin agregarles plural ni artículo incorrecto
+
+[ ] Puedo usar *hair* correctamente como sustantivo incontable (sin "a", sin "s")
+
+[ ] Puedo formar comparativos básicos con -er + than, aplicando las reglas ortográficas (CVC, terminación en -y, etc.)
+
+[ ] Puedo usar *this / that / these / those* correctamente según cercanía y número
+
+[ ] Puedo describir la ubicación de personas y objetos usando las siete preposiciones de lugar del módulo
+
+[ ] Puedo formular y responder preguntas con *How + adjetivo* (How tall, How big, How old)
+
+[ ] Puedo distinguir entre *very* (intensidad neutra) y *too* (exceso problemático) y usarlos sin confundirlos
+
+[ ] Puedo describir a una persona o lugar en 4–5 oraciones usando vocabulario y estructuras de este módulo

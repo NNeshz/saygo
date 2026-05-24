@@ -414,13 +414,22 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo sin dudar.
 
-- [ ] Puedo conjugar *have/has* en afirmativo, negativo e interrogativo para todos los pronombres sin cometer errores de forma
-- [ ] Puedo nombrar al menos 15 miembros de la familia en inglés y usarlos en oraciones completas
-- [ ] Puedo reconocer y entender oraciones con *have got* cuando las leo o escucho
-- [ ] Puedo usar *I've got / She's got / Haven't got* en conversación de forma natural con contracción
-- [ ] Puedo elegir correctamente entre *many* (contables), *much* (incontables) y *a lot of* (ambos) según el contexto
-- [ ] Puedo usar *for* + período de tiempo para expresar duración (*for two hours*, *for many years*)
-- [ ] Puedo distinguir entre *for* (duración) y *since* (punto de inicio) y no los confundo
-- [ ] Puedo describir mi familia en un párrafo de 6–8 oraciones usando *have/has*, cuantificadores y *for*
-- [ ] Puedo corregir errores como *"doesn't has"*, *"much cousins"* o *"since three years"* de forma inmediata
-- [ ] Puedo sostener una conversación breve sobre la familia respondiendo y haciendo preguntas con *have/has* y *have got*
+[ ] Puedo conjugar *have/has* en afirmativo, negativo e interrogativo para todos los pronombres sin cometer errores de forma
+
+[ ] Puedo nombrar al menos 15 miembros de la familia en inglés y usarlos en oraciones completas
+
+[ ] Puedo reconocer y entender oraciones con *have got* cuando las leo o escucho
+
+[ ] Puedo usar *I've got / She's got / Haven't got* en conversación de forma natural con contracción
+
+[ ] Puedo elegir correctamente entre *many* (contables), *much* (incontables) y *a lot of* (ambos) según el contexto
+
+[ ] Puedo usar *for* + período de tiempo para expresar duración (*for two hours*, *for many years*)
+
+[ ] Puedo distinguir entre *for* (duración) y *since* (punto de inicio) y no los confundo
+
+[ ] Puedo describir mi familia en un párrafo de 6–8 oraciones usando *have/has*, cuantificadores y *for*
+
+[ ] Puedo corregir errores como *"doesn't has"*, *"much cousins"* o *"since three years"* de forma inmediata
+
+[ ] Puedo sostener una conversación breve sobre la familia respondiendo y haciendo preguntas con *have/has* y *have got*

@@ -403,13 +403,22 @@ Traduce las siguientes oraciones usando *going to* o *will* según corresponda.
 
 Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando puedas hacerlo con seguridad y sin dudar.
 
-- [ ] Puedo formar *be going to* afirmativo para los 7 pronombres (I'm going to / He's going to…)
-- [ ] Puedo negar con *be going to* (I'm not going to / She isn't going to…)
-- [ ] Puedo hacer preguntas con *be going to* usando TO BE (Are you going to…? / Is she going to…?)
-- [ ] Puedo formar *will* afirmativo con contracción ('ll) para los 7 pronombres
-- [ ] Puedo negar con *won't* + verbo base (I won't forget / He won't come)
-- [ ] Puedo hacer preguntas con *will* (Will you help me? / Will it rain?)
-- [ ] Puedo distinguir cuándo usar *going to* (plan previo o evidencia visible) y cuándo *will* (espontáneo, promesa, oferta)
-- [ ] Nunca pongo doble *to* en *going to* ("going to to study" ❌)
-- [ ] Nunca agrego -s al verbo después de *will* ("will goes" ❌ → "will go" ✓)
-- [ ] Puedo usar expresiones de tiempo futuro (tomorrow, next week, soon, in two days) correctamente
+[ ] Puedo formar *be going to* afirmativo para los 7 pronombres (I'm going to / He's going to…)
+
+[ ] Puedo negar con *be going to* (I'm not going to / She isn't going to…)
+
+[ ] Puedo hacer preguntas con *be going to* usando TO BE (Are you going to…? / Is she going to…?)
+
+[ ] Puedo formar *will* afirmativo con contracción ('ll) para los 7 pronombres
+
+[ ] Puedo negar con *won't* + verbo base (I won't forget / He won't come)
+
+[ ] Puedo hacer preguntas con *will* (Will you help me? / Will it rain?)
+
+[ ] Puedo distinguir cuándo usar *going to* (plan previo o evidencia visible) y cuándo *will* (espontáneo, promesa, oferta)
+
+[ ] Nunca pongo doble *to* en *going to* ("going to to study" ❌)
+
+[ ] Nunca agrego -s al verbo después de *will* ("will goes" ❌ → "will go" ✓)
+
+[ ] Puedo usar expresiones de tiempo futuro (tomorrow, next week, soon, in two days) correctamente
