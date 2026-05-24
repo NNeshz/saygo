@@ -55,11 +55,12 @@ export function getDocTree(): DocSection[] {
       key: entry.name,
       href: `/docs/${entry.name}`,
       description: meta?.description,
+      order: meta?.order ?? 99,
       items,
     })
   }
 
-  return sections.sort((a, b) => a.key.localeCompare(b.key))
+  return sections.sort((a, b) => a.order - b.order)
 }
 
 export function getDocBySlug(slug: string[]): {

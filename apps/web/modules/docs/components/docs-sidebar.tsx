@@ -15,7 +15,7 @@ export function DocsSidebar({ sections }: Props) {
 
   return (
     <aside className="hidden lg:block shrink-0 w-56 xl:w-64">
-      <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto py-8 px-5">
+      <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto py-8 px-5 [&::-webkit-scrollbar]:hidden" style={{ scrollbarWidth: "none" }}>
         <DocsNav sections={sections} />
       </div>
     </aside>

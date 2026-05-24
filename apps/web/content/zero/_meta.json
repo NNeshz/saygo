@@ -1,4 +1,5 @@
 {
   "title": "Zero → A1",
-  "description": "Para alumnos sin ningún conocimiento previo del inglés. Construimos desde cero hasta alcanzar el nivel A1."
+  "description": "Para alumnos sin ningún conocimiento previo del inglés. Construimos desde cero hasta alcanzar el nivel A1.",
+  "order": 1
 }

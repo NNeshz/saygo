@@ -17,10 +17,12 @@ export type DocSection = {
   key: string
   href: string
   description?: string
+  order: number
   items: DocItem[]
 }
 
 export type DocMeta = {
   title: string
   description?: string
+  order?: number
 }
