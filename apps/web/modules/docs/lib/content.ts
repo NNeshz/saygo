@@ -2,6 +2,7 @@ import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 import type { DocFrontmatter, DocItem, DocMeta, DocSection } from "../types/docs.types"
+import type { PracticeData } from "../types/practice.types"
 
 const CONTENT_DIR = path.join(process.cwd(), "content")
 
@@ -72,6 +73,16 @@ export function getDocBySlug(slug: string[]): {
   const raw = fs.readFileSync(filePath, "utf-8")
   const { data, content } = matter(raw)
   return { frontmatter: data as DocFrontmatter, content }
+}
+
+export function getPracticeBySlug(slug: string[]): PracticeData | null {
+  const filePath = path.join(CONTENT_DIR, ...slug) + ".exercises.json"
+  if (!fs.existsSync(filePath)) return null
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf-8")) as PracticeData
+  } catch {
+    return null
+  }
 }
 
 export function getSectionByKey(key: string): DocSection | null {

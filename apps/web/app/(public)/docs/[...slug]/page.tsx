@@ -6,8 +6,15 @@ import {
   getDocBySlug,
   getAdjacentDocs,
   getSectionByKey,
+  getPracticeBySlug,
 } from "@/modules/docs"
-import { Markdown, DocsPrevNext, LevelIndex, DownloadDropdown } from "@/modules/docs"
+import {
+  Markdown,
+  DocsPrevNext,
+  LevelIndex,
+  DownloadDropdown,
+  PracticeSection,
+} from "@/modules/docs"
 import { TableOfContents } from "@/modules/docs/components/table-of-contents"
 import { extractHeadings } from "@/modules/docs/lib/headings"
 
@@ -62,6 +69,7 @@ export default async function DocsSlugPage({ params }: Props) {
   const section = getSectionByKey(slug[0])
   const headings = extractHeadings(doc.content)
   const { h1, rest } = splitAtH1(doc.content)
+  const practice = getPracticeBySlug(slug)
 
   return (
     <div className="flex gap-10 xl:gap-16">
@@ -94,6 +102,10 @@ export default async function DocsSlugPage({ params }: Props) {
           <DownloadDropdown title={doc.frontmatter.title} slug={slug} />
           <Markdown content={rest} />
         </article>
+
+        {practice && (
+          <PracticeSection lessonKey={slug.join("/")} data={practice} />
+        )}
 
         <DocsPrevNext prev={prev} next={next} />
       </div>

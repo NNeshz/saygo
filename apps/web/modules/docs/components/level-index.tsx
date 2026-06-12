@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { IconBook, IconArrowRight } from "@tabler/icons-react"
+import { LessonStatusBadge } from "./practice/lesson-status"
 import type { DocSection } from "@/modules/docs/types/docs.types"
 
 type Props = {
@@ -40,9 +41,10 @@ export function LevelIndex({ section }: Props) {
               href={item.href}
               className="group flex items-start gap-4 rounded-lg border p-5 hover:border-primary/50 hover:bg-muted/30 transition-all"
             >
-              <div className="flex size-9 shrink-0 items-center justify-center rounded-md bg-muted text-muted-foreground text-sm font-mono font-semibold group-hover:bg-primary/10 group-hover:text-primary transition-colors">
-                {String(idx + 1).padStart(2, "0")}
-              </div>
+              <LessonStatusBadge
+                lessonKey={item.slug.join("/")}
+                number={String(idx + 1).padStart(2, "0")}
+              />
               <div className="flex-1 min-w-0">
                 <div className="flex items-center justify-between gap-2">
                   <h3 className="font-semibold text-sm group-hover:text-primary transition-colors">

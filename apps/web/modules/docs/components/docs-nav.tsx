@@ -10,6 +10,7 @@ import {
   CollapsibleContent,
 } from "@saygo/ui/components/collapsible"
 import { cn } from "@saygo/ui/lib/utils"
+import { LessonNavCheck } from "./practice/lesson-status"
 import type { DocSection } from "@/modules/docs/types/docs.types"
 
 type Props = {
@@ -48,13 +49,14 @@ function SectionAccordion({
                 <Link
                   href={item.href}
                   className={cn(
-                    "block py-1 text-sm transition-colors",
+                    "flex items-center justify-between gap-2 py-1 text-sm transition-colors",
                     isActive
                       ? "font-medium text-foreground"
                       : "text-muted-foreground hover:text-foreground"
                   )}
                 >
-                  {item.title}
+                  <span className="min-w-0 truncate">{item.title}</span>
+                  <LessonNavCheck lessonKey={item.slug.join("/")} />
                 </Link>
               </li>
             )

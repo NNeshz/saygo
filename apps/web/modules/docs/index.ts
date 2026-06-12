@@ -5,13 +5,22 @@ export { Markdown } from "./components/markdown"
 export { DocsPrevNext } from "./components/docs-prev-next"
 export { LevelIndex } from "./components/level-index"
 export { TableOfContents } from "./components/table-of-contents"
+export { PracticeSection } from "./components/practice/practice-section"
+export { LessonStatusBadge, LessonNavCheck } from "./components/practice/lesson-status"
 export {
   getDocTree,
   getDocBySlug,
   getAllDocSlugs,
   getAdjacentDocs,
   getSectionByKey,
+  getPracticeBySlug,
 } from "./lib/content"
 export { extractHeadings, slugifyHeading } from "./lib/headings"
 export type { DocSection, DocItem, DocFrontmatter, DocMeta } from "./types/docs.types"
+export type {
+  PracticeData,
+  PracticeTier,
+  PracticeTierId,
+  PracticeExercise,
+} from "./types/practice.types"
 export type { Heading } from "./lib/headings"
