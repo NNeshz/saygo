@@ -11,21 +11,21 @@ order: 10
 
 **Formación**
 
-- am / is / are + verbo + -ing
-- I am eating / He is reading / They are playing
+- **am / is / are** + verbo + **-ing**
+- Ejemplos: I am eating · He is reading · They are playing
 
 **Reglas ortográficas (-ing)**
 
-- General: add -ing (play → playing)
-- Sílaba tónica CVC: run → running, swim → swimming
-- e final: make → making, write → writing
-- ie final: lie → lying
+- **General:** add -ing (play → playing)
+- **Sílaba tónica CVC:** run → running, swim → swimming
+- **e final:** make → making, write → writing
+- **ie final:** lie → lying
 
 **Uso principal y preguntas**
 
 - Acciones que ocurren ahora mismo
 - What are you doing? — I'm watching TV.
-- Is he sleeping? — Yes, he is / No, he isn't
+- Is he sleeping? — Yes, he is · No, he isn't
 
 **Contraste Presente Simple vs. Continuo**
 

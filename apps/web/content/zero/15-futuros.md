@@ -11,21 +11,27 @@ order: 15
 
 **BE GOING TO**
 
-- I'm going to study medicine (plan personal)
-- Look! It's going to rain (evidencia visual)
-- Negativo: I'm not going to... / He isn't going to...
-- Interrogativo: Are you going to...? / Is she going to...?
+- **Afirmativo:** I'm going to study medicine (plan personal)
+- **Evidencia visual:** Look! It's going to rain
+- **Negativo:**
+  - **I'm not** going to...
+  - **He isn't** going to...
+- **Interrogativo:**
+  - **Are you** going to...?
+  - **Is she** going to...?
 
 **WILL**
 
-- I'll get it! (decisión espontánea) / I'll help you (oferta)
-- Promesas: I will (I won't) forget
-- Negativo: I won't tell anyone — Interrogativo: Will you...? / Will he...?
+- **Decisión espontánea:** I'll get it!
+- **Oferta:** I'll help you
+- **Promesas:** I will (I won't) forget
+- **Negativo:** I won't tell anyone
+- **Interrogativo:** Will you...? · Will he...?
 
 **Contraste going to vs will**
 
-- Plan decidido antes (going to): I'm going to buy a car
-- Decisión en el momento (will): I'll take the blue one
+- **Plan decidido antes** (going to): I'm going to buy a car
+- **Decisión en el momento** (will): I'll take the blue one
 
 **Expresiones de tiempo futuro**
 
@@ -33,7 +39,7 @@ order: 15
 
 **Shall I / Shall we — sugerencias formales**
 
-- Shall I open the window? / Shall we go to the cinema?
+- Shall I open the window? · Shall we go to the cinema?
 
 
 ## 1. ¿Para qué sirve esto?
@@ -58,11 +64,13 @@ Hablar del futuro es una de las necesidades más básicas: hacer planes, dar pro
 | They | are | going to | graduate | **They're going to graduate** in June. |
 
 **Negativo:** TO BE + not + going to + verbo base
-- I**'m not going to** quit. / He **isn't going to** come. / They **aren't going to** wait.
+- I**'m not going to** quit.
+- He **isn't going to** come.
+- They **aren't going to** wait.
 
 **Interrogativo:** TO BE + sujeto + going to + verbo base + ?
-- **Are** you **going to** study tonight? — Yes, I am. / No, I'm not.
-- **Is** she **going to** call? — Yes, she is. / No, she isn't.
+- **Are** you **going to** study tonight? — Yes, I am. · No, I'm not.
+- **Is** she **going to** call? — Yes, she is. · No, she isn't.
 
 ⚠️ **Error frecuente:** *"I am going to to study"* ❌ — solo un *to*. La estructura es *going to + verbo base*: *"I'm going to **study**"* ✓
 
@@ -94,11 +102,13 @@ Hablar del futuro es una de las necesidades más básicas: hacer planes, dar pro
 | They | will | arrive | They**'ll** | **They'll arrive** tomorrow. |
 
 **Negativo:** will + not = **won't** + verbo base
-- I **won't** tell anyone. / She **won't** forget. / They **won't** be late.
+- I **won't** tell anyone.
+- She **won't** forget.
+- They **won't** be late.
 
 **Interrogativo:** **Will** + sujeto + verbo base + ?
-- **Will** you **help** me? — Yes, I will. / No, I won't.
-- **Will** he **come**? — Yes, he will. / No, he won't.
+- **Will** you **help** me? — Yes, I will. · No, I won't.
+- **Will** he **come**? — Yes, he will. · No, he won't.
 
 ⚠️ **Error frecuente:** *"He will goes"* ❌ — después de *will* siempre va el **verbo en infinitivo**. *"He will **go**"* ✓
 

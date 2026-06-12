@@ -11,36 +11,42 @@ order: 8
 
 **Presente Simple negativo e interrogativo**
 
-- Negativo: I/You/We/They + don't + infinitivo / He/She/It + doesn't + infinitivo
-- Interrogativo: Do + I/you/we/they + infinitivo? / Does + he/she/it + infinitivo?
-- Respuestas cortas: Yes, I do / No, he doesn't
+- **Negativo:**
+  - **I / You / We / They** + don't + infinitivo
+  - **He / She / It** + doesn't + infinitivo
+- **Interrogativo:**
+  - **Do** + I / you / we / they + infinitivo?
+  - **Does** + he / she / it + infinitivo?
+- **Respuestas cortas:** Yes, I do · No, he doesn't
 
 **WH- con DO/DOES (tercer grupo)**
 
-- What do you do? (profesión)
-- Where does he work? / When do you get up? / Why do you study English? + Because...
+- **What do you do?** (profesión)
+- Where does he work?
+- When do you get up?
+- Why do you study English? + Because...
 - How do you go to school? (by bus, on foot, by car)
-- How many + sustantivo plural: How many brothers do you have?
+- **How many** + sustantivo plural: How many brothers do you have?
 
 **Preguntas de sujeto vs. preguntas de objeto**
 
-- Pregunta de objeto (con DO/DOES): Who do you like? → I like María
-- Pregunta de sujeto (sin DO/DOES): Who likes pizza? → John likes pizza
-- Regla: si el WH- reemplaza al sujeto, NO se usa DO/DOES ni inversión
-- Ejemplos: Who works here? / What happens next? / Who called you?
+- **Pregunta de objeto** (con DO/DOES): Who do you like? → I like María
+- **Pregunta de sujeto** (sin DO/DOES): Who likes pizza? → John likes pizza
+- **Regla:** si el WH- reemplaza al sujeto, NO se usa DO/DOES ni inversión
+- **Ejemplos:** Who works here? · What happens next? · Who called you?
 - "Who does go to school?" ❌ → "Who goes to school?" ✓
 
 **How often — frecuencia**
 
 - How often do you...?
-- Once a week / Twice a month / Every day / Never / Always
+- Once a week · Twice a month · Every day · Never · Always
 
 **Conectores básicos**
 
-- and (adición): I like pizza and pasta
-- but (contraste): I like pizza but I don't like cheese
-- because (causa): I study English because I want to travel
-- so (resultado): I was tired so I went to bed early
+- **and** (adición): I like pizza and pasta
+- **but** (contraste): I like pizza but I don't like cheese
+- **because** (causa): I study English because I want to travel
+- **so** (resultado): I was tired so I went to bed early
 
 **Actividades de tiempo libre**
 
@@ -92,9 +98,9 @@ Para hacer preguntas en Presente Simple se invierte el auxiliar **do/does** al i
 | Does | your dad | take | **Does** your dad **take** the metro? | ¿Tu papá toma el metro? |
 
 **Respuestas cortas:**
-- Do you study English? → Yes, **I do**. / No, **I don't**.
-- Does she live near here? → Yes, **she does**. / No, **she doesn't**.
-- Do they have a car? → Yes, **they do**. / No, **they don't**.
+- Do you study English? → Yes, **I do**. · No, **I don't**.
+- Does she live near here? → Yes, **she does**. · No, **she doesn't**.
+- Do they have a car? → Yes, **they do**. · No, **they don't**.
 
 ⚠️ **Error frecuente:** Responder *"Yes, I study"* o *"No, she doesn't likes"* — las respuestas cortas usan solo el auxiliar: **"Yes, I do"** / **"No, she doesn't."**
 

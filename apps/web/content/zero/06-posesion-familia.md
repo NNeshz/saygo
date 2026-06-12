@@ -20,20 +20,22 @@ order: 6
 
 **Have Got (variante británica)**
 
-- I've got / You haven't got / Has she got...?
+- **Afirmativo:** I've got
+- **Negativo:** You haven't got
+- **Interrogativo:** Has she got...?
 - Equivalente a have/has — reconocimiento auditivo
 
 **Much / Many / A lot of**
 
-- many + contables: many books, many friends
-- much + incontables: much water, much money (principalmente en negativas e interrogativas)
-- a lot of + ambos: a lot of people, a lot of time
+- **many** + contables: many books, many friends
+- **much** + incontables: much water, much money (principalmente en negativas e interrogativas)
+- **a lot of** + ambos: a lot of people, a lot of time
 
 **"For" de duración — primer contacto**
 
-- I studied for two hours / She waited for a long time
+- Ejemplos: I studied for two hours · She waited for a long time
 - I have lived here for five years (solo reconocimiento; producción plena en A2)
-- Nota: "for" + período de tiempo; no confundir con "since" + punto de inicio
+- **Nota:** "for" + período de tiempo; no confundir con "since" + punto de inicio
 
 
 ## 1. ¿Para qué sirve esto?
@@ -88,8 +90,8 @@ El verbo *have* (tener) es la forma principal para expresar posesión en inglés
 - **Has** she **got**...? → Has she got children?
 
 **Respuestas cortas:**
-- Yes, I have. / No, I haven't.
-- Yes, she has. / No, she hasn't.
+- Yes, I have. · No, I haven't.
+- Yes, she has. · No, she hasn't.
 
 | Forma | Have/Has | Have Got |
 |-------|----------|---------|

@@ -15,9 +15,14 @@ order: 2
 
 **TO BE presente afirmativo**
 
-- I am (I'm) / You are (You're) / He is (He's) / She is (She's)
-- It is (It's) / We are (We're) / They are (They're)
-- Contracciones: uso en inglés oral vs. escrito formal
+- **I** am (I'm)
+- **You** are (You're)
+- **He** is (He's)
+- **She** is (She's)
+- **It** is (It's)
+- **We** are (We're)
+- **They** are (They're)
+- **Contracciones:** uso en inglés oral vs. escrito formal
 
 **Saludos y despedidas**
 
@@ -26,8 +31,10 @@ order: 2
 
 **Presentaciones básicas**
 
-- My name is... / I'm...
-- I am from... (país) / I am [nacionalidad]
+- My name is...
+- I'm...
+- I am from... (país)
+- I am [nacionalidad]
 
 **Números 0–100**
 
@@ -125,11 +132,22 @@ En inglés **siempre se necesita un sujeto** explícito antes del verbo. No pued
 
 ### 2.4 Presentaciones básicas
 
-- **Nombre:** My name is [nombre]. / I'm [nombre].
-- **Origen:** I am from [ciudad / país]. / I'm from Mexico City.
-- **Nacionalidad:** I am Mexican. / She is American. / He is Canadian.
-- **Edad:** I am [número] years old. / I'm 15 years old.
-- **Rol:** I am a student. / She is a teacher.
+- **Nombre:**
+  - My name is [nombre].
+  - I'm [nombre].
+- **Origen:**
+  - I am from [ciudad / país].
+  - I'm from Mexico City.
+- **Nacionalidad:**
+  - I am Mexican.
+  - She is American.
+  - He is Canadian.
+- **Edad:**
+  - I am [número] years old.
+  - I'm 15 years old.
+- **Rol:**
+  - I am a student.
+  - She is a teacher.
 
 | Estructura | Ejemplo completo | Traducción |
 |-----------|-----------------|-----------|

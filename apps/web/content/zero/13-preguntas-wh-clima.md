@@ -11,22 +11,22 @@ order: 13
 
 **WH- avanzadas**
 
-- How much...? (incontables/precios): How much is it? / How much water do you drink?
-- How many...? (contables): How many books do you have?
-- Which (elección limitada): Which one do you prefer? / Which car is yours?
-- Who (sujeto u objeto): Who can help? / Who did you see?
-- What can you do? / Who can play the piano? / How many languages can you speak?
+- **How much...?** (incontables/precios): How much is it? · How much water do you drink?
+- **How many...?** (contables): How many books do you have?
+- **Which** (elección limitada): Which one do you prefer? · Which car is yours?
+- **Who** (sujeto u objeto): Who can help? · Who did you see?
+- Más ejemplos: What can you do? · Who can play the piano? · How many languages can you speak?
 
 **Let's — sugerencias inmediatas**
 
-- Afirmativo: Let's go! / Let's eat! / Let's study
-- Negativo: Let's not fight / Let's not worry
+- **Afirmativo:** Let's go! · Let's eat! · Let's study
+- **Negativo:** Let's not fight · Let's not worry
 
 **El clima (Weather)**
 
 - What's the weather like?
-- Vocabulario: sunny, rainy, cloudy, windy, hot, cold, warm, cool, snow, snowing
-- It's sunny today / It's raining / It's very hot
+- **Vocabulario:** sunny, rainy, cloudy, windy, hot, cold, warm, cool, snow, snowing
+- Ejemplos: It's sunny today · It's raining · It's very hot
 
 
 ## 1. ¿Para qué sirve esto?
@@ -105,8 +105,8 @@ La diferencia depende del tipo de sustantivo:
 
 **Respuestas a Let's:**
 
-- *Let's go!* → **OK! / Sure! / Great idea! / I don't want to.**
-- *Let's not worry.* → **You're right. / Agreed.**
+- *Let's go!* → **OK!** · **Sure!** · **Great idea!** · **I don't want to.**
+- *Let's not worry.* → **You're right.** · **Agreed.**
 
 ⚠️ **Error frecuente:** *"Let's to go"* ❌ — Después de *Let's* siempre va el **verbo base sin *to***. *"Let's go"* ✓
 

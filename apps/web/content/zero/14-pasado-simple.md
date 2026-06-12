@@ -11,35 +11,39 @@ order: 14
 
 **Pasado de TO BE**
 
-- I was / You were / He was / She was / It was / We were / They were
-- Negativo: wasn't / weren't — Interrogativo: Was I...? / Were you...?
+- **I** was
+- **You** were
+- **He / She / It** was
+- **We / They** were
+- **Negativo:** wasn't · weren't
+- **Interrogativo:** Was I...? · Were you...?
 
 **There was / There were**
 
-- Afirmativo: There was a problem / There were many people
-- Negativo: There wasn't time / There weren't any cars
+- **Afirmativo:** There was a problem · There were many people
+- **Negativo:** There wasn't time · There weren't any cars
 
 **Verbos regulares en pasado**
 
-- Formación: infinitivo + -ed (work → worked, play → played)
-- Pronunciación: /t/ (worked), /d/ (played), /ɪd/ (wanted, needed)
-- Ortografía: study → studied, stop → stopped, live → lived
+- **Formación:** infinitivo + -ed (work → worked, play → played)
+- **Pronunciación:** /t/ (worked), /d/ (played), /ɪd/ (wanted, needed)
+- **Ortografía:** study → studied, stop → stopped, live → lived
 
 **Verbos irregulares esenciales**
 
-- go → went / eat → ate / drink → drank / see → saw / buy → bought
-- have → had / do → did / get → got / come → came / know → knew
-- make → made / read → read / say → said / take → took / give → gave / find → found
+- go → went · eat → ate · drink → drank · see → saw · buy → bought
+- have → had · do → did · get → got · come → came · know → knew
+- make → made · read → read · say → said · take → took · give → gave · find → found
 
 **Pasado Simple con DID (negativo e interrogativo)**
 
-- Negativo: I didn't go / She didn't eat / We didn't see
-- Interrogativo: Did you go? / Did he eat? / Did they see?
-- Regla clave: DID + infinitivo — "Did he went?" ❌ → "Did he go?" ✓
+- **Negativo:** I didn't go · She didn't eat · We didn't see
+- **Interrogativo:** Did you go? · Did he eat? · Did they see?
+- **Regla clave:** DID + infinitivo — "Did he went?" ❌ → "Did he go?" ✓
 
 **WH- en pasado**
 
-- Where did you go? / What did she eat? / Who did you see? / How did they travel?
+- Where did you go? · What did she eat? · Who did you see? · How did they travel?
 
 **Marcadores temporales de pasado**
 
@@ -68,9 +72,9 @@ El verbo TO BE tiene su propia forma en pasado y no usa DID para negaciones e in
 | They | **were** | **weren't** | **Were** they...? |
 
 **Ejemplos:**
-- I **was** very tired yesterday. / I **wasn't** at school.
-- **Was** she at the party? — Yes, she **was**. / No, she **wasn't**.
-- They **were** late. / **Were** they late? — Yes, they **were**.
+- I **was** very tired yesterday. · I **wasn't** at school.
+- **Was** she at the party? — Yes, she **was**. · No, she **wasn't**.
+- They **were** late. · **Were** they late? — Yes, they **were**.
 
 ⚠️ **Error frecuente:** *"He were tired"* ❌ → *"He **was** tired"* ✓ — I / He / She / It usan *was*; tú y los plurales usan *were*.
 

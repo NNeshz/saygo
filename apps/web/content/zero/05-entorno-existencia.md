@@ -11,22 +11,23 @@ order: 5
 
 **Plurales regulares e irregulares**
 
-- Regla general: + s → book → books / chair → chairs
-- -s/-sh/-ch/-x/-o: + es → box → boxes / watch → watches
-- Consonante + y: y → ies → baby → babies
-- Irregulares: man → men / woman → women / child → children / person → people
+- **Regla general:** + s → book → books · chair → chairs
+- **-s / -sh / -ch / -x / -o:** + es → box → boxes · watch → watches
+- **Consonante + y:** y → ies → baby → babies
+- **Irregulares:** man → men · woman → women · child → children · person → people
 
 **Artículos a / an / the**
 
-- *a* antes de sonido consonántico: a book / a university
-- *an* antes de sonido vocálico: an apple / an hour
-- *the* para referirse a algo específico o ya conocido
+- ***a*** antes de sonido consonántico: a book · a university
+- ***an*** antes de sonido vocálico: an apple · an hour
+- ***the*** para referirse a algo específico o ya conocido
 
 **There is / There are**
 
-- Singular: There **is** a desk in the room.
-- Plural: There **are** twenty students in class.
-- Negativo/interrogativo: There **isn't** / **aren't** — Is there? / Are there?
+- **Singular:** There **is** a desk in the room.
+- **Plural:** There **are** twenty students in class.
+- **Negativo:** There **isn't** · There **aren't**
+- **Interrogativo:** Is there...? · Are there...?
 
 **Cuantificadores**
 
@@ -34,7 +35,7 @@ order: 5
 
 **Genitivo sajón ('s)**
 
-- poseedor + 's + objeto → my teacher's book / the school's door
+- poseedor + 's + objeto → my teacher's book · the school's door
 
 
 ## 1. ¿Para qué sirve esto?

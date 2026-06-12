@@ -18,24 +18,28 @@ order: 7
 
 - in the morning, in the afternoon, in the evening, at night
 - every day, on Monday/Tuesday... (días completos)
-- Días: Monday–Sunday / Meses: January–December / Estaciones: spring, summer, autumn/fall, winter
+- **Días:** Monday–Sunday
+- **Meses:** January–December
+- **Estaciones:** spring, summer, autumn/fall, winter
 
 **Preposiciones de tiempo**
 
-- at + hora: at 3 o'clock, at noon, at night
-- on + día/fecha: on Monday, on Christmas Day
-- in + período: in the morning, in July, in summer, in 2026
+- **at** + hora: at 3 o'clock, at noon, at night
+- **on** + día/fecha: on Monday, on Christmas Day
+- **in** + período: in the morning, in July, in summer, in 2026
 
 **Presente Simple afirmativo**
 
-- I/You/We/They + verbo base: I work, They eat
-- He/She/It + verbo + s/es: He works, She watches, It goes
-- Reglas de -s/-es: +s general; +es (s, sh, ch, x, o, z); consonante+y → -ies
+- **I / You / We / They** + verbo base: I work, They eat
+- **He / She / It** + verbo + s/es: He works, She watches, It goes
+- **Reglas de -s/-es:** +s general; +es (s, sh, ch, x, o, z); consonante+y → -ies
 
 **Adverbios de frecuencia**
 
 - always, usually, often, sometimes, never
-- Posición: antes del verbo principal (I always eat) / después de TO BE (I am always tired)
+- **Posición:**
+  - antes del verbo principal — I always eat
+  - después de TO BE — I am always tired
 
 **Horas básicas**
 
@@ -43,11 +47,11 @@ order: 7
 
 **"To" de dirección y "For" de propósito — primer contacto**
 
-- TO + lugar (movimiento): I go to school / I walk to the store
-- Excepciones sin "to": I go home ✓ / I go there ✓ — nunca "go to home / go to there"
-- FOR + sustantivo (propósito): I study for the exam / I wait for the bus
-- FOR + beneficiario: I made this for you / a gift for my mother
-- TO + destinatario: Give it to me / Talk to her / Listen to the teacher
+- **TO** + lugar (movimiento): I go to school · I walk to the store
+- **Excepciones sin "to":** I go home ✓ · I go there ✓ — nunca "go to home / go to there"
+- **FOR** + sustantivo (propósito): I study for the exam · I wait for the bus
+- **FOR** + beneficiario: I made this for you · a gift for my mother
+- **TO** + destinatario: Give it to me · Talk to her · Listen to the teacher
 
 
 ## 1. ¿Para qué sirve esto?
@@ -81,11 +85,11 @@ El Presente Simple se usa para hablar de **hábitos, rutinas y hechos que siempr
 
 Esta es la parte más importante del módulo: cuando el sujeto es *he*, *she* o *it*, el verbo recibe una terminación especial.
 
-- **Regla 1 — Mayoría de verbos:** + **s** — work → **works** / eat → **eats** / read → **reads**
-- **Regla 2 — Termina en -s, -sh, -ch, -x, -o, -z:** + **es** — watch → **watches** / go → **goes** / fix → **fixes**
-- **Regla 3 — Consonante + y:** **y → ies** — study → **studies** / carry → **carries**
-- **Regla 4 — Vocal + y:** + **s** — play → **plays** / say → **says**
-- **Regla 5 — Irregulares:** forma propia — have → **has** / be → **is**
+- **Regla 1 — Mayoría de verbos:** + **s** — work → **works** · eat → **eats** · read → **reads**
+- **Regla 2 — Termina en -s, -sh, -ch, -x, -o, -z:** + **es** — watch → **watches** · go → **goes** · fix → **fixes**
+- **Regla 3 — Consonante + y:** **y → ies** — study → **studies** · carry → **carries**
+- **Regla 4 — Vocal + y:** + **s** — play → **plays** · say → **says**
+- **Regla 5 — Irregulares:** forma propia — have → **has** · be → **is**
 
 | Regla | Verbo base | Tercera persona | Ejemplo |
 |-------|-----------|----------------|---------|
@@ -128,9 +132,9 @@ Los adverbios de frecuencia dicen **qué tan seguido** ocurre algo. Su posición
 
 Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 
-- **at** → horas exactas y momentos del día específicos — at 7 o'clock / at noon / at midnight / at night
-- **on** → días de la semana y fechas — on Monday / on Fridays / on December 12th / on my birthday
-- **in** → períodos: partes del día, meses, años, estaciones — in the morning / in July / in 2026 / in summer
+- **at** → horas exactas y momentos del día específicos — at 7 o'clock · at noon · at midnight · at night
+- **on** → días de la semana y fechas — on Monday · on Fridays · on December 12th · on my birthday
+- **in** → períodos: partes del día, meses, años, estaciones — in the morning · in July · in 2026 · in summer
 
 | Preposición | Cuándo | Ejemplos |
 |------------|--------|---------|
@@ -171,16 +175,16 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 *To* y *for* son preposiciones con usos muy distintos. En este módulo hacemos un primer contacto con ellas en contexto de rutinas.
 
 **TO** → movimiento hacia un lugar (dirección / destinatario):
-- I go **to** school. / I walk **to** the bus stop.
-- Talk **to** your teacher. / Give it **to** me.
+- I go **to** school. · I walk **to** the bus stop.
+- Talk **to** your teacher. · Give it **to** me.
 
 **FOR** → propósito (¿para qué?) o beneficiario (¿para quién?):
-- I study **for** the exam. / I wait **for** the bus.
-- This is **for** you. / A taco **for** my brother.
+- I study **for** the exam. · I wait **for** the bus.
+- This is **for** you. · A taco **for** my brother.
 
 **Excepciones importantes — sin preposición *to*:**
-- go home → **sin "to"** — I go home at 5. ✓ / go to home ❌
-- go there → **sin "to"** — I go there every day. ✓ / go to there ❌
+- go home → **sin "to"** — I go home at 5. ✓ · go to home ❌
+- go there → **sin "to"** — I go there every day. ✓ · go to there ❌
 
 | Preposición | Uso | Ejemplo |
 |------------|-----|---------|

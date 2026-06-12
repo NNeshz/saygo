@@ -45,7 +45,7 @@ const components: Components = {
     <p className="leading-7 mb-4 text-foreground/90">{children}</p>
   ),
   ul: ({ children }) => (
-    <ul className="list-disc pl-5 mb-4 space-y-1 text-foreground/90">
+    <ul className="list-disc pl-5 mb-4 space-y-1 text-foreground/90 [&_ul]:list-[circle] [&_ul]:mt-1 [&_ul]:mb-0 [&_ul_ul]:list-[square]">
       {children}
     </ul>
   ),

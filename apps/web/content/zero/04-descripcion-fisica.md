@@ -11,25 +11,29 @@ order: 4
 
 **Have / Has (posesión básica)**
 
-- I have / You have / We have / They have
-- He has / She has / It has
-- I have a car / She has two brothers
+- **I / You / We / They** + have
+- **He / She / It** + has
+- Ejemplos: I have a car · She has two brothers
 
 **Adjetivos de apariencia y descripción**
 
-- Altura: tall, short — Peso: fat, thin, slim, heavy — Edad: young, old
-- Partes del cuerpo: head, hair, eyes, nose, mouth, ears, arms, hands, legs, feet
-- Colores: red, blue, green, yellow, black, white, brown, grey, pink, orange, purple
+- **Altura:** tall, short
+- **Peso:** fat, thin, slim, heavy
+- **Edad:** young, old
+- **Partes del cuerpo:** head, hair, eyes, nose, mouth, ears, arms, hands, legs, feet
+- **Colores:** red, blue, green, yellow, black, white, brown, grey, pink, orange, purple
 
 **Comparativos básicos**
 
-- tall → taller than / short → shorter than / big → bigger than
-- He is taller than me / My house is bigger than your house
+- tall → taller than · short → shorter than · big → bigger than
+- Ejemplos: He is taller than me · My house is bigger than your house
 
 **Demostrativos**
 
-- This (singular cercano) / That (singular lejano)
-- These (plural cercano) / Those (plural lejano)
+- **This** — singular cercano
+- **That** — singular lejano
+- **These** — plural cercano
+- **Those** — plural lejano
 
 **Preposiciones de lugar**
 
@@ -37,13 +41,13 @@ order: 4
 
 **HOW + adjetivo (segundo grupo WH-)**
 
-- How tall is he/she? / How big is your house? / How old is your brother?
+- How tall is he/she? · How big is your house? · How old is your brother?
 
 **Adverbios de intensidad**
 
-- Very (intensificador neutro): very tall, very good, very happy
-- Too (exceso negativo): too expensive (I can't buy it), too hot (uncomfortable)
-- Distinción clave: "very big" (aceptable) vs "too big" (problemático)
+- **Very** (intensificador neutro): very tall, very good, very happy
+- **Too** (exceso negativo): too expensive (I can't buy it), too hot (uncomfortable)
+- **Distinción clave:** "very big" (aceptable) vs "too big" (problemático)
 
 
 ## 1. ¿Para qué sirve esto?
@@ -77,10 +81,12 @@ El verbo *have* (tener) cambia a *has* únicamente en la tercera persona singula
 
 #### HAVE / HAS negativo e interrogativo
 
-- **Negativo (yo/tú/nosotros/ellos):** I do not have / I don't have → *I don't have a car.*
-- **Negativo (él/ella):** He does not have / He doesn't have → *He doesn't have siblings.*
-- **Interrogativo (yo/tú/nosotros/ellos):** Do you have...? → *Do you have a pen?*
-- **Interrogativo (él/ella):** Does she have...? → *Does she have long hair?*
+- **Negativo (I / You / We / They):**
+  - I do not have · I don't have → *I don't have a car.*
+- **Negativo (He / She / It):**
+  - He does not have · He doesn't have → *He doesn't have siblings.*
+- **Interrogativo (I / You / We / They):** Do you have...? → *Do you have a pen?*
+- **Interrogativo (He / She / It):** Does she have...? → *Does she have long hair?*
 
 > **Nota:** Para hacer negaciones e interrogativas con *have/has*, se necesita el auxiliar *do/does*. El verbo principal siempre regresa a su forma base *have* (nunca *does she has*).
 
@@ -159,7 +165,7 @@ En inglés, el adjetivo va **siempre antes del sustantivo**, nunca después.
 | purple | morado | /ˈpɜːrpəl/ — "pérpel" |
 
 Los colores en inglés funcionan como adjetivos y van **antes del sustantivo**:
-- a **red** car / **black** hair / **brown** eyes / a **blue** backpack
+- a **red** car · **black** hair · **brown** eyes · a **blue** backpack
 
 ⚠️ **Error frecuente:** Decir *"eyes blacks"* o *"hair brown"* — los adjetivos en inglés **no tienen plural** y van antes del sustantivo: **"black eyes"**, **"brown hair"**.
 

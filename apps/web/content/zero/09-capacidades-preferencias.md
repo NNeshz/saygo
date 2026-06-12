@@ -11,15 +11,16 @@ order: 9
 
 **Modal CAN**
 
-- Afirmativo: I can swim / He can play the guitar
-- Negativo: I can't drive / She can't cook
-- Interrogativo: Can you...? / Can he...? — Respuestas: Yes, I can / No, I can't
+- **Afirmativo:** I can swim · He can play the guitar
+- **Negativo:** I can't drive · She can't cook
+- **Interrogativo:** Can you...? · Can he...?
+- **Respuestas cortas:** Yes, I can · No, I can't
 
 **LIKE + gustos**
 
-- like + sustantivo: I like pizza / I don't like spiders
-- like + verbo -ing: I like swimming / She likes reading
-- Escala: love → like → don't like → hate
+- **like** + sustantivo: I like pizza · I don't like spiders
+- **like** + verbo -ing: I like swimming · She likes reading
+- **Escala:** love → like → don't like → hate
 
 **WOULD LIKE — cortesía**
 
@@ -28,8 +29,8 @@ order: 9
 **Verbos seguidos de infinitivo (to + verbo)**
 
 - want to, need to, decide to, plan to, try to, forget to, remember to
-- I want to travel / She needs to study / We decided to stay
-- Contraste: like + -ing (gusto general) vs want + to (deseo específico)
+- Ejemplos: I want to travel · She needs to study · We decided to stay
+- **Contraste:** like + -ing (gusto general) vs want + to (deseo específico)
 - I like swimming (me gusta nadar) vs I want to swim today (quiero nadar hoy)
 - "I want swimming" ❌ → "I want to swim" ✓
 
@@ -50,17 +51,17 @@ Decir qué puedes hacer, qué te gusta y qué quieres o necesitas hacer son tres
 *Can* es un **verbo modal**: no cambia de forma según el sujeto (no lleva -s en tercera persona) y siempre va seguido del verbo en **forma base** (sin *to*).
 
 **Afirmativo:** sujeto + **can** + verbo base
-- I **can** swim. / She **can** play the guitar.
+- I **can** swim. · She **can** play the guitar.
 
 **Negativo:** sujeto + **can't / cannot** + verbo base
-- I **can't** drive. / He **cannot** cook.
+- I **can't** drive. · He **cannot** cook.
 
 **Interrogativo:** Can + sujeto + verbo base + ...?
-- Can you speak English? / Can she swim?
+- Can you speak English? · Can she swim?
 
 **Respuestas cortas:**
-- Yes, I **can**. / No, I **can't**.
-- Yes, she **can**. / No, he **can't**.
+- Yes, I **can**. · No, I **can't**.
+- Yes, she **can**. · No, he **can't**.
 
 | Sujeto | Afirmativo | Negativo | Pregunta |
 |--------|-----------|---------|---------|
@@ -80,8 +81,8 @@ Decir qué puedes hacer, qué te gusta y qué quieres o necesitas hacer son tres
 
 *Like* expresa **gusto general o habitual**. Puede ir seguido de un sustantivo o de un verbo en forma *-ing*.
 
-- **like + sustantivo:** I like pizza. / She likes music. / They like tacos.
-- **like + verbo -ing:** I like swimming. / He likes reading. / We like cooking.
+- **like + sustantivo:** I like pizza. · She likes music. · They like tacos.
+- **like + verbo -ing:** I like swimming. · He likes reading. · We like cooking.
 
 **La escala de gustos:** love → like → don't mind → don't like → hate
 
@@ -102,15 +103,15 @@ Decir qué puedes hacer, qué te gusta y qué quieres o necesitas hacer son tres
 *Would like* expresa un deseo específico en el momento o una petición educada. Es la forma cortés de *want*.
 
 **Afirmativo:** sujeto + **would like** + sustantivo / to + verbo base
-- I'd like a coffee. / I'd like to order, please.
+- I'd like a coffee. · I'd like to order, please.
 
 **Negativo:** sujeto + **wouldn't like** + ...
 - I wouldn't like to wait that long.
 
 **Interrogativo:** Would + sujeto + like + sustantivo / to + verbo?
-- Would you like some water? / Would she like to come?
+- Would you like some water? · Would she like to come?
 
-**Respuesta:** Yes, please. / No, thank you.
+**Respuesta:** Yes, please. · No, thank you.
 
 | Contracción | Forma completa | Uso |
 |------------|--------------|-----|
@@ -156,9 +157,9 @@ Varios verbos muy comunes en inglés van seguidos siempre de **to + verbo base**
 
 Hay convenciones específicas en inglés para hablar de habilidades en estas tres áreas.
 
-- **Instrumentos musicales:** play + **the** + instrumento — I can play **the** guitar. / She can play **the** piano. — SIEMPRE con artículo "the"
-- **Deportes:** play + deporte (sin artículo) — I can play football. / He can play basketball. — sin "the"
-- **Idiomas:** speak + idioma (sin artículo) — I can speak English. / She can speak French. — sin "the"
+- **Instrumentos musicales:** play + **the** + instrumento — I can play **the** guitar. · She can play **the** piano. — SIEMPRE con artículo "the"
+- **Deportes:** play + deporte (sin artículo) — I can play football. · He can play basketball. — sin "the"
+- **Idiomas:** speak + idioma (sin artículo) — I can speak English. · She can speak French. — sin "the"
 
 | Categoría | Estructura | Correcto | Incorrecto |
 |----------|-----------|---------|-----------|

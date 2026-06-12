@@ -11,13 +11,13 @@ order: 12
 
 **Formación**
 
-- adjetivo + -ly: slow → slowly, careful → carefully, loud → loudly, quick → quickly
-- Irregulares esenciales: good → well / hard → hard / fast → fast / early → early (sin cambio)
+- **adjetivo + -ly:** slow → slowly, careful → carefully, loud → loudly, quick → quickly
+- **Irregulares esenciales:** good → well · hard → hard · fast → fast · early → early (sin cambio)
 
 **Posición en la oración**
 
 - Después del verbo o del objeto directo
-- She speaks English well / He drives carefully
+- Ejemplos: She speaks English well · He drives carefully
 
 **Contraste adjetivo vs. adverbio**
 
@@ -27,8 +27,8 @@ order: 12
 
 **Aplicación práctica**
 
-- I study hard / He plays football badly / The teacher explains clearly
-- She arrived early / They work quickly / He answered correctly
+- I study hard · He plays football badly · The teacher explains clearly
+- She arrived early · They work quickly · He answered correctly
 
 
 ## 1. ¿Para qué sirve esto?

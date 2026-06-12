@@ -11,16 +11,22 @@ order: 11
 
 **Pronombres objeto**
 
-- I → me / You → you / He → him / She → her / It → it / We → us / They → them
-- Uso después de verbos: I like him / She can see me / We have them
-- Uso después de preposiciones: with me, to you, for her, about us, next to them
-- Distinción sujeto vs. objeto: He loves her / She loves him
+- **I** → me
+- **You** → you
+- **He** → him
+- **She** → her
+- **It** → it
+- **We** → us
+- **They** → them
+- **Uso después de verbos:** I like him · She can see me · We have them
+- **Uso después de preposiciones:** with me, to you, for her, about us, next to them
+- **Distinción sujeto vs. objeto:** He loves her · She loves him
 
 **Acuerdo y afiliación**
 
-- "Me too" (acuerdo positivo): "I like pizza" → "Me too"
-- "Me neither" (acuerdo negativo): "I don't like spiders" → "Me neither"
-- "I am too" vs "Me too" — distinción sujeto/objeto en respuestas cortas
+- **"Me too"** (acuerdo positivo): "I like pizza" → "Me too"
+- **"Me neither"** (acuerdo negativo): "I don't like spiders" → "Me neither"
+- **"I am too" vs "Me too"** — distinción sujeto/objeto en respuestas cortas
 
 
 ## 1. ¿Para qué sirve esto?

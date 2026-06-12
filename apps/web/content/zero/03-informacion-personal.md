@@ -11,14 +11,24 @@ order: 3
 
 **TO BE negativo e interrogativo**
 
-- Negativo: I'm not / You aren't / He isn't / She isn't / We aren't / They aren't
-- Interrogativo: Am I...? / Are you...? / Is he/she/it...? / Are we/they...?
-- Respuestas cortas: Yes, I am / No, I'm not / Yes, he is / No, he isn't
+- **Negativo:**
+  - **I'm** not
+  - **You** aren't
+  - **He** isn't
+  - **She** isn't
+  - **We** aren't
+  - **They** aren't
+- **Interrogativo:**
+  - **Am I**...?
+  - **Are you**...?
+  - **Is he / she / it**...?
+  - **Are we / they**...?
+- **Respuestas cortas:** Yes, I am · No, I'm not · Yes, he is · No, he isn't
 
 **Adjetivos posesivos**
 
 - My, Your, His, Her, Its, Our, Their
-- Aplicación: My name, Your book, His car, Her mother, Our house
+- **Aplicación:** My name, Your book, His car, Her mother, Our house
 
 **WH- con TO BE (primer grupo)**
 
@@ -42,12 +52,12 @@ Con este módulo puedes hacer y responder preguntas básicas en inglés: pregunt
 Para hacer negaciones con TO BE, simplemente se agrega **not** después del verbo. En la forma oral y escrita informal, se usa la contracción.
 
 - **I am not** → I'm not
-- **You are not** → You aren't / You're not
-- **He is not** → He isn't / He's not
-- **She is not** → She isn't / She's not
-- **It is not** → It isn't / It's not
-- **We are not** → We aren't / We're not
-- **They are not** → They aren't / They're not
+- **You are not** → You aren't · You're not
+- **He is not** → He isn't · He's not
+- **She is not** → She isn't · She's not
+- **It is not** → It isn't · It's not
+- **We are not** → We aren't · We're not
+- **They are not** → They aren't · They're not
 
 > **Atención:** *I am not* tiene **una sola contracción posible: I'm not**. No existe *"I amn't"*. Para los demás pronombres hay dos contracciones igualmente correctas (aren't / 're not; isn't / 's not).
 
@@ -91,8 +101,8 @@ Para hacer una pregunta con TO BE, el verbo se **invierte con el sujeto** — el
 
 En inglés es muy común responder preguntas de sí/no con **respuestas cortas** en lugar de repetir toda la oración. La estructura es:
 
-- **Is she your teacher?** → Yes, she is. / No, she isn't.
-- **Are they from Veracruz?** → Yes, they are. / No, they aren't.
+- **Is she your teacher?** → Yes, she is. · No, she isn't.
+- **Are they from Veracruz?** → Yes, they are. · No, they aren't.
 
 | Pregunta | Respuesta afirmativa | Respuesta negativa |
 |---------|--------------------|--------------------|
