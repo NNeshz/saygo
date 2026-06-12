@@ -1,0 +1,148 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Identifica conectores de contraste, resultado, ejemplo y propósito como although, as a result y to.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de contraste: ___ the exam was difficult, I passed.",
+          "options": ["However", "Although", "Therefore", "Because"],
+          "answer": 1,
+          "explanation": "Although introduce una cláusula subordinada de contraste; however va después de punto."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de ejemplo dentro de la oración: Bring documents ___ your ID and CURP.",
+          "options": ["for example", "such as", "in addition"],
+          "answer": 1,
+          "explanation": "Such as introduce ejemplos en mitad de la oración."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de resultado: I didn't study. ___, I failed the exam.",
+          "options": ["Although", "As a result", "Unless"],
+          "answer": 1,
+          "explanation": "As a result introduce la consecuencia de lo dicho antes."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de propósito seguido de verbo: I study English ___ get a better job.",
+          "options": ["for", "so that", "to"],
+          "answer": 2,
+          "explanation": "Si después del conector de propósito viene un verbo en infinitivo, se usa to."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de adición: The school has a new library. ___, the laboratories were renovated.",
+          "options": ["However", "Otherwise", "In addition"],
+          "answer": 2,
+          "explanation": "In addition añade información nueva al inicio de la oración."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la secuencia (Primero, te registras en línea): ___, you register online. Then, you pay the tuition.",
+          "answers": ["First", "Firstly"],
+          "hint": "Conector de secuencia inicial.",
+          "explanation": "Las secuencias de pasos empiezan con first(ly), luego then, next y finally."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Une ideas con unless, so that y as long as en oraciones comunicativas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (a menos que): ___ you have a password, you cannot log in.",
+          "answers": ["Unless"],
+          "explanation": "Unless expresa condición negativa: 'a menos que'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (para que todos pudieran entender): I explained it slowly ___ everyone could understand.",
+          "answers": ["so that"],
+          "hint": "Después viene sujeto + verbo.",
+          "explanation": "So that se usa cuando la cláusula de propósito tiene su propio sujeto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (siempre y cuando): You can stay ___ you are quiet.",
+          "answers": ["as long as"],
+          "explanation": "As long as expresa condición positiva: 'siempre y cuando'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella llegó tarde porque el metro se retrasó):",
+          "words": ["because", "metro", "She", "was", "delayed", "late", "the", "was"],
+          "answer": "She was late because the metro was delayed",
+          "explanation": "Because introduce la causa en la mitad de la oración."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Esta app es para aprender inglés):",
+          "words": ["for", "English", "This", "learning", "app", "is"],
+          "answer": "This app is for learning English",
+          "explanation": "For como conector de propósito va seguido de sustantivo o gerundio (-ing)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["Although she was tired, but she kept studying.", "However she was tired, she kept studying.", "Although she was tired, she kept studying."],
+          "answer": 2,
+          "explanation": "Although ya expresa contraste; nunca se combina con but en la misma oración."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Domina los conectores de propósito (to, in order to) y las trampas con despite y otherwise.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Estudio inglés para mejorar mis calificaciones): I study English ___ my grades.",
+          "answers": ["to improve", "in order to improve"],
+          "hint": "Nunca 'for improve'.",
+          "explanation": "Para propósito seguido de verbo se usa to (o in order to), nunca for + infinitivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ya que el plazo venció, necesitas hablar con el coordinador): ___ the deadline passed, you need to talk to the coordinator.",
+          "answers": ["Since", "As", "Because"],
+          "hint": "Conector de causa al inicio.",
+          "explanation": "Since (ya que) introduce una causa que el oyente ya conoce."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Estudia esta noche; de lo contrario, reprobarás el examen): Study tonight; ___, you will fail the exam.",
+          "answers": ["otherwise"],
+          "explanation": "Otherwise expresa la consecuencia negativa de no cumplir la condición."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No puedes entrar a menos que te registres primero):",
+          "words": ["unless", "first", "You", "register", "cannot", "you", "enter"],
+          "answer": "You cannot enter unless you register first",
+          "explanation": "Unless une la cláusula principal con la condición negativa."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me inscribí temprano para asegurar mi lugar):",
+          "words": ["order", "my", "I", "secure", "early", "place", "registered", "to", "in"],
+          "answer": "I registered early in order to secure my place",
+          "explanation": "In order to es la forma formal de expresar propósito seguida de infinitivo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["Despite she was tired, she finished the essay.", "Despite being tired, she finished the essay.", "Despite to be tired, she finished the essay."],
+          "answer": 1,
+          "explanation": "Despite es preposición y va seguida de gerundio o sustantivo, nunca de cláusula con sujeto."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce los 7 pronombres objeto (me, you, him, her, it, us, them) y su lugar después del verbo.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el pronombre objeto de 'he'?",
+          "options": ["his", "him", "he", "her"],
+          "answer": 1,
+          "explanation": "El pronombre objeto de he es him: I know him."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta (ella): I like ___ a lot.",
+          "options": ["she", "her", "he"],
+          "answer": 1,
+          "explanation": "Después del verbo va el pronombre objeto: her, no she."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["Come with me", "Come with I", "Come with my"],
+          "answer": 0,
+          "explanation": "Después de una preposición como with siempre va el pronombre objeto: me."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (a nosotros): They invited ___.",
+          "options": ["we", "our", "us"],
+          "answer": 2,
+          "explanation": "El pronombre objeto de we es us: They invited us."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no encuentro mi teléfono — ¿lo has visto?): I can't find my phone — have you seen ___?",
+          "answers": ["it"],
+          "explanation": "Para objetos y cosas se usa el pronombre it, igual como sujeto y objeto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el acuerdo positivo: \"I love enchiladas.\" — \"___ too!\"",
+          "answers": ["Me", "me"],
+          "explanation": "Para acordar con una oración afirmativa se usa Me too."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa pronombres objeto después de verbos y preposiciones, y responde con Me too / Me neither.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (llámame esta noche): Call ___ tonight, please.",
+          "answers": ["me"],
+          "explanation": "Después del verbo va el pronombre objeto: call me."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el acuerdo con una oración negativa: \"I don't like horror movies.\" — \"Me ___.\"",
+          "answers": ["neither"],
+          "hint": "La oración original es negativa.",
+          "explanation": "Para acordar con una oración negativa se usa Me neither."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (hice esto para ella): I made this for ___.",
+          "answers": ["her"],
+          "explanation": "Después de una preposición como for va el pronombre objeto: her."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Nos puedes ayudar?):",
+          "words": ["help", "Can", "us", "you"],
+          "answer": "Can you help us",
+          "explanation": "El pronombre objeto us va después del verbo help."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No se vayan sin nosotros):",
+          "words": ["without", "Don't", "leave", "us"],
+          "answer": "Don't leave without us",
+          "explanation": "Después de la preposición without va el pronombre objeto us."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu amiga dice: \"I don't like getting up early.\" ¿Cómo muestras acuerdo?",
+          "options": ["Me too", "Me neither", "I too"],
+          "answer": 1,
+          "explanation": "Me neither expresa acuerdo con una oración negativa; Me too es para afirmativas."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones con pronombres objeto y corrige errores como 'between you and I'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Esto es entre tú y yo): This is between you and ___.",
+          "answers": ["me"],
+          "hint": "Va después de preposición.",
+          "explanation": "Después de la preposición between va el pronombre objeto: between you and me."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (No la conozco): I don't know ___.",
+          "answers": ["her"],
+          "explanation": "La (a ella) se traduce con el pronombre objeto her después del verbo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Corrige el sujeto (Mi amigo y yo fuimos): \"Me and my friend went\" → ___ went.",
+          "answers": ["My friend and I", "my friend and I"],
+          "explanation": "Como sujeto se usa I (no me) y el hablante va al final: My friend and I."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi hermano está hablando de nosotros):",
+          "words": ["us", "talking", "My", "about", "is", "brother"],
+          "answer": "My brother is talking about us",
+          "explanation": "Después de la preposición about va el pronombre objeto us."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El maestro los conoce por nombre):",
+          "words": ["by", "knows", "The", "name", "them", "teacher"],
+          "answer": "The teacher knows them by name",
+          "explanation": "El pronombre objeto them va inmediatamente después del verbo knows."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": ["She gave the book to they", "She gave the book to their", "She gave the book to them"],
+          "answer": 2,
+          "explanation": "Después de la preposición to va el pronombre objeto them, no they."
+        }
+      ]
+    }
+  ]
+}

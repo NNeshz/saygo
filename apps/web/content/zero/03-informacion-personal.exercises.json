@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce el negativo e interrogativo de TO BE, los adjetivos posesivos y las palabras WH- básicas.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es la negación correcta de 'I am'?",
+          "options": ["I amn't", "I'm not", "I not am"],
+          "answer": 1,
+          "explanation": "'Amn't' no existe; la única negación de I am es I'm not."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: ___ she your teacher?",
+          "options": ["Is", "Are", "Do"],
+          "answer": 0,
+          "explanation": "En preguntas, TO BE se invierte con el sujeto: Is + she; nunca se usa do con TO BE."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el posesivo (el libro de ÉL): ___ book",
+          "options": ["His", "Her", "He"],
+          "answer": 0,
+          "explanation": "His indica poseedor masculino; her es de ella y he es pronombre sujeto."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál pregunta es correcta?",
+          "options": ["Do you are from Jalisco?", "Are you from Jalisco?", "You are from Jalisco yes?"],
+          "answer": 1,
+          "explanation": "TO BE es su propio auxiliar: la pregunta se forma invirtiendo el verbo, sin do."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué palabra WH- pregunta por un lugar?",
+          "options": ["Where", "Who", "What", "How"],
+          "answer": 0,
+          "explanation": "Where pregunta por lugar: Where are you from?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ella no es la maestra): She ___ the teacher.",
+          "answers": ["isn't", "is not", "'s not"],
+          "hint": "Negación de is; puedes usar la contracción.",
+          "explanation": "El negativo de TO BE se forma agregando not: she isn't / she's not."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Haz y responde preguntas de información personal con WH-, posesivos y respuestas cortas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿De dónde eres?): ___ are you from?",
+          "answers": ["Where"],
+          "hint": "Palabra WH- de lugar.",
+          "explanation": "Where + are + sujeto pregunta por el lugar de origen."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿Cuántos años tienes?): How ___ are you?",
+          "answers": ["old"],
+          "hint": "Se combina con how para preguntar la edad.",
+          "explanation": "How old + TO BE es la fórmula para preguntar la edad."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (su nombre, de ella, es Ana): ___ name is Ana.",
+          "answers": ["Her", "her"],
+          "hint": "Posesivo femenino, no el pronombre 'she'.",
+          "explanation": "Her es el adjetivo posesivo de ella; she es solo pronombre sujeto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿De dónde eres?):",
+          "words": ["you", "from", "Where", "are"],
+          "answer": "Where are you from",
+          "explanation": "En preguntas WH- el verbo TO BE va antes del sujeto: Where are you from?"
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Es ella tu maestra?):",
+          "words": ["your", "Is", "teacher", "she"],
+          "answer": "Is she your teacher",
+          "explanation": "La pregunta de sí/no con TO BE invierte verbo y sujeto: Is she...?"
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — Is he your cousin? — ___",
+          "options": ["Yes, he is", "Yes, he's", "Yes, is"],
+          "answer": 0,
+          "explanation": "Las respuestas cortas afirmativas no usan contracción al final: Yes, he is."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce negaciones y preguntas completas y domina las trampas its/it's y her/she.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (No somos del turno matutino): We ___ in the morning shift.",
+          "answers": ["aren't", "are not", "'re not"],
+          "hint": "Negación de are; puedes usar contracción.",
+          "explanation": "El negativo de we es we aren't / we're not."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Quién es ella?): ___ she?",
+          "answers": ["Who is", "Who's"],
+          "hint": "Palabra WH- de persona + TO BE.",
+          "explanation": "Who + is + sujeto pregunta por la identidad de una persona."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce la respuesta corta (¿Son tus primos? — No, no lo son): Are they your cousins? — No, they ___.",
+          "answers": ["aren't", "are not", "'re not"],
+          "hint": "Respuesta corta negativa con are.",
+          "explanation": "La respuesta corta negativa sí admite contracción: No, they aren't."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Cuántos años tiene tu hermano?):",
+          "words": ["is", "brother", "How", "your", "old"],
+          "answer": "How old is your brother",
+          "explanation": "How old + is + sujeto es el orden fijo para preguntar la edad de alguien."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ellos no son de la Ciudad de México):",
+          "words": ["from", "City", "aren't", "They", "Mexico"],
+          "answer": "They aren't from Mexico City",
+          "explanation": "La negación con they usa aren't seguido de from + lugar."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — completa: The school lost ___ flag.",
+          "options": ["its", "it's", "it is"],
+          "answer": 0,
+          "explanation": "Its (sin apóstrofo) es el posesivo neutro; it's significa 'it is'."
+        }
+      ]
+    }
+  ]
+}

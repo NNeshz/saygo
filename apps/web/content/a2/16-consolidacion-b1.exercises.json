@@ -1,0 +1,147 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Repasa las formas clave del nivel: pasado perfecto, segunda condicional, voz pasiva, reported speech y conectores.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "'When I arrived at the cinema, the movie ___.'",
+          "options": ["had started", "has started", "starts"],
+          "answer": 0,
+          "explanation": "El pasado perfecto marca la acción anterior a otra acción pasada."
+        },
+        {
+          "type": "choice",
+          "prompt": "Segunda condicional: 'If I ___ rich, I would travel the world.'",
+          "options": ["am", "were", "would be", "will be"],
+          "answer": 1,
+          "explanation": "La segunda condicional usa pasado simple en el if-clause (were para todas las personas)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Voz pasiva: 'This book ___ written by a Mexican author.'",
+          "options": ["was", "were", "did", "has"],
+          "answer": 0,
+          "explanation": "La pasiva en pasado usa was/were + participio; book es singular."
+        },
+        {
+          "type": "choice",
+          "prompt": "Reported speech: 'She said that she ___ tired.'",
+          "options": ["is", "be", "was", "am"],
+          "answer": 2,
+          "explanation": "Al reportar lo dicho, el presente cambia a pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Gerundio o infinitivo: 'I enjoy ___ soccer on weekends.' (jugar)",
+          "answers": ["playing"],
+          "explanation": "Enjoy siempre va seguido de gerundio (-ing)."
+        },
+        {
+          "type": "fill",
+          "prompt": "Conector (Aunque): '___ it was raining, we went out.'",
+          "answers": ["Although", "Even though", "Though"],
+          "explanation": "Although/even though introducen un contraste con sujeto y verbo."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Combina condicionales, relativos, modales perfectos, pasiva y reported speech en situaciones comunicativas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Tercera condicional: 'If I had seen your message, I ___ have called you.' (te habría llamado)",
+          "answers": ["would"],
+          "explanation": "La tercera condicional usa would have + participio en la cláusula principal."
+        },
+        {
+          "type": "fill",
+          "prompt": "Relativo: 'The teacher ___ taught us last year moved to Guadalajara.' (que, persona)",
+          "answers": ["who", "that"],
+          "explanation": "Who o that introducen la cláusula relativa sobre una persona."
+        },
+        {
+          "type": "fill",
+          "prompt": "Modal perfecto: 'You ___ have studied more. You failed the exam.' (deberías haber)",
+          "answers": ["should"],
+          "explanation": "Should have + participio expresa un reproche sobre el pasado."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El pastel fue hecho por mi abuela):",
+          "words": ["made", "The", "grandmother", "was", "by", "cake", "my"],
+          "answer": "The cake was made by my grandmother",
+          "explanation": "La voz pasiva usa was + participio, y by introduce al agente."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella dijo que estaba cansada):",
+          "words": ["that", "tired", "She", "was", "said", "she"],
+          "answer": "She said that she was tired",
+          "explanation": "En reported speech el verbo reportado retrocede al pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Mini-diálogo: 'A: What would you do if you won the lottery? B: I ___ a big house.'",
+          "options": ["will buy", "would buy", "buy", "bought"],
+          "answer": 1,
+          "explanation": "La segunda condicional responde con would + verbo base."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Demuestra dominio B1 produciendo tercera condicional, futuro perfecto, pasado perfecto y pasiva sin los errores típicos.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Si hubiera estudiado, habría aprobado.' → 'If I had studied, I would have ___.'",
+          "answers": ["passed"],
+          "explanation": "La tercera condicional combina past perfect con would have + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Para las 8, ya habré terminado mi tarea.' → 'By 8 o'clock, I will have ___ my homework.'",
+          "answers": ["finished"],
+          "explanation": "El futuro perfecto (will have + participio) marca lo que estará completo antes de un momento futuro."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Nunca había visto el mar antes de ese viaje.' → 'I had never ___ the sea before that trip.'",
+          "answers": ["seen"],
+          "explanation": "El pasado perfecto (had + participio) describe lo anterior a un momento pasado."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me dijo que había perdido sus llaves):",
+          "words": ["lost", "She", "keys", "that", "told", "had", "her", "me", "she"],
+          "answer": "She told me that she had lost her keys",
+          "explanation": "En reported speech, el pasado simple retrocede a pasado perfecto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Esta casa fue construida por mi abuelo en 1980):",
+          "words": ["built", "This", "1980", "by", "was", "grandfather", "in", "house", "my"],
+          "answer": "This house was built by my grandfather in 1980",
+          "explanation": "La pasiva en pasado usa was + participio y by para el agente."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la tercera condicional correcta:",
+          "options": [
+            "If I would have known, I would have gone.",
+            "If I had known, I would have gone.",
+            "If I knew, I would have gone."
+          ],
+          "answer": 1,
+          "explanation": "El if-clause de la tercera condicional usa past perfect, nunca would."
+        }
+      ]
+    }
+  ]
+}

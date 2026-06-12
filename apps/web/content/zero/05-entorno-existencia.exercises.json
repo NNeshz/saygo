@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce los plurales regulares e irregulares, los artículos a/an/the y la elección entre there is y there are.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el plural de 'child'?",
+          "options": ["childs", "childrens", "children"],
+          "answer": 2,
+          "explanation": "Children es un plural irregular y nunca lleva -s adicional."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa con el artículo indefinido: ___ apple",
+          "options": ["a", "an", "the"],
+          "answer": 1,
+          "explanation": "Antes de un sonido vocálico se usa an: an apple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: There ___ thirty desks in the classroom.",
+          "options": ["is", "are", "am"],
+          "answer": 1,
+          "explanation": "Con sustantivos plurales (desks) se usa there are."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: There aren't ___ markers for the board.",
+          "options": ["some", "any", "a"],
+          "answer": 1,
+          "explanation": "En oraciones negativas se usa any, no some."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la frase correcta (una universidad):",
+          "options": ["an university", "a university", "the university"],
+          "answer": 1,
+          "explanation": "University empieza con el sonido consonántico /j/, por eso lleva a, no an."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (hay una alumna nueva en nuestro grupo): There ___ a new student in our group.",
+          "answers": ["is"],
+          "hint": "El sustantivo es singular.",
+          "explanation": "Con un sustantivo singular se usa there is, aunque haya más estudiantes en el contexto."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Pregunta y describe lo que hay en un lugar con there is/are, some/any, a little y el genitivo sajón.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿Hay una farmacia cerca?): ___ there a pharmacy nearby?",
+          "answers": ["Is"],
+          "hint": "Pregunta en singular: se invierte el verbo.",
+          "explanation": "La forma interrogativa singular es Is there...?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (hay un poco de agua en la botella): There is ___ water in the bottle.",
+          "answers": ["a little"],
+          "hint": "Water es incontable.",
+          "explanation": "Con sustantivos incontables como water se usa a little, no a few."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (el cuaderno de mi amigo): My ___ notebook is on the desk.",
+          "answers": ["friend's"],
+          "hint": "Genitivo sajón: apóstrofo + s.",
+          "explanation": "La posesión de personas se expresa con 's: my friend's notebook."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Hay algunos libros en el estante):",
+          "words": ["books", "shelf", "are", "There", "the", "on", "some"],
+          "answer": "There are some books on the shelf",
+          "explanation": "There are + some + plural se usa en afirmaciones sobre lo que existe en un lugar."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Hay asientos vacíos?):",
+          "words": ["empty", "there", "any", "Are", "seats"],
+          "answer": "Are there any empty seats",
+          "explanation": "En preguntas se usa Are there + any + sustantivo plural."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — Is there a bank near here? — ___",
+          "options": ["Yes, there is", "Yes, there's", "Yes, is there"],
+          "answer": 0,
+          "explanation": "La respuesta corta afirmativa es Yes, there is, sin contracción al final."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce oraciones con cuantificadores precisos (enough, too much) y evita trampas como 'childrens' o 'too many noise'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (No hay suficientes sillas): There aren't ___ chairs.",
+          "answers": ["enough"],
+          "hint": "Cuantificador de cantidad suficiente.",
+          "explanation": "Enough (suficiente) funciona con sustantivos contables e incontables."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Hay demasiado ruido): There is too ___ noise.",
+          "answers": ["much"],
+          "hint": "Noise es incontable.",
+          "explanation": "Con incontables el exceso se expresa con too much; too many es solo para contables."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (el libro de mi maestra): my ___ book",
+          "answers": ["teacher's"],
+          "hint": "Genitivo sajón, no 'the book of my teacher'.",
+          "explanation": "Para personas, el inglés prefiere el genitivo sajón: my teacher's book."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Hay demasiada gente en el metro):",
+          "words": ["people", "too", "in", "There", "metro", "many", "are", "the"],
+          "answer": "There are too many people in the metro",
+          "explanation": "People es plural irregular contable, por eso lleva too many y there are."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No hay agua en el refrigerador):",
+          "words": ["any", "fridge", "water", "isn't", "There", "the", "in"],
+          "answer": "There isn't any water in the fridge",
+          "explanation": "Water es incontable singular: there isn't + any en negaciones."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa: ¿cuál oración es correcta?",
+          "options": ["There are a lot of childrens", "There are a lot of children", "There are a lot of childs"],
+          "answer": 1,
+          "explanation": "Children ya es plural irregular: nunca se le agrega -s."
+        }
+      ]
+    }
+  ]
+}

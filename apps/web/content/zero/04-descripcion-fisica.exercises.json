@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce have/has, el orden adjetivo + sustantivo, los demostrativos, las preposiciones de lugar y los comparativos.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Completa: She ___ brown eyes.",
+          "options": ["have", "has", "haves"],
+          "answer": 1,
+          "explanation": "He, she e it usan has; los demás pronombres usan have."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración tiene el orden correcto?",
+          "options": ["She has hair long", "She has long hair", "She has a long hair"],
+          "answer": 1,
+          "explanation": "El adjetivo va antes del sustantivo, y hair es incontable: no lleva artículo a."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué demostrativo usas para plural CERCANO?",
+          "options": ["this", "these", "that", "those"],
+          "answer": 1,
+          "explanation": "These es plural y cercano; this es singular, y that/those señalan lejos."
+        },
+        {
+          "type": "choice",
+          "prompt": "El libro está SOBRE el escritorio: The book is ___ the desk.",
+          "options": ["in", "on", "under"],
+          "answer": 1,
+          "explanation": "Para superficies se usa on; in es para el interior de un espacio cerrado."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el comparativo de 'big'?",
+          "options": ["more big", "bigger", "biger"],
+          "answer": 1,
+          "explanation": "Big es CVC: se dobla la consonante final y se agrega -er → bigger."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (mi papá es alto): My father is ___.",
+          "answers": ["tall"],
+          "hint": "Adjetivo de altura, opuesto de short.",
+          "explanation": "Tall significa alto; su opuesto es short (bajo)."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Describe personas y ubica objetos usando have/has, comparativos, demostrativos y preposiciones de lugar.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿Tienes una regla?): ___ you have a ruler?",
+          "answers": ["Do"],
+          "hint": "Auxiliar para preguntas con have (no es he/she/it).",
+          "explanation": "Las preguntas con have usan el auxiliar do/does: Do you have...?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (él no tiene ojos azules): He ___ have blue eyes.",
+          "answers": ["doesn't", "does not"],
+          "hint": "Negación de tercera persona; el verbo queda en forma base.",
+          "explanation": "Con doesn't el verbo regresa a su forma base: he doesn't have."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ella es más alta que su mamá): She is ___ than her mother.",
+          "answers": ["taller"],
+          "hint": "Adjetivo corto + -er.",
+          "explanation": "Los adjetivos cortos forman el comparativo con -er + than: taller than."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estos libros son míos):",
+          "words": ["are", "mine", "These", "books"],
+          "answer": "These books are mine",
+          "explanation": "Con sustantivos plurales cercanos se usa these, nunca this."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El libro está sobre el escritorio):",
+          "words": ["desk", "The", "on", "is", "book", "the"],
+          "answer": "The book is on the desk",
+          "explanation": "Para indicar ubicación: sujeto + TO BE + preposición de lugar (on para superficies)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — How tall is your dad? — ___",
+          "options": ["He's not very tall", "Tall", "Yes, he is"],
+          "answer": 0,
+          "explanation": "La respuesta a How + adjetivo debe incluir el verbo, no solo el adjetivo suelto."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce descripciones completas y domina la diferencia entre very (muy) y too (demasiado, con problema).",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Esa mochila es demasiado pesada): That backpack is ___ heavy.",
+          "answers": ["too"],
+          "hint": "Implica un exceso problemático, no solo intensidad.",
+          "explanation": "Too expresa exceso negativo (demasiado); very solo intensifica sin problema."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi prima tiene cabello rizado): My cousin ___ curly hair.",
+          "answers": ["has"],
+          "hint": "Tercera persona singular de have.",
+          "explanation": "Con he/she/it el verbo have cambia a has."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi casa es más grande que la tuya): My house is bigger ___ yours.",
+          "answers": ["than"],
+          "hint": "Con 'a', no 'then'.",
+          "explanation": "Than (con a) es la preposición comparativa; then significa 'entonces'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi escritorio está junto a la ventana):",
+          "words": ["the", "window", "is", "My", "next", "desk", "to"],
+          "answer": "My desk is next to the window",
+          "explanation": "Next to (junto a) es una preposición de lugar de dos palabras que va antes del lugar."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El gimnasio está detrás de la cafetería):",
+          "words": ["cafeteria", "behind", "The", "is", "gym", "the"],
+          "answer": "The gym is behind the cafeteria",
+          "explanation": "Behind (detrás de) se coloca después de TO BE y antes del lugar de referencia."
+        },
+        {
+          "type": "choice",
+          "prompt": "Quieres dar un CUMPLIDO (ella es muy bonita). ¿Cuál oración es correcta?",
+          "options": ["She is too beautiful", "She is very beautiful", "She is beautiful too much"],
+          "answer": 1,
+          "explanation": "Para intensificar positivamente se usa very; too implicaría que su belleza es un problema."
+        }
+      ]
+    }
+  ]
+}

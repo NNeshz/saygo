@@ -1,0 +1,144 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce have/has + participio pasado y los participios irregulares esenciales como gone, seen y eaten.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el auxiliar correcto: She ___ eaten tacos al pastor.",
+          "options": ["have", "has", "is", "was"],
+          "answer": 1,
+          "explanation": "Con he/she/it el auxiliar del presente perfecto es has, no have."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el participio correcto de \"go\": I have ___ to the gym.",
+          "options": ["went", "gone", "go", "going"],
+          "answer": 1,
+          "explanation": "El participio de go es gone; went es solo el pasado simple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el participio correcto de \"see\": She has ___ that movie three times.",
+          "options": ["saw", "seen", "see", "sees"],
+          "answer": 1,
+          "explanation": "El participio de see es seen, no saw."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: ___ you ever been to Cancún?",
+          "options": ["Has", "Have", "Did", "Are"],
+          "answer": 1,
+          "explanation": "Las preguntas de experiencia usan Have + sujeto + ever + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la palabra correcta (duración): I have lived here ___ three years.",
+          "options": ["since", "for", "ago", "in"],
+          "answer": 1,
+          "explanation": "\"For\" se usa con períodos de tiempo (duración); \"since\" con un punto de inicio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la respuesta corta (no, él no ha llamado): Has he called? — No, he ___.",
+          "answers": ["hasn't", "has not"],
+          "explanation": "Las respuestas cortas negativas repiten el auxiliar: No, he hasn't."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Habla de experiencias y acciones recientes con ever, never, just, already y yet en conversaciones de viaje.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿ya visitaste Teotihuacán?): Have you visited Teotihuacán ___?",
+          "answers": ["yet"],
+          "explanation": "\"Yet\" se usa al final de preguntas y negativas en presente perfecto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ella acaba de llegar): She has ___ arrived.",
+          "answers": ["just"],
+          "explanation": "\"Just\" expresa una acción muy reciente y va entre has/have y el participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (vivo aquí desde 2021): I have lived here ___ 2021.",
+          "answers": ["since"],
+          "explanation": "\"Since\" se usa con un punto de inicio como una fecha o año."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Nunca he comido sushi):",
+          "words": ["eaten", "never", "I", "sushi", "have"],
+          "answer": "I have never eaten sushi",
+          "explanation": "\"Never\" va entre have y el participio; no se duplica la negación."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Alguna vez has probado el mole?):",
+          "words": ["mole", "ever", "Have", "tried", "you"],
+          "answer": "Have you ever tried mole",
+          "explanation": "Las preguntas de experiencia de vida usan Have you ever + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: We ___ the package yet.",
+          "options": ["haven't received", "have received", "didn't received", "hasn't received"],
+          "answer": 0,
+          "explanation": "\"Yet\" acompaña a negativas en presente perfecto: haven't + participio."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones completas con for/since/ago y distingue presente perfecto de pasado simple en casos con trampa.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"He perdido mis llaves (y las sigo buscando).\" → I ___ my keys.",
+          "answers": ["have lost", "'ve lost"],
+          "explanation": "Una acción reciente con relevancia ahora usa have + participio (lost)."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Ella ha olvidado su contraseña.\" → She has ___ her password.",
+          "answers": ["forgotten"],
+          "explanation": "El participio irregular de forget es forgotten."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Me mudé aquí hace tres años.\" → I moved here three years ___.",
+          "answers": ["ago"],
+          "explanation": "\"Ago\" va al final y siempre con Past Simple, nunca con presente perfecto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella ha trabajado en esa empresa desde 2019):",
+          "words": ["company", "since", "She", "worked", "that", "2019", "has", "at"],
+          "answer": "She has worked at that company since 2019",
+          "explanation": "Una acción que empezó en el pasado y continúa usa presente perfecto + since."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Han visitado cuatro estados de México hasta ahora):",
+          "words": ["states", "far", "They", "visited", "in", "so", "four", "have", "Mexico"],
+          "answer": "They have visited four states in Mexico so far",
+          "explanation": "\"So far\" (hasta ahora) acompaña al presente perfecto al final de la oración."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["I have lost my card yesterday", "I lost my card yesterday", "I have lose my card yesterday"],
+          "answer": 1,
+          "explanation": "Con un tiempo específico como yesterday se usa Past Simple, no presente perfecto."
+        }
+      ]
+    }
+  ]
+}

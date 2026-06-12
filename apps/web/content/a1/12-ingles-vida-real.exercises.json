@@ -1,0 +1,148 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce vocabulario de escuela, banco, salud y vivienda como scholarship, prescription y landlord.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice 'beca' en inglés?",
+          "options": ["tuition", "scholarship", "transcript", "enrollment"],
+          "answer": 1,
+          "explanation": "Scholarship = beca; tuition es la colegiatura y transcript el historial académico."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice 'receta médica' en inglés?",
+          "options": ["painkiller", "syrup", "prescription", "rash"],
+          "answer": 2,
+          "explanation": "Prescription = receta médica; painkiller es analgésico y syrup jarabe."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (necesito hacer un retiro): I need to make a ___.",
+          "options": ["deposit", "withdrawal", "transfer"],
+          "answer": 1,
+          "explanation": "Withdrawal = retiro de dinero; deposit es depósito y transfer transferencia."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice 'arrendador' (dueño del inmueble) en inglés?",
+          "options": ["tenant", "landlord", "lease"],
+          "answer": 1,
+          "explanation": "Landlord = arrendador; tenant es el inquilino y lease el contrato."
+        },
+        {
+          "type": "choice",
+          "prompt": "En inglés británico, 'apartment' se dice:",
+          "options": ["flat", "condo", "suite"],
+          "answer": 0,
+          "explanation": "En inglés británico se dice flat; apartment es la forma americana."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (tengo dolor de cabeza): I have ___ headache.",
+          "answers": ["a"],
+          "hint": "Falta el artículo.",
+          "explanation": "Los dolores físicos llevan artículo indefinido: a headache, a fever."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Comunícate en trámites reales: farmacia, banco, transporte y renta de vivienda.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa en la farmacia (¿necesito receta médica para esto?): Do I need a ___ for this?",
+          "answers": ["prescription"],
+          "explanation": "Prescription = receta médica; sin receta es over-the-counter."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el verbo correcto (hacer un depósito): I need to ___ a deposit.",
+          "answers": ["make"],
+          "hint": "No es 'do'.",
+          "explanation": "Los trámites bancarios usan el verbo make, no do: make a deposit."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (quiero inscribirme): I want to ___ in the spring semester.",
+          "answers": ["enroll", "enrol"],
+          "hint": "No existe 'make an inscription'.",
+          "explanation": "Para inscribirse en cursos se usa el verbo enroll, no 'inscription'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿De qué andén sale el tren?):",
+          "words": ["train", "from", "Which", "leave", "does", "platform", "the"],
+          "answer": "Which platform does the train leave from",
+          "explanation": "Platform = andén; la pregunta termina con la preposición from."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Los servicios están incluidos en la renta?):",
+          "words": ["included", "rent", "Are", "the", "utilities", "in"],
+          "answer": "Are utilities included in the rent",
+          "explanation": "Utilities = servicios (agua, luz, gas) en el vocabulario de vivienda."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["The WiFi don't work.", "The WiFi not work.", "The WiFi doesn't work."],
+          "answer": 2,
+          "explanation": "Tercera persona singular en negativo usa doesn't, no don't."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce frases de la vida real con allergic to, apply for y vocabulario de tecnología y vivienda.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Soy alérgico a la penicilina): I'm ___ penicillin.",
+          "answers": ["allergic to"],
+          "explanation": "Allergic siempre va con la preposición to: allergic to penicillin."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Solicité una beca): I applied ___ a scholarship.",
+          "answers": ["for"],
+          "explanation": "Apply requiere la preposición for cuando se solicita algo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi teléfono se colgó / falló): My phone ___.",
+          "answers": ["crashed"],
+          "hint": "No se dice 'is died'.",
+          "explanation": "Crash = fallar o colgarse un dispositivo; se usa en pasado simple."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella bloqueó la cuenta que enviaba spam):",
+          "words": ["account", "spam", "She", "was", "blocked", "sending", "the", "that"],
+          "answer": "She blocked the account that was sending spam",
+          "explanation": "Block = bloquear una cuenta; spam son los mensajes no deseados."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Cuánto aviso necesito dar?):",
+          "words": ["notice", "give", "How", "I", "much", "to", "do", "need"],
+          "answer": "How much notice do I need to give",
+          "explanation": "Notice = aviso previo en el vocabulario de arrendamiento."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["She went to the ATM machine.", "She went to the ATM.", "She went to the machine ATM."],
+          "answer": 1,
+          "explanation": "ATM ya incluye 'machine' (Automated Teller Machine); no se repite."
+        }
+      ]
+    }
+  ]
+}

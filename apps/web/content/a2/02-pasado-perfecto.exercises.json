@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la forma 'had + participio' para hablar de la acción más antigua en el pasado.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: When I arrived, the class ___ already started.",
+          "options": ["has", "had", "have", "was"],
+          "answer": 1,
+          "explanation": "El pasado perfecto se forma con 'had' + participio para la acción anterior."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She ___ never seen the ocean before that trip.",
+          "options": ["has", "had", "have"],
+          "answer": 1,
+          "explanation": "'Before that trip' sitúa la experiencia antes de otro momento pasado: pasado perfecto."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el participio correcto: By 2020, they had ___ to three different cities.",
+          "options": ["move", "moved", "moving"],
+          "answer": 1,
+          "explanation": "Después de 'had' siempre va el participio pasado del verbo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: I didn't laugh because I ___ the joke before.",
+          "options": ["heard", "had heard", "have heard", "hear"],
+          "answer": 1,
+          "explanation": "El pasado perfecto marca que escuchó el chiste ANTES del momento pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ya se había ido): When we got there, she ___ already left.",
+          "answers": ["had", "'d"],
+          "hint": "Auxiliar del pasado perfecto.",
+          "explanation": "El pasado perfecto usa 'had' (o 'd) para todas las personas."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (habían cenado): They had ___ dinner before the movie.",
+          "answers": ["eaten"],
+          "hint": "Participio irregular de 'eat'.",
+          "explanation": "Después de 'had' va el participio pasado: eat → eaten."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Explica causas y secuencias de eventos pasados usando el pasado perfecto en contexto.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo: \"Why was Ana sad?\" \"Because she ___ lost her phone.\" (había perdido)",
+          "answers": ["had", "'d"],
+          "hint": "La pérdida ocurrió antes de estar triste.",
+          "explanation": "La causa anterior a un momento pasado se expresa con pasado perfecto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (había vivido): Before moving to Mexico City, he had ___ in Puebla for ten years.",
+          "answers": ["lived"],
+          "hint": "Participio de 'live'.",
+          "explanation": "'Had' + participio describe la situación anterior a otro evento pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (nunca había visto): She had never ___ snow before that winter.",
+          "answers": ["seen"],
+          "hint": "Participio irregular de 'see'.",
+          "explanation": "'Had never + participio' expresa una experiencia inexistente hasta un momento pasado."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La película ya había empezado cuando llegué):",
+          "words": ["already", "when", "The", "started", "I", "had", "arrived", "movie"],
+          "answer": "The movie had already started when I arrived",
+          "explanation": "La acción más antigua va en pasado perfecto y 'already' entre 'had' y el participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella ya había hecho su tarea):",
+          "words": ["done", "her", "She", "already", "homework", "had"],
+          "answer": "She had already done her homework",
+          "explanation": "Estructura del pasado perfecto: sujeto + had + already + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: I was tired because I ___ slept well the night before.",
+          "options": ["didn't", "hadn't", "haven't"],
+          "answer": 1,
+          "explanation": "El negativo del pasado perfecto es 'hadn't' + participio."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce narraciones en pasado distinguiendo qué acción ocurrió primero con 'by the time' y 'before'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Cuando llegamos, el tren ya se había ido): When we arrived, the train ___ already gone.",
+          "answers": ["had", "'d"],
+          "hint": "Auxiliar de la acción más antigua.",
+          "explanation": "La acción que ocurrió primero (irse el tren) va en pasado perfecto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Nunca había estado tan feliz): I had never ___ so happy.",
+          "answers": ["been"],
+          "hint": "Participio de 'be'.",
+          "explanation": "'Had never been' expresa un estado nunca alcanzado hasta ese momento pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella dijo que había perdido las llaves): She said that she had ___ her keys.",
+          "answers": ["lost"],
+          "hint": "Participio de 'lose'.",
+          "explanation": "El pasado perfecto sitúa la pérdida antes del momento en que lo dijo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Para cuando llegamos, el espectáculo había terminado):",
+          "words": ["the", "arrived", "show", "By", "had", "we", "ended", "time", "the"],
+          "answer": "By the time we arrived the show had ended",
+          "explanation": "'By the time' + pasado simple se combina con pasado perfecto para la acción previa."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él nunca había manejado un coche antes de ese día):",
+          "words": ["driven", "before", "He", "a", "that", "car", "never", "had", "day"],
+          "answer": "He had never driven a car before that day",
+          "explanation": "'Had never + participio' + 'before' marca la primera vez en el pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la forma correcta: By the time the class started, most students ___ .",
+          "options": ["arrived", "had arrived", "have arrived"],
+          "answer": 1,
+          "explanation": "Con 'by the time' + pasado, la acción completada antes va en pasado perfecto."
+        }
+      ]
+    }
+  ]
+}

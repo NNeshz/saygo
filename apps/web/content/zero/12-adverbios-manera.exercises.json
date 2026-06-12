@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la formación de adverbios con -ly y los irregulares well, hard, fast, early y late.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el adverbio de 'good'?",
+          "options": ["goodly", "well", "good"],
+          "answer": 1,
+          "explanation": "Good es irregular: su adverbio es well (She speaks English well)."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el adverbio de 'fast'?",
+          "options": ["fast", "fastly", "faster"],
+          "answer": 0,
+          "explanation": "Fast no cambia: ya es adverbio y nunca lleva -ly."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: She speaks English ___.",
+          "options": ["good", "goodly", "well"],
+          "answer": 2,
+          "explanation": "Para describir cómo se hace una acción se usa el adverbio well, no el adjetivo good."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el adverbio de 'easy'?",
+          "options": ["easily", "easyly", "easly"],
+          "answer": 0,
+          "explanation": "Los adjetivos en consonante + -y cambian a -ily: easy → easily."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el adverbio de 'slow' (habla despacio, por favor): Please speak ___.",
+          "answers": ["slowly"],
+          "explanation": "La mayoría de los adverbios se forman con adjetivo + -ly: slow → slowly."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el adverbio de 'careful' (maneja con cuidado): Drive ___ on the highway.",
+          "answers": ["carefully"],
+          "explanation": "Careful + -ly = carefully, describe cómo se hace la acción de manejar."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa los adverbios en la posición correcta: después del verbo o del objeto directo.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (estudio duro todas las noches): I study ___ every night.",
+          "answers": ["hard"],
+          "hint": "Cuidado: no es 'hardly'.",
+          "explanation": "Hard es irregular y no cambia; hardly significa 'casi no'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el adverbio de 'loud' (no hables fuerte en la biblioteca): Don't talk ___ in the library.",
+          "answers": ["loudly"],
+          "explanation": "Loud + -ly = loudly, describe cómo se habla."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ella siempre llega temprano): She always arrives ___.",
+          "answers": ["early"],
+          "explanation": "Early es irregular: el adverbio es igual al adjetivo, sin -ly extra."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella habla inglés bien):",
+          "words": ["English", "well", "She", "speaks"],
+          "answer": "She speaks English well",
+          "explanation": "El adverbio va después del objeto directo, nunca entre el verbo y el objeto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El maestro explica claramente):",
+          "words": ["clearly", "The", "explains", "teacher"],
+          "answer": "The teacher explains clearly",
+          "explanation": "El adverbio de manera va después del verbo: explains clearly."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["He plays well the guitar", "He plays the guitar well", "He plays the guitar good"],
+          "answer": 1,
+          "explanation": "El adverbio well va después del objeto directo: plays the guitar well."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones con adverbios y domina las trampas hardly (casi no) y lately (últimamente).",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Él corre muy rápido): He runs very ___.",
+          "answers": ["fast"],
+          "hint": "Es un irregular sin -ly.",
+          "explanation": "Fast es adverbio irregular: nunca se dice fastly."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (El camión llegó tarde otra vez): The bus came ___ again.",
+          "answers": ["late"],
+          "hint": "Cuidado: no es 'lately'.",
+          "explanation": "Late no cambia; lately significa 'últimamente', no 'tarde'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella pasó el examen fácilmente): She passed the exam ___.",
+          "answers": ["easily"],
+          "explanation": "Easy cambia la -y por -ily: easily."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi papá siempre maneja con cuidado):",
+          "words": ["drives", "My", "carefully", "always", "dad"],
+          "answer": "My dad always drives carefully",
+          "explanation": "El adverbio de manera carefully va después del verbo drives."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El equipo jugó muy bien y ganó):",
+          "words": ["won", "very", "The", "and", "played", "team", "well"],
+          "answer": "The team played very well and won",
+          "explanation": "Well es el adverbio de good y va después del verbo played."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración significa 'Casi no duermo'?",
+          "options": ["I sleep hard", "I hardly sleep", "I sleep hardly"],
+          "answer": 1,
+          "explanation": "Hardly significa 'casi no' y no es el adverbio de hard."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la fórmula am/is/are + verbo -ing y las reglas ortográficas del -ing.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She ___ studying right now.",
+          "options": ["are", "is", "am", "do"],
+          "answer": 1,
+          "explanation": "Con he/she/it el presente continuo usa is + verbo -ing."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es la forma -ing correcta de 'run'?",
+          "options": ["runing", "runeing", "running"],
+          "answer": 2,
+          "explanation": "Patrón CVC en sílaba tónica: se dobla la consonante final (run → running)."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es la forma -ing correcta de 'make'?",
+          "options": ["making", "makeing", "makking"],
+          "answer": 0,
+          "explanation": "Los verbos terminados en -e pierden la -e antes de -ing (make → making)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["They sleeping", "They are sleep", "They are sleeping"],
+          "answer": 2,
+          "explanation": "El verbo TO BE nunca desaparece y el verbo principal lleva -ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (estoy comiendo ahorita): I ___ eating right now.",
+          "answers": ["am"],
+          "explanation": "Con I el presente continuo usa am: I am eating."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con la forma -ing del verbo 'write': They are ___ an exam.",
+          "answers": ["writing"],
+          "hint": "El verbo termina en -e.",
+          "explanation": "Write pierde la -e antes de agregar -ing: writing."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Pregunta, niega y responde sobre acciones que están pasando en este momento.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿qué estás haciendo?): What ___ you doing? — I'm watching TV.",
+          "answers": ["are"],
+          "explanation": "En preguntas WH-, el orden es WH + TO BE + sujeto: What are you doing?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa en negativo (él no está durmiendo): He ___ sleeping.",
+          "answers": ["isn't", "is not"],
+          "hint": "Usa NOT con TO BE, no don't.",
+          "explanation": "El presente continuo se niega con TO BE + not, nunca con don't/doesn't."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la respuesta corta: Is she cooking? — Yes, she ___.",
+          "answers": ["is"],
+          "explanation": "Las respuestas cortas repiten el TO BE: Yes, she is."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Está lloviendo afuera):",
+          "words": ["raining", "outside", "It", "is"],
+          "answer": "It is raining outside",
+          "explanation": "El sujeto it es obligatorio para el clima: It is raining."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Estás escuchando música?):",
+          "words": ["music", "listening", "you", "Are", "to"],
+          "answer": "Are you listening to music",
+          "explanation": "En preguntas se invierte el orden: TO BE + sujeto + verbo -ing."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu amigo te llama y le dices que en este momento esperas el camión. ¿Qué dices?",
+          "options": ["I wait for the bus", "I'm waiting for the bus", "I waiting for the bus"],
+          "answer": 1,
+          "explanation": "Una acción que ocurre ahora mismo usa presente continuo: am/is/are + -ing."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones en presente continuo y distingue los verbos de estado que no usan -ing.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi hermano está durmiendo): My brother ___.",
+          "answers": ["is sleeping"],
+          "explanation": "Presente continuo: TO BE conjugado + verbo en -ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (No estamos viendo la tele): We ___ watching TV.",
+          "answers": ["aren't", "are not"],
+          "explanation": "Con we, la negación del continuo es are not / aren't."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¡Mira! El perro está corriendo): Look! The dog is ___.",
+          "answers": ["running"],
+          "hint": "Cuidado con la ortografía CVC.",
+          "explanation": "Run dobla la n antes de -ing: running."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella no está comiendo en la escuela hoy):",
+          "words": ["today", "isn't", "She", "school", "eating", "at"],
+          "answer": "She isn't eating at school today",
+          "explanation": "Negativo del continuo: sujeto + isn't + verbo -ing + complementos."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Qué estás cocinando ahorita?):",
+          "words": ["cooking", "you", "What", "right", "are", "now"],
+          "answer": "What are you cooking right now",
+          "explanation": "Pregunta WH- en continuo: WH + are + sujeto + verbo -ing."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": ["I am knowing the answer", "I know the answer", "I knowing the answer"],
+          "answer": 1,
+          "explanation": "Los verbos de estado como know, like y want no se usan en presente continuo."
+        }
+      ]
+    }
+  ]
+}

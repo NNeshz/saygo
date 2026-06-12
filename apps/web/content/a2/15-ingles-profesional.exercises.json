@@ -1,0 +1,155 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce el vocabulario formal (purchase, assist, require) y las fórmulas corteses con could y would like.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál palabra es más FORMAL para 'buy'?",
+          "options": ["grab", "purchase", "get", "take"],
+          "answer": 1,
+          "explanation": "Purchase es el equivalente formal de buy."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es más FORMAL para 'help'?",
+          "options": ["give a hand", "assist", "help out"],
+          "answer": 1,
+          "explanation": "Assist es el equivalente formal de help."
+        },
+        {
+          "type": "choice",
+          "prompt": "En una entrevista de trabajo te presentas así:",
+          "options": [
+            "Yo! I'm here for the job.",
+            "Hey, what's up?",
+            "Good morning. I would like to introduce myself."
+          ],
+          "answer": 2,
+          "explanation": "El registro formal usa saludos completos y would like to."
+        },
+        {
+          "type": "choice",
+          "prompt": "'require' significa lo mismo que:",
+          "options": ["want", "like", "need", "buy"],
+          "answer": 2,
+          "explanation": "Require es la forma formal de need."
+        },
+        {
+          "type": "fill",
+          "prompt": "Petición formal (¿Podría...?): '___ you please send me the report?'",
+          "answers": ["Could", "Would"],
+          "explanation": "Could/Would you please... es la petición cortés en contextos profesionales."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (me gustaría): 'I ___ like to apply for this position.'",
+          "answers": ["would"],
+          "explanation": "I would like to es la forma formal de expresar un deseo."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa el registro formal en situaciones reales: llamadas de trabajo, presentaciones y solicitudes de empleo.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Al teléfono: 'Good morning, ___ I speak to Mr. Torres, please?' (¿Podría...?)",
+          "answers": ["may", "could", "can"],
+          "explanation": "May/Could I speak to...? es la forma cortés de pedir hablar con alguien."
+        },
+        {
+          "type": "fill",
+          "prompt": "Al teléfono: 'One moment, please. Could you ___ on?' (esperar en línea)",
+          "answers": ["hold", "hang"],
+          "explanation": "Hold on / hang on significan esperar un momento en la línea."
+        },
+        {
+          "type": "fill",
+          "prompt": "En una presentación: 'Today I am going to ___ about our new project.' (hablar)",
+          "answers": ["talk", "speak"],
+          "explanation": "Today I am going to talk about... abre una presentación profesional."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me gustaría solicitar este puesto):",
+          "words": ["apply", "this", "I", "position", "like", "for", "would", "to"],
+          "answer": "I would like to apply for this position",
+          "explanation": "I would like to apply for es la fórmula para solicitar un puesto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Escribo para solicitar el trabajo):",
+          "words": ["writing", "job", "I", "apply", "the", "am", "for", "to"],
+          "answer": "I am writing to apply for the job",
+          "explanation": "I am writing to apply for abre una carta de solicitud formal."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu jefe pide ayuda con un proyecto. Respuesta formal:",
+          "options": [
+            "Yeah, whatever.",
+            "Of course, I would be happy to assist you.",
+            "OK, gimme a sec."
+          ],
+          "answer": 1,
+          "explanation": "El registro profesional usa would be happy to assist en vez de expresiones coloquiales."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce frases profesionales completas como please find attached y thank you for your consideration, evitando wanna y gimme.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Adjunto encontrará mi currículum.' → 'Please find ___ my CV.'",
+          "answers": ["attached"],
+          "explanation": "Please find attached es la fórmula fija para enviar archivos adjuntos."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Requerimos su respuesta antes del viernes.' → 'We ___ your answer before Friday.'",
+          "answers": ["require"],
+          "explanation": "Require es el verbo formal para need en contextos profesionales."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Gracias por su tiempo y consideración.' → 'Thank you for your time and ___.'",
+          "answers": ["consideration"],
+          "explanation": "Thank you for your time and consideration cierra una solicitud formal."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me gustaría presentarme al equipo):",
+          "words": ["introduce", "team", "I", "myself", "like", "the", "would", "to", "to"],
+          "answer": "I would like to introduce myself to the team",
+          "explanation": "I would like to introduce myself es la presentación formal estándar."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Gracias por tomarse el tiempo de reunirse conmigo):",
+          "words": ["taking", "me", "Thank", "time", "to", "for", "the", "meet", "you"],
+          "answer": "Thank you for taking the time to meet me",
+          "explanation": "Thank you for taking the time agradece formalmente una reunión o entrevista."
+        },
+        {
+          "type": "choice",
+          "prompt": "En un email FORMAL, ¿cuál oración es apropiada?",
+          "options": [
+            "I wanna get more info about the job.",
+            "I would like to receive more information about the position.",
+            "Gimme more details about the job, thanks."
+          ],
+          "answer": 1,
+          "explanation": "El registro formal evita wanna y gimme; usa would like y receive."
+        }
+      ]
+    }
+  ]
+}

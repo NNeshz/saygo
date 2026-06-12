@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce los sonidos vocálicos y consonánticos del inglés, la schwa, la -s final y el acento en palabras de dos sílabas.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Qué palabra tiene la vocal larga /iː/?",
+          "options": ["sit", "sheep", "this", "sing"],
+          "answer": 1,
+          "explanation": "La /iː/ es larga y tensa, como en 'sheep'; 'sit', 'this' y 'sing' llevan la /ɪ/ corta."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué sonido tiene la 'th' de 'think'?",
+          "options": ["/θ/ — sordo, sin vibración", "/ð/ — sonoro, con vibración", "/t/ — como en 'tink'", "/s/ — como en 'sink'"],
+          "answer": 0,
+          "explanation": "En 'think' la 'th' es /θ/: lengua entre los dientes y sin vibración de cuerdas vocales."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se pronuncia la -s final de 'dogs'?",
+          "options": ["/s/", "/z/", "/ɪz/"],
+          "answer": 1,
+          "explanation": "Después de un sonido sonoro como /g/, la -s final se pronuncia /z/."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿En qué sílaba va el acento del verbo 'begin'?",
+          "options": ["En la primera: BE-gin", "En la segunda: be-GIN", "En ambas por igual"],
+          "answer": 1,
+          "explanation": "Los verbos de dos sílabas generalmente se acentúan en la segunda sílaba: be-GIN."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué palabra contiene el sonido schwa /ə/?",
+          "options": ["teacher", "cat", "sit", "food"],
+          "answer": 0,
+          "explanation": "La terminación '-er' de 'teacher' es schwa /ə/, la vocal reducida de las sílabas sin acento."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con la palabra del vocabulario (gato): The ___ is on the roof.",
+          "answers": ["cat"],
+          "hint": "Se pronuncia con la vocal /æ/, boca muy abierta.",
+          "explanation": "'Cat' /kæt/ lleva la vocal corta /æ/, un sonido entre 'a' y 'e'."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa las palabras clave del módulo en oraciones reales y practica la pregunta para deletrear nombres.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿Cómo se escribe tu nombre?): How do you ___ your name?",
+          "answers": ["spell"],
+          "hint": "Es el verbo para deletrear letra por letra.",
+          "explanation": "'How do you spell...?' es la pregunta práctica para pedir el deletreo de una palabra."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (creo que este ejercicio es fácil): I ___ this exercise is easy.",
+          "answers": ["think"],
+          "hint": "Empieza con el sonido /θ/, lengua entre los dientes.",
+          "explanation": "'Think' /θɪŋk/ se pronuncia con /θ/ sordo, no con /t/ ni /s/."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (canto en el coro de la escuela): I ___ in the school choir.",
+          "answers": ["sing"],
+          "hint": "Termina en el sonido nasal /ŋ/, sin /g/ extra.",
+          "explanation": "'Sing' /sɪŋ/ termina en la nasal /ŋ/ — solo el sonido nasal, sin agregar una /g/ final."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Cómo se escribe tu nombre?):",
+          "words": ["spell", "How", "name", "do", "your", "you"],
+          "answer": "How do you spell your name",
+          "explanation": "La pregunta para deletrear sigue el orden fijo: How do you spell + lo que quieres deletrear."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Esta es mi amiga Lupita):",
+          "words": ["my", "Lupita", "This", "friend", "is"],
+          "answer": "This is my friend Lupita",
+          "explanation": "'This' /ðɪs/ se pronuncia con /ð/ sonoro, lengua entre los dientes, no con /d/."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — How do you spell your last name? — ___",
+          "options": ["It's R-A-M-I-R-E-Z", "I'm from Puebla", "Yes, I think so"],
+          "answer": 0,
+          "explanation": "A 'How do you spell...?' se responde deletreando letra por letra: It's R-A-M-I-R-E-Z."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones completas con las palabras del módulo y domina las excepciones de acento como RE-cord vs re-CORD.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Piensa antes de contestar): ___ before you answer.",
+          "answers": ["Think", "think"],
+          "hint": "Verbo con /θ/ inicial.",
+          "explanation": "'Think' se pronuncia /θɪŋk/ con la lengua entre los dientes, nunca 'tink' ni 'sink'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi maestra de inglés es muy paciente): My English teacher is ___ patient.",
+          "answers": ["very"],
+          "hint": "La 'v' es labiodental: los dientes tocan el labio inferior.",
+          "explanation": "'Very' /ˈvɛri/ se pronuncia con /v/ labiodental, no como /b/ ni /w/."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Comemos comida del mercado todos los domingos): We eat ___ from the market every Sunday.",
+          "answers": ["food"],
+          "hint": "Lleva la vocal larga /uː/.",
+          "explanation": "'Food' /fuːd/ lleva la vocal larga /uː/, a diferencia de la /ʊ/ corta de 'book'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Canto en el coro de la escuela los viernes):",
+          "words": ["choir", "I", "Fridays", "in", "sing", "on", "the", "school"],
+          "answer": "I sing in the school choir on Fridays",
+          "explanation": "En inglés el lugar (in the school choir) va antes del tiempo (on Fridays)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El sol se pone en el oeste):",
+          "words": ["west", "sets", "The", "in", "sun", "the"],
+          "answer": "The sun sets in the west",
+          "explanation": "'West' /wɛst/ empieza con /w/ (labios redondeados), distinto de 'vest' con /v/."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso especial: ¿cómo se acentúa la palabra cuando significa 'disco' (sustantivo)?",
+          "options": ["RE-cord — acento en la primera sílaba", "re-CORD — acento en la segunda sílaba", "Las dos formas significan lo mismo"],
+          "answer": 0,
+          "explanation": "Como sustantivo el acento va en la primera sílaba (RE-cord); como verbo 'grabar' va en la segunda (re-CORD)."
+        }
+      ]
+    }
+  ]
+}

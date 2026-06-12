@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce el negativo con don't/doesn't, las preguntas con do/does y los conectores básicos.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Completa: She ___ like spicy food.",
+          "options": ["don't", "doesn't", "isn't"],
+          "answer": 1,
+          "explanation": "He, she e it niegan con doesn't + verbo en forma base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: ___ you study every day?",
+          "options": ["Do", "Does", "Are"],
+          "answer": 0,
+          "explanation": "Con I, you, we y they las preguntas usan el auxiliar do."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: Where does she ___?",
+          "options": ["work", "works", "working"],
+          "answer": 0,
+          "explanation": "Con does el verbo principal va siempre en forma base: work."
+        },
+        {
+          "type": "choice",
+          "prompt": "Respuesta corta correcta a 'Do you study English?':",
+          "options": ["Yes, I do", "Yes, I study", "Yes, I does"],
+          "answer": 0,
+          "explanation": "Las respuestas cortas usan solo el auxiliar: Yes, I do / No, I don't."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué conector expresa causa (porque)?",
+          "options": ["and", "but", "because", "so"],
+          "answer": 2,
+          "explanation": "Because introduce la causa; so introduce el resultado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no tenemos clase hoy): We ___ have class today.",
+          "answers": ["don't", "do not"],
+          "hint": "Negación para we.",
+          "explanation": "I, you, we y they niegan con don't + verbo base."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Haz preguntas WH- con do/does sobre hábitos, transporte y frecuencia, y respóndelas en mini-diálogos.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿Cómo vas a la escuela? — En camión): How do you go to school? — By ___.",
+          "answers": ["bus"],
+          "hint": "Medio de transporte: by + vehículo.",
+          "explanation": "Los medios de transporte se expresan con by: by bus, by metro, by car."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿Por qué estudias inglés?): ___ do you study English?",
+          "answers": ["Why"],
+          "hint": "Se responde con Because...",
+          "explanation": "Why pregunta por la razón y su respuesta empieza con because."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (voy al gimnasio dos veces a la semana): I go to the gym ___ a week.",
+          "answers": ["twice"],
+          "hint": "Una vez = once; dos veces = ...",
+          "explanation": "La frecuencia se expresa con once/twice + a + período: twice a week."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Trabaja ella los sábados?):",
+          "words": ["on", "she", "Does", "Saturdays", "work"],
+          "answer": "Does she work on Saturdays",
+          "explanation": "La pregunta de tercera persona usa Does + sujeto + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Qué tan seguido haces ejercicio?):",
+          "words": ["exercise", "do", "often", "How", "you"],
+          "answer": "How often do you exercise",
+          "explanation": "How often + do/does + sujeto + verbo base pregunta por la frecuencia."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — Why do you study English? — ___",
+          "options": ["Because I want to travel", "So I want to travel", "And I want to travel"],
+          "answer": 0,
+          "explanation": "Why se responde con because + oración completa (sujeto + verbo)."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce negaciones y preguntas, y domina la diferencia entre preguntas de sujeto (sin do/does) y de objeto.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella no trabaja los domingos): She ___ work on Sundays.",
+          "answers": ["doesn't", "does not"],
+          "hint": "Negación de tercera persona.",
+          "explanation": "Con she la negación es doesn't y el verbo queda en forma base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Quién cocina en tu casa?): Who ___ in your house?",
+          "answers": ["cooks"],
+          "hint": "Pregunta de sujeto: sin do/does y con -s de tercera persona.",
+          "explanation": "Cuando who es el sujeto no se usa do/does y el verbo lleva -s: Who cooks...?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Nunca voy a lugares de comida rápida): I ___ go to fast food places.",
+          "answers": ["never"],
+          "hint": "Este adverbio ya es negativo: no se combina con don't.",
+          "explanation": "Never ya es negativo, así que la oración queda afirmativa en forma: I never go."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿A quién llamas todos los días?):",
+          "words": ["call", "you", "day", "Who", "every", "do"],
+          "answer": "Who do you call every day",
+          "explanation": "Aquí who es el objeto (a quién), por eso la pregunta sí lleva do."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estudio inglés porque quiero viajar):",
+          "words": ["travel", "because", "English", "I", "want", "study", "I", "to"],
+          "answer": "I study English because I want to travel",
+          "explanation": "Because une la causa y necesita una oración completa después: because I want to travel."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa: ¿cuál pregunta es correcta?",
+          "options": ["Who does work here?", "Who works here?", "Who do work here?"],
+          "answer": 1,
+          "explanation": "Who es el sujeto de la pregunta: las preguntas de sujeto no llevan do/does."
+        }
+      ]
+    }
+  ]
+}

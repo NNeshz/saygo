@@ -1,0 +1,147 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Distingue say, tell y ask y reconoce el backshift básico (will → would, can → could).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el verbo correcto: She ___ me that she was tired.",
+          "options": ["said", "told", "asked"],
+          "answer": 1,
+          "explanation": "Tell siempre lleva la persona como objeto; say nunca lleva objeto de persona."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el verbo correcto: He ___ that he was happy with the results.",
+          "options": ["told", "asked", "said"],
+          "answer": 2,
+          "explanation": "Say va sin objeto de persona: he said (that) + cláusula."
+        },
+        {
+          "type": "choice",
+          "prompt": "Aplica el backshift: \"I can swim\" → He said he ___ swim.",
+          "options": ["can", "could", "would"],
+          "answer": 1,
+          "explanation": "En reported speech, can cambia a could."
+        },
+        {
+          "type": "choice",
+          "prompt": "Aplica el backshift: \"I will call you\" → She said she ___ call me.",
+          "options": ["will", "wanted", "would"],
+          "answer": 2,
+          "explanation": "En reported speech, will cambia a would."
+        },
+        {
+          "type": "choice",
+          "prompt": "En reported speech, 'today' cambia a:",
+          "options": ["that day", "this day", "then"],
+          "answer": 0,
+          "explanation": "Las expresiones de tiempo cambian: today → that day, now → then."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el backshift (\"I live here\"): He said he ___ there.",
+          "answers": ["lived"],
+          "hint": "Present Simple → Past Simple.",
+          "explanation": "Con el verbo de reporte en pasado, el Present Simple retrocede a Past Simple."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Reporta preguntas y órdenes sin inversión usando if, not to y suggest + -ing.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta reportada (\"Are you Mexican?\"): He asked ___ I was Mexican.",
+          "answers": ["if", "whether"],
+          "explanation": "Las preguntas de sí/no se reportan con if o whether, sin inversión."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la orden negativa (\"Don't be late\"): He told me ___ be late.",
+          "answers": ["not to"],
+          "explanation": "Las órdenes negativas se reportan con tell + persona + not to + infinitivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (Ella sugirió tomar el metro): She suggested ___ the metro.",
+          "answers": ["taking"],
+          "hint": "Suggest nunca va con to + infinitivo.",
+          "explanation": "Suggest va seguido de un verbo en -ing, no de to + infinitivo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella preguntó dónde vivía yo):",
+          "words": ["where", "She", "lived", "asked", "I"],
+          "answer": "She asked where I lived",
+          "explanation": "En las preguntas reportadas con WH- el orden es sujeto + verbo, sin inversión."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El maestro nos dijo que nos sentáramos):",
+          "words": ["us", "sit", "The", "down", "told", "teacher", "to"],
+          "answer": "The teacher told us to sit down",
+          "explanation": "Las órdenes se reportan con tell + persona + to + infinitivo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["She asked where did I live.", "She asked where I lived.", "She asked where lived I."],
+          "answer": 1,
+          "explanation": "Las preguntas reportadas usan orden normal sujeto + verbo, sin inversión."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Transforma frases completas al estilo indirecto con advise, warn, remind y past perfect.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Él dijo que había terminado): He said he ___.",
+          "answers": ["had finished"],
+          "hint": "\"I have finished\" en discurso directo.",
+          "explanation": "El Present Perfect retrocede a Past Perfect en reported speech."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (El doctor me aconsejó descansar): The doctor advised me ___.",
+          "answers": ["to rest"],
+          "explanation": "Advise va con persona + to + infinitivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella me recordó traer el recibo): She reminded me ___ the receipt.",
+          "answers": ["to bring"],
+          "explanation": "Remind va con persona + to + infinitivo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él me advirtió que no olvidara mi identificación):",
+          "words": ["forget", "He", "my", "not", "warned", "ID", "to", "me"],
+          "answer": "He warned me not to forget my ID",
+          "explanation": "Warn va con persona + not to + infinitivo para advertencias negativas."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella dijo que me llamaría al día siguiente):",
+          "words": ["call", "the", "She", "me", "would", "next", "said", "she", "day"],
+          "answer": "She said she would call me the next day",
+          "explanation": "Will cambia a would y tomorrow cambia a the next day en reported speech."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["She suggested to leave early.", "She suggested leaving early.", "She suggested that leave early."],
+          "answer": 1,
+          "explanation": "Suggest va seguido de -ing (o de that + cláusula completa), nunca de to + infinitivo."
+        }
+      ]
+    }
+  ]
+}

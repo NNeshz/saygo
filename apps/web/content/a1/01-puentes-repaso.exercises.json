@@ -1,0 +1,148 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas del Present Simple, Present Continuous, Past Simple y los futuros con going to y will.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta (hábito): She ___ in Guadalajara every day.",
+          "options": ["works", "is working", "work", "working"],
+          "answer": 0,
+          "explanation": "Los hábitos y rutinas usan Present Simple, y con he/she/it el verbo lleva -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: Look! The musicians ___ in the zócalo.",
+          "options": ["play", "are playing", "plays", "played"],
+          "answer": 1,
+          "explanation": "El marcador \"Look!\" indica una acción en progreso ahora, por eso se usa Present Continuous."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la negativa correcta en pasado: She ___ to Oaxaca.",
+          "options": ["didn't went", "didn't go", "don't went", "doesn't go"],
+          "answer": 1,
+          "explanation": "Con didn't el verbo principal va en forma base, nunca en pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta para un plan ya decidido: I ___ my grandma on Saturday.",
+          "options": ["will visit", "am going to visit", "visit", "visited"],
+          "answer": 1,
+          "explanation": "Los planes decididos de antemano usan going to, no will."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta para decir tu edad en inglés?",
+          "options": ["I have 15 years.", "I am 15 years old.", "I am having 15 years.", "I have 15 years old."],
+          "answer": 1,
+          "explanation": "En inglés la edad se expresa con el verbo \"to be\", no con \"to have\"."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (la gente es muy amigable aquí): People ___ very friendly here.",
+          "answers": ["are"],
+          "hint": "\"People\" es plural en inglés.",
+          "explanation": "\"People\" es plural en inglés y siempre lleva verbo plural: people are."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa los tres tiempos del repaso en diálogos y oraciones sobre celebraciones y vida diaria mexicana.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el mini-diálogo (¿Visitaste el zócalo durante las celebraciones?): ___ you visit the zócalo during the celebrations?",
+          "answers": ["Did", "did"],
+          "explanation": "Las preguntas en Past Simple se forman con Did + sujeto + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ahora mismo, ella está estudiando): Right now, she ___ for her biology exam.",
+          "answers": ["is studying", "'s studying"],
+          "hint": "Marcador: right now.",
+          "explanation": "\"Right now\" pide Present Continuous: is/are + verbo-ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la decisión espontánea (entonces yo llevo las bebidas): I ___ the drinks, then.",
+          "answers": ["will bring", "'ll bring"],
+          "explanation": "Las decisiones espontáneas y ofrecimientos en el momento usan will + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi mamá no cocinó ayer):",
+          "words": ["cook", "yesterday", "My", "didn't", "mom"],
+          "answer": "My mom didn't cook yesterday",
+          "explanation": "La negativa del Past Simple es sujeto + didn't + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Vamos a hacer tamales para Navidad):",
+          "words": ["tamales", "going", "Christmas", "We", "make", "are", "for", "to"],
+          "answer": "We are going to make tamales for Christmas",
+          "explanation": "Los planes previos usan am/is/are + going to + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: ___ he speak English? — No, he doesn't.",
+          "options": ["Do", "Does", "Is", "Did"],
+          "answer": 1,
+          "explanation": "Con he/she/it las preguntas del Present Simple usan Does, como confirma la respuesta \"doesn't\"."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Corrige las interferencias típicas del español como \"I have 15 years\" o \"I am agree\" y produce oraciones completas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (estoy de acuerdo contigo): I ___ with you.",
+          "answers": ["agree"],
+          "hint": "No se dice \"I am agree\".",
+          "explanation": "\"Agree\" es un verbo, no un adjetivo, así que no necesita am/is/are."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Tengo hambre.\" → I ___",
+          "answers": ["am hungry", "'m hungry"],
+          "explanation": "Las sensaciones físicas como el hambre se expresan con \"to be\" en inglés, no con \"to have\"."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Estoy muy aburrido en esta clase.\" → I am very ___ in this class.",
+          "answers": ["bored"],
+          "hint": "bored = sentimiento; boring = causa.",
+          "explanation": "\"Bored\" describe el sentimiento de la persona; \"boring\" describe la cosa que aburre."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Fuimos al mercado y compramos verduras frescas):",
+          "words": ["market", "We", "bought", "and", "to", "fresh", "went", "vegetables", "the"],
+          "answer": "We went to the market and bought fresh vegetables",
+          "explanation": "En Past Simple afirmativo se usan los verbos irregulares went y bought."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Creo que será una hermosa celebración):",
+          "words": ["beautiful", "will", "I", "celebration", "think", "be", "a", "it"],
+          "answer": "I think it will be a beautiful celebration",
+          "explanation": "Las predicciones generales con \"I think\" usan will + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Ya compraste tu boleto y tienes el plan desde hace días. ¿Cuál oración es correcta?",
+          "options": ["I will go to the party tomorrow", "I am going to go to the party tomorrow", "I go to the party tomorrow"],
+          "answer": 1,
+          "explanation": "Un plan ya organizado de antemano se expresa con going to, no con will."
+        }
+      ]
+    }
+  ]
+}

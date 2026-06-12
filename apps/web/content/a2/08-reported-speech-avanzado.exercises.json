@@ -1,0 +1,155 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce el retroceso de tiempos (backshift) y la diferencia entre 'say' y 'tell' al reportar.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Directo: \"I am tired.\" → Reportado: He said that he ___ tired.",
+          "options": ["is", "was", "were", "has been"],
+          "answer": 1,
+          "explanation": "Al reportar, el presente simple retrocede a pasado simple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el verbo correcto: She ___ me that she lived in Guadalajara.",
+          "options": ["said", "told", "say"],
+          "answer": 1,
+          "explanation": "'Tell' lleva la persona después ('told me'); 'say' no ('said that')."
+        },
+        {
+          "type": "choice",
+          "prompt": "Directo: \"I will call you.\" → Reportado: She said she ___ call me.",
+          "options": ["will", "would", "would have"],
+          "answer": 1,
+          "explanation": "Al reportar, 'will' cambia a 'would'."
+        },
+        {
+          "type": "choice",
+          "prompt": "Directo: \"I can swim.\" → Reportado: He said he ___ swim.",
+          "options": ["can", "could", "will"],
+          "answer": 1,
+          "explanation": "Al reportar, 'can' cambia a 'could'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (dijo que estaba estudiando): She said she ___ studying.",
+          "answers": ["was"],
+          "hint": "El presente continuo retrocede a pasado continuo.",
+          "explanation": "'Is studying' se convierte en 'was studying' al reportar."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (me dijo): He ___ me that he was busy.",
+          "answers": ["told"],
+          "hint": "El verbo que va seguido de la persona.",
+          "explanation": "Antes de la persona (me, us, them) se usa 'told', nunca 'said'."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Reporta afirmaciones, preguntas y órdenes con los cambios de tiempo, lugar y orden de palabras.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Directo: \"I'm leaving tomorrow.\" → Reportado: He said he was leaving the ___ day.",
+          "answers": ["next", "following"],
+          "hint": "'Tomorrow' cambia al reportar.",
+          "explanation": "En estilo indirecto, 'tomorrow' se convierte en 'the next/following day'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Directo: \"Do you like pizza?\" → Reportado: She asked me ___ I liked pizza.",
+          "answers": ["if", "whether"],
+          "hint": "Conector para preguntas de sí/no.",
+          "explanation": "Las preguntas de sí/no se reportan con 'if' o 'whether'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Directo: \"Where do you live?\" → Reportado: He asked me where I ___. (vivía)",
+          "answers": ["lived"],
+          "hint": "El presente retrocede a pasado y sin auxiliar.",
+          "explanation": "En preguntas reportadas desaparece el auxiliar y el verbo retrocede un tiempo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella dijo que estaba cansada):",
+          "words": ["said", "tired", "She", "was", "that", "she"],
+          "answer": "She said that she was tired",
+          "explanation": "Al reportar: said that + sujeto + verbo en pasado."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él me preguntó dónde trabajaba yo):",
+          "words": ["asked", "worked", "He", "I", "where", "me"],
+          "answer": "He asked me where I worked",
+          "explanation": "Las preguntas reportadas usan orden de afirmación: sujeto + verbo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta (orden reportada): The teacher told us ___ our books.",
+          "options": ["open", "to open", "opening", "that open"],
+          "answer": 1,
+          "explanation": "Las órdenes se reportan con 'told + persona + to + verbo'."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce reportes completos con pasado perfecto, órdenes negativas y orden correcto en preguntas indirectas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Dijo que había visto esa película): She said she ___ seen that movie.",
+          "answers": ["had", "'d"],
+          "hint": "El pasado simple retrocede a pasado perfecto.",
+          "explanation": "Al reportar, 'saw' retrocede a 'had seen'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Me preguntó si podía ayudarlo): He asked me if I ___ help him.",
+          "answers": ["could"],
+          "hint": "'Can' retrocede al reportar.",
+          "explanation": "En estilo indirecto, 'can' se convierte en 'could'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Nos dijo que no llegáramos tarde): She told us ___ be late.",
+          "answers": ["not to"],
+          "hint": "Orden negativa reportada (dos palabras).",
+          "explanation": "Las órdenes negativas se reportan con 'told + persona + not to + verbo'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él dijo que me llamaría al día siguiente):",
+          "words": ["said", "next", "He", "call", "the", "me", "day", "would", "he"],
+          "answer": "He said he would call me the next day",
+          "explanation": "'Will' pasa a 'would' y 'tomorrow' a 'the next day' al reportar."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella me preguntó qué estaba haciendo yo allí):",
+          "words": ["asked", "there", "She", "what", "doing", "me", "was", "I"],
+          "answer": "She asked me what I was doing there",
+          "explanation": "En preguntas reportadas el orden es sujeto + verbo, y 'here' cambia a 'there'."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la oración correcta:",
+          "options": [
+            "He asked me where was the station",
+            "He asked me where the station was",
+            "He asked me where is the station"
+          ],
+          "answer": 1,
+          "explanation": "Las preguntas reportadas NO invierten: va sujeto + verbo, sin orden de pregunta."
+        }
+      ]
+    }
+  ]
+}

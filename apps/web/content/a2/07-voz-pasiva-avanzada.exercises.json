@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la voz pasiva en presente, pasado, perfecto, continuo y con modales: be + participio.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: The bridge ___ built in 1990.",
+          "options": ["was", "were", "is", "has"],
+          "answer": 0,
+          "explanation": "Pasiva en pasado simple: was/were + participio; 'bridge' es singular."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: English ___ spoken in many countries.",
+          "options": ["is", "are", "has"],
+          "answer": 0,
+          "explanation": "Pasiva en presente simple: is/are + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: The homework must ___ finished by Friday.",
+          "options": ["be", "been", "to be", "being"],
+          "answer": 0,
+          "explanation": "Pasiva con modal: modal + be + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: The house has ___ painted recently.",
+          "options": ["be", "been", "being"],
+          "answer": 1,
+          "explanation": "Pasiva en presente perfecto: has/have + been + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (está siendo reparado): My car is ___ repaired right now.",
+          "answers": ["being"],
+          "hint": "Pasiva continua: is + ___ + participio.",
+          "explanation": "La pasiva continua se forma con be + being + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (fue escrito): This book was ___ by a Mexican author.",
+          "answers": ["written"],
+          "hint": "Participio irregular de 'write'.",
+          "explanation": "En la pasiva, el verbo principal siempre va en participio pasado."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa la pasiva en distintos tiempos para describir procesos, noticias y reglas en contexto.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (está siendo reparado): \"Where's your phone?\" \"It's being ___ at the shop.\"",
+          "answers": ["repaired", "fixed"],
+          "hint": "Participio de 'repair' o 'fix'.",
+          "explanation": "'Is being + participio' indica una acción en progreso que recibe el sujeto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (será construido): A new hospital will be ___ next year.",
+          "answers": ["built"],
+          "hint": "Participio irregular de 'build'.",
+          "explanation": "Pasiva en futuro: will + be + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ha sido atrapado): The thief has ___ caught by the police.",
+          "answers": ["been"],
+          "hint": "Entre 'has' y el participio falta una palabra.",
+          "explanation": "La pasiva en presente perfecto siempre lleva 'been' antes del participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La cena está siendo preparada):",
+          "words": ["being", "Dinner", "prepared", "is"],
+          "answer": "Dinner is being prepared",
+          "explanation": "Pasiva continua: sujeto + is + being + participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Las reglas deben ser respetadas):",
+          "words": ["be", "The", "respected", "must", "rules"],
+          "answer": "The rules must be respected",
+          "explanation": "Pasiva con modal: must + be + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta (estaba siendo limpiado): When I arrived, the room ___ cleaned.",
+          "options": ["was being", "has been", "is being"],
+          "answer": 0,
+          "explanation": "La pasiva continua en pasado se forma con was/were + being + participio."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones pasivas complejas en perfecto, futuro y continuo, incluyendo el caso especial 'be born'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (El correo ya ha sido enviado): The email has already been ___.",
+          "answers": ["sent"],
+          "hint": "Participio irregular de 'send'.",
+          "explanation": "Pasiva en presente perfecto: has + been + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (El problema debe ser resuelto pronto): The problem must be ___ soon.",
+          "answers": ["solved", "resolved", "fixed"],
+          "hint": "Participio de 'solve'.",
+          "explanation": "Pasiva con modal: must + be + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (La carretera estaba siendo reparada): The road was ___ repaired.",
+          "answers": ["being"],
+          "hint": "Pasiva continua en pasado.",
+          "explanation": "La pasiva continua en pasado lleva 'was/were being' + participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Se ha tomado una decisión importante):",
+          "words": ["decision", "made", "An", "been", "important", "has"],
+          "answer": "An important decision has been made",
+          "explanation": "El 'se impersonal' del español se traduce con voz pasiva en inglés."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El nuevo aeropuerto será inaugurado el próximo mes):",
+          "words": ["airport", "next", "The", "be", "month", "opened", "new", "will"],
+          "answer": "The new airport will be opened next month",
+          "explanation": "Pasiva en futuro: will + be + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la forma correcta: Frida Kahlo ___ in Coyoacán in 1907.",
+          "options": ["born", "was born", "is born", "has born"],
+          "answer": 1,
+          "explanation": "'Nacer' en inglés es una construcción pasiva: be born, en pasado 'was born'."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las frases para ganar tiempo, pedir repetición y mostrar acuerdo al hablar: let me think, could you repeat, so do I.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Para ganar tiempo mientras piensas dices:",
+          "options": ["Well, let me think...", "Goodbye!", "You're welcome.", "Happy birthday!"],
+          "answer": 0,
+          "explanation": "Well y let me think son muletillas para ganar tiempo al hablar."
+        },
+        {
+          "type": "choice",
+          "prompt": "No entendiste lo que dijo alguien. ¿Qué dices?",
+          "options": [
+            "Could you repeat that, please?",
+            "Can you say me again?",
+            "Repeat me that."
+          ],
+          "answer": 0,
+          "explanation": "'Say me' no existe en inglés; se pide repetir con could you repeat...?"
+        },
+        {
+          "type": "choice",
+          "prompt": "'¿Qué quieres decir?' se dice:",
+          "options": ["What you mean?", "What means that?", "What do you mean?"],
+          "answer": 2,
+          "explanation": "Las preguntas en presente simple necesitan el auxiliar do."
+        },
+        {
+          "type": "choice",
+          "prompt": "Para interrumpir educadamente:",
+          "options": [
+            "Stop talking now.",
+            "Sorry to interrupt, but...",
+            "Silence, please.",
+            "Listen to me!"
+          ],
+          "answer": 1,
+          "explanation": "Sorry to interrupt, but... es la forma educada de interrumpir."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no entendí): 'Sorry, I didn't ___ that.'",
+          "answers": ["catch"],
+          "hint": "Empieza con c.",
+          "explanation": "I didn't catch that significa que no captaste lo que dijeron."
+        },
+        {
+          "type": "fill",
+          "prompt": "Muestra acuerdo: 'A: I love tacos. B: ___ do I!' (¡Yo también!)",
+          "answers": ["So"],
+          "explanation": "So + auxiliar + sujeto expresa acuerdo con una oración afirmativa."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa las frases de fluidez en diálogos reales: pedir que hablen más despacio, interrumpir y reaccionar.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Mini-diálogo: 'A: We should study together tonight. B: That's a good ___!' (¡Buena idea!)",
+          "answers": ["idea"],
+          "explanation": "That's a good idea es la reacción positiva a una propuesta."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa: 'Could you speak more ___, please?' (más despacio)",
+          "answers": ["slowly"],
+          "explanation": "More slowly pide que la persona hable más despacio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Para ganar tiempo: 'That's a good question. ___ me think...' (Déjame pensar)",
+          "answers": ["Let"],
+          "explanation": "Let me think gana tiempo antes de responder."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Podrías repetir eso, por favor?):",
+          "words": ["repeat", "please", "Could", "that", "you"],
+          "answer": "Could you repeat that please",
+          "explanation": "Could you + verbo es la forma cortés de pedir algo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Perdón por interrumpir, pero tengo una pregunta):",
+          "words": ["interrupt", "question", "Sorry", "I", "but", "a", "to", "have"],
+          "answer": "Sorry to interrupt but I have a question",
+          "explanation": "Sorry to interrupt but... introduce la interrupción de forma educada."
+        },
+        {
+          "type": "choice",
+          "prompt": "Mini-diálogo: 'A: I don't like horror movies. B: ___' (Yo tampoco)",
+          "options": ["So do I.", "Neither do I.", "I also.", "Me either do."],
+          "answer": 1,
+          "explanation": "Con oraciones negativas se responde neither + auxiliar + sujeto."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce frases completas de clarificación y reacción, cuidando el auxiliar correcto en neither/so y errores como 'have reason'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: '¿Podrías hablar más despacio, por favor?' → 'Could you ___ more slowly, please?'",
+          "answers": ["speak", "talk"],
+          "explanation": "Could you speak more slowly pide cortésmente bajar la velocidad."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Tienes razón.' → 'You are ___.'",
+          "answers": ["right"],
+          "explanation": "En inglés se dice be right, nunca have reason."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: '¿Qué quieres decir exactamente?' → 'What do you ___ exactly?'",
+          "answers": ["mean"],
+          "explanation": "What do you mean pide aclarar el significado de algo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Perdón por interrumpir, pero ¿podrías explicar eso otra vez?):",
+          "words": ["explain", "Sorry", "could", "again", "to", "that", "but", "you", "interrupt"],
+          "answer": "Sorry to interrupt but could you explain that again",
+          "explanation": "Se combina la interrupción educada con una petición con could."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Qué quieres decir con eso exactamente?):",
+          "words": ["mean", "What", "that", "do", "exactly", "by", "you"],
+          "answer": "What do you mean by that exactly",
+          "explanation": "What do you mean by + idea pide aclarar algo específico."
+        },
+        {
+          "type": "choice",
+          "prompt": "'A: I'm not tired. B: (yo tampoco)' ¿Cuál respuesta es correcta?",
+          "options": ["Neither do I.", "Neither am I.", "So am I."],
+          "answer": 1,
+          "explanation": "El auxiliar debe coincidir con la oración original: I'm not → Neither am I."
+        }
+      ]
+    }
+  ]
+}

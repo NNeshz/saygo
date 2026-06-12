@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Distingue saludos, despedidas y frases de apertura formales e informales en emails y cartas.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál saludo es FORMAL para un email?",
+          "options": ["Hey!", "What's up?", "Dear Sir or Madam,", "Hi buddy,"],
+          "answer": 2,
+          "explanation": "Dear Sir or Madam es el saludo formal cuando no conoces el nombre del destinatario."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál despedida es INFORMAL?",
+          "options": ["Yours faithfully,", "Take care!", "Yours sincerely,"],
+          "answer": 1,
+          "explanation": "Take care es una despedida informal para amigos y familia."
+        },
+        {
+          "type": "choice",
+          "prompt": "Para empezar un email formal explicando el motivo:",
+          "options": [
+            "I am writing to ask about the course.",
+            "I wanna know about the course.",
+            "Tell me about the course now."
+          ],
+          "answer": 0,
+          "explanation": "I am writing to + verbo presenta el motivo del email en registro formal."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál cierre corresponde a una carta formal?",
+          "options": ["Love,", "XOXO,", "Best regards,", "See ya!"],
+          "answer": 2,
+          "explanation": "Best regards es un cierre formal y profesional."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el saludo formal (Estimado): '___ Mr. García,'",
+          "answers": ["Dear"],
+          "explanation": "Dear + nombre es el saludo estándar de cartas y emails formales."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la despedida (Saludos cordiales): 'Best ___,'",
+          "answers": ["regards", "wishes"],
+          "explanation": "Best regards / best wishes cierran un email de forma cordial."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Completa emails formales e informales con las frases fijas de apertura, propósito y cierre.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Email informal: '___ for your message! It was great to hear from you.' (Gracias)",
+          "answers": ["Thanks", "Thank you"],
+          "explanation": "Thanks for your message abre un email informal agradeciendo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Email formal: 'I am writing ___ ask for information about the English course.' (para)",
+          "answers": ["to"],
+          "explanation": "El propósito formal se expresa con I am writing to + verbo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Cierre informal: 'Write ___ soon!' (¡Escríbeme pronto!)",
+          "answers": ["back"],
+          "explanation": "Write back soon es un cierre típico de mensajes informales."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Te escribo para pedir información):",
+          "words": ["writing", "for", "I", "ask", "information", "am", "to"],
+          "answer": "I am writing to ask for information",
+          "explanation": "I am writing to + verbo presenta el motivo del email."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Gracias por tu último email):",
+          "words": ["your", "Thank", "email", "for", "last", "you"],
+          "answer": "Thank you for your last email",
+          "explanation": "Thank you for + sustantivo agradece al inicio de la respuesta."
+        },
+        {
+          "type": "choice",
+          "prompt": "Escribes una queja a una empresa y no conoces el nombre del destinatario. ¿Qué despedida usas?",
+          "options": ["Yours faithfully,", "Love,", "Later!"],
+          "answer": 0,
+          "explanation": "Yours faithfully acompaña a Dear Sir or Madam cuando no conoces el nombre."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Redacta frases formales completas como I look forward to hearing from you y do not hesitate to contact me.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Quedo a la espera de su respuesta.' → 'I look forward to ___ from you.'",
+          "answers": ["hearing"],
+          "explanation": "Después de look forward to, el verbo va en -ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Le escribo para quejarme del servicio.' → 'I am writing to ___ about the service.'",
+          "answers": ["complain"],
+          "explanation": "I am writing to complain about presenta una queja formal."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'No dude en contactarme.' → 'Do not ___ to contact me.'",
+          "answers": ["hesitate"],
+          "explanation": "Do not hesitate to contact me es la fórmula formal para ofrecer ayuda."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Le escribo para quejarme de mi pedido reciente):",
+          "words": ["complain", "order", "I", "recent", "about", "writing", "my", "am", "to"],
+          "answer": "I am writing to complain about my recent order",
+          "explanation": "La carta de queja formal abre con I am writing to complain about."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Espero tener noticias suyas pronto):",
+          "words": ["hearing", "soon", "look", "from", "I", "to", "you", "forward"],
+          "answer": "I look forward to hearing from you soon",
+          "explanation": "I look forward to hearing from you cierra un email formal."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta:",
+          "options": [
+            "I look forward to hear from you.",
+            "I look forward to hearing from you.",
+            "I look forward hearing from you."
+          ],
+          "answer": 1,
+          "explanation": "En look forward to, la palabra to es preposición y exige el verbo en -ing."
+        }
+      ]
+    }
+  ]
+}

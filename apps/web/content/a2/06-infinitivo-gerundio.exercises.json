@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce qué verbos van seguidos de infinitivo con 'to' (want, decide, hope) y cuáles de gerundio (enjoy, finish, avoid).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: I enjoy ___ soccer.",
+          "options": ["to play", "playing", "play"],
+          "answer": 1,
+          "explanation": "'Enjoy' siempre va seguido de gerundio (-ing)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She wants ___ a doctor.",
+          "options": ["being", "to be", "be"],
+          "answer": 1,
+          "explanation": "'Want' va seguido de infinitivo con 'to'."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: He finished ___ his homework.",
+          "options": ["to do", "doing", "do"],
+          "answer": 1,
+          "explanation": "'Finish' va seguido de gerundio (-ing)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: They decided ___ a new car.",
+          "options": ["buying", "to buy", "buy"],
+          "answer": 1,
+          "explanation": "'Decide' va seguido de infinitivo con 'to'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con gerundio (evita comer): You should avoid ___ junk food.",
+          "answers": ["eating"],
+          "hint": "'Avoid' + verbo en -ing.",
+          "explanation": "'Avoid' siempre va seguido de gerundio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (espero viajar): I hope ___ travel to Japan someday.",
+          "answers": ["to"],
+          "hint": "¿Qué palabra falta antes del verbo?",
+          "explanation": "'Hope' va seguido de infinitivo con 'to'."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Aplica los patrones verbales en diálogos, incluyendo gerundio después de preposición y verbos como mind, suggest y keep.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿te importa abrir?): \"Do you mind ___ the window?\" \"Not at all.\"",
+          "answers": ["opening"],
+          "hint": "'Mind' + verbo en -ing.",
+          "explanation": "'Mind' siempre va seguido de gerundio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (aprender): I'm interested in ___ French.",
+          "answers": ["learning"],
+          "hint": "Después de preposición el verbo va en -ing.",
+          "explanation": "Después de una preposición ('in') el verbo siempre va en gerundio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ir): She suggested ___ to the beach.",
+          "answers": ["going"],
+          "hint": "'Suggest' + verbo en -ing.",
+          "explanation": "'Suggest' va seguido de gerundio, nunca de 'to + verbo'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Disfruto leer antes de irme a dormir):",
+          "words": ["reading", "to", "I", "going", "bed", "enjoy", "before"],
+          "answer": "I enjoy reading before going to bed",
+          "explanation": "'Enjoy' + gerundio, y después de 'before' el verbo también va en -ing."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Decidimos quedarnos en casa):",
+          "words": ["stay", "home", "We", "at", "decided", "to"],
+          "answer": "We decided to stay at home",
+          "explanation": "'Decide' va seguido de infinitivo con 'to'."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: He keeps ___ the same mistake.",
+          "options": ["making", "to make", "make"],
+          "answer": 0,
+          "explanation": "'Keep' (seguir haciendo algo) va seguido de gerundio."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Domina los verbos que cambian de significado con infinitivo o gerundio: stop, remember y forget.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Dejé de fumar — ya no fumo): I stopped ___.",
+          "answers": ["smoking"],
+          "hint": "Stop + gerundio = dejar un hábito.",
+          "explanation": "'Stop + gerundio' significa abandonar una actividad."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Recuerda cerrar la puerta — algo pendiente): Remember ___ the door when you leave.",
+          "answers": ["to close", "to lock", "to shut"],
+          "hint": "Remember + infinitivo = no olvidar un pendiente.",
+          "explanation": "'Remember + to + verbo' se refiere a una tarea pendiente, no a un recuerdo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Olvidé comprar leche): I forgot ___ milk.",
+          "answers": ["to buy", "to get"],
+          "hint": "Forget + infinitivo = no hacer algo pendiente.",
+          "explanation": "'Forget + to + verbo' significa que la acción pendiente no se realizó."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él se detuvo para comprar un café):",
+          "words": ["buy", "coffee", "He", "a", "stopped", "to"],
+          "answer": "He stopped to buy a coffee",
+          "explanation": "'Stop + infinitivo' significa detenerse CON EL FIN de hacer otra cosa."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Nunca olvidaré haber visitado esa ciudad):",
+          "words": ["visiting", "city", "I", "that", "never", "forget", "will"],
+          "answer": "I will never forget visiting that city",
+          "explanation": "'Forget + gerundio' se refiere al recuerdo de algo ya vivido."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la forma correcta: I remember ___ the door, but now it's open!",
+          "options": ["to lock", "locking", "lock"],
+          "answer": 1,
+          "explanation": "'Remember + gerundio' es el recuerdo de una acción ya hecha en el pasado."
+        }
+      ]
+    }
+  ]
+}

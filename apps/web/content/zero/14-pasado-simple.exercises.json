@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce was/were, los pasados regulares con -ed y los irregulares esenciales como went y bought.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el pasado de 'go'?",
+          "options": ["goed", "went", "gone", "wented"],
+          "answer": 1,
+          "explanation": "Go es irregular: su pasado es went, nunca goed."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: He ___ very tired yesterday.",
+          "options": ["were", "is", "was"],
+          "answer": 2,
+          "explanation": "I/he/she/it usan was; you/we/they usan were."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es el pasado de 'buy'?",
+          "options": ["bought", "buyed", "brought"],
+          "answer": 0,
+          "explanation": "Buy es irregular: su pasado es bought."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la pregunta correcta:",
+          "options": ["Did he went to school?", "Did he goes to school?", "Did he go to school?"],
+          "answer": 2,
+          "explanation": "Después de DID el verbo siempre va en infinitivo: Did he go?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (había 200 personas — plural): There ___ 200 people at the concert.",
+          "answers": ["were"],
+          "explanation": "There were se usa con plural; there was con singular."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el pasado de 'study' (ella estudió anoche): She ___ last night.",
+          "answers": ["studied"],
+          "hint": "Consonante + y cambia a -ied.",
+          "explanation": "Study termina en consonante + y: el pasado es studied."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Niega, pregunta y responde en pasado simple usando did/didn't en conversaciones cotidianas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa en negativo (ella no fue a la escuela): She ___ go to school yesterday.",
+          "answers": ["didn't", "did not"],
+          "explanation": "El negativo del pasado usa didn't + verbo en infinitivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la respuesta corta: Did you eat breakfast? — Yes, I ___.",
+          "answers": ["did"],
+          "explanation": "Las respuestas cortas en pasado repiten el auxiliar: Yes, I did."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el pasado de 'make' (mi mamá hizo pozole): My mom ___ pozole for dinner.",
+          "answers": ["made"],
+          "explanation": "Make es irregular: su pasado es made."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Dónde compraste esa chamarra?):",
+          "words": ["jacket", "you", "Where", "buy", "did", "that"],
+          "answer": "Where did you buy that jacket",
+          "explanation": "Pregunta WH- en pasado: WH + did + sujeto + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Fuimos al mercado ayer):",
+          "words": ["market", "We", "yesterday", "the", "went", "to"],
+          "answer": "We went to the market yesterday",
+          "explanation": "En afirmativo el verbo lleva la marca del pasado: went."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu amigo pregunta: \"Did you finish the essay?\" ¿Cuál respuesta es correcta?",
+          "options": ["No, I didn't finished", "No, I didn't", "No, I don't"],
+          "answer": 1,
+          "explanation": "La respuesta corta negativa en pasado es No, I didn't."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones completas en pasado sin caer en la trampa principal: did/didn't + infinitivo siempre.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (No encontré mi mochila): I ___ my backpack.",
+          "answers": ["didn't find", "did not find"],
+          "hint": "Después de didn't va el infinitivo.",
+          "explanation": "Después de didn't el verbo va en infinitivo: didn't find, no didn't found."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Qué hiciste el fin de semana pasado?): What ___ last weekend?",
+          "answers": ["did you do"],
+          "explanation": "Pregunta WH- en pasado: What + did + sujeto + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Había un problema): There ___ a problem.",
+          "answers": ["was"],
+          "explanation": "There was se usa con singular: a problem."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi prima vino de Monterrey la semana pasada):",
+          "words": ["Monterrey", "came", "My", "week", "from", "last", "cousin"],
+          "answer": "My cousin came from Monterrey last week",
+          "explanation": "Come es irregular: su pasado es came."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No vimos el principio de la película):",
+          "words": ["the", "beginning", "We", "movie", "see", "of", "didn't", "the"],
+          "answer": "We didn't see the beginning of the movie",
+          "explanation": "Negativo en pasado: didn't + verbo en infinitivo (see, no saw)."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": ["She didn't ate breakfast", "She didn't eat breakfast", "She no ate breakfast"],
+          "answer": 1,
+          "explanation": "DID absorbe el pasado: después de didn't el verbo vuelve al infinitivo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Identifica los ocho pronombres reflexivos y las expresiones fijas como help yourself y enjoy yourself.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el pronombre reflexivo correcto: He made breakfast ___.",
+          "options": ["hisself", "himself", "herself", "themselves"],
+          "answer": 1,
+          "explanation": "El reflexivo de 'he' es himself; la forma 'hisself' no existe en inglés."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el pronombre reflexivo para 'they': They organized ___ well.",
+          "options": ["theirselves", "themself", "themselves", "ourselves"],
+          "answer": 2,
+          "explanation": "El reflexivo de 'they' es themselves; 'theirselves' no existe."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (nos vimos a nosotros mismos): We saw ___ in the mirror.",
+          "options": ["us", "ourselves", "ourself"],
+          "answer": 1,
+          "explanation": "Para una acción reflexiva de 'we' se usa ourselves, no 'us'."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (la puerta se cerró sola): The door closed by ___.",
+          "options": ["himself", "itself", "themselves"],
+          "answer": 1,
+          "explanation": "Para cosas y objetos se usa el reflexivo itself."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué expresión significa 'sírvete'?",
+          "options": ["behave yourself", "hurt yourself", "help yourself", "introduce yourself"],
+          "answer": 2,
+          "explanation": "Help yourself es la expresión fija que significa 'sírvete'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el pronombre reflexivo (yo aprendí solo): I taught ___ to play the guitar.",
+          "answers": ["myself"],
+          "hint": "El sujeto es I.",
+          "explanation": "Teach yourself significa aprender por cuenta propia; con 'I' se usa myself."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa reflexivos y recíprocos (each other, by himself) en diálogos de familia y escuela.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿te divertiste tú?): Did you enjoy ___ at the quinceañera?",
+          "answers": ["yourself"],
+          "hint": "Hablas con una sola persona.",
+          "explanation": "Enjoy yourself = divertirse; con 'you' singular se usa yourself."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (mi hermana y yo nos ayudamos mutuamente): My sister and I help ___ every day.",
+          "answers": ["each other", "one another"],
+          "hint": "Acción mutua entre dos personas.",
+          "explanation": "Para acciones mutuas se usa each other (o one another), no un reflexivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (él vive solo, sin compañía): He lives by ___.",
+          "answers": ["himself"],
+          "explanation": "By + reflexivo (by himself) significa 'solo, sin compañía o sin ayuda'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Nos vimos a nosotros mismos en la foto escolar):",
+          "words": ["the", "ourselves", "We", "photo", "saw", "school", "in"],
+          "answer": "We saw ourselves in the school photo",
+          "explanation": "La acción reflexiva de 'we' usa ourselves después del verbo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ellos se aman):",
+          "words": ["other", "love", "They", "each"],
+          "answer": "They love each other",
+          "explanation": "Each other expresa una acción mutua entre dos personas."
+        },
+        {
+          "type": "choice",
+          "prompt": "Hablas con un grupo de personas. Elige la forma correcta: ___ at the party!",
+          "options": ["Enjoy yourself", "Enjoy yourselves", "Enjoy themselves"],
+          "answer": 1,
+          "explanation": "Al dirigirse a un grupo se usa yourselves, no yourself."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones con on my own, one another y distingue lo reflexivo de lo recíproco.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Lo hice por mi cuenta): I did it ___.",
+          "answers": ["on my own", "by myself"],
+          "hint": "No existe 'by my own'.",
+          "explanation": "On my own y by myself significan 'sin ayuda'; 'by my own' es incorrecto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella se presentó): She ___ herself.",
+          "answers": ["introduced"],
+          "explanation": "Introduce yourself es la expresión fija para 'presentarse'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Los maestros se respetan los unos a los otros): The teachers respect ___.",
+          "answers": ["one another", "each other"],
+          "hint": "Registro formal, varias personas.",
+          "explanation": "One another es el recíproco formal para tres o más personas; each other también se acepta."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mis primos aprendieron solos a tocar la guitarra):",
+          "words": ["taught", "guitar", "My", "themselves", "play", "cousins", "the", "to"],
+          "answer": "My cousins taught themselves to play the guitar",
+          "explanation": "Teach themselves = aprender por cuenta propia; el reflexivo va después del verbo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi hermanito no se portó bien en la fiesta):",
+          "words": ["behave", "My", "at", "didn't", "party", "little", "himself", "the", "brother"],
+          "answer": "My little brother didn't behave himself at the party",
+          "explanation": "Behave yourself/himself es la expresión fija para 'portarse bien'."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración significa 'Se vieron mutuamente en la fiesta'?",
+          "options": ["They saw themselves at the party.", "They saw each other at the party.", "They saw theirselves at the party."],
+          "answer": 1,
+          "explanation": "Each other indica acción mutua; themselves significa que cada uno se vio a sí mismo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las frases clave de direcciones, compras, teléfono, imperativos y posesivos del nivel A1.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la indicación correcta:",
+          "options": ["Go to straight on", "Go straight on", "Go straight to on"],
+          "answer": 1,
+          "explanation": "El imperativo va directo, sin to: Go straight on."
+        },
+        {
+          "type": "choice",
+          "prompt": "Quieres preguntar el precio de unos zapatos (plural). ¿Qué dices?",
+          "options": ["How much is they?", "How many are they?", "How much are they?"],
+          "answer": 2,
+          "explanation": "Con sujeto plural se usa are: How much are they?"
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo te identificas correctamente al teléfono?",
+          "options": ["This is María speaking", "I am María speaking", "Me is María"],
+          "answer": 0,
+          "explanation": "Al teléfono la fórmula es This is [nombre] speaking, nunca I am [nombre]."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el pronombre posesivo correcto: This book is ___.",
+          "options": ["my", "me", "mine"],
+          "answer": 2,
+          "explanation": "Después de be va el pronombre posesivo solo: mine, no my."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el imperativo negativo (no te preocupes): ___ worry.",
+          "answers": ["Don't", "Do not", "don't"],
+          "explanation": "El imperativo negativo se forma con Don't + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la preposición (mi cumpleaños es el 5 de mayo): My birthday is ___ May 5th.",
+          "answers": ["on"],
+          "hint": "Fecha específica con día.",
+          "explanation": "Las fechas específicas llevan la preposición on: on May 5th."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Pide en restaurantes y tiendas, da indicaciones y habla por teléfono con las fórmulas del módulo.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el pedido en el restaurante (quisiera la sopa de pollo): ___ the chicken soup, please.",
+          "answers": ["I'd like", "I would like", "I'll have"],
+          "explanation": "Para ordenar cortésmente se usa I'd like... o I'll have..."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la indicación (dobla a la izquierda en el semáforo): Turn ___ at the traffic lights.",
+          "answers": ["left"],
+          "explanation": "Turn left/right + lugar es la fórmula básica para dar indicaciones."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa en la tienda (¿me la puedo probar?): Can I try it ___?",
+          "answers": ["on"],
+          "explanation": "Probarse ropa se dice try on: Can I try it on?"
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Puedo hablar con el director?):",
+          "words": ["to", "speak", "Can", "director", "I", "the"],
+          "answer": "Can I speak to the director",
+          "explanation": "Al teléfono se pide hablar con alguien usando Can I speak to...?"
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La farmacia está junto al banco):",
+          "words": ["next", "The", "bank", "is", "pharmacy", "the", "to"],
+          "answer": "The pharmacy is next to the bank",
+          "explanation": "Next to indica que algo está junto a otro lugar."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["I go to home every day", "I go home every day", "I go at home every day"],
+          "answer": 1,
+          "explanation": "Home es una excepción fija: go home, nunca go to home."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Integra direcciones, posesivos, fechas y preposiciones en producción completa de cierre del nivel A1.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Esa chamarra no es tuya, es de ella): That jacket isn't yours, it's ___.",
+          "answers": ["hers"],
+          "hint": "Pronombre posesivo de she.",
+          "explanation": "El pronombre posesivo de her es hers y va solo, sin sustantivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (La cuenta, por favor): The ___, please.",
+          "answers": ["bill"],
+          "explanation": "En el restaurante la cuenta se pide con The bill, please."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Las llaves están dentro de mi bolsa): The keys are ___ my bag.",
+          "answers": ["in"],
+          "hint": "Lugar interior.",
+          "explanation": "Para el interior de algo se usa in; para superficies, on."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Sigue recto y dobla a la derecha en la esquina):",
+          "words": ["corner", "straight", "Go", "right", "at", "and", "on", "turn", "the"],
+          "answer": "Go straight on and turn right at the corner",
+          "explanation": "Las indicaciones usan imperativos sin sujeto: Go... and turn..."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi cumpleaños es el 12 de octubre):",
+          "words": ["October", "is", "My", "12th", "birthday", "on"],
+          "answer": "My birthday is on October 12th",
+          "explanation": "En inglés el mes va antes del día ordinal y la fecha lleva on."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": ["Please you sit down", "Please to sit down", "Please sit down"],
+          "answer": 2,
+          "explanation": "El imperativo no lleva sujeto ni to: Please sit down."
+        }
+      ]
+    }
+  ]
+}

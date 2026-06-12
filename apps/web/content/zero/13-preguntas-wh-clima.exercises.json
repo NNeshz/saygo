@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce cuándo usar How much / How many / Which y el vocabulario básico del clima.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: ___ money do you have?",
+          "options": ["How many", "How much", "How"],
+          "answer": 1,
+          "explanation": "Money es incontable, por eso usa How much."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: ___ brothers do you have?",
+          "options": ["How many", "How much", "Which"],
+          "answer": 0,
+          "explanation": "Brothers es contable (tiene plural), por eso usa How many."
+        },
+        {
+          "type": "choice",
+          "prompt": "Hay dos chamarras frente a ti. ¿Qué preguntas?",
+          "options": ["What one do you prefer?", "How much one do you prefer?", "Which one do you prefer?"],
+          "answer": 2,
+          "explanation": "Con opciones definidas frente a ti se usa which, no what."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta para el clima:",
+          "options": ["Is raining", "It's raining", "It raining"],
+          "answer": 1,
+          "explanation": "El clima siempre necesita el sujeto it: It's raining."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta del clima (¿cómo está el tiempo?): What's the weather ___?",
+          "answers": ["like"],
+          "explanation": "La pregunta fija para el clima es What's the weather like?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la sugerencia (¡vámonos!): ___ go!",
+          "answers": ["Let's", "let's"],
+          "explanation": "Let's + verbo base propone algo al grupo que incluye al hablante."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Pregunta precios y cantidades, describe el clima y haz sugerencias con Let's en mini-diálogos.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿cuánto cuesta?): How much ___ this jacket? — It's 350 pesos.",
+          "answers": ["is"],
+          "explanation": "Para preguntar el precio de un artículo singular se usa How much is...?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la sugerencia negativa (no lleguemos tarde): Let's ___ be late.",
+          "answers": ["not"],
+          "explanation": "La forma negativa es Let's not + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (está soleado hoy): ___ sunny today.",
+          "answers": ["It's", "It is", "it's", "it is"],
+          "hint": "No olvides el sujeto obligatorio.",
+          "explanation": "El clima se describe con It's + adjetivo; el sujeto it es obligatorio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Cuántos idiomas puedes hablar?):",
+          "words": ["can", "languages", "How", "speak", "you", "many"],
+          "answer": "How many languages can you speak",
+          "explanation": "How many + sustantivo contable + pregunta con can."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No salgamos hoy):",
+          "words": ["out", "Let's", "today", "not", "go"],
+          "answer": "Let's not go out today",
+          "explanation": "Sugerencia negativa: Let's not + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la pregunta correcta:",
+          "options": ["Who does teach your English class?", "Who teaches your English class?", "Who do teaches your English class?"],
+          "answer": 1,
+          "explanation": "Cuando who es el sujeto, el verbo va directo sin DO/DOES."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce preguntas avanzadas, descripciones del clima y sugerencias completas sin caer en las trampas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Cuánta agua tomas?): ___ water do you drink?",
+          "answers": ["How much", "how much"],
+          "hint": "Water es incontable.",
+          "explanation": "Los sustantivos incontables como water usan How much."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Está muy frío hoy): It's very ___ today.",
+          "answers": ["cold"],
+          "explanation": "El clima se describe con It's + adjetivo: It's cold."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (No nos preocupemos por eso): Let's not ___ about it.",
+          "answers": ["worry"],
+          "explanation": "Después de Let's not va el verbo base sin to."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Cuál camión va al centro?):",
+          "words": ["the", "Which", "center", "goes", "bus", "to"],
+          "answer": "Which bus goes to the center",
+          "explanation": "Which se usa para elegir entre opciones definidas, como rutas de camión."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Cuántos estudiantes hay en tu clase?):",
+          "words": ["are", "class", "How", "in", "students", "your", "many"],
+          "answer": "How many students are in your class",
+          "explanation": "How many + sustantivo contable plural: students."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": ["Let's to stay home tonight", "Let's staying home tonight", "Let's stay home tonight"],
+          "answer": 2,
+          "explanation": "Después de Let's siempre va el verbo base sin to y sin -ing."
+        }
+      ]
+    }
+  ]
+}

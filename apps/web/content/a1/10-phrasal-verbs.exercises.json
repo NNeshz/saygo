@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce el significado de phrasal verbs cotidianos como find out, take off y turn off.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "¿Qué phrasal verb significa 'averiguar'?",
+          "options": ["look for", "find out", "give up", "hang up"],
+          "answer": 1,
+          "explanation": "Find out = averiguar información; look for = buscar algo que no tienes."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué phrasal verb significa 'quitarse (la ropa)'?",
+          "options": ["put on", "try on", "take off", "dress up"],
+          "answer": 2,
+          "explanation": "Take off = quitarse ropa; put on = ponerse; try on = probarse."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (apaga tu teléfono): Please ___ your phone during the exam.",
+          "options": ["turn on", "turn off", "take off"],
+          "answer": 1,
+          "explanation": "Turn off = apagar; turn on = encender."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (nos subimos al autobús): We ___ the bus at Insurgentes.",
+          "options": ["got off", "got on", "picked up"],
+          "answer": 1,
+          "explanation": "Get on = subirse al transporte; get off = bajarse."
+        },
+        {
+          "type": "choice",
+          "prompt": "Con pronombre, elige la forma correcta (enciéndela, la TV):",
+          "options": ["Turn on it.", "Turn it on.", "It turn on."],
+          "answer": 1,
+          "explanation": "Con phrasal verbs separables, el pronombre siempre va entre el verbo y la partícula."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (mi teléfono se quedó sin batería): My phone ran ___ battery.",
+          "answers": ["out of"],
+          "hint": "Son dos palabras.",
+          "explanation": "Run out of siempre lleva 'of'; es una locución completa e inseparable."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa phrasal verbs separables e inseparables con pronombres en situaciones reales.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿puedes recogerme a las 8?): Can you ___ me up at 8?",
+          "answers": ["pick"],
+          "explanation": "Pick up = recoger a alguien; con pronombre queda pick me up."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (llenar el formulario): I need to fill ___ this form before Friday.",
+          "answers": ["out"],
+          "explanation": "Fill out = llenar un formulario."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no te rindas): Don't ___ — you can do it!",
+          "answers": ["give up"],
+          "explanation": "Give up = rendirse; cuando significa rendirse no lleva objeto directo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Te llevas bien con tu compañero de cuarto?):",
+          "words": ["along", "roommate", "Do", "with", "get", "your", "you"],
+          "answer": "Do you get along with your roommate",
+          "explanation": "Get along with = llevarse bien con; es inseparable y el objeto va al final."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Déjame en la esquina):",
+          "words": ["off", "corner", "Drop", "the", "me", "at"],
+          "answer": "Drop me off at the corner",
+          "explanation": "Drop off = dejar a alguien; el pronombre 'me' va entre el verbo y la partícula."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu hermana te espera. Elige la forma correcta con pronombre (recógela):",
+          "options": ["Pick up her.", "Pick her up.", "Pick up she."],
+          "answer": 1,
+          "explanation": "Con phrasal verbs separables, el pronombre siempre va en medio: pick her up."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones con break up with, run out of y la posición correcta del pronombre.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella terminó con su novio): She ___ her boyfriend.",
+          "answers": ["broke up with"],
+          "hint": "Verbo irregular en pasado: break → broke.",
+          "explanation": "Break up with = terminar con alguien; requiere 'with' y break es irregular."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Necesito averiguar el precio): I need to ___ the price.",
+          "answers": ["find out"],
+          "explanation": "Find out = averiguar información."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Debes respaldar tus archivos cada semana): You should ___ your files every week.",
+          "answers": ["back up"],
+          "explanation": "Back up = respaldar, hacer copia de seguridad."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Es difícil mantenerse al día con la clase):",
+          "words": ["keep", "the", "It's", "with", "hard", "class", "up", "to"],
+          "answer": "It's hard to keep up with the class",
+          "explanation": "Keep up with = mantenerse al día con; es inseparable."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él la dejó en el metro):",
+          "words": ["off", "metro", "He", "at", "dropped", "the", "her"],
+          "answer": "He dropped her off at the metro",
+          "explanation": "Drop off es separable: con pronombre, 'her' va entre el verbo y la partícula."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["I ran out battery.", "I ran battery out of.", "I ran out of battery."],
+          "answer": 2,
+          "explanation": "Run out of es inseparable y siempre necesita 'of': ran out of battery."
+        }
+      ]
+    }
+  ]
+}

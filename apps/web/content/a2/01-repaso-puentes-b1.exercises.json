@@ -1,0 +1,155 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Detecta y corrige los errores residuales más comunes del nivel A2 antes de avanzar a B1.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She ___ to school every day.",
+          "options": ["go", "goes", "going", "is go"],
+          "answer": 1,
+          "explanation": "En presente simple, la tercera persona singular lleva -s o -es."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: I ___ in Monterrey since 2020.",
+          "options": ["live", "lived", "have lived", "am live"],
+          "answer": 2,
+          "explanation": "Con 'since' se usa el presente perfecto, no el presente simple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: People ___ very friendly in my city.",
+          "options": ["is", "are", "be"],
+          "answer": 1,
+          "explanation": "'People' es plural en inglés, aunque 'gente' sea singular en español."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: Yesterday we ___ a great movie.",
+          "options": ["see", "saw", "have seen", "seen"],
+          "answer": 1,
+          "explanation": "Con un tiempo pasado terminado como 'yesterday' se usa el pasado simple."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (tengo dieciséis años): I ___ sixteen years old.",
+          "answers": ["am", "'m"],
+          "hint": "En inglés la edad se expresa con el verbo 'be', no con 'have'.",
+          "explanation": "Para la edad se usa 'be': I am sixteen, nunca 'I have sixteen years'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el auxiliar correcto (¿te gusta el inglés?): ___ you like English?",
+          "answers": ["do", "Do"],
+          "hint": "Las preguntas en presente simple necesitan un auxiliar.",
+          "explanation": "Las preguntas en presente simple se forman con el auxiliar 'do/does'."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa correctamente los tiempos básicos y las preguntas con auxiliar en conversaciones reales.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo: \"How long have you studied English?\" \"I've studied English ___ three years.\" (durante tres años)",
+          "answers": ["for"],
+          "hint": "¿Periodo de tiempo o punto de inicio?",
+          "explanation": "'For' se usa con periodos de tiempo; 'since' con puntos de inicio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿fuiste?): \"Did you ___ to the party last night?\" \"Yes, it was fun!\"",
+          "answers": ["go"],
+          "hint": "Después de 'did' el verbo no cambia.",
+          "explanation": "Después del auxiliar 'did' el verbo va en forma base, sin pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no ve): She doesn't ___ TV on weekdays.",
+          "answers": ["watch"],
+          "hint": "Después de 'doesn't' el verbo no lleva -s.",
+          "explanation": "Después de 'doesn't' el verbo va en forma base, sin -es."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Adónde fuiste ayer?):",
+          "words": ["go", "yesterday", "Where", "did", "you"],
+          "answer": "Where did you go yesterday",
+          "explanation": "Las preguntas en pasado siguen el orden: palabra wh + did + sujeto + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Nunca he visitado Canadá):",
+          "words": ["never", "Canada", "I", "visited", "have"],
+          "answer": "I have never visited Canada",
+          "explanation": "En presente perfecto, 'never' va entre 'have' y el participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "I have seen that movie last week",
+            "I saw that movie last week",
+            "I see that movie last week"
+          ],
+          "answer": 1,
+          "explanation": "Con un tiempo pasado específico ('last week') se usa pasado simple, no presente perfecto."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce y construye oraciones eliminando los calcos típicos del español al inglés.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Vivo aquí desde 2019): I have lived here ___ 2019.",
+          "answers": ["since"],
+          "hint": "Es un punto de inicio, no un periodo.",
+          "explanation": "'Since' marca el punto de inicio de una acción que continúa."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella no fue a la escuela ayer): She ___ go to school yesterday.",
+          "answers": ["didn't", "did not"],
+          "hint": "Negativo en pasado simple.",
+          "explanation": "El negativo del pasado simple se forma con 'didn't' + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Depende del clima): It depends ___ the weather.",
+          "answers": ["on"],
+          "hint": "Cuidado: en inglés NO se dice 'depends of'.",
+          "explanation": "'Depend' siempre va con la preposición 'on', nunca 'of'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Hemos sido amigos desde que éramos niños):",
+          "words": ["friends", "we", "since", "been", "children", "We", "have", "were"],
+          "answer": "We have been friends since we were children",
+          "explanation": "Presente perfecto para algo que sigue ('have been') + 'since' con pasado simple."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi hermano no ha terminado su tarea todavía):",
+          "words": ["finished", "yet", "My", "hasn't", "homework", "brother", "his"],
+          "answer": "My brother hasn't finished his homework yet",
+          "explanation": "'Yet' va al final de las oraciones negativas en presente perfecto."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la opción correcta: She is married ___ a doctor.",
+          "options": ["with", "to", "of"],
+          "answer": 1,
+          "explanation": "En inglés se dice 'married to', no 'married with' como en español."
+        }
+      ]
+    }
+  ]
+}

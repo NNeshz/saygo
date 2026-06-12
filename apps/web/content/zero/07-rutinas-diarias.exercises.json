@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la -s/-es de tercera persona, las preposiciones at/on/in y las horas con half past.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Completa: She ___ TV at night.",
+          "options": ["watch", "watches", "watchs"],
+          "answer": 1,
+          "explanation": "Los verbos terminados en -ch agregan -es en tercera persona: watch → watches."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: He ___ to school at 7.",
+          "options": ["go", "goes", "gos"],
+          "answer": 1,
+          "explanation": "Go termina en -o, así que la tercera persona es goes."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: We have PE ___ Tuesdays.",
+          "options": ["at", "on", "in"],
+          "answer": 1,
+          "explanation": "Los días de la semana usan la preposición on."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: I get up ___ 6 o'clock.",
+          "options": ["at", "on", "in"],
+          "answer": 0,
+          "explanation": "Las horas exactas usan la preposición at."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice 6:30 en inglés?",
+          "options": ["half past six", "six and half", "half to six"],
+          "answer": 0,
+          "explanation": "La media hora se expresa con half past + la hora: half past six."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (ella estudia en la noche): She ___ at night.",
+          "answers": ["studies"],
+          "hint": "Consonante + y: la y cambia a -ies.",
+          "explanation": "Study termina en consonante + y, así que la tercera persona es studies."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Describe rutinas diarias con adverbios de frecuencia en la posición correcta y marcadores de tiempo.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (siempre desayuno): I ___ eat breakfast.",
+          "answers": ["always"],
+          "hint": "Adverbio de frecuencia del 100%, antes del verbo.",
+          "explanation": "Los adverbios de frecuencia van antes del verbo principal: I always eat."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (me voy a casa a las 5): I go ___ at 5.",
+          "answers": ["home"],
+          "hint": "Este destino nunca lleva la preposición to.",
+          "explanation": "Home como destino no lleva to: I go home, nunca 'go to home'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (estudio en la mañana): I study ___ the morning.",
+          "answers": ["in"],
+          "hint": "Las partes del día usan esta preposición (excepto at night).",
+          "explanation": "Las partes del día usan in: in the morning, in the afternoon."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella generalmente estudia en la noche):",
+          "words": ["studies", "night", "usually", "She", "at"],
+          "answer": "She usually studies at night",
+          "explanation": "El adverbio de frecuencia va antes del verbo principal: usually studies."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Camino a la escuela cada mañana):",
+          "words": ["school", "every", "I", "to", "morning", "walk"],
+          "answer": "I walk to school every morning",
+          "explanation": "To indica dirección (walk to school) y el marcador de tiempo va al final."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice 7:45 en inglés?",
+          "options": ["quarter to eight", "quarter past seven", "seven and quarter"],
+          "answer": 0,
+          "explanation": "Para los 45 minutos se usa quarter to + la hora siguiente: quarter to eight."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce rutinas completas y evita las trampas 'go to home', never + not y la -s después de never.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Estudio para el examen): I study ___ the exam.",
+          "answers": ["for"],
+          "hint": "Preposición de propósito (¿para qué?).",
+          "explanation": "For expresa propósito: I study for the exam, I wait for the bus."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi hermano nunca lee de noche): My brother never ___ at night.",
+          "answers": ["reads"],
+          "hint": "El sujeto es tercera persona singular.",
+          "explanation": "Aunque haya never, el verbo conserva la -s de tercera persona: never reads."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella nunca llega tarde — con TO BE): She is ___ late.",
+          "answers": ["never"],
+          "hint": "Con TO BE, el adverbio va después del verbo.",
+          "explanation": "Con TO BE el adverbio de frecuencia va después del verbo: She is never late."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi papá termina de trabajar a las seis en punto):",
+          "words": ["work", "o'clock", "finishes", "at", "My", "six", "dad"],
+          "answer": "My dad finishes work at six o'clock",
+          "explanation": "Finish termina en -sh: la tercera persona es finishes, y la hora exacta lleva at."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Siempre cenamos a las ocho):",
+          "words": ["dinner", "always", "at", "We", "eight", "have"],
+          "answer": "We always have dinner at eight",
+          "explanation": "El adverbio always va antes del verbo principal have."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa: ¿cuál oración es correcta?",
+          "options": ["I go to home after school", "I go home after school", "I go at home after school"],
+          "answer": 1,
+          "explanation": "Home como destino nunca lleva preposición: I go home."
+        }
+      ]
+    }
+  ]
+}

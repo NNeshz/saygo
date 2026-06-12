@@ -1,0 +1,155 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Identifica las estructuras de la segunda condicional (hipótesis) y la tercera (pasado contrafactual).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: If I ___ rich, I would travel the world.",
+          "options": ["am", "were", "will be", "would be"],
+          "answer": 1,
+          "explanation": "La segunda condicional usa pasado en la cláusula con 'if'; con 'be' se prefiere 'were'."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: If she studied more, she ___ pass the exam.",
+          "options": ["will", "would", "would have"],
+          "answer": 1,
+          "explanation": "El resultado de la segunda condicional se forma con 'would' + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: If you had told me, I ___ helped you.",
+          "options": ["would", "would have", "will have"],
+          "answer": 1,
+          "explanation": "El resultado de la tercera condicional es 'would have' + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: If they ___ earlier, they wouldn't have missed the bus.",
+          "options": ["left", "had left", "leave", "would leave"],
+          "answer": 1,
+          "explanation": "La cláusula con 'if' de la tercera condicional usa pasado perfecto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (si yo fuera tú): If I ___ you, I would apologize.",
+          "answers": ["were", "was"],
+          "hint": "Forma especial de 'be' para hipótesis.",
+          "explanation": "'If I were you' es la fórmula clásica para dar consejos hipotéticos."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (habría ido): If I had known about the party, I ___ have gone.",
+          "answers": ["would", "'d"],
+          "hint": "Modal del resultado contrafactual.",
+          "explanation": "La tercera condicional lleva 'would have' + participio en el resultado."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Construye hipótesis sobre el presente y lamentos sobre el pasado en mini-diálogos.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (ganaras): \"What would you do if you ___ a million dollars?\" \"I'd buy a house!\"",
+          "answers": ["won"],
+          "hint": "Pasado simple de 'win'.",
+          "explanation": "La segunda condicional usa pasado simple para situaciones imaginarias."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (habríamos llegado): If we had left earlier, we ___ have arrived on time.",
+          "answers": ["would", "'d"],
+          "hint": "Modal del resultado en la tercera condicional.",
+          "explanation": "'Would have' + participio expresa el resultado que ya no puede ocurrir."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (viviera): She would be happier if she ___ closer to her family.",
+          "answers": ["lived"],
+          "hint": "Pasado simple de 'live'.",
+          "explanation": "En la segunda condicional, la cláusula con 'if' va en pasado simple."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Si tuviera tiempo, te ayudaría):",
+          "words": ["had", "help", "If", "would", "you", "time", "I", "I"],
+          "answer": "If I had time I would help you",
+          "explanation": "Segunda condicional: If + pasado simple, would + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Si hubieras estudiado, habrías aprobado):",
+          "words": ["studied", "would", "If", "have", "you", "passed", "had", "you"],
+          "answer": "If you had studied you would have passed",
+          "explanation": "Tercera condicional: If + pasado perfecto, would have + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "If I would have money, I would buy it",
+            "If I had money, I would buy it",
+            "If I have money, I would buy it"
+          ],
+          "answer": 1,
+          "explanation": "Nunca se usa 'would' dentro de la cláusula con 'if'; ahí va el pasado simple."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce y produce condicionales completas sin caer en el error de meter 'would' en la cláusula con 'if'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Si yo fuera presidente, bajaría los impuestos): If I ___ president, I would lower taxes.",
+          "answers": ["were", "was"],
+          "hint": "Forma hipotética de 'be'.",
+          "explanation": "En hipótesis irreales con 'be' se usa 'were' para todas las personas."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Si hubiéramos sabido, habríamos venido antes): If we had known, we would have ___ earlier.",
+          "answers": ["come"],
+          "hint": "Participio de 'come'.",
+          "explanation": "El resultado de la tercera condicional lleva participio después de 'would have'."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Qué habrías hecho tú?): What would you have ___?",
+          "answers": ["done"],
+          "hint": "Participio de 'do'.",
+          "explanation": "Las preguntas de tercera condicional mantienen 'would + have + participio'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Si él hubiera ahorrado dinero, habría viajado):",
+          "words": ["saved", "would", "he", "If", "traveled", "money", "have", "had", "he"],
+          "answer": "If he had saved money he would have traveled",
+          "explanation": "Tercera condicional completa: pasado perfecto en el 'if' y 'would have' en el resultado."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Compraría esa casa si fuera rico):",
+          "words": ["buy", "were", "I", "that", "if", "rich", "house", "would", "I"],
+          "answer": "I would buy that house if I were rich",
+          "explanation": "La cláusula con 'if' también puede ir al final sin cambiar la estructura."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la forma correcta: I wouldn't have said that if I ___ the truth.",
+          "options": ["knew", "had known", "would know"],
+          "answer": 1,
+          "explanation": "Un hecho contrafactual del pasado exige pasado perfecto en la cláusula con 'if'."
+        }
+      ]
+    }
+  ]
+}

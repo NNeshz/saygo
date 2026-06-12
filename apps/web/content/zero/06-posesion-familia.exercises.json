@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce have/has en todas sus formas, el vocabulario de la familia y la elección entre much y many.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Completa: My aunt ___ three daughters.",
+          "options": ["have", "has", "haves"],
+          "answer": 1,
+          "explanation": "Con tercera persona singular (my aunt = she) el verbo have cambia a has."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice 'hermanos' en general (hombres y mujeres)?",
+          "options": ["siblings", "brothers", "parents", "cousins"],
+          "answer": 0,
+          "explanation": "Siblings incluye hermanos y hermanas; brothers son solo varones."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: She ___ have a car.",
+          "options": ["don't", "doesn't", "isn't"],
+          "answer": 1,
+          "explanation": "He, she e it niegan con doesn't + verbo en forma base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: We don't have ___ time today.",
+          "options": ["many", "much", "a few"],
+          "answer": 1,
+          "explanation": "Time es incontable: en negativas se usa much, no many."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: ___ your cousin have a car?",
+          "options": ["Do", "Does", "Is"],
+          "answer": 1,
+          "explanation": "Your cousin es tercera persona singular: la pregunta usa does."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (su esposa tiene muchos hermanos): His ___ has a lot of siblings.",
+          "answers": ["wife"],
+          "hint": "Pareja femenina del esposo (husband).",
+          "explanation": "Wife significa esposa; su contraparte masculina es husband."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Pregunta y habla de la familia con have/has, have got y la preposición for de duración.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (¿Tienes hermanos o hermanas?): Do you have any ___?",
+          "answers": ["siblings"],
+          "hint": "Palabra que incluye hermanos y hermanas.",
+          "explanation": "Siblings es la palabra general para hermanos y hermanas."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con have got (ella no tiene carro): She ___ got a car.",
+          "answers": ["hasn't", "has not"],
+          "hint": "Negación británica de has got.",
+          "explanation": "El negativo de have got en tercera persona es hasn't got."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (¿Cuántos primos tienes?): How many cousins do you ___?",
+          "answers": ["have"],
+          "hint": "Con el auxiliar do, el verbo va en forma base.",
+          "explanation": "En preguntas con do/does el verbo principal siempre es la forma base have."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi mamá tiene tres hermanas):",
+          "words": ["sisters", "has", "My", "three", "mother"],
+          "answer": "My mother has three sisters",
+          "explanation": "My mother es tercera persona singular, por eso el verbo es has."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Tiene esposo tu tía?):",
+          "words": ["husband", "your", "Does", "a", "have", "aunt"],
+          "answer": "Does your aunt have a husband",
+          "explanation": "La pregunta con tercera persona usa Does + sujeto + have en forma base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — Have you got a pen? — ___",
+          "options": ["Yes, I have", "Yes, I do", "Yes, I got"],
+          "answer": 0,
+          "explanation": "Las preguntas con have got se responden con el mismo auxiliar: Yes, I have."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce oraciones sobre la familia y domina las trampas much/many, doesn't has y for/since.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (No tenemos mucho dinero): We don't have ___ money.",
+          "answers": ["much"],
+          "hint": "Money es incontable.",
+          "explanation": "Con incontables en negativas se usa much; many es para contables."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mi mamá no tiene hermanas): My mother ___ any sisters.",
+          "answers": ["doesn't have", "does not have"],
+          "hint": "Negación de tercera persona + verbo base.",
+          "explanation": "Con doesn't el verbo regresa a la forma base: doesn't have, nunca doesn't has."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mis abuelos han vivido en Veracruz durante 30 años): My grandparents have lived in Veracruz ___ 30 years.",
+          "answers": ["for"],
+          "hint": "Es una duración, no un punto de inicio.",
+          "explanation": "For va con períodos de duración; since va con un punto de inicio como 'since 1995'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mis abuelos tienen una casa en Oaxaca):",
+          "words": ["house", "Oaxaca", "have", "My", "a", "in", "grandparents"],
+          "answer": "My grandparents have a house in Oaxaca",
+          "explanation": "Grandparents es plural, por eso el verbo es have, no has."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No tengo hermanos — con have got):",
+          "words": ["got", "brothers", "I", "any", "haven't"],
+          "answer": "I haven't got any brothers",
+          "explanation": "El negativo de have got con I es haven't got + any en la negación."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa: ¿cuál oración es correcta?",
+          "options": ["She has worked here since three years", "She has worked here for three years", "She has worked here for three years ago"],
+          "answer": 1,
+          "explanation": "La duración se expresa con for + período; since se usa solo con un punto de inicio."
+        }
+      ]
+    }
+  ]
+}

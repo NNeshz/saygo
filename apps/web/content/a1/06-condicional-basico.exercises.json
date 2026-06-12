@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las estructuras del Zero Conditional (if + presente, presente) y First Conditional (if + presente, will).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta (Zero Conditional): If you heat water to 100°C, it ___.",
+          "options": ["boils", "will boil", "boiled", "boil"],
+          "answer": 0,
+          "explanation": "El Zero Conditional usa presente simple en ambas cláusulas para hechos científicos."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta (First Conditional): If it rains tomorrow, I ___ home.",
+          "options": ["stay", "will stay", "stayed", "would stay"],
+          "answer": 1,
+          "explanation": "En el First Conditional la cláusula principal lleva will + infinitivo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: If it ___, school will be cancelled.",
+          "options": ["will snow", "snows", "snowed", "would snow"],
+          "answer": 1,
+          "explanation": "Nunca se usa will después de if: la condición va en presente simple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector para un evento seguro: ___ I graduate, I will look for a job.",
+          "options": ["If", "When", "Unless", "In case"],
+          "answer": 1,
+          "explanation": "\"When\" se usa para eventos seguros donde solo el momento es incierto."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: ___ you study, you will fail.",
+          "options": ["Unless", "If", "When", "As soon as"],
+          "answer": 0,
+          "explanation": "\"Unless\" significa if...not: a menos que estudies, reprobarás."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el Zero Conditional (si no riegas las plantas, mueren): If you don't water plants, they ___.",
+          "answers": ["die"],
+          "explanation": "Las verdades generales usan presente simple en la cláusula de resultado."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Construye promesas, advertencias y precauciones con if, as soon as e in case en situaciones cotidianas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la promesa (si me ayudas, yo te ayudo): If you help me, I ___ you.",
+          "answers": ["will help", "'ll help"],
+          "explanation": "La cláusula principal del First Conditional lleva will + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (en cuanto yo llegue, te llamaré): As soon as I ___, I will call you.",
+          "answers": ["arrive"],
+          "hint": "Verbo: arrive.",
+          "explanation": "Después de as soon as se usa presente simple, nunca will."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la precaución (lleva paraguas por si llueve): Take an umbrella in ___ it rains.",
+          "answers": ["case"],
+          "explanation": "\"In case\" expresa precaución: por si acaso."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me quedaré en casa si llueve):",
+          "words": ["home", "if", "I", "rains", "stay", "it", "will"],
+          "answer": "I will stay home if it rains",
+          "explanation": "Cuando la cláusula principal va primero, no se usa coma antes de if."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Puedes irte si terminas temprano):",
+          "words": ["finish", "if", "You", "early", "leave", "you", "can"],
+          "answer": "You can leave if you finish early",
+          "explanation": "El First Conditional admite modales como can en la cláusula principal."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: Unless you hurry, we ___ the bus.",
+          "options": ["will miss", "miss", "won't miss", "missed"],
+          "answer": 0,
+          "explanation": "Unless ya contiene la idea negativa; la principal lleva will + verbo base."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce condicionales completos y evita las trampas \"if it will rain\" y \"unless you don't\".",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Si llueve esta tarde, cancelaremos el partido.\" → If it rains this afternoon, we ___ the match.",
+          "answers": ["will cancel", "'ll cancel"],
+          "explanation": "La consecuencia futura del First Conditional usa will + infinitivo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"A menos que te apures, perderemos el camión.\" → ___ you hurry, we will miss the bus.",
+          "answers": ["Unless", "unless"],
+          "explanation": "\"Unless\" equivale a if...not y no se combina con otro negativo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Cuando termine el semestre, viajaré a Oaxaca.\" → When the semester ___, I will travel to Oaxaca.",
+          "answers": ["ends"],
+          "hint": "Verbo: end, en presente.",
+          "explanation": "Después de when se usa presente simple aunque la oración hable del futuro."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No aprobarás a menos que estudies):",
+          "words": ["unless", "pass", "You", "study", "won't", "you"],
+          "answer": "You won't pass unless you study",
+          "explanation": "Unless introduce la condición negativa sin duplicar el not."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El hielo se derrite si la temperatura sube de 0°C):",
+          "words": ["temperature", "if", "Ice", "above", "melts", "rises", "0°C", "the"],
+          "answer": "Ice melts if the temperature rises above 0°C",
+          "explanation": "Zero Conditional: presente simple en ambas cláusulas para hechos científicos."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["Unless you don't submit the form, you won't get your certificate", "Unless you submit the form, you won't get your certificate", "If you will submit the form, you will get your certificate"],
+          "answer": 1,
+          "explanation": "Unless ya incluye la negación, y después de if nunca va will."
+        }
+      ]
+    }
+  ]
+}

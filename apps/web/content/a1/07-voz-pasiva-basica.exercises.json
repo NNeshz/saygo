@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la voz pasiva con is/are y was/were + participio pasado y los participios irregulares como built y written.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la pasiva correcta en presente: The emails ___ every morning.",
+          "options": ["are sent", "are sended", "is sent", "send"],
+          "answer": 0,
+          "explanation": "Sujeto plural en presente pasivo: are + participio, y el participio de send es sent."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la pasiva correcta en pasado: The school ___ in 1985.",
+          "options": ["was built", "was build", "were built", "is built"],
+          "answer": 0,
+          "explanation": "Pasado pasivo singular: was + participio, y el participio de build es built."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el participio correcto de \"write\": The report is ___ every week.",
+          "options": ["wrote", "written", "write", "writed"],
+          "answer": 1,
+          "explanation": "El participio de write es written; wrote es solo el pasado simple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: The winners ___ selected by the jury.",
+          "options": ["was", "were", "is", "be"],
+          "answer": 1,
+          "explanation": "Con sujeto plural en pasado pasivo se usa were."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la palabra correcta: The novel was written ___ Gabriel García Márquez.",
+          "options": ["from", "by", "for", "with"],
+          "answer": 1,
+          "explanation": "El agente de la voz pasiva se introduce con by, no con from."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pasiva en presente (aquí se habla inglés): English ___ spoken here.",
+          "answers": ["is"],
+          "explanation": "Sujeto singular en presente pasivo: is + participio pasado."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa la voz pasiva en avisos escolares, noticias y trámites: exámenes pospuestos, proyectos aprobados y resultados anunciados.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿el examen fue cancelado ayer?): ___ the exam cancelled yesterday?",
+          "answers": ["Was", "was"],
+          "explanation": "Las preguntas pasivas invierten was/were con el sujeto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la negativa con contracción (el proyecto no fue aprobado): The project ___ approved by the committee last week.",
+          "answers": ["wasn't", "was not"],
+          "explanation": "La negativa del pasado pasivo es wasn't/weren't + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (estos teléfonos se fabrican en México): These phones ___ in Mexico.",
+          "answers": ["are made"],
+          "hint": "Verbo: make.",
+          "explanation": "Presente pasivo plural: are + made, el participio irregular de make."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El examen fue pospuesto hasta el próximo lunes):",
+          "words": ["postponed", "Monday", "The", "until", "was", "next", "exam"],
+          "answer": "The exam was postponed until next Monday",
+          "explanation": "Cuando no importa quién hizo la acción, la pasiva omite el agente."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Los resultados fueron anunciados ayer?):",
+          "words": ["yesterday", "results", "Were", "announced", "the"],
+          "answer": "Were the results announced yesterday",
+          "explanation": "Pregunta pasiva en pasado: Were + sujeto + participio."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: Is the meeting cancelled? — Yes, it ___.",
+          "options": ["is cancelled", "cancelled", "is cancel", "was cancel"],
+          "answer": 0,
+          "explanation": "La respuesta pasiva conserva el auxiliar y el participio: it is cancelled."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Transforma oraciones activas en pasivas y evita errores como \"was build\" o \"discovered from\".",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"La nueva línea del metro se construyó en dos años.\" → The new metro line ___ in two years.",
+          "answers": ["was built"],
+          "explanation": "Pasado pasivo singular: was + built, el participio irregular de build."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Las cartas fueron enviadas esta mañana.\" → The letters ___ this morning.",
+          "answers": ["were sent"],
+          "explanation": "Pasado pasivo plural: were + sent; \"sended\" no existe."
+        },
+        {
+          "type": "fill",
+          "prompt": "Transforma a pasiva: \"María wrote the report.\" → The report ___ by María.",
+          "answers": ["was written"],
+          "explanation": "En la pasiva el objeto pasa a sujeto y el verbo se vuelve was/were + participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El Calendario Azteca fue descubierto en la Ciudad de México):",
+          "words": ["discovered", "Mexico", "The", "in", "calendar", "was", "City", "Aztec"],
+          "answer": "The Aztec calendar was discovered in Mexico City",
+          "explanation": "La pasiva en pasado destaca el objeto descubierto, no quién lo descubrió."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Los ganadores son seleccionados por el comité):",
+          "words": ["selected", "by", "The", "winners", "committee", "are", "the"],
+          "answer": "The winners are selected by the committee",
+          "explanation": "Se agrega by + agente cuando es relevante decir quién realiza la acción."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["Penicillin was discovered from Fleming", "Penicillin was discovered by Fleming", "Penicillin was discover by Fleming"],
+          "answer": 1,
+          "explanation": "El agente se introduce con by y el verbo necesita el participio completo (discovered)."
+        }
+      ]
+    }
+  ]
+}

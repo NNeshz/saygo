@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas de can/can't, like + -ing y los verbos seguidos de infinitivo (want to, need to).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She ___ the guitar very well.",
+          "options": ["can plays", "can play", "can to play", "cans play"],
+          "answer": 1,
+          "explanation": "Después de can el verbo siempre va en forma base, sin -s y sin to."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración expresa correctamente un gusto general?",
+          "options": ["I like swimming", "I like swim", "I like to swimming"],
+          "answer": 0,
+          "explanation": "Después de like/love/hate el verbo lleva terminación -ing."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta sobre instrumentos musicales:",
+          "options": ["I can play guitar", "I can play a guitar", "I can play the guitar"],
+          "answer": 2,
+          "explanation": "Los instrumentos musicales siempre llevan el artículo the: play the guitar."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: I ___ travel to Oaxaca next summer.",
+          "options": ["want", "want to", "want for"],
+          "answer": 1,
+          "explanation": "Want siempre va seguido de to + verbo base: want to travel."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la respuesta corta (sí, ella puede): Can she swim? — Yes, she ___.",
+          "answers": ["can"],
+          "explanation": "Las respuestas cortas con can repiten el modal: Yes, she can."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa en negativo (no puedo manejar): I ___ drive — I'm only 16.",
+          "answers": ["can't", "cannot"],
+          "hint": "Forma negativa de can.",
+          "explanation": "El negativo de can es can't o cannot, igual para todos los sujetos."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa can, would like y los verbos con infinitivo en mini-diálogos y oraciones cotidianas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el ofrecimiento cortés (¿te gustaría algo de agua?): ___ you like some water? — Yes, please.",
+          "answers": ["Would", "would"],
+          "explanation": "Would like se usa para ofrecer o pedir algo con cortesía en el momento."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (a ella le encanta leer): She loves ___.",
+          "answers": ["reading"],
+          "hint": "Verbo en -ing después de love.",
+          "explanation": "Después de love/like/hate el verbo lleva -ing: She loves reading."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (necesitamos estudiar): We need ___ for the exam.",
+          "answers": ["to study"],
+          "explanation": "Need siempre va seguido de to + verbo base: need to study."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Puedes hablar francés?):",
+          "words": ["French", "you", "Can", "speak"],
+          "answer": "Can you speak French",
+          "explanation": "Pregunta con can: Can + sujeto + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella necesita estudiar más):",
+          "words": ["study", "She", "more", "needs", "to"],
+          "answer": "She needs to study more",
+          "explanation": "Need + to + verbo base; en tercera persona need lleva -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "Estás en una cafetería y quieres pedir un café ahora. ¿Qué dices?",
+          "options": ["I like coffee", "I'd like a coffee", "I can coffee"],
+          "answer": 1,
+          "explanation": "I'd like expresa un deseo en el momento; I like es solo gusto general."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones completas combinando can, gustos con -ing y verbos + infinitivo, evitando las trampas típicas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Olvidé traer mi libro): I forgot ___ my book.",
+          "answers": ["to bring"],
+          "hint": "Forget + infinitivo.",
+          "explanation": "Forget va seguido de to + verbo base: forgot to bring."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella no puede cocinar): She ___ cook.",
+          "answers": ["can't", "cannot"],
+          "explanation": "El negativo de can es can't/cannot y el verbo que sigue va en forma base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Me gusta nadar, pero hoy quiero correr): I like swimming, but today I want ___.",
+          "answers": ["to run"],
+          "explanation": "Like pide -ing (gusto general) y want pide to + verbo base (deseo específico)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi hermano puede tocar la batería):",
+          "words": ["can", "the", "My", "drums", "play", "brother"],
+          "answer": "My brother can play the drums",
+          "explanation": "Can + verbo base, y los instrumentos musicales llevan el artículo the."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No me gusta esperar el camión):",
+          "words": ["waiting", "I", "the", "don't", "bus", "like", "for"],
+          "answer": "I don't like waiting for the bus",
+          "explanation": "Después de don't like el verbo va en -ing: like waiting."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta para un gusto general?",
+          "options": ["I'd like coffee in general", "I would like coffee every morning", "I like coffee"],
+          "answer": 2,
+          "explanation": "Would like es para un deseo en el momento; los gustos permanentes usan like sin would."
+        }
+      ]
+    }
+  ]
+}

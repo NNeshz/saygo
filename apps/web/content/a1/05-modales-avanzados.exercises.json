@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas de must, have to, should, might y could sin agregar -s ni \"to\" después del modal.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: You ___ show your CURP at the IMSS office.",
+          "options": ["must", "must to", "musts", "might to"],
+          "answer": 0,
+          "explanation": "Después de un modal el verbo va en forma base, sin \"to\" y sin -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She ___ bring her CURP.",
+          "options": ["have to", "has to", "haves to", "must to"],
+          "answer": 1,
+          "explanation": "\"Have to\" sí se conjuga: con he/she/it es has to."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el consejo correcto: You ___ see a doctor; your fever is high.",
+          "options": ["should", "should to", "might to", "musts"],
+          "answer": 0,
+          "explanation": "\"Should\" da consejos y nunca lleva \"to\" después."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la posibilidad incierta: It ___ rain this afternoon.",
+          "options": ["might", "mights", "must", "have to"],
+          "answer": 0,
+          "explanation": "\"Might\" expresa posibilidad incierta y nunca lleva -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la petición educada: ___ you help me, please?",
+          "options": ["Must", "Could", "Should", "Have to"],
+          "answer": 1,
+          "explanation": "\"Could\" se usa para hacer peticiones educadas."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no es necesario comprar boleto — el evento es gratis): You ___ buy a ticket; the event is free.",
+          "answers": ["don't have to", "do not have to", "don't need to", "do not need to"],
+          "explanation": "\"Don't have to\" significa que algo no es necesario, no que está prohibido."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa los modales en situaciones reales de escuela, trámites y transporte en México.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la prohibición (no debes usar tu teléfono en clase): You ___ use your phone in class.",
+          "answers": ["mustn't", "must not"],
+          "explanation": "\"Mustn't\" expresa prohibición total."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la habilidad pasada (yo podía nadar cuando tenía cinco años): I ___ swim when I was five.",
+          "answers": ["could"],
+          "explanation": "\"Could\" expresa habilidad general en el pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el futuro (podré manejar el próximo año): I will ___ drive next year.",
+          "answers": ["be able to"],
+          "explanation": "Para el futuro se usa will be able to, porque \"will can\" es incorrecto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Los estudiantes tienen que llegar a tiempo):",
+          "words": ["arrive", "on", "Students", "to", "time", "have"],
+          "answer": "Students have to arrive on time",
+          "explanation": "\"Have to\" expresa una obligación externa, como una regla escolar."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Podríamos estudiar en la biblioteca):",
+          "words": ["library", "study", "We", "the", "could", "at"],
+          "answer": "We could study at the library",
+          "explanation": "\"Could\" también sirve para hacer sugerencias."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: ___ he have to sign the form?",
+          "options": ["Does", "Do", "Must", "Has"],
+          "answer": 0,
+          "explanation": "Las preguntas con have to se forman con do/does, y con he se usa does."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Distingue mustn't de don't have to, must de deducción y could de was able to en casos con trampa.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"No tengo que trabajar los domingos.\" → I ___ work on Sundays.",
+          "answers": ["don't have to", "do not have to"],
+          "explanation": "La negación de la obligación es don't have to; \"don't must\" no existe."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce la deducción: \"Ella debe de estar cansada — trabajó toda la noche.\" → She ___ be tired — she worked all night.",
+          "answers": ["must"],
+          "explanation": "\"Must\" también expresa deducción lógica (seguramente)."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce el logro específico: \"Pude terminar el examen a tiempo.\" → I ___ finish the exam on time.",
+          "answers": ["was able to"],
+          "hint": "Logro específico puntual, no habilidad general.",
+          "explanation": "Para un logro específico en el pasado se usa was/were able to, no could."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ellos podrán viajar el próximo año):",
+          "words": ["able", "travel", "They", "next", "be", "year", "will", "to"],
+          "answer": "They will be able to travel next year",
+          "explanation": "\"Can\" no tiene futuro: se usa will be able to."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No deberías ir en hora pico):",
+          "words": ["rush", "go", "You", "during", "hour", "shouldn't"],
+          "answer": "You shouldn't go during rush hour",
+          "explanation": "\"Shouldn't\" da un consejo negativo seguido del verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "El evento es gratis y nadie te obliga a pagar. Elige la oración correcta:",
+          "options": ["You mustn't buy a ticket; the event is free", "You don't have to buy a ticket; the event is free", "You don't must buy a ticket; the event is free"],
+          "answer": 1,
+          "explanation": "\"Mustn't\" = prohibición; \"don't have to\" = no es necesario, que es el sentido aquí."
+        }
+      ]
+    }
+  ]
+}

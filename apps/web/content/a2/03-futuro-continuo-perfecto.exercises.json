@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Distingue las formas 'will be + -ing' (futuro continuo) y 'will have + participio' (futuro perfecto).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Completa (estaré descansando): This time tomorrow, I ___ on the beach.",
+          "options": ["will relax", "will be relaxing", "will have relaxed"],
+          "answer": 1,
+          "explanation": "El futuro continuo ('will be + -ing') describe una acción en progreso en un momento futuro."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (habrán encontrado): By 2030, scientists ___ a cure.",
+          "options": ["will find", "will be finding", "will have found"],
+          "answer": 2,
+          "explanation": "El futuro perfecto ('will have + participio') indica algo completado antes de un momento futuro."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (estaremos cenando): At 8 p.m. tonight, we ___ dinner.",
+          "options": ["will eat", "will be eating", "will have eaten", "are eat"],
+          "answer": 1,
+          "explanation": "Una acción en progreso a una hora futura concreta usa futuro continuo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa (habré terminado): By the time you arrive, I ___ cleaning.",
+          "options": ["will finish", "will be finishing", "will have finished"],
+          "answer": 2,
+          "explanation": "'By the time' + futuro perfecto: la acción estará completada antes de ese punto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (estaré trabajando): Don't call me at 10; I ___ be working.",
+          "answers": ["will", "'ll"],
+          "hint": "Auxiliar del futuro.",
+          "explanation": "El futuro continuo se forma con 'will be' + verbo en -ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (habremos terminado): By Friday, we will have ___ the project.",
+          "answers": ["finished"],
+          "hint": "Participio de 'finish'.",
+          "explanation": "El futuro perfecto se forma con 'will have' + participio pasado."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Habla de planes en progreso y logros completados en el futuro con marcadores como 'by' y 'this time'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (se habrá graduado): By next year, she will have ___ from high school.",
+          "answers": ["graduated"],
+          "hint": "Participio de 'graduate'.",
+          "explanation": "'Will have + participio' marca un logro completado antes de un punto futuro."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (estaremos nadando): This time next week, we will be ___ in Cancún.",
+          "answers": ["swimming"],
+          "hint": "Verbo en -ing; cuidado con la doble consonante.",
+          "explanation": "'This time next week' pide futuro continuo: will be + -ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (habré ahorrado): \"Can you buy it now?\" \"Not yet, but by December I will ___ saved enough money.\"",
+          "answers": ["have"],
+          "hint": "Falta el segundo auxiliar del futuro perfecto.",
+          "explanation": "El futuro perfecto siempre lleva 'will have' antes del participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estaré estudiando a las ocho):",
+          "words": ["studying", "at", "will", "I", "eight", "be"],
+          "answer": "I will be studying at eight",
+          "explanation": "Futuro continuo: sujeto + will + be + verbo en -ing."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Habrán llegado para el mediodía):",
+          "words": ["arrived", "by", "They", "have", "noon", "will"],
+          "answer": "They will have arrived by noon",
+          "explanation": "Futuro perfecto: sujeto + will + have + participio, con 'by' marcando el límite."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta (ya habrá empezado): The meeting ___ by the time we get there.",
+          "options": ["will start", "will be starting", "will have started"],
+          "answer": 2,
+          "explanation": "Si la acción estará terminada antes de otro evento futuro, se usa futuro perfecto."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce predicciones precisas combinando futuro continuo y perfecto, incluida la duración con 'for'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (A esta hora mañana estaré volando a Japón): This time tomorrow I will be ___ to Japan.",
+          "answers": ["flying"],
+          "hint": "Verbo 'fly' en -ing.",
+          "explanation": "El futuro continuo describe lo que estará pasando en un momento futuro."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Para 2035 habré terminado la universidad): By 2035 I will have ___ university.",
+          "answers": ["finished"],
+          "hint": "Participio de 'finish'.",
+          "explanation": "'By + fecha' suele acompañar al futuro perfecto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Estarás usando la computadora esta noche?): ___ you be using the computer tonight?",
+          "answers": ["Will", "will"],
+          "hint": "El auxiliar abre la pregunta.",
+          "explanation": "En preguntas de futuro continuo, 'will' va antes del sujeto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Para 2030 ella habrá visitado diez países):",
+          "words": ["she", "visited", "By", "have", "countries", "2030", "will", "ten"],
+          "answer": "By 2030 she will have visited ten countries",
+          "explanation": "Futuro perfecto con 'by + año' para logros acumulados hasta esa fecha."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estaremos viviendo en otra ciudad el próximo año):",
+          "words": ["living", "next", "We", "in", "city", "be", "year", "another", "will"],
+          "answer": "We will be living in another city next year",
+          "explanation": "Futuro continuo para situaciones en desarrollo en un periodo futuro."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige la forma correcta: By the time he retires, he ___ here for thirty years.",
+          "options": ["will work", "will be working", "will have worked"],
+          "answer": 2,
+          "explanation": "La duración acumulada hasta un punto futuro ('for thirty years') pide futuro perfecto."
+        }
+      ]
+    }
+  ]
+}

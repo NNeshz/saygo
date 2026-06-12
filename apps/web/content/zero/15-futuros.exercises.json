@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas de be going to y will (won't) con el verbo en infinitivo.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: I'm ___ study medicine.",
+          "options": ["going", "going to", "go to"],
+          "answer": 1,
+          "explanation": "La estructura es TO BE + going to + verbo base: I'm going to study."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: He will ___ to the concert.",
+          "options": ["goes", "going", "go"],
+          "answer": 2,
+          "explanation": "Después de will siempre va el verbo en infinitivo, sin -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es la forma negativa de will?",
+          "options": ["won't", "willn't", "don't will"],
+          "answer": 0,
+          "explanation": "Will + not se contrae como won't: I won't tell anyone."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la pregunta correcta:",
+          "options": ["Will you going to study tonight?", "Are you going to study tonight?", "Do you going to study tonight?"],
+          "answer": 1,
+          "explanation": "Las preguntas con going to usan TO BE; no se mezclan will y going to."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la oferta espontánea (¡yo lo contesto!): ___ get it!",
+          "answers": ["I'll", "I will"],
+          "explanation": "Las decisiones espontáneas usan will: I'll get it!"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (mira esas nubes — va a llover): Look at those clouds! It's ___ rain.",
+          "answers": ["going to"],
+          "hint": "Hay evidencia visible.",
+          "explanation": "Las predicciones con evidencia visible usan going to."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Haz promesas, ofertas y planes con will y going to en mini-diálogos.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la promesa (no le diré a nadie): I ___ tell anyone your secret.",
+          "answers": ["won't", "will not"],
+          "explanation": "Las promesas negativas usan won't + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el plan decidido (ella ya se registró): She ___ study dentistry.",
+          "answers": ["is going to", "'s going to"],
+          "hint": "El plan ya estaba decidido antes.",
+          "explanation": "Un plan decidido antes de hablar usa be going to."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿me ayudas?): ___ you help me? — Yes, I will.",
+          "answers": ["Will", "will"],
+          "explanation": "Las preguntas con will invierten el orden: Will + sujeto + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Voy a estudiar mañana):",
+          "words": ["study", "going", "I'm", "tomorrow", "to"],
+          "answer": "I'm going to study tomorrow",
+          "explanation": "Be going to + verbo base expresa un plan futuro."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Él volverá pronto):",
+          "words": ["back", "He'll", "soon", "be"],
+          "answer": "He'll be back soon",
+          "explanation": "Will se contrae con el sujeto: He'll + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "— The bag is too heavy! — ¿Qué respondes con una oferta espontánea?",
+          "options": ["I'm going to carry it", "I carry it", "I'll carry it"],
+          "answer": 2,
+          "explanation": "Una decisión tomada en el momento de hablar usa will, no going to."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones futuras eligiendo entre going to (plan/evidencia) y will (espontáneo/promesa).",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Te prometo que no voy a olvidar tu cumpleaños): I promise I ___ forget your birthday.",
+          "answers": ["won't", "will not"],
+          "explanation": "Las promesas negativas usan won't + verbo base, sin to."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Qué vas a hacer después de la graduación?): What are you ___ after graduation?",
+          "answers": ["going to do"],
+          "explanation": "Pregunta de planes con going to: TO BE + sujeto + going to + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Nos vamos a mudar el próximo mes): We ___ move next month.",
+          "answers": ["are going to", "'re going to"],
+          "explanation": "Un plan ya decidido usa be going to: We are going to move."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Va a llover fuerte esta noche):",
+          "words": ["rain", "going", "It's", "tonight", "to", "hard"],
+          "answer": "It's going to rain hard tonight",
+          "explanation": "Predicción con evidencia: It's going to + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ellos van a graduarse en junio):",
+          "words": ["June", "going", "They", "graduate", "are", "in", "to"],
+          "answer": "They are going to graduate in June",
+          "explanation": "Be going to: TO BE conjugado + going to + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Ya decidiste estudiar medicina hace meses y ya aplicaste. ¿Cuál es la forma más natural?",
+          "options": ["I will study medicine", "I'm going to study medicine", "I study medicine"],
+          "answer": 1,
+          "explanation": "Un plan decidido antes de hablar usa going to; will suena a decisión del momento."
+        }
+      ]
+    }
+  ]
+}

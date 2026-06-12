@@ -1,0 +1,145 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas was/were + -ing y las reglas de ortografía del gerundio.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: She ___ sleeping when I arrived.",
+          "options": ["was", "were", "is", "did"],
+          "answer": 0,
+          "explanation": "Con I/he/she/it el Past Continuous usa was."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: They ___ dancing at the posada.",
+          "options": ["was", "were", "is", "be"],
+          "answer": 1,
+          "explanation": "Con you/we/they se usa were, nunca was."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el gerundio correcto de \"run\":",
+          "options": ["runing", "running", "runned", "runnig"],
+          "answer": 1,
+          "explanation": "Los verbos CVC duplican la consonante final antes de -ing: run → running."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el gerundio correcto de \"write\":",
+          "options": ["writting", "writing", "writeing", "wrote"],
+          "answer": 1,
+          "explanation": "Los verbos que terminan en -e la eliminan antes de -ing: write → writing."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la pregunta correcta:",
+          "options": ["Were he waiting for me?", "Was he waiting for me?", "Did he waiting for me?", "Was he wait for me?"],
+          "answer": 1,
+          "explanation": "Las preguntas del Past Continuous invierten was/were con el sujeto: Was + he + verbo-ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la respuesta corta (sí, ella estaba durmiendo): Was she sleeping? — Yes, she ___.",
+          "answers": ["was"],
+          "explanation": "Las respuestas cortas repiten el auxiliar: Yes, she was."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Narra acciones interrumpidas y simultáneas con while/when en historias de posadas y vida diaria.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (yo estaba estudiando cuando sonó mi teléfono): I ___ when my phone rang.",
+          "answers": ["was studying"],
+          "explanation": "La acción larga interrumpida va en Past Continuous: was/were + verbo-ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el conector correcto (mientras caminaba a la escuela, vi un accidente): ___ I was walking to school, I saw an accident.",
+          "answers": ["While", "while"],
+          "explanation": "\"While\" introduce la acción de fondo en Past Continuous."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la negativa con contracción (ellos no estaban escuchando): They ___ listening when the teacher explained.",
+          "answers": ["weren't", "were not"],
+          "explanation": "La negativa con they es weren't + verbo-ing."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella estaba cocinando cuando se fue la luz):",
+          "words": ["power", "when", "She", "out", "cooking", "the", "went", "was"],
+          "answer": "She was cooking when the power went out",
+          "explanation": "Acción interrumpida: Past Continuous + when + Past Simple."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Estaban ellos esperando el autobús?):",
+          "words": ["bus", "waiting", "Were", "the", "they", "for"],
+          "answer": "Were they waiting for the bus",
+          "explanation": "Las preguntas se forman con Were + sujeto + verbo-ing."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: While he ___, someone knocked on the door.",
+          "options": ["slept", "was sleeping", "is sleeping", "sleeps"],
+          "answer": 1,
+          "explanation": "\"While\" casi siempre va seguido de Past Continuous."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce narraciones completas en pasado con adverbios como suddenly y evita errores como \"were already ate\".",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Estábamos comiendo tacos cuando se fueron las luces.\" → We ___ tacos when the lights went out.",
+          "answers": ["were eating"],
+          "explanation": "La acción en desarrollo va en Past Continuous: were + verbo-ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"De repente, empezó a llover.\" → ___, it started to rain.",
+          "answers": ["Suddenly", "suddenly"],
+          "explanation": "\"Suddenly\" es el adverbio narrativo para introducir un evento inesperado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Mi papá estaba platicando con los vecinos.\" → My dad ___ to the neighbors.",
+          "answers": ["was talking"],
+          "hint": "Verbo: talk.",
+          "explanation": "La descripción de fondo de una escena pasada usa was/were + verbo-ing."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La cuerda se rompió mientras todos cantaban):",
+          "words": ["while", "singing", "The", "was", "broke", "everyone", "rope"],
+          "answer": "The rope broke while everyone was singing",
+          "explanation": "El evento puntual va en Past Simple y la acción de fondo con while + Past Continuous."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi mamá estaba tomando fotos durante la posada):",
+          "words": ["photos", "during", "My", "taking", "posada", "was", "the", "mom"],
+          "answer": "My mom was taking photos during the posada",
+          "explanation": "\"During\" + sustantivo sitúa la acción continua dentro de un evento."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["We were already ate when you arrived", "We were already eating when you arrived", "We was already eating when you arrived"],
+          "answer": 1,
+          "explanation": "Después de was/were va el gerundio (-ing), no el pasado del verbo."
+        }
+      ]
+    }
+  ]
+}

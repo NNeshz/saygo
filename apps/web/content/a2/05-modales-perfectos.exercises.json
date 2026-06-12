@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce 'must/can't/might/should have + participio' para deducir, especular y lamentar en el pasado.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el modal correcto (deducción lógica): The ground is wet. It ___ have rained last night.",
+          "options": ["must", "should", "can't"],
+          "answer": 0,
+          "explanation": "'Must have + participio' expresa una deducción casi segura sobre el pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el modal correcto (es imposible): She ___ have forgotten the meeting; she never forgets anything.",
+          "options": ["must", "can't", "should"],
+          "answer": 1,
+          "explanation": "'Can't have + participio' indica que algo es imposible que haya pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el modal correcto (arrepentimiento): I ___ have studied more. I failed the exam.",
+          "options": ["should", "must", "can't"],
+          "answer": 0,
+          "explanation": "'Should have + participio' expresa arrepentimiento o reproche por el pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el modal correcto (quizá hayan llegado): They ___ have arrived by now, but I'm not sure.",
+          "options": ["might", "should", "can't"],
+          "answer": 0,
+          "explanation": "'Might have + participio' expresa una posibilidad incierta en el pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (debe de haber sido): The movie won ten awards; it must have ___ really good.",
+          "answers": ["been"],
+          "hint": "Participio de 'be'.",
+          "explanation": "Los modales perfectos siempre llevan 'have' + participio pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (debí haberte llamado): I should have ___ you earlier. Sorry!",
+          "answers": ["called", "phoned"],
+          "hint": "Participio de 'call'.",
+          "explanation": "'Should have + participio' lamenta algo que no se hizo."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa los modales perfectos en diálogos para especular sobre lo que pasó y dar reproches suaves.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (puede que haya perdido): \"Where's Luis?\" \"I don't know. He ___ have missed the bus.\"",
+          "answers": ["might", "may", "could"],
+          "hint": "Modal de posibilidad.",
+          "explanation": "'Might/may/could have + participio' especulan sobre una posibilidad pasada."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (deberías haber dicho): You should ___ told me the truth.",
+          "answers": ["have", "'ve"],
+          "hint": "Falta la palabra entre el modal y el participio.",
+          "explanation": "Los modales perfectos siempre llevan 'have' antes del participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el participio (no pudo haber visto): He can't have ___ your message; his phone was off.",
+          "answers": ["seen"],
+          "hint": "Participio de 'see'.",
+          "explanation": "'Can't have + participio' niega con certeza una posibilidad pasada."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Debiste haber visto su cara):",
+          "words": ["seen", "face", "You", "her", "should", "have"],
+          "answer": "You should have seen her face",
+          "explanation": "Estructura: sujeto + should + have + participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella debe de haber salido temprano):",
+          "words": ["left", "She", "early", "have", "must"],
+          "answer": "She must have left early",
+          "explanation": "'Must have + participio' deduce lo que con seguridad pasó."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el modal correcto (oportunidad perdida): We ___ have won the game, but our best player got injured.",
+          "options": ["could", "must", "can't"],
+          "answer": 0,
+          "explanation": "'Could have + participio' habla de algo posible que al final no ocurrió."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce deducciones, reproches y posibilidades del pasado eligiendo el modal perfecto exacto.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (No debiste haber dicho eso): You shouldn't have ___ that.",
+          "answers": ["said"],
+          "hint": "Participio de 'say'.",
+          "explanation": "'Shouldn't have + participio' reprocha algo que sí se hizo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Deben de haberse ido a casa): They must have ___ home.",
+          "answers": ["gone"],
+          "hint": "Participio de 'go'.",
+          "explanation": "'Must have + participio' expresa una deducción fuerte sobre el pasado."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Podría haber sido peor): It could have ___ worse.",
+          "answers": ["been"],
+          "hint": "Participio de 'be'.",
+          "explanation": "'Could have been' describe una posibilidad pasada que no se concretó."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No deberías haber gastado tanto dinero):",
+          "words": ["spent", "money", "You", "so", "have", "much", "shouldn't"],
+          "answer": "You shouldn't have spent so much money",
+          "explanation": "El reproche negativo usa 'shouldn't have' + participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Puede que ella haya perdido sus llaves en el autobús):",
+          "words": ["lost", "the", "She", "keys", "might", "bus", "her", "on", "have"],
+          "answer": "She might have lost her keys on the bus",
+          "explanation": "'Might have + participio' presenta una explicación posible, no segura."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — elige el modal correcto: He ___ have been at school; I saw him at the mall.",
+          "options": ["can't", "must", "should"],
+          "answer": 0,
+          "explanation": "Con evidencia en contra, la deducción negativa se hace con 'can't have', no 'mustn't have'."
+        }
+      ]
+    }
+  ]
+}

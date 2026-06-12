@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce los pronombres relativos who, which, that, where y whose según lo que describen.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "'The woman ___ lives next door is a doctor.'",
+          "options": ["which", "who", "where", "whose"],
+          "answer": 1,
+          "explanation": "Who se usa para hablar de personas."
+        },
+        {
+          "type": "choice",
+          "prompt": "'The book ___ is on the table is mine.'",
+          "options": ["who", "where", "which", "whom"],
+          "answer": 2,
+          "explanation": "Which se usa para hablar de cosas."
+        },
+        {
+          "type": "choice",
+          "prompt": "'The city ___ I was born is in Mexico.'",
+          "options": ["which", "who", "that", "where"],
+          "answer": 3,
+          "explanation": "Where se usa para hablar de lugares."
+        },
+        {
+          "type": "choice",
+          "prompt": "'The boy ___ bike was stolen is my cousin.'",
+          "options": ["whose", "who", "which", "that"],
+          "answer": 0,
+          "explanation": "Whose expresa posesión (cuyo/cuya)."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el relativo para personas (que): 'The teacher ___ teaches us English is from Canada.'",
+          "answers": ["who", "that"],
+          "explanation": "Who o that introducen la cláusula que describe a una persona."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el relativo para cosas (que): 'The phone ___ I bought yesterday is amazing.'",
+          "answers": ["which", "that"],
+          "explanation": "Which o that se usan para cosas en cláusulas especificativas."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Construye oraciones con cláusulas defining y non-defining para describir personas, cosas y lugares.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Mini-diálogo: 'A: Who is that man? B: He's the doctor ___ helped my mom.' (que)",
+          "answers": ["who", "that"],
+          "explanation": "Who o that introducen la información que identifica a la persona."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa: 'This is the restaurant ___ we had dinner last night.' (donde)",
+          "answers": ["where"],
+          "explanation": "Where introduce la cláusula que describe un lugar."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la cláusula explicativa: 'My best friend, ___ lives in Monterrey, is visiting me.' (que, persona)",
+          "answers": ["who"],
+          "explanation": "En cláusulas non-defining (entre comas) se usa who, nunca that."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El libro que leí era aburrido):",
+          "words": ["read", "The", "boring", "that", "was", "I", "book"],
+          "answer": "The book that I read was boring",
+          "explanation": "El relativo that va justo después del sustantivo que describe."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La chica que canta es mi hermana):",
+          "words": ["sings", "my", "The", "who", "sister", "girl", "is"],
+          "answer": "The girl who sings is my sister",
+          "explanation": "La cláusula con who se inserta justo después de la persona que describe."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿En cuál oración puedes OMITIR el pronombre relativo?",
+          "options": [
+            "The car that I bought is red.",
+            "The man who called you is here.",
+            "The girl who sings is my sister."
+          ],
+          "answer": 0,
+          "explanation": "El relativo se omite solo cuando funciona como objeto (I bought the car), no como sujeto."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones con whose, when y cláusulas non-defining, evitando los errores típicos con that.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'El hombre cuyo coche compré es mi vecino.' → 'The man ___ car I bought is my neighbor.'",
+          "answers": ["whose"],
+          "explanation": "Whose indica posesión y va seguido directamente del sustantivo poseído."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'México, que es un país enorme, tiene muchas playas.' → 'Mexico, ___ is a huge country, has many beaches.'",
+          "answers": ["which"],
+          "explanation": "En cláusulas explicativas (con comas) se usa which para cosas, nunca that."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Recuerdo el día en que te conocí.' → 'I remember the day ___ I met you.'",
+          "answers": ["when", "that"],
+          "explanation": "When se usa como relativo para momentos en el tiempo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Los estudiantes que estudiaron mucho aprobaron el examen fácilmente):",
+          "words": ["passed", "who", "easily", "The", "hard", "exam", "students", "studied", "the"],
+          "answer": "The students who studied hard passed the exam easily",
+          "explanation": "La cláusula relativa con who va entre el sujeto y el verbo principal."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La casa donde crecí es muy vieja):",
+          "words": ["grew", "very", "The", "up", "is", "where", "old", "house", "I"],
+          "answer": "The house where I grew up is very old",
+          "explanation": "Where introduce la cláusula que describe el lugar antes del verbo principal."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "My mom, that is a nurse, works at night.",
+            "My mom, who is a nurse, works at night.",
+            "My mom which is a nurse works at night."
+          ],
+          "answer": 1,
+          "explanation": "Entre comas nunca se usa that, y para personas se usa who, no which."
+        }
+      ]
+    }
+  ]
+}

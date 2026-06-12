@@ -1,0 +1,147 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce el léxico básico para opinar: in my opinion, agree, disagree, advantage y against.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "'En mi opinión' se dice:",
+          "options": ["On my opinion", "In my opinion", "For my opinion", "At my opinion"],
+          "answer": 1,
+          "explanation": "La expresión correcta es in my opinion, con la preposición in."
+        },
+        {
+          "type": "choice",
+          "prompt": "'Estoy de acuerdo' se dice:",
+          "options": ["I am agree", "I have agree", "I agree"],
+          "answer": 2,
+          "explanation": "Agree es un verbo, así que no lleva am."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué palabra significa 'desventaja'?",
+          "options": ["advantage", "disadvantage", "disagreement", "disappointment"],
+          "answer": 1,
+          "explanation": "Disadvantage es el opuesto de advantage (ventaja)."
+        },
+        {
+          "type": "choice",
+          "prompt": "'Estar en contra de algo' = to be ___ something",
+          "options": ["against", "with", "for", "about"],
+          "answer": 0,
+          "explanation": "Against significa en contra; su opuesto es in favor of."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (punto de vista): 'From my ___ of view, school uniforms are a good idea.'",
+          "answers": ["point"],
+          "explanation": "From my point of view introduce tu perspectiva personal."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (a favor de): 'I'm in ___ of recycling at school.'",
+          "answers": ["favor", "favour"],
+          "explanation": "To be in favor of significa estar a favor de algo."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa las frases para opinar, contrastar y ejemplificar en conversaciones y argumentos cortos.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Mini-diálogo: 'A: Social media is great for teenagers. B: I ___ with you. I think it can be dangerous.' (no estoy de acuerdo)",
+          "answers": ["disagree", "don't agree", "do not agree"],
+          "explanation": "Disagree expresa desacuerdo y va seguido de with."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa: 'On the one hand, cars are fast. On the ___ hand, they pollute the air.'",
+          "answers": ["other"],
+          "explanation": "On the one hand... on the other hand contrastan dos lados de un tema."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (por ejemplo): 'We can help the planet. For ___, we could plant trees at school.'",
+          "answers": ["example", "instance"],
+          "explanation": "For example / for instance introducen un ejemplo concreto."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (En mi opinión los exámenes son demasiado difíciles):",
+          "words": ["are", "In", "exams", "too", "opinion", "my", "difficult"],
+          "answer": "In my opinion exams are too difficult",
+          "explanation": "In my opinion abre la oración para presentar tu punto de vista."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estoy totalmente de acuerdo contigo):",
+          "words": ["agree", "you", "I", "with", "totally"],
+          "answer": "I totally agree with you",
+          "explanation": "Agree va con el adverbio totally y la preposición with."
+        },
+        {
+          "type": "choice",
+          "prompt": "Mini-diálogo: 'A: I think homework is useless. B: I'm sorry, but I ___. It helps us practice.'",
+          "options": ["agree", "disagree", "am disagree", "am agree"],
+          "answer": 1,
+          "explanation": "Disagree expresa desacuerdo y nunca lleva el verbo be antes."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce argumentos completos con main advantage, to sum up y strongly believe, evitando el error 'I am agree'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'La ventaja principal es el precio.' → 'The main ___ is the price.'",
+          "answers": ["advantage"],
+          "explanation": "The main advantage presenta el punto fuerte de un argumento."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'En resumen, necesitamos más parques.' → 'To ___ up, we need more parks.'",
+          "answers": ["sum"],
+          "explanation": "To sum up cierra un argumento resumiendo la idea principal."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Creo firmemente que la educación es importante.' → 'I ___ believe that education is important.'",
+          "answers": ["strongly", "firmly"],
+          "explanation": "Strongly/firmly believe refuerzan la opinión con un adverbio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La ventaja principal de este plan es su costo):",
+          "words": ["plan", "The", "its", "advantage", "is", "main", "cost", "of", "this"],
+          "answer": "The main advantage of this plan is its cost",
+          "explanation": "The main advantage of + tema presenta el punto más fuerte del argumento."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estoy totalmente en desacuerdo con este punto de vista):",
+          "words": ["point", "I", "this", "disagree", "of", "strongly", "view", "with"],
+          "answer": "I strongly disagree with this point of view",
+          "explanation": "Strongly disagree with expresa un desacuerdo fuerte y formal."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "I am agree with the new rules.",
+            "I agree with the new rules.",
+            "I agree the new rules."
+          ],
+          "answer": 1,
+          "explanation": "Agree es verbo (sin am) y necesita with antes de la idea o persona."
+        }
+      ]
+    }
+  ]
+}

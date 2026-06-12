@@ -1,0 +1,148 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce los conectores de contraste, causa y consecuencia: however, because, despite, therefore y moreover.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de contraste: 'It was raining. ___, we decided to go out.'",
+          "options": ["Because", "However", "Therefore", "Moreover"],
+          "answer": 1,
+          "explanation": "However contrasta con la idea de la oración anterior."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de causa: 'I stayed home ___ I was sick.'",
+          "options": ["because", "however", "moreover", "therefore"],
+          "answer": 0,
+          "explanation": "Because introduce la causa o razón de algo."
+        },
+        {
+          "type": "choice",
+          "prompt": "'___ the traffic, we arrived on time.' (A pesar del tráfico)",
+          "options": ["Although", "Because", "Despite", "Therefore"],
+          "answer": 2,
+          "explanation": "Despite va seguido de un sustantivo, no de una oración completa."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de consecuencia: 'She studied hard. ___, she passed the exam.'",
+          "options": ["Although", "However", "Despite", "Therefore"],
+          "answer": 3,
+          "explanation": "Therefore introduce la consecuencia de lo dicho antes."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el conector (aunque): '___ it was cold, we went swimming.'",
+          "answers": ["Although", "Even though", "Though"],
+          "explanation": "Although y even though introducen un contraste seguido de sujeto y verbo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el conector que empieza con M (además): 'The hotel is cheap. ___, it is near the beach.'",
+          "answers": ["Moreover"],
+          "hint": "Empieza con M.",
+          "explanation": "Moreover añade información que apoya la idea anterior."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa los conectores para unir causas, contrastes y consecuencias en diálogos y oraciones reales.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Mini-diálogo: 'A: Why are you wearing a coat? B: ___ it's really cold outside.' (Porque)",
+          "answers": ["Because"],
+          "explanation": "Because responde a la pregunta why dando la razón."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa: 'I love the city. On the ___ hand, it is very noisy.' (Por otro lado)",
+          "answers": ["other"],
+          "explanation": "On the other hand presenta el lado opuesto de un argumento."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa: 'He didn't study. As a ___, he failed the test.' (Como resultado)",
+          "answers": ["result", "consequence"],
+          "explanation": "As a result / as a consequence expresan la consecuencia de algo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estaba lloviendo, así que nos quedamos en casa):",
+          "words": ["so", "home", "It", "raining", "stayed", "was", "we"],
+          "answer": "It was raining so we stayed home",
+          "explanation": "So une la causa con su consecuencia dentro de la misma oración."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (La película fue larga pero la disfruté):",
+          "words": ["but", "enjoyed", "The", "I", "long", "it", "was", "film"],
+          "answer": "The film was long but I enjoyed it",
+          "explanation": "But introduce el contraste entre las dos partes de la oración."
+        },
+        {
+          "type": "choice",
+          "prompt": "Mini-diálogo: 'A: Did you like the hotel? B: Yes, ___ it was a bit expensive.'",
+          "options": ["although", "therefore", "moreover"],
+          "answer": 0,
+          "explanation": "Although introduce una idea que contrasta con la afirmación anterior."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce y construye argumentos completos con despite, however y los conectores de cierre como in conclusion.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'A pesar de la lluvia, jugamos fútbol.' → '___ the rain, we played soccer.'",
+          "answers": ["Despite", "In spite of"],
+          "explanation": "Despite e in spite of van seguidos de un sustantivo, nunca de oración completa."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Sin embargo, no estoy de acuerdo.' → '___, I don't agree.'",
+          "answers": ["However", "Nevertheless", "Nonetheless"],
+          "explanation": "However y nevertheless inician el contraste y van seguidos de coma."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'En conclusión, necesitamos más tiempo.' → 'In ___, we need more time.'",
+          "answers": ["conclusion"],
+          "explanation": "In conclusion cierra y resume un argumento."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estaba cansada, así que se fue a la cama temprano):",
+          "words": ["went", "She", "so", "early", "tired", "to", "she", "bed", "was"],
+          "answer": "She was tired so she went to bed early",
+          "explanation": "So conecta la causa (estaba cansada) con la consecuencia (se fue a dormir)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me gusta esta ciudad pero es demasiado ruidosa):",
+          "words": ["too", "city", "I", "but", "noisy", "like", "is", "this", "it"],
+          "answer": "I like this city but it is too noisy",
+          "explanation": "But contrasta una idea positiva con una negativa en la misma oración."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "Despite of the rain, we went out.",
+            "Despite the rain, we went out.",
+            "Although the rain, we went out."
+          ],
+          "answer": 1,
+          "explanation": "Despite nunca lleva of, y although necesita sujeto y verbo, no solo un sustantivo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la inversión con never, rarely y not only, y las estructuras enfáticas It was... that y What... is.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la oración con inversión correcta:",
+          "options": [
+            "Never I have seen such a beautiful beach.",
+            "Never have I seen such a beautiful beach.",
+            "Never I saw such a beautiful beach."
+          ],
+          "answer": 1,
+          "explanation": "Cuando never inicia la oración, el auxiliar va antes del sujeto."
+        },
+        {
+          "type": "choice",
+          "prompt": "'Not only ___ the piano, but she also sings.'",
+          "options": ["she plays", "plays she", "does she play", "she does play"],
+          "answer": 2,
+          "explanation": "Not only al inicio exige inversión con el auxiliar does."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa la oración enfática: '___ was my brother that called you.' (Fue mi hermano quien te llamó)",
+          "options": ["It", "He", "There", "That"],
+          "answer": 0,
+          "explanation": "Las oraciones enfáticas (cleft) empiezan con It was... that."
+        },
+        {
+          "type": "choice",
+          "prompt": "'What I need ___ a vacation.'",
+          "options": ["are", "be", "do", "is"],
+          "answer": 3,
+          "explanation": "La estructura enfática What... va seguida de is."
+        },
+        {
+          "type": "choice",
+          "prompt": "'Rarely ___ to the movies.' (Rara vez vamos al cine)",
+          "options": ["we go", "do we go", "go we", "we do go"],
+          "answer": 1,
+          "explanation": "Rarely al inicio de la oración provoca inversión con do."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la inversión: 'Never ___ I eaten such good tacos.' (he comido)",
+          "answers": ["have"],
+          "explanation": "Tras never al inicio, el auxiliar have se coloca antes del sujeto."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa not only, cleft sentences y What... is para dar énfasis en oraciones y diálogos reales.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa: 'Not only ___ she speak English, but she also speaks French.'",
+          "answers": ["does"],
+          "explanation": "Not only al inicio exige el auxiliar does antes del sujeto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la oración enfática: 'It was in Cancun ___ we first met.' (Fue en Cancún donde nos conocimos)",
+          "answers": ["that"],
+          "explanation": "La estructura It was... that enfatiza el lugar o momento."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa: '___ I want is a quiet weekend.' (Lo que quiero es...)",
+          "answers": ["What"],
+          "explanation": "What al inicio enfatiza lo que se quiere o necesita."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No solo canta, sino que también baila):",
+          "words": ["she", "dances", "Not", "sing", "but", "does", "also", "only", "she"],
+          "answer": "Not only does she sing but she also dances",
+          "explanation": "La inversión va solo en la primera parte; la segunda lleva orden normal."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Fue mi papá quien cocinó la cena anoche):",
+          "words": ["cooked", "It", "dad", "last", "was", "who", "night", "my", "dinner"],
+          "answer": "It was my dad who cooked dinner last night",
+          "explanation": "La estructura It was... who enfatiza a la persona que hizo la acción."
+        },
+        {
+          "type": "choice",
+          "prompt": "Mini-diálogo: 'A: Did you like the concert? B: Yes! Never ___ such amazing music.'",
+          "options": ["I have heard", "have I heard", "I heard"],
+          "answer": 1,
+          "explanation": "Never al inicio invierte el orden: auxiliar + sujeto + participio."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce inversiones y oraciones hendidas completas, cuidando que la inversión solo aparezca en la primera cláusula.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (con inversión): 'Rara vez come ella carne.' → 'Rarely ___ she eat meat.'",
+          "answers": ["does"],
+          "explanation": "Rarely al inicio exige el auxiliar does antes del sujeto."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Lo que necesitamos es más tiempo.' → '___ we need is more time.'",
+          "answers": ["What"],
+          "explanation": "What inicia la estructura enfática What... is."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: 'Fue Juan quien rompió la ventana.' → 'It was Juan ___ broke the window.'",
+          "answers": ["who", "that"],
+          "explanation": "En la cleft sentence, who o that introducen a la persona enfatizada."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Fue en 2020 cuando nos mudamos a México):",
+          "words": ["moved", "that", "It", "to", "2020", "we", "was", "Mexico", "in"],
+          "answer": "It was in 2020 that we moved to Mexico",
+          "explanation": "It was + momento + that enfatiza cuándo ocurrió la acción."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Lo que realmente quiero es un teléfono nuevo):",
+          "words": ["want", "a", "What", "phone", "really", "is", "I", "new"],
+          "answer": "What I really want is a new phone",
+          "explanation": "La estructura What... is coloca el énfasis en lo que se quiere."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "Not only she is smart, but she is also kind.",
+            "Not only is she smart, but she is also kind.",
+            "Not only is she smart, but also is she kind."
+          ],
+          "answer": 1,
+          "explanation": "La inversión ocurre solo en la cláusula con not only, no en la segunda."
+        }
+      ]
+    }
+  ]
+}

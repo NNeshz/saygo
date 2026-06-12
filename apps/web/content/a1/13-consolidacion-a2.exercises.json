@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Repasa las estructuras A2: Present Perfect vs Past Simple, pasiva, condicionales y comparativos.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Present Perfect o Past Simple: I ___ Teotihuacán when I was twelve.",
+          "options": ["have visited", "visited", "was visiting"],
+          "answer": 1,
+          "explanation": "Con un tiempo específico cerrado ('when I was twelve') se usa Past Simple."
+        },
+        {
+          "type": "choice",
+          "prompt": "Aplica el backshift: She said she ___ tired.",
+          "options": ["is", "be", "was"],
+          "answer": 2,
+          "explanation": "En reported speech el tiempo verbal retrocede un nivel: is → was."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el Second Conditional: If I ___ time, I'd go.",
+          "options": ["would have", "had", "have"],
+          "answer": 1,
+          "explanation": "La cláusula if del Second Conditional usa Past Simple, nunca would."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa la voz pasiva: The report ___ written by him.",
+          "options": ["did", "was", "has"],
+          "answer": 1,
+          "explanation": "La voz pasiva siempre necesita el verbo be conjugado + participio pasado."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el comparativo correcto: She is ___ than him.",
+          "options": ["more tall", "tallest", "taller"],
+          "answer": 2,
+          "explanation": "Los adjetivos cortos forman el comparativo con -er, no con more."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (todavía no hemos terminado): We ___ finished the report yet.",
+          "answers": ["haven't", "have not"],
+          "hint": "'Yet' pide Present Perfect negativo.",
+          "explanation": "Yet se usa con Present Perfect negativo: haven't + participio."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Combina tiempos verbales, pasiva y phrasal verbs en situaciones de entrevista y narración.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la entrevista (he estudiado inglés por tres años): I ___ English for three years.",
+          "answers": ["have studied"],
+          "explanation": "Una acción que continúa hasta ahora usa Present Perfect: have + participio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el Past Continuous (yo estaba preparando): I ___ my application when I received the letter.",
+          "answers": ["was preparing"],
+          "explanation": "Una acción en progreso en el pasado usa was/were + verbo en -ing."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pasiva (su bicicleta ha sido robada): Her bicycle ___ stolen.",
+          "answers": ["has been"],
+          "explanation": "La pasiva en Present Perfect se forma con has/have been + participio."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Celebraré si paso):",
+          "words": ["celebrate", "pass", "I", "if", "will", "I"],
+          "answer": "I will celebrate if I pass",
+          "explanation": "First Conditional: will + verbo base en la cláusula principal, presente tras if."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella estaba estudiando cuando él llamó):",
+          "words": ["studying", "called", "She", "he", "was", "when"],
+          "answer": "She was studying when he called",
+          "explanation": "Past Continuous para la acción en curso y Past Simple para la interrupción."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta con pronombre (búscala en el diccionario):",
+          "options": ["Look up it in the dictionary.", "Look it up in the dictionary.", "Look it in up the dictionary."],
+          "answer": 1,
+          "explanation": "Con phrasal verbs separables, el pronombre va entre el verbo y la partícula."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Integra condicionales, reported speech, superlativos y modales en producción completa.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Si tuviera dinero, viajaría): If I had money, I ___.",
+          "answers": ["would travel"],
+          "explanation": "Second Conditional: would + verbo base en la cláusula principal."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (El oficial me dijo que tenía que traer dos identificaciones): The officer told me that I ___ bring two IDs.",
+          "answers": ["had to"],
+          "hint": "Backshift de must.",
+          "explanation": "En reported speech, must (obligación) se convierte en had to."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Es la mejor decisión que he tomado): It's the ___ decision I've made.",
+          "answers": ["best"],
+          "explanation": "El superlativo irregular de good es the best."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Todos los documentos deben ser entregados antes de la fecha límite):",
+          "words": ["submitted", "deadline", "All", "be", "must", "the", "documents", "before"],
+          "answer": "All documents must be submitted before the deadline",
+          "explanation": "La pasiva con modal se forma con must + be + participio pasado."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Alguna vez has probado mole negro?):",
+          "words": ["tried", "negro", "Have", "ever", "you", "mole"],
+          "answer": "Have you ever tried mole negro",
+          "explanation": "Las experiencias de vida sin tiempo específico usan Present Perfect con ever."
+        },
+        {
+          "type": "choice",
+          "prompt": "Caso con trampa — 'No es necesario pagar' se dice:",
+          "options": ["You mustn't pay.", "You don't must pay.", "You don't have to pay."],
+          "answer": 2,
+          "explanation": "Don't have to = no es necesario; mustn't = prohibición, son distintos."
+        }
+      ]
+    }
+  ]
+}

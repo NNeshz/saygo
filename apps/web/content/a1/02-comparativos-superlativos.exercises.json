@@ -1,0 +1,146 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas comparativas con -er/more...than y los superlativos con the -est/the most.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el comparativo correcto: Guadalajara is ___ Puebla.",
+          "options": ["bigger than", "more big than", "biggest than", "more bigger than"],
+          "answer": 0,
+          "explanation": "Los adjetivos cortos forman el comparativo con -er + than, nunca con more."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el comparativo correcto de \"expensive\": The iPhone is ___ the Android.",
+          "options": ["expensiver than", "more expensive than", "the most expensive", "as expensive than"],
+          "answer": 1,
+          "explanation": "Los adjetivos largos (3+ sílabas) forman el comparativo con more + adjetivo + than."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el superlativo correcto: Mexico City is ___ city in Mexico.",
+          "options": ["the biggest", "the most big", "the bigger", "most biggest"],
+          "answer": 0,
+          "explanation": "Big es adjetivo corto CVC: dobla la consonante y usa the -est, no the most."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma irregular correcta: My mom makes ___ tamales.",
+          "options": ["the goodest", "the best", "the most good", "the better"],
+          "answer": 1,
+          "explanation": "Good es irregular: good → better → the best."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la palabra correcta: We have ___ students this semester.",
+          "options": ["less", "fewer", "littler"],
+          "answer": 1,
+          "explanation": "\"Students\" es contable, por eso se usa fewer y no less."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa el comparativo de \"easy\" (el inglés es más fácil que el japonés): English is ___ than Japanese.",
+          "answers": ["easier"],
+          "hint": "Termina en -y → cambia a -ier.",
+          "explanation": "Los adjetivos que terminan en -y cambian a -ier: easy → easier."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Compara ciudades, materias y objetos con igualdad (as...as), superlativos y opiniones con I think.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la igualdad (Pedro es tan alto como su hermano): Pedro is as ___ as his brother.",
+          "answers": ["tall"],
+          "explanation": "La estructura as...as usa el adjetivo en su forma base, no el comparativo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (enero es el mes más frío en Monterrey): January is the ___ month in Monterrey.",
+          "answers": ["coldest"],
+          "explanation": "Los adjetivos cortos forman el superlativo con the + -est."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la opinión (creo que la historia es más interesante que la geografía): I think history is ___ interesting than geography.",
+          "answers": ["more"],
+          "explanation": "Interesting es un adjetivo largo: comparativo con more...than."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (El metro es menos caro que un taxi):",
+          "words": ["less", "taxi", "The", "than", "expensive", "metro", "a", "is"],
+          "answer": "The metro is less expensive than a taxi",
+          "explanation": "El comparativo de inferioridad se forma con less + adjetivo + than."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi celular no es tan nuevo como el tuyo):",
+          "words": ["as", "yours", "not", "My", "new", "as", "is", "phone"],
+          "answer": "My phone is not as new as yours",
+          "explanation": "La igualdad negativa se expresa con not as + adjetivo + as."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: This exam is ___ the last one.",
+          "options": ["not as hard as", "not as harder as", "not so hard than", "not as hard than"],
+          "answer": 0,
+          "explanation": "La estructura not as...as usa el adjetivo base y cierra con as, no con than."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce comparaciones completas, domina fewer vs. less y evita errores como \"more taller\".",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"La salud es más importante que el dinero.\" → Health is ___ money.",
+          "answers": ["more important than"],
+          "explanation": "Important es adjetivo largo: comparativo con more + adjetivo + than."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Ella bebe menos café que su hermana.\" → She drinks ___ coffee than her sister.",
+          "answers": ["less"],
+          "hint": "Coffee es incontable.",
+          "explanation": "Con sustantivos incontables como coffee se usa less, no fewer."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce: \"Ayer fue peor que hoy.\" → Yesterday was ___ today.",
+          "answers": ["worse than"],
+          "explanation": "Bad es irregular: bad → worse → the worst."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Creo que Puebla tiene la mejor comida de México):",
+          "words": ["best", "Puebla", "I", "food", "the", "in", "think", "has", "Mexico"],
+          "answer": "I think Puebla has the best food in Mexico",
+          "explanation": "Las opiniones se expresan con I think + superlativo (the best) e \"in\" con lugares."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Este barrio tiene menos autos que el centro):",
+          "words": ["fewer", "downtown", "This", "cars", "has", "than", "neighborhood"],
+          "answer": "This neighborhood has fewer cars than downtown",
+          "explanation": "Cars es contable, por eso se compara con fewer...than."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": ["There are less buses on Sundays", "There are fewer buses on Sundays", "There are few buses than on Sundays"],
+          "answer": 1,
+          "explanation": "Buses es contable: si puedes ponerle un número delante, usa fewer."
+        }
+      ]
+    }
+  ]
+}

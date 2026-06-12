@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce las formas am / is / are del verbo TO BE, las contracciones, los saludos y los números compuestos.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Completa: I ___ a student.",
+          "options": ["am", "is", "are"],
+          "answer": 0,
+          "explanation": "El pronombre I siempre va con am en el presente de TO BE."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa: They ___ from Oaxaca.",
+          "options": ["is", "am", "are"],
+          "answer": 2,
+          "explanation": "They (ellos/ellas) usa are, nunca is."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál es la contracción correcta de 'She is'?",
+          "options": ["She's", "Shes", "She' s"],
+          "answer": 0,
+          "explanation": "La contracción va todo junto y con apóstrofo: She's, sin espacios."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué saludo usas al LLEGAR a un lugar a las 7 de la noche?",
+          "options": ["Good evening", "Good night", "Good morning"],
+          "answer": 0,
+          "explanation": "Good evening es el saludo nocturno al llegar; Good night solo se usa al despedirse."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se escribe el número 21 en inglés?",
+          "options": ["twenty-one", "twenty one", "one twenty"],
+          "answer": 0,
+          "explanation": "Los números compuestos llevan decena + guion + unidad: twenty-one."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (somos compañeros de clase): We ___ classmates.",
+          "answers": ["are"],
+          "hint": "Forma de TO BE para we.",
+          "explanation": "You, we y they usan la forma are del verbo TO BE."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Preséntate con tu nombre, edad y origen, y responde saludos y cortesías como 'Nice to meet you'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el diálogo (Mucho gusto también): — Nice to meet you. — Nice to meet you ___.",
+          "answers": ["too"],
+          "hint": "Sin esta palabra el intercambio queda incompleto.",
+          "explanation": "La respuesta a 'Nice to meet you' siempre lleva 'too' al final."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (tengo 15 años): I ___ 15 years old.",
+          "answers": ["am"],
+          "hint": "En inglés la edad usa TO BE, no 'have'.",
+          "explanation": "La edad se expresa con TO BE: I am 15 years old, nunca con have."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (él es mi hermano): ___ my brother.",
+          "answers": ["He's", "He is"],
+          "hint": "Pronombre + TO BE; puedes usar la contracción.",
+          "explanation": "He usa is; en conversación se contrae a He's."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me llamo Diego):",
+          "words": ["Diego", "name", "My", "is"],
+          "answer": "My name is Diego",
+          "explanation": "La presentación formal del nombre sigue el orden: My name is + nombre."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ellos son de Veracruz):",
+          "words": ["from", "Veracruz", "are", "They"],
+          "answer": "They are from Veracruz",
+          "explanation": "El origen se expresa con TO BE + from + lugar."
+        },
+        {
+          "type": "choice",
+          "prompt": "Completa el diálogo: — How are you? — ___",
+          "options": ["Fine, thank you", "I'm 15 years old", "Nice to meet you too"],
+          "answer": 0,
+          "explanation": "La respuesta estándar a 'How are you?' es 'Fine, thank you'."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Traduce presentaciones completas con contracciones y evita el error clásico de 'I have 16 years'.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Soy de Tijuana): ___ from Tijuana.",
+          "answers": ["I'm", "I am"],
+          "hint": "Pronombre + TO BE; la contracción es lo más natural.",
+          "explanation": "El origen se dice con TO BE + from: I'm from + lugar."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella es mi maestra de inglés): ___ my English teacher.",
+          "answers": ["She's", "She is"],
+          "hint": "Tercera persona singular femenino.",
+          "explanation": "She va con is; la contracción She's es la forma natural en conversación."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ellos son mis papás): ___ my parents.",
+          "answers": ["They're", "They are"],
+          "hint": "Tercera persona plural.",
+          "explanation": "They usa are y se contrae a They're en el habla cotidiana."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Ella es mi maestra de inglés):",
+          "words": ["English", "my", "is", "teacher", "She"],
+          "answer": "She is my English teacher",
+          "explanation": "El orden es sujeto + is + posesivo + sustantivo; el adjetivo 'English' va antes de 'teacher'."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Es una escuela muy grande):",
+          "words": ["big", "It's", "very", "school", "a"],
+          "answer": "It's a very big school",
+          "explanation": "Para objetos y lugares se usa It's, y el adjetivo va antes del sustantivo: very big school."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta para decir la edad?",
+          "options": ["I have 16 years", "I am 16 years old", "I have 16 years old"],
+          "answer": 1,
+          "explanation": "En inglés la edad usa TO BE, no TO HAVE: I am 16 years old."
+        }
+      ]
+    }
+  ]
+}
