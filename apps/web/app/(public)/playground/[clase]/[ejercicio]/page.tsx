@@ -2,7 +2,7 @@ import { notFound } from "next/navigation"
 import type { Metadata } from "next"
 import Link from "next/link"
 import {
-  FlashcardRunner,
+  ExerciseRunner,
   getAllPlaygroundParams,
   getPlaygroundExercise,
   isValidExerciseId,
@@ -36,7 +36,7 @@ export default async function PlaygroundExercisePage({ params }: Props) {
   const { classTitle, sourceHref, exercise } = data
 
   return (
-    <div className="max-w-2xl">
+    <div className="max-w-3xl">
       <div className="flex flex-wrap items-center gap-1.5 text-sm text-muted-foreground mb-6">
         <Link href="/playground" className="hover:text-foreground transition-colors">
           Playground
@@ -58,7 +58,7 @@ export default async function PlaygroundExercisePage({ params }: Props) {
         Ronda {exercise.id} — {exercise.title}
       </p>
 
-      <FlashcardRunner classSlug={clase} classTitle={classTitle} exercise={exercise} />
+      <ExerciseRunner classSlug={clase} exercise={exercise} />
     </div>
   )
 }

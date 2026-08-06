@@ -1,4 +1,4 @@
-export { FlashcardRunner } from "./components/flashcard-runner"
+export { ExerciseRunner } from "./components/exercise-runner"
 export { PlaygroundIndex } from "./components/playground-index"
 export {
   getPlaygroundClasses,
@@ -19,5 +19,4 @@ export type {
   PlaygroundClassSummary,
   PlaygroundExercise,
   PlaygroundExerciseId,
-  FlashcardQuestion,
 } from "./types/playground.types"

@@ -7,49 +7,49 @@
     {
       "id": 1,
       "title": "Estructuras y reglas",
-      "questions": [
-        { "question": "¿Cuándo usas \"How much\"?", "answer": "Con sustantivos incontables (water, money, time) o para preguntar precios." },
-        { "question": "¿Cuándo usas \"How many\"?", "answer": "Con sustantivos contables que tienen plural (books, students, days)." },
-        { "question": "Estructura de pregunta con How much", "answer": "How much + sustantivo incontable + do/does + sujeto + verbo?" },
-        { "question": "Estructura de pregunta con How many", "answer": "How many + sustantivo contable plural + do/does + sujeto + verbo?" },
-        { "question": "¿Cuándo se usa \"Which\" en vez de \"What\"?", "answer": "Cuando hay un conjunto definido/limitado de opciones frente a ti." },
-        { "question": "Estructura de pregunta con Which", "answer": "Which + sustantivo/one + do/does + sujeto + verbo?" },
-        { "question": "¿Cómo preguntas con \"Who\" cuando es sujeto?", "answer": "Who + verbo (sin DO/DOES) — ej. Who goes to school?" },
-        { "question": "¿Cómo preguntas con \"Who\" cuando es objeto?", "answer": "Who + do/does + sujeto + verbo — ej. Who do you like?" },
-        { "question": "Estructura de sugerencia afirmativa con Let's", "answer": "Let's + verbo base sin to — ej. Let's go!" },
-        { "question": "Estructura de sugerencia negativa con Let's", "answer": "Let's not + verbo base — ej. Let's not worry." }
+      "exercises": [
+        { "type": "choice", "prompt": "Elige la opción correcta: ___ money do you have?", "options": ["How many", "How much", "How"], "answer": 1, "explanation": "Money es incontable, por eso usa How much." },
+        { "type": "choice", "prompt": "Elige la opción correcta: ___ brothers do you have?", "options": ["How many", "How much", "Which"], "answer": 0, "explanation": "Brothers es contable (tiene plural), por eso usa How many." },
+        { "type": "choice", "prompt": "Hay dos chamarras frente a ti. ¿Qué preguntas?", "options": ["What one do you prefer?", "How much one do you prefer?", "Which one do you prefer?"], "answer": 2, "explanation": "Con opciones definidas frente a ti se usa which, no what." },
+        { "type": "choice", "prompt": "Elige la pregunta correcta:", "options": ["Who does teach your English class?", "Who teaches your English class?", "Who do teaches your English class?"], "answer": 1, "explanation": "Cuando who es el sujeto, el verbo va directo sin DO/DOES." },
+        { "type": "choice", "prompt": "Elige la pregunta correcta con Who como objeto:", "options": ["Who you like?", "Who do you like?", "Who does you like?"], "answer": 1, "explanation": "Cuando who es objeto, la pregunta necesita do/does + sujeto + verbo." },
+        { "type": "fill", "prompt": "Completa la sugerencia (¡vámonos!): ___ go!", "answers": ["Let's", "let's"], "explanation": "Let's + verbo base propone algo al grupo que incluye al hablante." },
+        { "type": "fill", "prompt": "Completa la sugerencia negativa (no lleguemos tarde): Let's ___ be late.", "answers": ["not"], "explanation": "La forma negativa es Let's not + verbo base." },
+        { "type": "fill", "prompt": "Completa (objeto, ¿a quién prefieres más?): Who ___ you like the most?", "answers": ["do"], "explanation": "Who como objeto necesita el auxiliar do/does antes del sujeto." },
+        { "type": "order", "prompt": "Ordena las palabras (¿Cuántos idiomas puedes hablar?):", "words": ["can", "languages", "How", "speak", "you", "many"], "answer": "How many languages can you speak", "explanation": "How many + sustantivo contable + pregunta con can." },
+        { "type": "order", "prompt": "Ordena las palabras (No salgamos hoy):", "words": ["out", "Let's", "today", "not", "go"], "answer": "Let's not go out today", "explanation": "Sugerencia negativa: Let's not + verbo base." }
       ]
     },
     {
       "id": 2,
       "title": "Clima y vocabulario",
-      "questions": [
-        { "question": "¿Cómo preguntas por el clima?", "answer": "What's the weather like? / How's the weather today?" },
-        { "question": "Estructura para describir el clima con adjetivo", "answer": "It's + adjetivo — ej. It's cold." },
-        { "question": "Estructura para describir el clima en progreso", "answer": "It's + verbo -ing — ej. It's raining / It's snowing." },
-        { "question": "¿Por qué siempre se necesita \"it\" en oraciones de clima?", "answer": "Porque el clima en inglés siempre requiere el sujeto \"it\"; no se omite como en español." },
-        { "question": "Traduce: soleado", "answer": "sunny" },
-        { "question": "Traduce: nublado", "answer": "cloudy" },
-        { "question": "Traduce: ventoso", "answer": "windy" },
-        { "question": "Traduce: templado/agradable", "answer": "warm" },
-        { "question": "Traduce: fresco", "answer": "cool" },
-        { "question": "Traduce: está nevando", "answer": "it's snowing" }
+      "exercises": [
+        { "type": "choice", "prompt": "Elige la oración correcta para el clima:", "options": ["Is raining", "It's raining", "It raining"], "answer": 1, "explanation": "El clima siempre necesita el sujeto it: It's raining." },
+        { "type": "choice", "prompt": "¿Cuál palabra describe un clima templado/agradable?", "options": ["cold", "warm", "rainy"], "answer": 1, "explanation": "Warm describe un clima templado y agradable." },
+        { "type": "fill", "prompt": "Completa la pregunta del clima (¿cómo está el tiempo?): What's the weather ___?", "answers": ["like"], "explanation": "La pregunta fija para el clima es What's the weather like?" },
+        { "type": "fill", "prompt": "Completa el diálogo (¿cuánto cuesta?): How much ___ this jacket? — It's 350 pesos.", "answers": ["is"], "explanation": "Para preguntar el precio de un artículo singular se usa How much is...?" },
+        { "type": "fill", "prompt": "Completa (está soleado hoy): ___ sunny today.", "answers": ["It's", "It is", "it's", "it is"], "hint": "No olvides el sujeto obligatorio.", "explanation": "El clima se describe con It's + adjetivo; el sujeto it es obligatorio." },
+        { "type": "fill", "prompt": "Traduce (Está muy frío hoy): It's very ___ today.", "answers": ["cold"], "explanation": "El clima se describe con It's + adjetivo: It's cold." },
+        { "type": "fill", "prompt": "Traduce (nublado): It's ___ today.", "answers": ["cloudy"], "explanation": "cloudy = nublado." },
+        { "type": "fill", "prompt": "Traduce (ventoso): It's very ___ today.", "answers": ["windy"], "explanation": "windy = ventoso." },
+        { "type": "fill", "prompt": "Traduce (fresco): It's ___ in the mornings.", "answers": ["cool"], "explanation": "cool = fresco." },
+        { "type": "order", "prompt": "Ordena las palabras (¿Cómo está el clima hoy?):", "words": ["today", "weather", "the", "How's"], "answer": "How's the weather today", "explanation": "How's the weather + lugar/tiempo? es la forma corta de preguntar por el clima." }
       ]
     },
     {
       "id": 3,
       "title": "Errores comunes y aplicación",
-      "questions": [
-        { "question": "Corrige: \"How many money do you have?\"", "answer": "How much money do you have? (money es incontable)" },
-        { "question": "Corrige: \"How much brothers do you have?\"", "answer": "How many brothers do you have? (brothers es contable)" },
-        { "question": "Corrige: \"What one do you prefer?\"", "answer": "Which one do you prefer? (hay opciones específicas)" },
-        { "question": "Corrige: \"Who does go to school early?\"", "answer": "Who goes to school early? (who sujeto no lleva DO/DOES)" },
-        { "question": "Corrige: \"Let's to go to the park!\"", "answer": "Let's go to the park! (verbo base sin to)" },
-        { "question": "Corrige: \"Is raining outside.\"", "answer": "It's raining outside. (sujeto it obligatorio)" },
-        { "question": "Traduce: ¿Cuántas materias tienes este semestre?", "answer": "How many subjects do you have this semester?" },
-        { "question": "Traduce: ¿Cuánto cuesta el uniforme?", "answer": "How much does the uniform cost?" },
-        { "question": "Traduce: ¿Cuál autobús va al centro, el rojo o el verde?", "answer": "Which bus goes to the center, the red one or the green one?" },
-        { "question": "Traduce: No lleguemos tarde, la clase empieza a las 7", "answer": "Let's not be late, class starts at 7." }
+      "exercises": [
+        { "type": "fill", "prompt": "Traduce (¿Cuánta agua tomas?): ___ water do you drink?", "answers": ["How much", "how much"], "hint": "Water es incontable.", "explanation": "Los sustantivos incontables como water usan How much." },
+        { "type": "fill", "prompt": "Traduce (No nos preocupemos por eso): Let's not ___ about it.", "answers": ["worry"], "explanation": "Después de Let's not va el verbo base sin to." },
+        { "type": "fill", "prompt": "Corrige y completa: \"Is raining outside\" → ___ raining outside.", "answers": ["It's", "It is", "it's", "it is"], "explanation": "El sujeto it es obligatorio para hablar del clima." },
+        { "type": "choice", "prompt": "¿Cuál oración es correcta?", "options": ["Let's to stay home tonight", "Let's staying home tonight", "Let's stay home tonight"], "answer": 2, "explanation": "Después de Let's siempre va el verbo base sin to y sin -ing." },
+        { "type": "choice", "prompt": "¿Cuál oración es correcta?", "options": ["How many money do you have?", "How much money do you have?", "How much moneys do you have?"], "answer": 1, "explanation": "Money es incontable, no lleva plural y se pregunta con How much." },
+        { "type": "choice", "prompt": "¿Cuál oración es correcta?", "options": ["What one do you prefer?", "Which one do you prefer?", "Which one you prefer?"], "answer": 1, "explanation": "Con opciones específicas se usa which, y la pregunta necesita do." },
+        { "type": "choice", "prompt": "¿Cuál oración es correcta?", "options": ["Who does go to school early?", "Who goes to school early?", "Who go to school early?"], "answer": 1, "explanation": "Who como sujeto lleva el verbo en tercera persona sin DO/DOES." },
+        { "type": "order", "prompt": "Ordena las palabras (¿Cuál camión va al centro?):", "words": ["the", "Which", "center", "goes", "bus", "to"], "answer": "Which bus goes to the center", "explanation": "Which se usa para elegir entre opciones definidas, como rutas de camión." },
+        { "type": "order", "prompt": "Ordena las palabras (¿Cuántos estudiantes hay en tu clase?):", "words": ["are", "class", "How", "in", "students", "your", "many"], "answer": "How many students are in your class", "explanation": "How many + sustantivo contable plural: students." },
+        { "type": "order", "prompt": "Ordena las palabras (No lleguemos tarde):", "words": ["late", "Let's", "be", "not"], "answer": "Let's not be late", "explanation": "Sugerencia negativa: Let's not + verbo base." }
       ]
     }
   ]

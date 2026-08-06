@@ -1,14 +1,11 @@
-export type PlaygroundExerciseId = 1 | 2 | 3
+import type { PracticeExercise } from "@/modules/docs"
 
-export type FlashcardQuestion = {
-  question: string
-  answer: string
-}
+export type PlaygroundExerciseId = 1 | 2 | 3
 
 export type PlaygroundExercise = {
   id: PlaygroundExerciseId
   title: string
-  questions: FlashcardQuestion[]
+  exercises: PracticeExercise[]
 }
 
 export type PlaygroundClass = {
