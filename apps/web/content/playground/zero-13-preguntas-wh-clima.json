@@ -1,0 +1,56 @@
+{
+  "slug": "zero-13-preguntas-wh-clima",
+  "title": "Preguntas WH- Avanzadas y Clima",
+  "level": "zero",
+  "sourceHref": "/docs/zero/13-preguntas-wh-clima",
+  "exercises": [
+    {
+      "id": 1,
+      "title": "Estructuras y reglas",
+      "questions": [
+        { "question": "¿Cuándo usas \"How much\"?", "answer": "Con sustantivos incontables (water, money, time) o para preguntar precios." },
+        { "question": "¿Cuándo usas \"How many\"?", "answer": "Con sustantivos contables que tienen plural (books, students, days)." },
+        { "question": "Estructura de pregunta con How much", "answer": "How much + sustantivo incontable + do/does + sujeto + verbo?" },
+        { "question": "Estructura de pregunta con How many", "answer": "How many + sustantivo contable plural + do/does + sujeto + verbo?" },
+        { "question": "¿Cuándo se usa \"Which\" en vez de \"What\"?", "answer": "Cuando hay un conjunto definido/limitado de opciones frente a ti." },
+        { "question": "Estructura de pregunta con Which", "answer": "Which + sustantivo/one + do/does + sujeto + verbo?" },
+        { "question": "¿Cómo preguntas con \"Who\" cuando es sujeto?", "answer": "Who + verbo (sin DO/DOES) — ej. Who goes to school?" },
+        { "question": "¿Cómo preguntas con \"Who\" cuando es objeto?", "answer": "Who + do/does + sujeto + verbo — ej. Who do you like?" },
+        { "question": "Estructura de sugerencia afirmativa con Let's", "answer": "Let's + verbo base sin to — ej. Let's go!" },
+        { "question": "Estructura de sugerencia negativa con Let's", "answer": "Let's not + verbo base — ej. Let's not worry." }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Clima y vocabulario",
+      "questions": [
+        { "question": "¿Cómo preguntas por el clima?", "answer": "What's the weather like? / How's the weather today?" },
+        { "question": "Estructura para describir el clima con adjetivo", "answer": "It's + adjetivo — ej. It's cold." },
+        { "question": "Estructura para describir el clima en progreso", "answer": "It's + verbo -ing — ej. It's raining / It's snowing." },
+        { "question": "¿Por qué siempre se necesita \"it\" en oraciones de clima?", "answer": "Porque el clima en inglés siempre requiere el sujeto \"it\"; no se omite como en español." },
+        { "question": "Traduce: soleado", "answer": "sunny" },
+        { "question": "Traduce: nublado", "answer": "cloudy" },
+        { "question": "Traduce: ventoso", "answer": "windy" },
+        { "question": "Traduce: templado/agradable", "answer": "warm" },
+        { "question": "Traduce: fresco", "answer": "cool" },
+        { "question": "Traduce: está nevando", "answer": "it's snowing" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Errores comunes y aplicación",
+      "questions": [
+        { "question": "Corrige: \"How many money do you have?\"", "answer": "How much money do you have? (money es incontable)" },
+        { "question": "Corrige: \"How much brothers do you have?\"", "answer": "How many brothers do you have? (brothers es contable)" },
+        { "question": "Corrige: \"What one do you prefer?\"", "answer": "Which one do you prefer? (hay opciones específicas)" },
+        { "question": "Corrige: \"Who does go to school early?\"", "answer": "Who goes to school early? (who sujeto no lleva DO/DOES)" },
+        { "question": "Corrige: \"Let's to go to the park!\"", "answer": "Let's go to the park! (verbo base sin to)" },
+        { "question": "Corrige: \"Is raining outside.\"", "answer": "It's raining outside. (sujeto it obligatorio)" },
+        { "question": "Traduce: ¿Cuántas materias tienes este semestre?", "answer": "How many subjects do you have this semester?" },
+        { "question": "Traduce: ¿Cuánto cuesta el uniforme?", "answer": "How much does the uniform cost?" },
+        { "question": "Traduce: ¿Cuál autobús va al centro, el rojo o el verde?", "answer": "Which bus goes to the center, the red one or the green one?" },
+        { "question": "Traduce: No lleguemos tarde, la clase empieza a las 7", "answer": "Let's not be late, class starts at 7." }
+      ]
+    }
+  ]
+}

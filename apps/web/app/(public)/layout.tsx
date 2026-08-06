@@ -8,6 +8,7 @@ const navLinks = [
   { label: "Docs", href: "/docs" },
   { label: "Clases", href: "/docs/zero" },
   { label: "Vocabulario", href: "/docs/vocabulario" },
+  { label: "Playground", href: "/playground" },
 ]
 
 function Navbar() {
