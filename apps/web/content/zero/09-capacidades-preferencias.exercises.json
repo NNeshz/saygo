@@ -21,10 +21,10 @@
         },
         {
           "type": "choice",
-          "prompt": "Elige la oración correcta sobre instrumentos musicales:",
-          "options": ["I can play guitar", "I can play a guitar", "I can play the guitar"],
-          "answer": 2,
-          "explanation": "Los instrumentos musicales siempre llevan el artículo the: play the guitar."
+          "prompt": "Elige la oración correcta sobre deportes:",
+          "options": ["I can play the soccer", "I can play soccer", "I can play a soccer"],
+          "answer": 1,
+          "explanation": "Los deportes van sin artículo: play soccer. Los instrumentos suelen llevar the: play the guitar."
         },
         {
           "type": "choice",

@@ -96,7 +96,7 @@ Para expresar que compartes el sentimiento de otra persona de forma rápida:
 
 En inglés más formal, el acuerdo repite el auxiliar del sujeto. Para este nivel es suficiente reconocerlo:
 
-| Oración original | Respuesta informal | Respuesta formal |
+| Oración original | Respuesta corta (la más común) | Otras formas (más completas) |
 |-----------------|-------------------|-----------------|
 | I like coffee. | Me too. | I **do** too. / So **do** I. |
 | I'm tired. | Me too. | I **am** too. / So **am** I. |
@@ -157,7 +157,7 @@ En inglés más formal, el acuerdo repite el auxiliar del sujeto. Para este nive
 *("No me gusta levantarme temprano." — "A mí tampoco. Los lunes son lo peor.")*
 
 8. Don't leave **without them** — they're coming, just give **them** a minute.
-*(No se vayan sin ellos — ya vienen, solo dennos un minuto.)*
+*(No se vayan sin ellos — ya vienen, solo denles un minuto.)*
 
 9. I wrote a letter for **her**, but I don't know how to give **it** to **her**.
 *(Le escribí una carta, pero no sé cómo dársela.)*
@@ -226,7 +226,7 @@ La confusión más común es mezclar los dos tipos. La clave está en preguntart
 **Valeria:** Are you serious? I'm not going without **you**, I'd be too nervous.
 **Lupita:** Don't worry, I'll introduce **you** to **him**.
 **Valeria:** You're the best! I owe **you** one.
-**Lupita:** "Me too", by the way — you helped **me** with math last week, remember?
+**Lupita:** No, I owe **you** one — you helped **me** with math last week, remember?
 
 
 **Versión en español:**
@@ -242,21 +242,21 @@ La confusión más común es mezclar los dos tipos. La clave está en preguntart
 **Valeria:** ¿En serio? No voy sin ti, me da mucha pena.
 **Lupita:** No te preocupes, te lo presento.
 **Valeria:** ¡Eres la mejor! Te debo una.
-**Lupita:** "A mí también", por cierto — me ayudaste con matemáticas la semana pasada, ¿recuerdas?
+**Lupita:** No, yo te debo una a ti — me ayudaste con matemáticas la semana pasada, ¿recuerdas?
 
 
 ## 8. Texto modelo
 
 **Texto en inglés:**
 
-My best friend is Andrés and I have known **him** since primary school. He lives near **me**, so we walk to school together every day. Our English teacher always puts **us** together for group activities because she knows we work well. Yesterday she gave **us** a difficult exercise, but Andrés helped **me** with it. After class, some classmates invited **us** to play football in the park. At the end, Andrés's mom called **him** for dinner. I walked home alone, but he texted **me** later: *"Good night, see you tomorrow."* — *"Me too,"* I answered, and laughed at myself.
+My best friend is Andrés. I met **him** in primary school. He lives near **me**, so we walk to school together every day. Our English teacher always puts **us** together for group activities because she knows we work well. Yesterday she gave **us** a difficult exercise, but Andrés helped **me** with it. After class, some classmates invited **us** to play football in the park. At the end, Andrés's mom called **him** for dinner. I walked home alone, but he texted **me** later: *"Good night, see you tomorrow."* — *"You too!"* I answered.
 
 *(90 palabras)*
 
 
 **Traducción al español:**
 
-Mi mejor amigo es Andrés y lo conozco desde la primaria. Vive cerca de mí, así que caminamos juntos a la escuela todos los días. Nuestra maestra de inglés siempre nos pone juntos en las actividades en equipo porque sabe que trabajamos bien. Ayer nos dio un ejercicio difícil, pero Andrés me ayudó con él. Después de clases, unos compañeros nos invitaron a jugar fútbol en el parque. Al final, la mamá de Andrés lo llamó a cenar. Yo caminé solo a casa, pero él me mandó un mensaje: *"Buenas noches, nos vemos mañana."* — *"A mí también"*, respondí, y me reí de mí mismo.
+Mi mejor amigo es Andrés. Lo conocí en la primaria. Vive cerca de mí, así que caminamos juntos a la escuela todos los días. Nuestra maestra de inglés siempre nos pone juntos en las actividades en equipo porque sabe que trabajamos bien. Ayer nos dio un ejercicio difícil, pero Andrés me ayudó con él. Después de clases, unos compañeros nos invitaron a jugar fútbol en el parque. Al final, la mamá de Andrés lo llamó a cenar. Yo caminé solo a casa, pero él me mandó un mensaje: *"Buenas noches, nos vemos mañana."* — *"¡Igualmente!"*, respondí.
 
 
 ## 9. Ejercicios de práctica

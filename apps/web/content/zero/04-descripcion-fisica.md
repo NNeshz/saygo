@@ -189,7 +189,7 @@ Para comparar dos personas o cosas se usa el comparativo: **adjetivo + -er + tha
 | Termina en -e → + -r | large, nice | larger, nicer | His house is **larger than** mine. |
 | CVC (consonante-vocal-consonante) → doble consonante + -er | big, hot, thin | bigger, hotter, thinner | My bag is **bigger than** yours. |
 | Termina en -y → cambia a -i + -er | happy, heavy, pretty | happier, heavier, prettier | She is **happier than** before. |
-| 2+ sílabas → more + adjetivo | expensive, beautiful | more expensive, more beautiful | That bag is **more expensive than** this one. |
+| 2+ sílabas (que no terminan en -y) → more + adjetivo | expensive, beautiful | more expensive, more beautiful | That bag is **more expensive than** this one. |
 
 > **Atención:** *than* (con a) es la preposición comparativa. No confundir con *then* (entonces/luego), que es un adverbio de tiempo.
 
@@ -247,7 +247,7 @@ Los demostrativos señalan distancia entre el hablante y el objeto.
 - **How big** is your house? → *It's not very big.*
 - **How old** is your sister? → *She's 14 years old.*
 - **How heavy** is that bag? → *It's too heavy — I can't carry it.*
-- **How far** is the school? → *It's next to the metro station.*
+- **How far** is the school? → *It's very close — five minutes from here.*
 
 | Pregunta | Respuesta modelo |
 |---------|----------------|
@@ -484,20 +484,20 @@ Escribe la palabra correcta: forma de *have/has*, demostrativo, preposición de 
 
 Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 
-1. ❌ My teacher has a hairs very long.
+1. ❌ My teacher has hair very long.
 2. ❌ He doesn't has brown eyes — they're green.
 3. ❌ This students are from group 2A.
 4. ❌ My house is more bigger than yours.
-5. ❌ The restroom is in the wall, next to the gym.
+5. ❌ The restroom is next the gym.
 
 
 ### ✅ Respuestas — Ejercicio 2
 
-1. ✓ My teacher has **very long hair**. *(adjetivo antes del sustantivo; "hair" no lleva artículo ni plural)*
+1. ✓ My teacher has **very long hair**. *(el adjetivo va antes del sustantivo: very long hair)*
 2. ✓ He **doesn't have** brown eyes — they're green. *(con doesn't, el verbo es "have", no "has")*
 3. ✓ **These** students are from group 2A. *("this" es singular; con plural se usa "these")*
 4. ✓ My house is **bigger** than yours. *(no se combina "more" con comparativos en -er)*
-5. ✓ The restroom is **on** the wall / **next to** the gym. *("in the wall" implica dentro del muro; se usa "on" para superficies o la preposición correcta según el contexto)*
+5. ✓ The restroom is **next to** the gym. *("next to" siempre lleva "to")*
 
 
 ### Ejercicio 3 — Traduce al inglés

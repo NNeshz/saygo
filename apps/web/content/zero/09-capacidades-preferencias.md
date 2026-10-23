@@ -95,7 +95,9 @@ Decir qué puedes hacer, qué te gusta y qué quieres o necesitas hacer son tres
 
 > **Atención:** En tercera persona (he/she/it), *like* sigue las reglas del Presente Simple: **likes**, **loves**, **hates**. Pero el verbo que sigue siempre termina en *-ing*, nunca en forma base.
 
-⚠️ **Error frecuente:** Decir *"I like swim"* o *"She likes to dance"* en contexto de gusto general — después de *like/love/hate*, el verbo lleva **-ing**: **"I like swimming"** / **"She likes dancing."**
+⚠️ **Error frecuente:** Decir *"I like swim"* — después de *like/love/hate* el verbo nunca va en forma base. Usa **-ing**: **"I like swimming"** / **"She likes dancing."**
+
+> **Nota:** *"She likes to dance"* también es correcto y significa lo mismo. En esta clase practicamos la forma con **-ing** porque es la más común para gustos generales, pero si la escuchas con *to*, no es un error.
 
 
 ### 2.3 WOULD LIKE — deseo cortés
@@ -157,17 +159,17 @@ Varios verbos muy comunes en inglés van seguidos siempre de **to + verbo base**
 
 Hay convenciones específicas en inglés para hablar de habilidades en estas tres áreas.
 
-- **Instrumentos musicales:** play + **the** + instrumento — I can play **the** guitar. · She can play **the** piano. — SIEMPRE con artículo "the"
+- **Instrumentos musicales:** play + **the** + instrumento — I can play **the** guitar. · She can play **the** piano. — la forma recomendada lleva "the" (en inglés americano también se escucha *play guitar*, sin artículo)
 - **Deportes:** play + deporte (sin artículo) — I can play football. · He can play basketball. — sin "the"
 - **Idiomas:** speak + idioma (sin artículo) — I can speak English. · She can speak French. — sin "the"
 
 | Categoría | Estructura | Correcto | Incorrecto |
 |----------|-----------|---------|-----------|
-| Instrumento | play + **the** + instrumento | play **the** guitar | ~~play guitar~~ |
+| Instrumento | play + **the** + instrumento | play **the** guitar | ~~play a guitar~~ |
 | Deporte | play + deporte (sin *the*) | play football | ~~play the football~~ |
 | Idioma | speak + idioma (sin *the*) | speak English | ~~speak the English~~ |
 
-⚠️ **Error frecuente:** Decir *"I can play guitar"* sin artículo — los instrumentos musicales llevan **the**: **"I can play the guitar."** Lo opuesto ocurre con deportes: *"I play the football"* → **"I play football."**
+⚠️ **Error frecuente:** Poner *the* con los deportes: *"I play the football"* ❌ → **"I play football."** ✓ Con instrumentos es al revés: lo más común es **"I play the guitar"** (también se oye *"I play guitar"*, sobre todo en Estados Unidos).
 
 
 ## 3. Vocabulario clave
@@ -193,7 +195,7 @@ Hay convenciones específicas en inglés para hablar de habilidades en estas tre
 | play the piano | tocar el piano | /piˈænoʊ/ — "piánou" | She **can play the piano** very well. |
 | play the drums | tocar la batería | /drʌmz/ — "drams" | My brother **can play the drums**. |
 | play the violin | tocar el violín | /ˌvaɪəˈlɪn/ — "váiolin" | **Can** you **play the violin**? |
-| speak English | hablar inglés | /spɪk ˈɪŋɡlɪʃ/ — "spik inglish" | I **can speak** a little English. |
+| speak English | hablar inglés | /spiːk ˈɪŋɡlɪʃ/ — "spiik inglish" | I **can speak** a little English. |
 | speak French | hablar francés | /frɛntʃ/ — "frentch" | She **can speak** French and English. |
 | sing | cantar | /sɪŋ/ — "sing" | **Can** your sister **sing**? |
 | read music | leer música | /riːd ˈmjuːzɪk/ — "riid miúzik" | He **can play** guitar but **can't read** music. |
@@ -263,7 +265,7 @@ Hay convenciones específicas en inglés para hablar de habilidades en estas tre
 | ❌ I can to play the guitar. | ✓ I **can play** the guitar. | *Can* es un modal; el verbo que sigue nunca lleva *to* |
 | ❌ I want swimming in the sea. | ✓ I **want to swim** in the sea. | *Want* exige infinitivo (*to + verbo base*), nunca verbo *-ing* |
 | ❌ I like swim every morning. | ✓ I like **swimming** every morning. | Después de *like/love/hate*, el verbo lleva terminación *-ing* |
-| ❌ I can play guitar. (instrumento) | ✓ I can play **the** guitar. | Los instrumentos musicales siempre llevan el artículo *the* |
+| ❌ I can play the football. | ✓ I can play **football**. | Los deportes no llevan artículo; los instrumentos sí suelen llevar *the* (play the guitar) |
 | ❌ I'd like coffee in general. | ✓ I **like** coffee in general. | *Would like* expresa un deseo en el momento; para gustos permanentes se usa *like* sin *would* |
 | ❌ She can speaks English. | ✓ She **can speak** English. | El verbo modal *can* no cambia; el verbo siguiente es siempre la forma base |
 | ❌ I need studying tonight. | ✓ I **need to study** tonight. | *Need* exige *to + verbo base*, nunca *verbo -ing* |
@@ -380,7 +382,7 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 
 1. ❌ I can to swim but I can't to dive.
 2. ❌ She wants studying medicine at university.
-3. ❌ My brother can play guitar very well. *(instrumento)*
+3. ❌ My brother can play the basketball very well. *(deporte)*
 4. ❌ I like swim in the ocean — it's the best feeling.
 5. ❌ I'd like coffee every morning — it's my favorite drink.
 
@@ -389,7 +391,7 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 
 1. ✓ I **can swim** but I **can't dive**. *(después de *can*, el verbo es forma base sin *to*)*
 2. ✓ She **wants to study** medicine at university. *(*want* + to + verbo base, no verbo -ing)*
-3. ✓ My brother can play **the** guitar very well. *(los instrumentos musicales llevan *the*)*
+3. ✓ My brother can play **basketball** very well. *(los deportes no llevan *the*)*
 4. ✓ I like **swimming** in the ocean — it's the best feeling. *(*like* + verbo -ing)*
 5. ✓ I **like** coffee every morning — it's my favorite drink. *(*would like* es para un deseo en el momento; para gustos generales se usa *like* sin *would*)*
 
@@ -450,6 +452,6 @@ Usa esta lista para saber si ya dominas el módulo. Marca cada punto cuando pued
 
 [ ] Puedo describir mis habilidades y preferencias en un párrafo de 6–8 oraciones de forma natural
 
-[ ] Puedo corregir errores como *"can to swim"*, *"want swimming"* o *"play guitar"* (sin *the*) de forma inmediata
+[ ] Puedo corregir errores como *"can to swim"*, *"want swimming"* o *"play the football"* (deporte con *the*) de forma inmediata
 
 [ ] Puedo usar la escala completa de gustos (*love / like / don't mind / don't like / hate*) con ejemplos propios

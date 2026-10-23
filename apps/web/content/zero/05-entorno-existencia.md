@@ -165,7 +165,7 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 | Plural regular (ya tiene -s) | solo + ' | the **students'** books | los libros de los estudiantes |
 | Plural irregular (sin -s) | + 's | the **children's** classroom | el salón de los niños |
 
-> **Contraste con "of":** En inglés también se puede expresar posesión con *of*, pero es más formal y se usa principalmente para objetos o conceptos: *the door of the school* (la puerta de la escuela). Para personas, siempre es preferible el genitivo sajón: *the school's door* o directamente *my teacher's book*.
+> **Contraste con "of":** Con **personas** (y animales) usa siempre **'s**: *my teacher's book*, *Ana's phone*. Con **cosas y lugares** lo más común es *of*: *the door of the classroom*, *the end of the movie*. Con instituciones se aceptan las dos: *the school's rules* / *the rules of the school*.
 
 ⚠️ **Error frecuente:** Escribir *"the book of my teacher"* en conversación casual — en inglés es mucho más natural **"my teacher's book."**
 
@@ -201,7 +201,7 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 | child | children | /ˈtʃɪldrən/ — "chíldren" | There are **a few children** in the park. |
 | person | people | /ˈpiːpəl/ — "piipel" | There are **too many people** in the metro. |
 | foot | feet | /fiːt/ — "fiit" | My **feet** hurt. |
-| tooth | teeth | /tiːθ/ — "tiiz" | The **children's teeth** are healthy. |
+| tooth | teeth | /tiːθ/ — "tiith" (con la *th* de *think*, lengua entre los dientes) | The **children's teeth** are healthy. |
 
 ### Categoría 3: Cuantificadores
 
@@ -220,7 +220,7 @@ El genitivo sajón es la forma estándar de expresar posesión en inglés cuando
 ## 4. Ejemplos en contexto
 
 1. **There is** a school near my house — **it's** the biggest one in the neighborhood.
-*(Hay una escuela cerca de mi casa — es la más grande del colonia.)*
+*(Hay una escuela cerca de mi casa — es la más grande de la colonia.)*
 
 2. **There aren't any** empty seats on the metro — **there are too many** people at this hour.
 *(No hay lugares vacíos en el metro — hay demasiada gente a esta hora.)*
@@ -377,8 +377,8 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 
 1. ❌ There are a pencil on the floor next to your desk.
 2. ❌ There aren't some markers for the board — we need to buy more.
-3. ❌ I have a few homeworks to do tonight.
-4. ❌ There are too many informations in this book.
+3. ❌ I have a little homeworks to do tonight.
+4. ❌ There is too much informations in this book.
 5. ❌ Is there some water in the cooler? I'm really thirsty.
 
 
@@ -386,8 +386,8 @@ Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 
 1. ✓ **There is** a pencil on the floor next to your desk. *(sustantivo singular → there is)*
 2. ✓ There aren't **any** markers for the board — we need to buy more. *(negativa → any, no some)*
-3. ✓ I have **a lot of homework** to do tonight. *(*Homework* es incontable y no tiene plural; tampoco se combina con *a few*)*
-4. ✓ There is **a lot of information** in this book. *(*Information* es incontable — no tiene plural ni va con *too many*)*
+3. ✓ I have **a little homework** to do tonight. *(*Homework* es incontable: no tiene plural)*
+4. ✓ There is too much **information** in this book. *(*Information* es incontable: no tiene plural)*
 5. ✓ Is there **any** water in the cooler? I'm really thirsty. *(pregunta de información → any)*
 
 

@@ -74,7 +74,7 @@ Antes de agregar -ing, revisa cómo termina el verbo:
 | Terminación en -e | Quitar la -e y agregar -ing | make → mak**ing**, write → writ**ing**, come → com**ing** |
 | Terminación en -ie | Cambiar -ie por -y + -ing | lie → ly**ing**, die → dy**ing**, tie → ty**ing** |
 
-> **¿Cómo sé si debo doblar la consonante?** Busca el patrón CVC al final: **C**onsonante + **V**ocal + **C**onsonante (en la sílaba tónica). Si se cumple, dobla. Ejemplos: r-**u**-n ✓ (run→running), s-**i**-t ✓ (sit→sitting), pero **not** open→opening (termina en dos consonantes).
+> **¿Cómo sé si debo doblar la consonante?** Busca el patrón CVC al final: **C**onsonante + **V**ocal + **C**onsonante (en la sílaba tónica). Si se cumple, dobla. Ejemplos: r-**u**-n ✓ (run→running), s-**i**-t ✓ (sit→sitting), pero **no** open→opening (el acento está en la primera sílaba, *O-pen*, así que no se dobla).
 
 ⚠️ **Error frecuente:** *"runing"* ❌ → *"running"* ✓ / *"makeing"* ❌ → *"making"* ✓
 
@@ -262,7 +262,7 @@ Estos dos tiempos son los que más se confunden porque los dos hablan del "prese
 **Hijo:** Mamá, no me estoy olvidando. Voy a estudiar después de la película.
 **Mamá:** ¿A qué hora termina la película?
 **Hijo:** Está terminando en unos 30 minutos. ¡No te preocupes!
-**Mamá:** Bueno. Lláname cuando llegues. Aquí está lloviendo.
+**Mamá:** Bueno. Llámame cuando llegues. Aquí está lloviendo.
 **Hijo:** ¿También está lloviendo allá? Aquí está nublado pero todavía no está lloviendo. ¡Adiós, mamá!
 
 

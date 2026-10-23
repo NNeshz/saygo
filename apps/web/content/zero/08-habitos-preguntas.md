@@ -174,7 +174,7 @@ Esta es una de las distinciones más importantes del módulo y la que más confu
 | twice a week | dos veces a la semana | She calls me **twice a week**. |
 | three times a month | tres veces al mes | We have exams **three times a month**. |
 | once a month | una vez al mes | I visit my grandparents **once a month**. |
-| not very often | no muy seguido | I don't eat fast food — **not very often**. |
+| not very often | no muy seguido | Do you eat fast food? — **Not very often**. |
 | never | nunca | He **never** misses class. |
 
 ⚠️ **Error frecuente:** Responder *"How often do you exercise?"* con solo *"sometimes"* — aunque es correcto, es más natural y completo responder con una expresión específica: **"Once or twice a week"** o **"Not very often."**
@@ -229,7 +229,7 @@ Los conectores unen ideas y hacen el inglés sonar natural. Sin ellos, las oraci
 | three times a month | tres veces al mes | We visit them **three times a month**. |
 | once a month | una vez al mes | I get a haircut **once a month**. |
 | on weekends | los fines de semana | He plays football **on weekends**. |
-| not very often | no muy seguido | I don't cook — **not very often**. |
+| not very often | no muy seguido | Do you cook? — **Not very often**. |
 | never | nunca | I **never** miss class. |
 
 ### Categoría 3: Medios de transporte con How
@@ -434,7 +434,7 @@ Traduce las siguientes oraciones usando los temas del módulo.
 
 1. Mi mamá no trabaja los domingos — descansa y ve películas en casa.
 2. ¿Qué tan seguido vas al gimnasio? — Dos veces a la semana, los martes y jueves.
-3. ¿Por qué no comes en la cafetería? — Porque la comida está muy cara.
+3. ¿Por qué no comes en la cafetería? — Porque la comida está demasiado cara.
 4. ¿Quién cocina en tu casa? — Mi papá cocina los fines de semana.
 5. No escucho mucha música en inglés, pero quiero practicar más porque me ayuda con el idioma.
 

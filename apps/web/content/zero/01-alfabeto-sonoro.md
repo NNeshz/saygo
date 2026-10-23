@@ -58,7 +58,7 @@ En inglés, la duración de una vocal **cambia el significado** de la palabra. N
 | /ɔː/ | larga | labios redondeados, boca media | **door** | "oo" pero más abierta |
 | /ɜː/ | larga | labios neutros, boca media | **bird** | no existe en español; boca semi-abierta, labios sin forma |
 
-> **Nota:** Las dos puntos /iː/ /uː/ /ɑː/ /ɔː/ /ɜː/ significan que el sonido es **largo**. Estira la vocal el doble de lo normal.
+> **Nota:** Los dos puntos /iː/ /uː/ /ɑː/ /ɔː/ /ɜː/ significan que el sonido es **largo**. Estira la vocal el doble de lo normal.
 
 ⚠️ **Error frecuente:** Los estudiantes mexicanos pronuncian todas las vocales como en español. *Sit* y *seat* suenan igual para muchos principiantes, pero significan cosas distintas: "sentarse" vs "asiento".
 
@@ -387,7 +387,7 @@ Cada oración tiene un error de pronunciación escrita o un error de acento. Ide
 1. ❌ I have tree cats at home. (pronunciación de "three")
 2. ❌ She is reading a bery good book.
 3. ❌ The dogs in my street make a lot of noise. → Se pronuncia "dogs" como /dɒgs/
-4. ❌ I need to re-CORD my homework in my REcord book.
+4. ❌ I need to REcord my homework in my record book. *(verbo)*
 5. ❌ Can you spell dat word, please? (pronunciación de "that")
 
 
@@ -396,7 +396,7 @@ Cada oración tiene un error de pronunciación escrita o un error de acento. Ide
 1. ✓ **three** /θriː/ — se pronuncia con /θ/: lengua entre los dientes, no /t/
 2. ✓ **very** /ˈvɛri/ — la "v" es labiodental, no /b/
 3. ✓ **dogs** se pronuncia /dɒgz/ — la -s final es /z/ después de sonido sonoro
-4. ✓ **RE**-cord (sustantivo: disco/registro) — el acento va en la primera sílaba
+4. ✓ I need to re-**CORD** my homework — como **verbo** (registrar/grabar) el acento va en la segunda sílaba; como sustantivo (*a REcord*) va en la primera
 5. ✓ **that** /ðæt/ — se pronuncia con /ð/: lengua entre dientes, sonoro; no /d/ normal
 
 

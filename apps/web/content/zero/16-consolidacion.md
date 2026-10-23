@@ -129,24 +129,30 @@ El imperativo usa el **verbo base** sin sujeto. Sirve para instrucciones, órden
 
 **Números ordinales** (para leer fechas):
 
-| Número | Ordinal | Número | Ordinal |
-|--------|---------|--------|---------|
-| 1 | 1st (first) | 11 | 11th |
-| 2 | 2nd (second) | 12 | 12th |
-| 3 | 3rd (third) | 13 | 13th |
-| 4 | 4th (fourth) | 20 | 20th |
-| 5 | 5th (fifth) | 21 | 21st |
-| 6–9 | 6th–9th | 22 | 22nd |
-| 10 | 10th | 31 | 31st |
+| Número | Ordinal | Número | Ordinal | Número | Ordinal |
+|--------|---------|--------|---------|--------|---------|
+| 1 | 1st (first) | 11 | 11th (eleventh) | 21 | 21st (twenty-first) |
+| 2 | 2nd (second) | 12 | 12th (twelfth) | 22 | 22nd (twenty-second) |
+| 3 | 3rd (third) | 13 | 13th (thirteenth) | 23 | 23rd (twenty-third) |
+| 4 | 4th (fourth) | 14 | 14th (fourteenth) | 24 | 24th (twenty-fourth) |
+| 5 | 5th (fifth) | 15 | 15th (fifteenth) | 25 | 25th (twenty-fifth) |
+| 6 | 6th (sixth) | 16 | 16th (sixteenth) | 26 | 26th (twenty-sixth) |
+| 7 | 7th (seventh) | 17 | 17th (seventeenth) | 27 | 27th (twenty-seventh) |
+| 8 | 8th (eighth) | 18 | 18th (eighteenth) | 28 | 28th (twenty-eighth) |
+| 9 | 9th (ninth) | 19 | 19th (nineteenth) | 29 | 29th (twenty-ninth) |
+| 10 | 10th (tenth) | 20 | 20th (twentieth) | 30 | 30th (thirtieth) |
+| | | | | 31 | 31st (thirty-first) |
+
+> **Regla:** casi todos terminan en **-th**. Las excepciones son los que terminan en **1, 2, 3**: **-st** (first, twenty-first), **-nd** (second, twenty-second), **-rd** (third, twenty-third) — **pero** 11, 12 y 13 llevan -th (eleventh, twelfth, thirteenth). Ojo con la ortografía: five → **fifth**, nine → **ninth**, twelve → **twelfth**, twenty → **twentieth**.
 
 **Cómo leer fechas en inglés:**
 
-> **Today is Monday, April 28th, 2026.**
+> **Today is Tuesday, April 28th, 2026.**
 > **My birthday is on May 5th.**
 
 | Estructura | Ejemplo |
 |-----------|---------|
-| Día de la semana + mes + ordinal + año | Monday, April 28th, 2026 |
+| Día de la semana + mes + ordinal + año | Tuesday, April 28th, 2026 |
 | Con preposición: *on* + día/fecha | My birthday is **on** May 5th. |
 | Con preposición: *in* + mes/año | I was born **in** May / **in** 2008. |
 

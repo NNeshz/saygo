@@ -101,7 +101,9 @@ El verbo *have* (tener) es la forma principal para expresar posesión en inglés
 
 > **Nota para el alumno:** En este nivel, lo más importante es **reconocer** *have got* cuando lo escuchas o lees. Para producir oraciones propias, puedes usar siempre *have/has* — es correcto en todos los contextos.
 
-⚠️ **Error frecuente:** Decir *"I have got a brother"* sin contracción en conversación — en inglés natural siempre se contrae: **"I've got a brother."** La forma larga suena artificial en el habla cotidiana.
+⚠️ **Error frecuente:** Mezclar *do* con *have got*: *"Do you have got a brother?"* ❌. Con *have got* la pregunta se hace invirtiendo *have*: **"Have you got a brother?"** ✓ — o sin *got*: **"Do you have a brother?"** ✓
+
+> **Nota:** *I have got a brother* (sin contracción) es correcto; en conversación casi siempre se dice contraído: *I've got a brother*.
 
 
 ### 2.3 Much / Many / A lot of
@@ -151,7 +153,7 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 | for a long time | durante mucho tiempo |
 | for a few minutes | durante unos minutos |
 
-> **Nota A1:** En este módulo aprendes *for* con tiempos simples pasados y presentes (*I studied for…*, *I work here for…*). La combinación con *Present Perfect* (*I have lived here for five years*) aparece más en A2 — por ahora, reconócela cuando la veas pero no te preocupes por producirla.
+> **Nota A1:** En este módulo usas *for* + duración en oraciones sencillas (*We visit them for a week every summer*, *I study for two hours every day*). Para decir "llevo X años viviendo aquí" el inglés usa otro tiempo verbal (*I have lived here for five years*) que verás en A2 — por ahora solo reconócelo cuando lo veas.
 
 ⚠️ **Error frecuente:** Traducir "desde hace" literalmente como *"since two hours"* — *since* se usa con un punto de inicio (*since 2020*, *since Monday*), mientras que *for* se usa con una duración: **"for two hours."**
 
@@ -212,8 +214,8 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 3. **Does your grandmother have** a smartphone? — Yes, she **does** — she uses WhatsApp a lot.
 *(¿Tu abuela tiene smartphone? — Sí — usa mucho WhatsApp.)*
 
-4. **My parents have** been married **for** 25 years — they met in Puebla.
-*(Mis papás llevan 25 años casados — se conocieron en Puebla.)*
+4. **My parents have** a small store in Puebla — they work there **for** ten hours every day.
+*(Mis papás tienen una tiendita en Puebla — trabajan ahí diez horas todos los días.)*
 
 5. She **has a lot of** cousins on her mother's side — **many** of them live in the same neighborhood.
 *(Tiene muchos primos por parte de su mamá — muchos de ellos viven en la misma colonia.)*
@@ -239,12 +241,12 @@ Los tres expresan una cantidad grande, pero se usan con distintos tipos de susta
 | ❌ Error frecuente | ✓ Corrección | Por qué es incorrecto |
 |-------------------|-------------|----------------------|
 | ❌ She doesn't has any siblings. | ✓ She **doesn't have** any siblings. | Con *doesn't*, el verbo regresa a la forma base *have*, nunca *has* |
-| ❌ I have got a brother. (sin contracción en habla) | ✓ **I've got** a brother. | En el habla cotidiana, *have got* siempre se contrae; la forma larga suena muy formal o artificial |
+| ❌ Do you have got a brother? | ✓ **Have you got** a brother? / **Do you have** a brother? | No se mezclan *do* y *have got*: o inviertes *have*, o usas *do* + *have* sin *got* |
 | ❌ She has much cousins. | ✓ She has **many** cousins. | *Cousins* es contable; con contables se usa *many*, no *much* |
 | ❌ I don't have much brothers. | ✓ I don't have **many** brothers. | *Brothers* es contable; en negativas con contables se usa *many* |
 | ❌ I live here since two years. | ✓ I have lived here **for** two years. | *Since* va con un punto de inicio (*since 2022*); para duración se usa *for* + período |
 | ❌ My parents have married for 10 years. | ✓ My parents **have been married** for 10 years. | El estado de estar casado requiere el verbo *be*: *have been married* |
-| ❌ I have a lot of family in Oaxaca. (queriendo decir "many relatives") | ✓ I have **a lot of relatives** / **many family members** in Oaxaca. | *Family* en inglés es colectivo e incontable en singular; no se pluraliza como en español |
+| ❌ I have many familys in Oaxaca. | ✓ I have **a lot of relatives** / **many family members** in Oaxaca. | *Family* es un grupo; para hablar de "muchos familiares" se usa *relatives* o *family members* |
 | ❌ Does she has children? | ✓ **Does she have** children? | Con *does* en interrogativas, el verbo principal es siempre la forma base: *have*, no *has* |
 
 
@@ -323,14 +325,14 @@ En español, "mucho" funciona para casi todo: muchos primos, mucho tiempo, mucha
 
 **Texto en inglés:**
 
-My family is not very big, but it's very close. My parents have been married for 22 years and they have three children — my older brother Diego, my younger sister Camila, and me. I haven't got many cousins on my dad's side, but on my mom's side I have a lot — she has many brothers and sisters. My grandparents live in Querétaro and we visit them for a week every summer. My grandfather has a small farm and my grandmother has a lot of recipes that she teaches us every time we visit. I love my family a lot.
+My family is not very big, but it's very close. My parents are married and they have three children — my older brother Diego, my younger sister Camila, and me. I haven't got many cousins on my dad's side, but on my mom's side I have a lot — she has many brothers and sisters. My grandparents live in Querétaro and we visit them for a week every summer. My grandfather has a small farm and my grandmother has a lot of recipes that she teaches us every time we visit. I love my family a lot.
 
 *(98 palabras)*
 
 
 **Traducción al español:**
 
-Mi familia no es muy grande, pero es muy unida. Mis papás llevan 22 años casados y tienen tres hijos — mi hermano mayor Diego, mi hermana menor Camila, y yo. No tengo muchos primos por parte de mi papá, pero por parte de mi mamá tengo muchos — ella tiene muchos hermanos y hermanas. Mis abuelos viven en Querétaro y los visitamos durante una semana cada verano. Mi abuelo tiene una pequeña granja y mi abuela tiene muchas recetas que nos enseña cada vez que vamos. Quiero mucho a mi familia.
+Mi familia no es muy grande, pero es muy unida. Mis papás están casados y tienen tres hijos — mi hermano mayor Diego, mi hermana menor Camila, y yo. No tengo muchos primos por parte de mi papá, pero por parte de mi mamá tengo muchos — ella tiene muchos hermanos y hermanas. Mis abuelos viven en Querétaro y los visitamos durante una semana cada verano. Mi abuelo tiene una pequeña granja y mi abuela tiene muchas recetas que nos enseña cada vez que vamos. Quiero mucho a mi familia.
 
 
 ## 9. Ejercicios de práctica
@@ -360,18 +362,18 @@ Escribe la forma correcta: *have/has*, *have got*, *many/much/a lot of*, o *for*
 
 Cada oración tiene un error. Identifícalo y escribe la versión correcta.
 
-1. ❌ My mother doesn't has any sisters — she's an only child.
+1. ❌ My mother doesn't has any brothers or sisters — she's an only child.
 2. ❌ Do you have much cousins in Jalisco?
-3. ❌ I have got a big family. *(en habla cotidiana, sin contracción)*
+3. ❌ Do you have got any cousins? *(pregunta con have got)*
 4. ❌ She has worked here since three years.
 5. ❌ Does your grandfather has a smartphone?
 
 
 ### ✅ Respuestas — Ejercicio 2
 
-1. ✓ My mother **doesn't have** any sisters — she's an only child. *(con doesn't, el verbo es have, no has)*
+1. ✓ My mother **doesn't have** any brothers or sisters — she's an only child. *(con doesn't, el verbo es have, no has)*
 2. ✓ Do you have **many** cousins in Jalisco? *(*Cousins* es contable; se usa *many*, no *much*)*
-3. ✓ **I've got** a big family. *(en conversación, *have got* siempre se contrae)*
+3. ✓ **Have you got** any cousins? / **Do you have** any cousins? *(no se mezcla *do* con *have got*)*
 4. ✓ She has worked here **for** three years. *(*Since* va con punto de inicio; para duración se usa *for*)*
 5. ✓ **Does** your grandfather **have** a smartphone? *(con *does*, el verbo principal es la forma base *have*)*
 

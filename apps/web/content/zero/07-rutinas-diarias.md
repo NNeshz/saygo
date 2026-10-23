@@ -159,7 +159,7 @@ Estas tres preposiciones se usan con el tiempo, pero nunca son intercambiables.
 | Hora | Expresión en inglés | Cómo leerlo |
 |------|-------------------|------------|
 | 7:00 | seven o'clock | "seven o'clock" |
-| 7:15 | quarter past seven | "cuarto pasado de las siete" |
+| 7:15 | quarter past seven | "las siete y cuarto" |
 | 7:30 | half past seven | "siete y media" |
 | 7:45 | quarter to eight | "cuarto para las ocho" |
 | 7:10 | ten past seven | "siete y diez" |

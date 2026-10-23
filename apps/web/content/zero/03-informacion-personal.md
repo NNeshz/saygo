@@ -298,9 +298,9 @@ Las preguntas WH- comienzan con una palabra interrogativa y **no pueden responde
 | ❌ Do you are from Jalisco? | ✓ **Are** you from Jalisco? | TO BE es su propio auxiliar — nunca se usa *do* con él |
 | ❌ Where you are from? | ✓ Where **are you** from? | En preguntas WH- el verbo va antes del sujeto |
 | ❌ Her is my friend. | ✓ **She** is my friend. | *Her* es posesivo (Her book); el sujeto es *She* |
-| ❌ His book is on it's place. | ✓ His book is on **its** place. | *It's* = "it is"; *its* = posesivo (sin apóstrofo) |
+| ❌ His book is in it's place. | ✓ His book is in **its** place. | *It's* = "it is"; *its* = posesivo (sin apóstrofo) |
 | ❌ Their mother, she is a nurse. | ✓ **Their** mother **is** a nurse. | No se repite el sujeto con pronombre en inglés |
-| ❌ What is the color of your bag? | ✓ **What color is** your bag? | En inglés se dice "What color is..." directamente, sin "of" |
+| ❌ What is color your bag? | ✓ **What color is** your bag? | El orden es *What color* + *is* + sujeto (también se oye *What is the color of your bag?*, pero es menos común) |
 
 
 ## 6. Comparación o contraste

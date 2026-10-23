@@ -87,13 +87,15 @@ Estos adverbios **no siguen la regla** de -ly y deben memorizarse:
 
 El adverbio de manera va **después del verbo** o, si hay objeto directo, **después del objeto**:
 
-| Estructura | Ejemplo correcto | Incorrecto |
+| Estructura | Ejemplo correcto | Evita |
 |-----------|-----------------|-----------|
-| verbo + adverbio | She **sings beautifully**. | ❌ She beautifully sings. |
+| verbo + adverbio | She **sings beautifully**. | Menos natural: She beautifully sings. |
 | verbo + objeto + adverbio | He **plays the guitar well**. | ❌ He plays well the guitar. |
 | verbo + adverbio (sin objeto) | They **work quickly**. | ✓ También: They quickly work. (menos común) |
 
 ⚠️ **Error frecuente:** Poner el adverbio entre el verbo y su objeto directo. *"She speaks well English"* ❌ → *"She speaks English well"* ✓
+
+> **Nota:** Algunos adverbios en *-ly* como *quickly*, *easily* o *carefully* también pueden ir **antes** del verbo: *She **quickly** finished the test.* Es correcto. Lo que nunca se hace es separar el verbo de su objeto (*speaks well English* ❌). Si dudas, ponlo al final.
 
 
 ### 2.5 Contraste: adjetivo vs. adverbio
@@ -184,7 +186,7 @@ Fórmula para elegir:
 | ❌ I study hardly every day. | ✓ I study **hard** every day. | *hardly* significa "casi no", no "duro/intensamente" |
 | ❌ She speaks well English. | ✓ She speaks English **well**. | El adverbio va después del objeto directo, no entre verbo y objeto |
 | ❌ He is a driver carefully. | ✓ He is a **careful** driver. | Para describir un sustantivo se usa el adjetivo, no el adverbio |
-| ❌ They arrived lately to the party. | ✓ They arrived **late** to the party. | *lately* significa "últimamente", no "tarde" |
+| ❌ They arrived lately at the party. | ✓ They arrived **late** at the party. | *lately* significa "últimamente", no "tarde" |
 | ❌ She easyly finished the test. | ✓ She **easily** finished the test. | Adjetivos en -y cambian a -ily (easy → easily) |
 
 

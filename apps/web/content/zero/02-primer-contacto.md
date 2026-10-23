@@ -108,7 +108,7 @@ En inglés **siempre se necesita un sujeto** explícito antes del verbo. No pued
 |--------|---------|--------------|
 | Hello | Hola | Cualquier momento, formal o informal |
 | Hi | Hola | Informal, con amigos y conocidos |
-| Good morning | Buenos días | De las 12:00 am a las 12:00 pm |
+| Good morning | Buenos días | Por la mañana, hasta el mediodía |
 | Good afternoon | Buenas tardes | De las 12:00 pm a las 6:00 pm |
 | Good evening | Buenas noches (al llegar) | De las 6:00 pm en adelante (al saludar) |
 | Good night | Buenas noches (al despedirse) | Al despedirse para dormir |

@@ -133,7 +133,7 @@ Estos verbos **no siguen la regla de -ed** — tienen su propia forma de pasado 
 | see | **saw** | ver | We **saw** a great movie last night. |
 | buy | **bought** | comprar | I **bought** new shoes for the *quince*. |
 | have | **had** | tener / haber | They **had** a big problem. |
-| do | **did** | hacer | What did you **do** yesterday? |
+| do | **did** | hacer | I **did** my homework after dinner. |
 | get | **got** | obtener / llegar | She **got** a 10 on her exam. |
 | come | **came** | venir | My cousin **came** from Monterrey. |
 | know | **knew** | saber / conocer | I **knew** the answer immediately. |
@@ -216,8 +216,8 @@ Estas palabras y expresiones indican que la acción ocurrió en el pasado y van 
 | forma completamente distinta | go | **went** | We **went** to the *tianguis*. |
 | forma completamente distinta | buy | **bought** | I **bought** a new phone. |
 | forma completamente distinta | say | **said** | He **said** he was sorry. |
-| terminación -ake/-ake | make | **made** | Mom **made** *chiles rellenos*. |
-| terminación -ake/-ake | take | **took** | We **took** the *pesero* home. |
+| cambia una letra | make | **made** | Mom **made** *chiles rellenos*. |
+| cambia la vocal | take | **took** | We **took** the *pesero* home. |
 | igual que el presente | read | **read** | I **read** /rɛd/ the book yesterday. |
 | igual que el presente | cut | **cut** | She **cut** the cake for everyone. |
 

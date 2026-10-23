@@ -219,7 +219,7 @@ Para describir el clima, usa **It is / It's + adjetivo** o **It is + verbo en -i
 | ❌ Who does go to school early? | ✓ **Who goes** to school early? | Cuando *who* es sujeto, el verbo lleva -s directamente |
 | ❌ Let's to go to the park! | ✓ Let's **go** to the park! | Después de *Let's* va el verbo base sin *to* |
 | ❌ Is raining outside. | ✓ **It's** raining outside. | El sujeto *it* es obligatorio para el clima en inglés |
-| ❌ The weather is sunny. | ✓ **It's** sunny. / The weather **is** sunny. | Ambas formas son válidas, pero *It's sunny* es la más natural |
+| ❌ It's rain today. | ✓ It's **rainy** today. / It's **raining**. | *rain* es sustantivo o verbo; para describir el clima usa el adjetivo (*rainy*) o el presente continuo (*raining*) |
 
 
 ## 6. Comparación o contraste
@@ -311,7 +311,7 @@ Vivo en Guadalajara y el clima aquí es interesante. En verano hace mucho calor 
 
 Escribe la palabra interrogativa correcta (How much, How many, Which, Who, Let's) en el espacio en blanco.
 
-1. ________ does a *michelada* cost at the *cantina* downtown?
+1. ________ does an *agua fresca* cost at the *tianguis*?
 2. ________ languages can you speak fluently?
 3. ________ subject do you prefer — history or geography?
 4. ________ is the captain of the school football team?
@@ -320,7 +320,7 @@ Escribe la palabra interrogativa correcta (How much, How many, Which, Who, Let's
 
 ### ✅ Respuestas — Ejercicio 1
 
-1. **How much** does a michelada cost at the cantina downtown?
+1. **How much** does an agua fresca cost at the tianguis?
 2. **How many** languages can you speak fluently?
 3. **Which** subject do you prefer — history or geography?
 4. **Who** is the captain of the school football team?
@@ -353,7 +353,7 @@ Traduce las siguientes oraciones.
 
 1. ¿Cuántas materias tienes este semestre?
 2. ¿Cuánto cuesta el uniforme de la prepa?
-3. ¿Cuál autobus va al centro histórico — el rojo o el verde?
+3. ¿Cuál autobús va al centro histórico — el rojo o el verde?
 4. ¿Cómo está el clima en tu ciudad en agosto?
 5. No lleguemos tarde — la clase empieza a las 7.
 
