@@ -26,6 +26,34 @@ function parseDocFile(filePath: string, slug: string[]): DocItem {
     slug,
     href: `/docs/${slug.join("/")}`,
     order: fm.order ?? 99,
+    submodule: fm.submodule,
+    duration: fm.duration,
+    objectives: fm.objectives,
+  }
+}
+
+function readDocItems(dir: string, parentSlug: string[]): DocItem[] {
+  return fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
+    .map((file) =>
+      parseDocFile(path.join(dir, file), [...parentSlug, path.basename(file, ".md")])
+    )
+    .sort((a, b) => a.order - b.order)
+}
+
+/** Una clase dividida en submódulos: carpeta con _meta.json dentro del nivel. */
+function readModuleItem(dir: string, slug: string[]): DocItem | null {
+  const meta = readMeta(dir)
+  if (!meta) return null
+  return {
+    title: meta.title,
+    description: meta.description,
+    slug,
+    href: `/docs/${slug.join("/")}`,
+    order: meta.order ?? 99,
+    hours: meta.hours,
+    children: readDocItems(dir, slug),
   }
 }
 
@@ -40,16 +68,15 @@ export function getDocTree(): DocSection[] {
     const sectionDir = path.join(CONTENT_DIR, entry.name)
     const meta = readMeta(sectionDir)
 
-    const files = fs
-      .readdirSync(sectionDir)
-      .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
+    const modules = fs
+      .readdirSync(sectionDir, { withFileTypes: true })
+      .filter((d) => d.isDirectory())
+      .map((d) => readModuleItem(path.join(sectionDir, d.name), [entry.name, d.name]))
+      .filter((item): item is DocItem => item !== null)
 
-    const items: DocItem[] = files
-      .map((file) => {
-        const slug = path.basename(file, ".md")
-        return parseDocFile(path.join(sectionDir, file), [entry.name, slug])
-      })
-      .sort((a, b) => a.order - b.order)
+    const items: DocItem[] = [...readDocItems(sectionDir, [entry.name]), ...modules].sort(
+      (a, b) => a.order - b.order
+    )
 
     sections.push({
       label: meta?.title ?? entry.name.toUpperCase(),
@@ -89,6 +116,13 @@ export function getSectionByKey(key: string): DocSection | null {
   return getDocTree().find((s) => s.key === key) ?? null
 }
 
+/** Módulo con submódulos (ej. ["zero", "15-futuros"]), o null si el slug es una lección. */
+export function getModuleBySlug(slug: string[]): DocItem | null {
+  const section = getSectionByKey(slug[0] ?? "")
+  const href = `/docs/${slug.join("/")}`
+  return section?.items.find((item) => item.children && item.href === href) ?? null
+}
+
 export function getAllDocSlugs(): string[][] {
   const tree = getDocTree()
   const slugs: string[][] = []
@@ -96,13 +130,19 @@ export function getAllDocSlugs(): string[][] {
     slugs.push([section.key])
     for (const item of section.items) {
       slugs.push(item.slug)
+      for (const child of item.children ?? []) {
+        slugs.push(child.slug)
+      }
     }
   }
   return slugs
 }
 
+/** Lecciones en orden de lectura; los módulos se reemplazan por sus submódulos. */
 export function getDocFlatList(): DocItem[] {
-  return getDocTree().flatMap((s) => s.items)
+  return getDocTree().flatMap((s) =>
+    s.items.flatMap((item) => item.children ?? [item])
+  )
 }
 
 export function getAdjacentDocs(slug: string[]): {

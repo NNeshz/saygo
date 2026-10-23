@@ -68,13 +68,26 @@ function checkExercise(file: string, tierId: string, idx: number, ex: any) {
   }
 }
 
-for (const level of fs.readdirSync(CONTENT_DIR)) {
-  const dir = path.join(CONTENT_DIR, level)
-  if (!fs.statSync(dir).isDirectory()) continue
+/** Carpetas de nivel y de módulos con submódulos (content/{level}/{módulo}/). */
+function exerciseDirs(): string[] {
+  const dirs: string[] = []
+  for (const level of fs.readdirSync(CONTENT_DIR)) {
+    const dir = path.join(CONTENT_DIR, level)
+    if (!fs.statSync(dir).isDirectory()) continue
+    dirs.push(level)
+    for (const sub of fs.readdirSync(dir)) {
+      if (fs.statSync(path.join(dir, sub)).isDirectory()) dirs.push(`${level}/${sub}`)
+    }
+  }
+  return dirs
+}
+
+for (const rel of exerciseDirs()) {
+  const dir = path.join(CONTENT_DIR, rel)
   for (const f of fs.readdirSync(dir)) {
     if (!f.endsWith(".exercises.json")) continue
     fileCount++
-    const file = `${level}/${f}`
+    const file = `${rel}/${f}`
     let data: any
     try {
       data = JSON.parse(fs.readFileSync(path.join(dir, f), "utf-8"))

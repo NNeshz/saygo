@@ -4,6 +4,7 @@ export { DocsMobileNav } from "./components/docs-mobile-nav"
 export { Markdown } from "./components/markdown"
 export { DocsPrevNext } from "./components/docs-prev-next"
 export { LevelIndex } from "./components/level-index"
+export { ModuleIndex } from "./components/module-index"
 export { TableOfContents } from "./components/table-of-contents"
 export { PracticeSection } from "./components/practice/practice-section"
 export { LessonStatusBadge, LessonNavCheck } from "./components/practice/lesson-status"
@@ -13,6 +14,7 @@ export {
   getAllDocSlugs,
   getAdjacentDocs,
   getSectionByKey,
+  getModuleBySlug,
   getPracticeBySlug,
 } from "./lib/content"
 export { extractHeadings, slugifyHeading } from "./lib/headings"

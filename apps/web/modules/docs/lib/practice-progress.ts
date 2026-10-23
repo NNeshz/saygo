@@ -108,3 +108,14 @@ export function isLessonComplete(
 ): boolean {
   return completedTierCount(progress, lessonKey) === TIER_IDS.length
 }
+
+/** Un módulo con submódulos está completo cuando todos sus submódulos lo están. */
+export function isModuleComplete(
+  progress: PracticeProgress,
+  childKeys: string[]
+): boolean {
+  return (
+    childKeys.length > 0 &&
+    childKeys.every((key) => isLessonComplete(progress, key))
+  )
+}

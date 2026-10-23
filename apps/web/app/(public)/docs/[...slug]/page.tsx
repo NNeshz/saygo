@@ -6,12 +6,14 @@ import {
   getDocBySlug,
   getAdjacentDocs,
   getSectionByKey,
+  getModuleBySlug,
   getPracticeBySlug,
 } from "@/modules/docs"
 import {
   Markdown,
   DocsPrevNext,
   LevelIndex,
+  ModuleIndex,
   DownloadDropdown,
   PracticeSection,
 } from "@/modules/docs"
@@ -32,6 +34,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const section = getSectionByKey(slug[0])
     if (!section) return {}
     return { title: `${section.label} | SayGo` }
+  }
+  const moduleItem = getModuleBySlug(slug)
+  if (moduleItem) {
+    return { title: `${moduleItem.title} | SayGo`, description: moduleItem.description }
   }
   const doc = getDocBySlug(slug)
   if (!doc) return {}
@@ -61,12 +67,20 @@ export default async function DocsSlugPage({ params }: Props) {
     return <LevelIndex section={section} />
   }
 
-  // ── Lesson page: /docs/a1/01-greetings ──────────────────────────────────
+  const section = getSectionByKey(slug[0])
+
+  // ── Module index: /docs/zero/15-futuros ─────────────────────────────────
+  const moduleItem = getModuleBySlug(slug)
+  if (moduleItem && section) {
+    return <ModuleIndex section={section} moduleItem={moduleItem} />
+  }
+
+  // ── Lesson page: /docs/a1/01-greetings · /docs/zero/15-futuros/01-… ─────
   const doc = getDocBySlug(slug)
   if (!doc) notFound()
 
   const { prev, next } = getAdjacentDocs(slug)
-  const section = getSectionByKey(slug[0])
+  const parentModule = slug.length > 2 ? getModuleBySlug(slug.slice(0, -1)) : null
   const headings = extractHeadings(doc.content)
   const { h1, rest } = splitAtH1(doc.content)
   const practice = getPracticeBySlug(slug)
@@ -88,6 +102,17 @@ export default async function DocsSlugPage({ params }: Props) {
                 className="hover:text-foreground transition-colors"
               >
                 {section.label}
+              </Link>
+              <span>/</span>
+            </>
+          )}
+          {parentModule && (
+            <>
+              <Link
+                href={parentModule.href}
+                className="hover:text-foreground transition-colors truncate"
+              >
+                {parentModule.title}
               </Link>
               <span>/</span>
             </>

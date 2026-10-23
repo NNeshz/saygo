@@ -44,11 +44,17 @@ export function LevelIndex({ section }: Props) {
               <LessonStatusBadge
                 lessonKey={item.slug.join("/")}
                 number={String(idx + 1).padStart(2, "0")}
+                childKeys={item.children?.map((c) => c.slug.join("/"))}
               />
               <div className="flex-1 min-w-0">
                 <div className="flex items-center justify-between gap-2">
                   <h3 className="font-semibold text-sm group-hover:text-primary transition-colors">
                     {item.title}
+                    {item.children && (
+                      <span className="ml-2 font-normal text-xs text-muted-foreground">
+                        {item.children.length} submódulos
+                      </span>
+                    )}
                   </h3>
                   <IconArrowRight
                     size={16}
