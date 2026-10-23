@@ -1,0 +1,155 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Usa at / on / in y las expresiones de futuro, y reconoce los lugares de la ciudad.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la preposición correcta: We're going to visit my grandma ___ Sunday.",
+          "options": ["in", "on", "at"],
+          "answer": 1,
+          "explanation": "Los días de la semana van con on: on Sunday."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": [
+            "I'm going to study in next Monday.",
+            "I'm going to study on next Monday.",
+            "I'm going to study next Monday."
+          ],
+          "answer": 2,
+          "explanation": "Con next, this, tomorrow y tonight no se usa preposición: next Monday."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la preposición correcta: The soccer game is going to start ___ 5 o'clock.",
+          "options": ["at", "on", "in"],
+          "answer": 0,
+          "explanation": "Las horas exactas van con at: at 5 o'clock."
+        },
+        {
+          "type": "choice",
+          "prompt": "— Where are you going to buy the medicine? — At the ___.",
+          "options": ["stadium", "library", "pharmacy"],
+          "answer": 2,
+          "explanation": "La medicina se compra en la farmacia: pharmacy. Library es biblioteca y stadium es estadio."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿A dónde vas a ir el sábado?): Where ___ you going to go on Saturday?",
+          "answers": ["are"],
+          "hint": "El sujeto es you.",
+          "explanation": "Pregunta WH-: WH- + are + you + going to + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (El camión está muy lleno. No vamos a encontrar lugar): The bus is very full. We ___ going to get a seat.",
+          "answers": ["aren't", "are not"],
+          "hint": "Es negativo y el sujeto es we.",
+          "explanation": "Predicción con evidencia en negativo: We aren't going to + verbo base."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Pregunta por planes con WH- + going to y averigua quién va a hacer cada cosa.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta de sujeto (¿Quién va a traer los refrescos?): ___ is going to bring the sodas?",
+          "answers": ["Who"],
+          "hint": "Preguntas por la persona que hace la acción.",
+          "explanation": "Cuando no sabes quién hace la acción, Who es el sujeto: Who is going to + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (¿A qué hora vas a salir? — A las 4): What ___ are you going to leave? — At 4.",
+          "answers": ["time"],
+          "explanation": "What time…? pregunta la hora; se contesta con at + hora."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (Vamos a ir al tianguis pasado mañana): We're going to go to the tianguis the day ___ tomorrow.",
+          "answers": ["after"],
+          "explanation": "Pasado mañana = the day after tomorrow, sin preposición antes."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Qué vas a hacer este fin de semana?):",
+          "words": ["do", "are", "weekend", "What", "going", "you", "this", "to"],
+          "answer": "What are you going to do this weekend",
+          "explanation": "WH- + are + you + going to + verbo + expresión de tiempo (this weekend, sin preposición)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi papá va a ir al banco mañana en la mañana):",
+          "words": ["bank", "to", "My", "going", "tomorrow", "is", "the", "go", "dad", "to", "morning"],
+          "answer": "My dad is going to go to the bank tomorrow morning",
+          "explanation": "Orden del plan: quién + going to + verbo + a dónde + cuándo."
+        },
+        {
+          "type": "choice",
+          "prompt": "— Who is going to wait for Sofi at the bus stop? ¿Cuál es la respuesta corta correcta?",
+          "options": ["My brother does.", "My brother is.", "My brother goes."],
+          "answer": 1,
+          "explanation": "Con going to la respuesta corta usa TO BE: My brother is."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce planes completos con fecha, hora y lugar, preguntas WH- y predicciones con evidencia.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mis primos van a llegar dentro de dos días): My cousins are going to arrive ___.",
+          "answers": ["in two days"],
+          "hint": "Dentro de… = in + cantidad de tiempo.",
+          "explanation": "In + cantidad de tiempo significa 'dentro de': in two days."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¿Quién va a cocinar el domingo?): ___ cook on Sunday?",
+          "answers": ["Who is going to", "Who's going to"],
+          "explanation": "Pregunta de sujeto: Who + is + going to + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (¡Mira! El metro está lleno. No vamos a entrar): Look! The metro is full. We ___ get in.",
+          "answers": ["aren't going to", "are not going to"],
+          "explanation": "Predicción con evidencia en negativo: we + aren't going to + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Dónde vas a esperar a tu mamá?):",
+          "words": ["wait", "your", "Where", "for", "going", "you", "mom", "are", "to"],
+          "answer": "Where are you going to wait for your mom",
+          "explanation": "WH- + are + you + going to + verbo base + complemento (wait for)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Vamos a ir al cine el viernes a las 6):",
+          "words": ["cinema", "Friday", "go", "We're", "at", "to", "the", "6", "going", "on", "to"],
+          "answer": "We're going to go to the cinema on Friday at 6",
+          "explanation": "Plan completo: quién + going to + verbo + lugar + día (on) + hora (at)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu hermanito corre por la casa con un vaso de agua muy lleno. ¿Qué le dices?",
+          "options": [
+            "Careful! You drop it!",
+            "Careful! You going to drop it!",
+            "Careful! You're going to drop it!"
+          ],
+          "answer": 2,
+          "explanation": "Ves la evidencia ahora, así que predices con going to, y el TO BE es obligatorio: You're going to drop it."
+        }
+      ]
+    }
+  ]
+}

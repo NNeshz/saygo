@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Distingue going to (plan o evidencia) de will (decisión en el momento) y reconoce Let's, Do you want to y have to.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Lo decidieron la semana pasada. Elige la opción más natural: ___ have a party on Saturday.",
+          "options": ["We going to", "We're going to", "We will going to"],
+          "answer": 1,
+          "explanation": "Un plan ya decidido antes de hablar usa be going to: We're going to have a party. \"We going to\" no tiene are y \"We will going to\" mezcla las dos formas."
+        },
+        {
+          "type": "choice",
+          "prompt": "Lo decides en este momento. Elige la opción más natural: — There's no ice! — No problem, ___ buy some.",
+          "options": ["I'll", "I'm going to", "I going to"],
+          "answer": 0,
+          "explanation": "Una decisión que tomas mientras hablas usa will: I'll buy some. \"I'm going to\" no es error, pero suena como si ya lo hubieras planeado; \"I going to\" sí está mal porque le falta am."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: My sister ___ to bring the cups.",
+          "options": ["have", "having", "has"],
+          "answer": 2,
+          "explanation": "Con he / she / it se usa has to: My sister has to bring the cups."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la invitación correcta:",
+          "options": ["Do you want come to the party?", "Do you want to come to the party?", "Do you want coming to the party?"],
+          "answer": 1,
+          "explanation": "Después de want siempre va to + verbo base: Do you want to come…?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la propuesta (¡compremos la piñata!): ___ buy the piñata!",
+          "answers": ["Let's", "Let us"],
+          "hint": "Propones algo al grupo y tú también participas.",
+          "explanation": "Para proponer algo al grupo usa Let's + verbo base, sin to: Let's buy the piñata!"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (yo no tengo que pagar): I don't ___ to pay.",
+          "answers": ["have"],
+          "hint": "Con don't el verbo va en forma base.",
+          "explanation": "El negativo de have to es don't have to: I don't have to pay (no es necesario que pague)."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Invita, ofrece ayuda, acepta y rechaza con una razón en situaciones de fiesta.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa el rechazo (tengo que ayudar a mi mamá): Sorry, I can't. I ___ help my mom.",
+          "answers": ["have to"],
+          "hint": "Tengo que = …",
+          "explanation": "Para dar una razón de obligación usa I have to + verbo base: I have to help my mom."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la oferta (¿quieres que traiga los platos?): ___ I bring the plates?",
+          "answers": ["Shall"],
+          "hint": "Pregunta para ofrecer ayuda.",
+          "explanation": "Shall I + verbo base? sirve para ofrecer ayuda: Shall I bring the plates? = ¿Traigo los platos?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿tu hermano tiene que trabajar el sábado?): ___ your brother have to work on Saturday?",
+          "answers": ["Does"],
+          "hint": "Your brother = he.",
+          "explanation": "Las preguntas con have to usan Do / Does. Con he / she / it: Does your brother have to work?"
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Quieres hacer sándwiches conmigo?):",
+          "words": ["sandwiches", "to", "do", "with", "make", "you", "me", "want"],
+          "answer": "Do you want to make sandwiches with me",
+          "explanation": "Invitación: Do you want to + verbo base + resto de la oración."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi tía va a traer el pastel):",
+          "words": ["bring", "aunt", "the", "going", "my", "cake", "to", "is"],
+          "answer": "My aunt is going to bring the cake",
+          "explanation": "Es un plan ya decidido: sujeto + is + going to + verbo base."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu amiga dice: \"Let's buy balloons at the market!\" ¿Cómo aceptas?",
+          "options": ["No, I don't.", "I have to balloons.", "Great idea!"],
+          "answer": 2,
+          "explanation": "Para aceptar una propuesta con Let's… respondes Great idea! o Sure!"
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Elige going to o will por evidencia, opinión o promesa y domina have to en negativo y preguntas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (ves que la piñata ya está rota de un lado): Look! The piñata ___ break!",
+          "answers": ["is going to", "'s going to"],
+          "hint": "Hay evidencia: lo estás viendo.",
+          "explanation": "Una predicción con evidencia que ves ahora usa going to: The piñata is going to break!"
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la promesa (no se lo voy a decir a Sofi): Don't worry. I ___ tell Sofi about the party.",
+          "answers": ["won't", "will not"],
+          "hint": "Es una promesa negativa.",
+          "explanation": "Las promesas usan will; en negativo, won't + verbo base: I won't tell Sofi."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (no tenemos que llevar platos): We ___ have to bring plates.",
+          "answers": ["don't", "do not"],
+          "hint": "Negativo de have to con we.",
+          "explanation": "Con I / you / we / they el negativo es don't have to: We don't have to bring plates (no es necesario)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Tienes que pagar el refresco?):",
+          "words": ["pay", "have", "the", "do", "soda", "to", "for", "you"],
+          "answer": "Do you have to pay for the soda",
+          "explanation": "Pregunta con have to: Do + sujeto + have to + verbo base. Pay for = pagar algo."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Creo que va a ser una gran fiesta):",
+          "words": ["party", "it", "a", "think", "be", "great", "I", "will"],
+          "answer": "I think it will be a great party",
+          "explanation": "Es una opinión sin evidencia (I think…), por eso se usa will: I think it will be…"
+        },
+        {
+          "type": "choice",
+          "prompt": "Ya compraste los boletos ayer. ¿Cuál oración suena MÁS natural?",
+          "options": ["I'll go to the football game on Sunday.", "I'm going to go to the football game on Sunday.", "I going to go to the football game on Sunday."],
+          "answer": 1,
+          "explanation": "Como el plan ya está decidido, lo más natural es going to. \"I'll go\" no es un error de gramática, pero suena como si lo decidieras en ese momento. La tercera sí está mal: le falta am."
+        }
+      ]
+    }
+  ]
+}

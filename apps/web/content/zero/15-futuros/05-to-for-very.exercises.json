@@ -1,0 +1,149 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce cuándo usar to, for, very, very much y too en oraciones sencillas.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: I walk ___ school every day.",
+          "options": ["for", "to", "at"],
+          "answer": 1,
+          "explanation": "Con verbos de movimiento (walk, go) y un lugar se usa to: walk to school."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta?",
+          "options": ["I very like math.", "I like very much math.", "I like math very much."],
+          "answer": 2,
+          "explanation": "Very much va al FINAL, después de lo que te gusta. Very solo no va con verbos."
+        },
+        {
+          "type": "choice",
+          "prompt": "This phone is ___ expensive — I can't buy it. (demasiado)",
+          "options": ["too", "very", "a lot"],
+          "answer": 0,
+          "explanation": "Too + adjetivo = demasiado: hay un problema (no lo puedo comprar)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta: This cake is ___ my grandma. (para)",
+          "options": ["to", "for", "at"],
+          "answer": 1,
+          "explanation": "Para + persona que se beneficia = for: a cake for my grandma."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (¡Muchas gracias!): Thank you very ___!",
+          "answers": ["much"],
+          "hint": "Es una frase fija para agradecer.",
+          "explanation": "Thank you very much = muchas gracias. Very much siempre va al final."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (Te espero en la parada): I'll wait ___ you at the bus stop.",
+          "answers": ["for"],
+          "hint": "Wait siempre necesita una preposición.",
+          "explanation": "Wait siempre lleva for antes de lo que esperas: wait for you, wait for the bus."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Usa las palabras puente para hablar de tu escuela, tus gustos y tus planes.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa (Voy a la biblioteca para estudiar): I'm going to the library ___ study.",
+          "answers": ["to"],
+          "hint": "Para + verbo.",
+          "explanation": "Para + verbo = to + verbo. Nunca for to study."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (A mí también me gusta la música): I like music ___.",
+          "answers": ["too"],
+          "hint": "También, al final de la oración.",
+          "explanation": "Too = también va al final de la oración: I like music too."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (Ayer estudié dos horas): Yesterday I studied ___ two hours.",
+          "answers": ["for"],
+          "hint": "¿Cuánto tiempo?",
+          "explanation": "Para decir cuánto tiempo dura algo se usa for: for two hours."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Me gusta mucho mi escuela):",
+          "words": ["much", "I", "school", "very", "like", "my"],
+          "answer": "I like my school very much",
+          "explanation": "Sujeto + verbo + lo que te gusta + very much al final."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Voy a hablar con la maestra):",
+          "words": ["talk", "going", "the", "I'm", "to", "teacher", "to"],
+          "answer": "I'm going to talk to the teacher",
+          "explanation": "Dos to diferentes: going to + verbo (plan) y talk to + persona (a quién)."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu amigo dice: \"The Wi-Fi is too slow.\" ¿Qué significa?",
+          "options": ["El wifi es muy rápido.", "El wifi también es lento.", "El wifi es demasiado lento (es un problema)."],
+          "answer": 2,
+          "explanation": "Too antes del adjetivo = demasiado. El too de 'también' va al final de la oración."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Produce oraciones completas combinando to, for, very much, a lot, too, really y so.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (No me gusta mucho la química): I don't like chemistry ___.",
+          "answers": ["very much", "a lot"],
+          "explanation": "Mucho con un verbo = very much o a lot, siempre al final de la oración."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Ella de verdad quiere un celular nuevo): She ___ wants a new cell phone.",
+          "answers": ["really"],
+          "hint": "Intensificador que va antes del verbo.",
+          "explanation": "Really va antes del verbo principal: She really wants…"
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Le voy a mandar la contraseña a Diego): I'm going to send the password ___ Diego.",
+          "answers": ["to"],
+          "explanation": "Send + cosa + to + la persona que la recibe."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Tenemos que estudiar para el examen de historia):",
+          "words": ["for", "to", "exam", "study", "We", "the", "have", "history"],
+          "answer": "We have to study for the history exam",
+          "explanation": "Have to + verbo (obligación) y for + evento (para qué)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¡Este examen de geografía es tan difícil!):",
+          "words": ["so", "exam", "This", "difficult", "geography", "is"],
+          "answer": "This geography exam is so difficult",
+          "explanation": "So + adjetivo da emoción: so difficult = tan difícil."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿En cuál oración too significa 'también'?",
+          "options": ["The charger is too big.", "I'm going to the party too.", "It's too late for the bus."],
+          "answer": 1,
+          "explanation": "Too al final de la oración = también. Too + adjetivo = demasiado."
+        }
+      ]
+    }
+  ]
+}

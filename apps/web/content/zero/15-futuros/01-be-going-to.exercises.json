@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce que el be de be going to es am / is / are y que después va el verbo base.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el TO BE correcto: She ___ going to clean the bathroom.",
+          "options": ["am", "is", "are"],
+          "answer": 1,
+          "explanation": "Con she el TO BE es is, igual que en She is happy. Be going to usa el mismo TO BE de siempre."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta: We're going to ___ the plants on Sunday.",
+          "options": ["watering", "waters", "water"],
+          "answer": 2,
+          "explanation": "Después de going to siempre va el verbo base: sin -ing y sin -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "En la estructura \"be going to\", ¿qué es \"be\"?",
+          "options": ["El mismo verbo TO BE: se dice am, is o are", "Una palabra nueva que siempre se dice be", "El verbo ir en pasado"],
+          "answer": 0,
+          "explanation": "Be es solo el nombre de diccionario del TO BE. Al hablar se convierte en am, is o are: I am going to…, he is going to…"
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración habla de un PLAN (no de ir a un lugar ahorita)?",
+          "options": ["I'm going to the Oxxo.", "I'm going to sweep the floor.", "I'm going to school."],
+          "answer": 1,
+          "explanation": "Going to + verbo (sweep) es un plan. Going to + lugar (the Oxxo, school) es presente continuo de go: te estás moviendo."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el TO BE (yo voy a tender mi cama): I ___ going to make my bed.",
+          "answers": ["am"],
+          "hint": "Es el TO BE que va con I.",
+          "explanation": "Con I el TO BE es am: I am going to make my bed (I'm going to…)."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el verbo base (mi papá va a lavar el carro): My dad is going to ___ the car.",
+          "answers": ["wash"],
+          "hint": "Lavar = wash. Sin -s y sin -ing.",
+          "explanation": "Aunque el sujeto sea my dad (he), después de going to el verbo va en base: wash."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Niega, pregunta y contesta sobre planes de fin de semana con going to.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la negación (yo no voy a barrer el piso hoy): ___ going to sweep the floor today.",
+          "answers": ["I'm not", "I am not"],
+          "hint": "Niega como con el TO BE del Módulo 3.",
+          "explanation": "La negación es TO BE + not: I'm not going to… Nunca \"I don't going to\"."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta (¿tu hermana va a lavar los trastes?): ___ your sister going to wash the dishes?",
+          "answers": ["Is"],
+          "hint": "Pon el TO BE antes del sujeto.",
+          "explanation": "Para preguntar, el TO BE va antes del sujeto: Is your sister going to…? No se usa do / does."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la respuesta corta: — Are you going to visit your grandparents? — Yes, I ___.",
+          "answers": ["am"],
+          "hint": "En el sí no se contrae.",
+          "explanation": "La respuesta corta repite solo el TO BE, sin contraer: Yes, I am. (No: \"Yes, I'm.\")"
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mis papás van a ir al tianguis):",
+          "words": ["tianguis", "going", "my", "to", "the", "are", "parents", "go", "to"],
+          "answer": "my parents are going to go to the tianguis",
+          "explanation": "Para un plan de ir a un lugar se dice going to go to + lugar. El primer to es de going to; el segundo es el to de dirección."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Vas a sacar la basura?):",
+          "words": ["trash", "take", "you", "the", "going", "out", "are", "to"],
+          "answer": "are you going to take out the trash",
+          "explanation": "Pregunta de sí/no: Are + sujeto + going to + verbo base. Take out the trash = sacar la basura."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la mejor respuesta: — Is your brother going to help you on Saturday? — …",
+          "options": ["No, he doesn't.", "No, he not going.", "No, he isn't."],
+          "answer": 2,
+          "explanation": "La pregunta usa is, así que la respuesta corta usa is: No, he isn't. Doesn't es para el presente simple."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Distingue going to + lugar de going to + verbo, reconoce gonna y arma oraciones completas.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa con el verbo base (voy a ir al mercado el sábado): I'm going to ___ to the market on Saturday.",
+          "answers": ["go"],
+          "hint": "Ir = go. Sí, aparece dos veces.",
+          "explanation": "Si el plan es ir a un lugar: going to go to + lugar. I'm going to go to the market."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la negación (mi mamá no va a cocinar el domingo): My mom ___ going to cook on Sunday.",
+          "answers": ["isn't", "is not", "'s not"],
+          "hint": "My mom = she.",
+          "explanation": "Con my mom (she) la negación es is not / isn't: My mom isn't going to cook."
+        },
+        {
+          "type": "fill",
+          "prompt": "Escuchas \"I'm gonna clean my room\". Escríbelo correctamente: I'm ___ clean my room.",
+          "answers": ["going to"],
+          "hint": "Gonna solo se escucha; no se escribe.",
+          "explanation": "Gonna es going to dicho rápido. En tus tareas siempre escribe going to: I'm going to clean my room."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi primo y yo no vamos a jugar videojuegos):",
+          "words": ["games", "aren't", "my", "play", "and", "going", "cousin", "to", "I", "video"],
+          "answer": "my cousin and I aren't going to play video games",
+          "explanation": "My cousin and I = we, por eso el TO BE es are: aren't going to + verbo base."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Tus amigos van a ver una película el domingo?):",
+          "words": ["movie", "your", "on", "watch", "are", "going", "a", "Sunday", "friends", "to"],
+          "answer": "Are your friends going to watch a movie on Sunday",
+          "explanation": "Are + sujeto (your friends) + going to + verbo base + resto. On + día de la semana."
+        },
+        {
+          "type": "choice",
+          "prompt": "Lee: \"I'm going to the tianguis. I'm going to buy fruit.\" ¿Qué significa?",
+          "options": ["Voy al tianguis (ahorita). Voy a comprar fruta (plan).", "Fui al tianguis. Compré fruta.", "Siempre voy al tianguis. Siempre compro fruta."],
+          "answer": 0,
+          "explanation": "Misma forma, distinto final: going to + lugar = me muevo ahorita (presente continuo); going to + verbo = plan."
+        }
+      ]
+    }
+  ]
+}

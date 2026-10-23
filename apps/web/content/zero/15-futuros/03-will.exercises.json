@@ -1,0 +1,151 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce la forma de will, won't y el futuro del verbo BE (will be / there will be).",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige la forma correcta (ella te va a llamar mañana): She ___ you tomorrow.",
+          "options": ["will calls", "will call", "wills call"],
+          "answer": 1,
+          "explanation": "Will es igual para todos los sujetos y va con el verbo base, sin -s: She will call."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta (mañana voy a estar cansado): I ___ tired tomorrow.",
+          "options": ["will", "will am", "will be"],
+          "answer": 2,
+          "explanation": "Tired es un adjetivo, así que necesita BE. Después de will, BE siempre es be: I will be tired."
+        },
+        {
+          "type": "choice",
+          "prompt": "Respuesta corta: Will you be at school tomorrow? — Yes, ___.",
+          "options": ["I will", "I'll", "I be"],
+          "answer": 0,
+          "explanation": "En la respuesta corta afirmativa no se contrae: Yes, I will. (nunca Yes, I'll)."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cómo se dice «Habrá un examen»?",
+          "options": ["There will have a test.", "There will be a test.", "There will is a test."],
+          "answer": 1,
+          "explanation": "Habrá / va a haber = there will be. Have no se usa para «haber»."
+        },
+        {
+          "type": "fill",
+          "prompt": "Alguien toca la puerta (¡yo abro!): ___ open it!",
+          "answers": ["I'll", "I will"],
+          "hint": "Decisión en el momento.",
+          "explanation": "Una decisión que tomas en ese instante usa will: I'll open it!"
+        },
+        {
+          "type": "fill",
+          "prompt": "Promesa (no voy a llegar tarde, lo prometo): I ___ be late, I promise.",
+          "answers": ["won't", "will not"],
+          "hint": "Negativo de will.",
+          "explanation": "El negativo de will es won't (will not) + verbo base: I won't be late."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Ofrece ayuda, pregunta con Will you be…? y da tu opinión sobre el clima.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Opinión (creo que mañana va a estar nublado): I think it ___ cloudy tomorrow.",
+          "answers": ["will be", "'ll be", "is going to be"],
+          "hint": "Necesitas will + el verbo BE.",
+          "explanation": "Para predecir el clima con tu opinión: I think it will be cloudy. Cloudy es adjetivo, por eso va be."
+        },
+        {
+          "type": "fill",
+          "prompt": "Pregunta (¿vas a estar listo a las 7?): ___ you be ready at 7?",
+          "answers": ["Will"],
+          "hint": "La pregunta empieza con el auxiliar del futuro.",
+          "explanation": "Preguntas con will: Will + sujeto + be + adjetivo: Will you be ready?"
+        },
+        {
+          "type": "fill",
+          "prompt": "Oferta (tu mamá trae muchas bolsas del tianguis): Mom, I ___ carry the bags for you.",
+          "answers": ["will", "'ll"],
+          "hint": "Te ofreces a ayudar en ese momento.",
+          "explanation": "Las ofertas espontáneas usan will: I will (I'll) carry the bags."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Probablemente va a hacer viento mañana):",
+          "words": ["windy", "probably", "It", "tomorrow", "be", "will"],
+          "answer": "It will probably be windy tomorrow",
+          "explanation": "Probably va después de will y antes de be: It will probably be windy."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No voy a olvidar tu cumpleaños):",
+          "words": ["birthday", "forget", "I", "your", "won't"],
+          "answer": "I won't forget your birthday",
+          "explanation": "Promesa negativa: won't + verbo base, sin to."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu amigo dice: «I'm very hungry.» ¿Cómo le ofreces algo de comer?",
+          "options": ["I make you a sandwich.", "I'm make you a sandwich.", "I'll make you a sandwich."],
+          "answer": 2,
+          "explanation": "En español decimos «te hago un sándwich» en presente, pero en inglés una oferta del momento usa will: I'll make you a sandwich."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Domina there will be, going to be, respuestas cortas y predicciones con I don't think / maybe.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Pregunta (¿va a haber comida en la fiesta?): Will ___ be food at the party?",
+          "answers": ["there"],
+          "hint": "Va a haber = there will be.",
+          "explanation": "En la pregunta, will va primero: Will there be…? — Yes, there will. / No, there won't."
+        },
+        {
+          "type": "fill",
+          "prompt": "Con going to (mi hermano va a estar en el estadio el domingo): My brother ___ at the stadium on Sunday.",
+          "answers": ["is going to be", "'s going to be", "will be"],
+          "hint": "Usa is + going to + be.",
+          "explanation": "El futuro de BE con going to es am/is/are + going to + be: My brother is going to be at the stadium."
+        },
+        {
+          "type": "fill",
+          "prompt": "Respuesta corta negativa: Will there be classes on Monday? — No, there ___.",
+          "answers": ["won't", "will not"],
+          "hint": "Negativo corto de will.",
+          "explanation": "La respuesta corta repite there + won't: No, there won't."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (No creo que vaya a llover esta noche):",
+          "words": ["think", "rain", "I", "tonight", "it", "don't", "will"],
+          "answer": "I don't think it will rain tonight",
+          "explanation": "Para una predicción negativa lo más natural es negar think: I don't think it will rain."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Tus papás van a estar preocupados?):",
+          "words": ["be", "parents", "Will", "worried", "your"],
+          "answer": "Will your parents be worried",
+          "explanation": "Pregunta con el futuro de BE: Will + sujeto + be + adjetivo."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Cuál oración es correcta (tal vez mañana va a estar soleado)?",
+          "options": ["Maybe it will be sunny tomorrow.", "Maybe it will sunny tomorrow.", "Maybe will be sunny tomorrow."],
+          "answer": 0,
+          "explanation": "Maybe va al inicio, el sujeto it es obligatorio y sunny necesita be: Maybe it will be sunny tomorrow."
+        }
+      ]
+    }
+  ]
+}

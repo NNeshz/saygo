@@ -1,0 +1,155 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Reconoce and, but, or, la secuencia first/then, la posición de also y el vocabulario de transporte y casa.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Elige el conector correcto (contraste): I like football ___ I don't like basketball.",
+          "options": ["and", "but", "so"],
+          "answer": 1,
+          "explanation": "But une dos ideas que contrastan: me gusta uno, pero no el otro."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la opción correcta (en camión): I'm going to go to the mall ___.",
+          "options": ["by bus", "in bus", "by the bus"],
+          "answer": 0,
+          "explanation": "Para el transporte se usa by + vehículo, sin artículo: by bus, by metro, by car."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta (yo también camino a la escuela):",
+          "options": ["I walk also to school.", "I walk to also school.", "I also walk to school."],
+          "answer": 2,
+          "explanation": "Also va antes del verbo principal, igual que always: I also walk."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué palabra indica el PRIMER paso de un plan?",
+          "options": ["Finally", "First", "After that"],
+          "answer": 1,
+          "explanation": "El orden es First → Then → After that → Finally."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con el cuarto de la casa (cocina): My mom is cooking in the ___.",
+          "answers": ["kitchen"],
+          "hint": "Es el cuarto donde se cocina.",
+          "explanation": "Kitchen = cocina. Living room = sala, dining room = comedor."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (a pie): My school is near, so I go on ___.",
+          "answers": ["foot"],
+          "hint": "A pie no usa by.",
+          "explanation": "A pie se dice on foot, no by foot."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Da razones con because, resultados con so y ubica tus planes con before y after.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa con because o so (resultado): It's very hot, ___ I'm going to drink some water.",
+          "answers": ["so"],
+          "hint": "Lo que viene después es la consecuencia.",
+          "explanation": "So introduce el resultado: hace calor, así que voy a tomar agua."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con because o so (causa): I'm going to stay home tonight ___ I have to study for the exam.",
+          "answers": ["because"],
+          "hint": "Lo que viene después es la razón.",
+          "explanation": "Because introduce la causa: me quedo en casa porque tengo que estudiar."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (antes de la cena): I'm going to do my homework ___ dinner.",
+          "answers": ["before"],
+          "hint": "Antes de = ?",
+          "explanation": "Before + sustantivo = antes de: before dinner. No lleva of."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Después de la escuela, voy a tomar el metro):",
+          "words": ["metro", "the", "going", "After", "take", "I'm", "school", "to"],
+          "answer": "After school I'm going to take the metro",
+          "explanation": "After school va al inicio (después de la escuela) y luego el plan con going to."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Mi hermano también va a venir):",
+          "words": ["going", "also", "My", "come", "is", "to", "brother"],
+          "answer": "My brother is also going to come",
+          "explanation": "Con going to, also va después de be: is also going to."
+        },
+        {
+          "type": "choice",
+          "prompt": "¿Qué significa «get off the bus»?",
+          "options": ["subirse al camión", "esperar el camión", "bajarse del camión"],
+          "answer": 2,
+          "explanation": "Get off = bajarse; get on = subirse."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Cuenta planes en secuencia, elige also o too y construye oraciones con causa y resultado.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la secuencia (después de eso): First, I'm going to wash the dishes. ___, I'm going to clean the living room.",
+          "answers": ["After that", "Then"],
+          "hint": "Dos palabras: después de eso.",
+          "explanation": "After that = después de eso. After solo no basta: necesita that."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa con also o too (al final): My cousins are going to come to the party ___.",
+          "answers": ["too"],
+          "hint": "La palabra va al final de la oración.",
+          "explanation": "Al final de la oración, también = too."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (sujeto obligatorio): I'm going to wear a jacket because ___ very cold today.",
+          "answers": ["it's", "it is"],
+          "hint": "Después de because siempre va un sujeto.",
+          "explanation": "En inglés no se omite el sujeto: because it's very cold."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Voy a tomar el camión porque es tarde):",
+          "words": ["late", "take", "because", "bus", "I'm", "the", "it's", "going", "to"],
+          "answer": "I'm going to take the bus because it's late",
+          "explanation": "Resultado + because + causa con sujeto (it's late)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Estoy cansado, así que me voy a ir a la cama temprano):",
+          "words": ["early", "so", "bed", "tired", "go", "I'm", "to", "going", "I'm", "to"],
+          "answer": "I'm tired so I'm going to go to bed early",
+          "explanation": "Causa + so + resultado: estoy cansado, así que voy a dormirme temprano."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige la oración correcta:",
+          "options": [
+            "After of lunch, I'm going to walk the dog.",
+            "I'm going to walk also the dog after lunch.",
+            "After lunch, I'm also going to walk the dog."
+          ],
+          "answer": 2,
+          "explanation": "After + sustantivo sin of, y also después de be en going to: I'm also going to…"
+        }
+      ]
+    }
+  ]
+}

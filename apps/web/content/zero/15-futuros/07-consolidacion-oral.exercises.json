@@ -1,0 +1,148 @@
+{
+  "tiers": [
+    {
+      "id": "basico",
+      "title": "Básico — Las bases",
+      "description": "Repasa las formas de going to, will y el futuro de BE, más palabras puente y conectores básicos.",
+      "exercises": [
+        {
+          "type": "choice",
+          "prompt": "Tu familia ya decidió el viaje. Elige la forma correcta: Next summer we ___ to Guanajuato.",
+          "options": ["are going to travel", "will traveling", "going to travel"],
+          "answer": 0,
+          "explanation": "Un plan decidido usa am/is/are + going to + verbo base. Sin el TO BE (are) la oración está incompleta."
+        },
+        {
+          "type": "choice",
+          "prompt": "Elige el conector de causa: I'm going to stay home ___ it's raining.",
+          "options": ["so", "because", "but"],
+          "answer": 1,
+          "explanation": "Because explica la causa (¿por qué?). So expresa el resultado y but el contraste."
+        },
+        {
+          "type": "choice",
+          "prompt": "— The bus isn't coming! — Decides en el momento tomar un taxi. ¿Qué dices?",
+          "options": ["OK, I'm take a taxi.", "OK, I will takes a taxi.", "OK, I'll take a taxi."],
+          "answer": 2,
+          "explanation": "Una decisión en el momento usa will ('ll) + verbo base, sin -s."
+        },
+        {
+          "type": "choice",
+          "prompt": "Traduce (Mañana voy a estar muy ocupado): Tomorrow I ___ very busy.",
+          "options": ["will", "will be", "am be"],
+          "answer": 1,
+          "explanation": "El futuro de BE con will es will be: I'll be busy. Con going to: I'm going to be busy."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (Vamos a ir a la playa en julio): We're going to go ___ the beach in July.",
+          "answers": ["to"],
+          "hint": "Palabra puente de dirección.",
+          "explanation": "Para decir el destino se usa to: go to the beach. Solo home y there van sin to."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la secuencia: ___, we're going to have breakfast. Then, we're going to go to the market.",
+          "answers": ["First"],
+          "hint": "Es el primer paso del plan.",
+          "explanation": "First abre la secuencia: first → then → after that → finally."
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "title": "Medio — Comunicación",
+      "description": "Haz y responde preguntas sobre planes de vacaciones con conectores, promesas e invitaciones.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Completa la promesa (Te voy a mandar fotos, lo prometo): ___ send you photos, I promise!",
+          "answers": ["I'll", "I will"],
+          "hint": "Es una promesa.",
+          "explanation": "Las promesas usan will: I'll send you photos."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa la pregunta del público (¿Cómo vas a viajar?): How ___ you going to travel?",
+          "answers": ["are"],
+          "explanation": "Pregunta WH- con going to: WH- + am/is/are + sujeto + going to + verbo base."
+        },
+        {
+          "type": "fill",
+          "prompt": "Completa (Me gusta mucho la playa): I like the beach ___.",
+          "answers": ["very much", "a lot"],
+          "hint": "Va al final de la oración.",
+          "explanation": "Very much y a lot van al final: I like the beach very much / a lot. Nunca \"I very like\"."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Vamos a ir en camión porque es más barato):",
+          "words": ["because", "go", "We're", "cheaper", "by", "to", "it's", "going", "bus"],
+          "answer": "We're going to go by bus because it's cheaper",
+          "explanation": "Plan con going to + transporte (by bus) + razón con because."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Después de eso, voy a visitar a mi tía):",
+          "words": ["visit", "After", "aunt", "I'm", "that", "to", "my", "going"],
+          "answer": "After that I'm going to visit my aunt",
+          "explanation": "After that marca el siguiente paso de tu plan; luego va la oración con going to."
+        },
+        {
+          "type": "choice",
+          "prompt": "— Do you want to come to the beach with us on Saturday? Elige la mejor respuesta para rechazar:",
+          "options": ["Sorry, I can't. I have help my grandma.", "Sorry, I don't can. I have to help my grandma.", "Sorry, I can't. I have to help my grandma."],
+          "answer": 2,
+          "explanation": "Para rechazar: Sorry, I can't + la razón con have to + verbo base."
+        }
+      ]
+    },
+    {
+      "id": "avanzado",
+      "title": "Avanzado — Dominio total",
+      "description": "Combina going to, will, futuro de BE, have to, also y conectores como en tu presentación final.",
+      "exercises": [
+        {
+          "type": "fill",
+          "prompt": "Traduce (Va a haber mucha gente en la playa): There ___ a lot of people at the beach.",
+          "answers": ["will be", "is going to be"],
+          "explanation": "El futuro de there is/are es there will be o there is going to be."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (También voy a visitar el museo): I'm ___ going to visit the museum.",
+          "answers": ["also"],
+          "hint": "Va después de am / is / are.",
+          "explanation": "Also va después del verbo BE: I'm also going to… Al final de la oración se usa too."
+        },
+        {
+          "type": "fill",
+          "prompt": "Traduce (Mis primos no van a venir porque tienen que estudiar): My cousins aren't going to come because they ___ study.",
+          "answers": ["have to"],
+          "explanation": "Para una obligación se usa have to + verbo base (has to con he/she/it)."
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (¿Con quién vas a ir a la playa?):",
+          "words": ["beach", "you", "with", "Who", "go", "the", "going", "are", "to", "to"],
+          "answer": "Who are you going to go to the beach with",
+          "explanation": "Pregunta WH- con going to; la preposición with va al final: Who… with?"
+        },
+        {
+          "type": "order",
+          "prompt": "Ordena las palabras (Creo que el viaje va a ser muy interesante):",
+          "words": ["interesting", "think", "be", "the", "I", "very", "will", "trip"],
+          "answer": "I think the trip will be very interesting",
+          "explanation": "Una opinión sobre el futuro usa I think + will be; very va antes del adjetivo."
+        },
+        {
+          "type": "choice",
+          "prompt": "Tu familia compró los boletos hace un mes. En tu presentación, ¿cuál suena más natural?",
+          "options": ["We go to Cancún in July.", "We'll go to Cancún in July.", "We're going to go to Cancún in July."],
+          "answer": 2,
+          "explanation": "Un plan decidido antes suena más natural con going to. We'll go no es un error de gramática, pero suena a decisión del momento."
+        }
+      ]
+    }
+  ]
+}
