@@ -122,3 +122,43 @@ Instrucciones de formato:
 - Errores siempre marcados con ❌, correcciones con ✓
 - Notas importantes con > blockquote
 - Dame la respuesta aquí en el chat para copiar y pegar, sin crear archivos
+---
+---
+
+# Plantilla de submódulo
+
+Cada módulo se divide en **submódulos de ~90 min**. Los temas, el vocabulario del entorno y las palabras puente de cada submódulo están en `docs/zero/plan-de-contenido.md`.
+
+**Dónde va cada archivo:** `apps/web/content/{nivel}/NN-slug/` con un `_meta.json` (`title`, `description`, `order`, `hours`) y, por submódulo, `0N-slug.md` + `0N-slug.exercises.json`.
+
+**Frontmatter de cada submódulo:**
+
+    title: "…"
+    description: "…"
+    order: N
+    submodule: "15.N"
+    duration: "90 min"
+    objectives:
+      - "Puedo … (concreto y medible)"
+
+**Secciones, en este orden:**
+
+0. **Objetivos y puente** — "Al terminar esta sesión puedo:" + tabla *Lo que ya sabes | Dónde lo viste | Cómo se conecta hoy* (citar módulos concretos).
+1. ¿Para qué sirve esto? (máx. 4 líneas)
+2. Estructura y reglas (⚠️ error frecuente al pie de cada regla)
+3. Vocabulario clave — siempre con una tabla **"Vocabulario de mi entorno"** (Inglés / Español / Pronunciación / Ejemplo) del dominio asignado
+4. Ejemplos en contexto (8–10, con traducción)
+5. Tabla de errores comunes (≥6). Si algo es correcto pero menos natural, **no** se marca con ❌.
+6. Comparación o contraste (si aplica)
+7. Diálogo modelo (8–12 líneas + versión en español)
+8. Texto modelo (80–120 palabras + traducción)
+9. **¡A hablar!** — tarea comunicativa: pasos, tabla de frases para empezar, ejemplo modelo, reto extra
+10. Ejercicios de práctica (completa / corrige el error — cada oración con **exactamente un error real** / traduce), con respuestas
+11. Resumen visual (máx. 10 filas)
+12. Checklist del alumno (8–10 líneas "[ ] Puedo …")
+
+**Regla de oro:** en ejemplos, diálogos, textos y ejercicios solo se usa lo que el alumno ya aprendió (módulos y submódulos anteriores). Si una frase natural necesita algo no enseñado, cámbiala.
+
+**Formato:** Markdown sin bloques de código (usa tablas, listas, **negritas**, > citas). Contextos mexicanos apropiados para adolescentes (nada de alcohol ni temas de adultos).
+
+**Ejercicios (.exercises.json):** 3 niveles (`basico`, `medio`, `avanzado`) × 6 ejercicios; básico 4 choice + 2 fill, medio y avanzado 3 fill + 2 order + 1 choice. Validar con `bun apps/web/scripts/validate-exercises.ts`.

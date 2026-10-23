@@ -478,33 +478,52 @@
 
 ### Módulo 15 — Futuros: Going to y Will
 
-*Tiempo y planificación · 8–10 horas*
+*Tiempo y planificación + consolidación para hablar · 10–12 horas · 7 submódulos de 90 min*
 
-**BE GOING TO**
+**15.1 — Be going to: mis planes**
 
-- I'm going to study medicine (plan personal)
-- Look! It's going to rain (evidencia visual)
-- Negativo: I'm not going to... / He isn't going to...
-- Interrogativo: Are you going to...? / Is she going to...?
+- El *be* de *be going to* = am / is / are (Módulos 2–3); misma forma que el presente continuo (Módulo 10)
+- Afirmativo, negativo, preguntas sí/no y respuestas cortas · *gonna* (solo reconocer)
+- I'm going to school (lugar, ahora) vs I'm going to study (plan)
+- Vocabulario: quehaceres de la casa y planes de fin de semana
 
-**WILL**
+**15.2 — Planes con fecha y lugar**
 
-- I'll get it! (decisión espontánea) / I'll help you (oferta)
-- Promesas: I will (I won't) forget
-- Negativo: I won't tell anyone — Interrogativo: Will you...? / Will he...?
+- tonight, tomorrow, this weekend, next week/month/year, the day after tomorrow, in two days, soon
+- at / on / in con planes (on Saturday at 5)
+- WH- con going to: What / Where / When / Who / How… are you going to…? · Who is going to…?
+- Predicción con evidencia: Look! It's going to rain
+- Vocabulario: lugares de la ciudad
 
-**Contraste going to vs will**
+**15.3 — Will y el futuro de BE**
 
-- Plan decidido antes (going to): I'm going to buy a car
-- Decisión en el momento (will): I'll take the blue one
+- Decisión en el momento (I'll get it!), oferta (I'll help you), promesa (I won't forget)
+- Predicción de opinión: I think / I don't think / maybe / probably
+- Futuro de BE: I'll be / It will be / There will be / Will you be…? · I'm going to be
+- Vocabulario: clima y sentimientos
 
-**Expresiones de tiempo futuro**
+**15.4 — Going to vs Will + invitar**
 
-- tomorrow, tonight, next week/month/year, soon, in two days, the day after tomorrow
+- Plan decidido antes (going to) vs decisión en el momento (will) — will para un plan no es error, solo menos natural
+- Do you want to…? / Let's… / Shall I…? / Shall we…? (reconocer)
+- Aceptar y rechazar: Sure! / Sorry, I can't. I have to… — *have to* como bloque fijo
+- Vocabulario: comida y bebida para una fiesta, compras
 
-**Shall I / Shall we — sugerencias formales**
+**15.5 — Palabras puente: to, for, very, very much**
 
-- Shall I open the window? / Shall we go to the cinema?
+- to (dirección, destinatario, to + verbo) · for (para quién, para qué, duración)
+- very + adjetivo · very much / a lot al final (I like it very much) · too (demasiado) vs too (también) · really · so + adjetivo
+- Vocabulario: materias escolares y tecnología
+
+**15.6 — Conectores para hablar más**
+
+- and, but, or, because, so (en presente y futuro)
+- first, then, after that, finally · also vs too · before / after + sustantivo
+- Vocabulario: transporte y cuartos de la casa
+
+**15.7 — Consolidación oral**
+
+- Presentación "My plans for the vacation" (1–2 min) con rúbrica de evaluación oral
 
 ---
 
@@ -540,7 +559,7 @@
 **Fechas y tiempo completo**
 
 - Ordinales: 1st, 2nd, 3rd, 4th... 31st
-- Today is Monday, April 28th, 2026 / My birthday is on May 5th
+- Today is Tuesday, April 28th, 2026 / My birthday is on May 5th
 
 **Pronombres posesivos**
 
